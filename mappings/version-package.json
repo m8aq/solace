@@ -1,0 +1,131 @@
+{
+  "classMappings": [
+    {
+      "name": "Actor",
+      "obfName": "du",
+      "fields": [
+        {
+          "name": "pathLength",
+          "obfName": "cc",
+          "typeDesc": "I",
+          "isStatic": false
+        }
+      ],
+      "methods": []
+    },
+    {
+      "name": "TileItem",
+      "obfName": "dj",
+      "fields": [
+        {
+          "name": "worldViewId",
+          "obfName": "ot",
+          "typeDesc": "I",
+          "isStatic": false
+        }
+      ],
+      "methods": []
+    },
+    {
+      "name": "Scene",
+      "obfName": "eb",
+      "fields": [
+        {
+          "name": "selectedX",
+          "obfName": "bu",
+          "typeDesc": "I",
+          "isStatic": false
+        },
+        {
+          "name": "selectedY",
+          "obfName": "bk",
+          "typeDesc": "I",
+          "isStatic": false
+        },
+        {
+          "name": "viewportWalking",
+          "obfName": "bw",
+          "typeDesc": "Z",
+          "isStatic": false
+        }
+      ],
+      "methods": []
+    },
+    {
+      "name": "Widgets",
+      "obfName": "ll",
+      "fields": [
+        {
+          "name": "Widget_interfaceComponents",
+          "obfName": "ap",
+          "typeDesc": "[[Llp;",
+          "isStatic": false
+        }
+      ],
+      "methods": []
+    }
+  ],
+  "staticFields": [
+    {
+      "name": "loginIndex",
+      "obfName": "cr",
+      "owner": "bx",
+      "typeDesc": "I"
+    },
+    {
+      "name": "displayName",
+      "obfName": "cl",
+      "owner": "bx",
+      "typeDesc": "Ljava/lang/String;"
+    },
+    {
+      "name": "characterId",
+      "obfName": "lx",
+      "owner": "lo",
+      "typeDesc": "Ljava/lang/String;"
+    },
+    {
+      "name": "sessionId",
+      "obfName": "ln",
+      "owner": "et",
+      "typeDesc": "Ljava/lang/String;"
+    },
+    {
+      "name": "isMenuOpen",
+      "obfName": "nu",
+      "owner": "client",
+      "typeDesc": "Z"
+    },
+    {
+      "name": "widgets",
+      "obfName": "ch",
+      "owner": "xz",
+      "typeDesc": "Lus;"
+    },
+    {
+      "name": "loginMode",
+      "obfName": "da",
+      "owner": "client",
+      "typeDesc": "Lzd;"
+    },
+    {
+      "name": "normalLoginMode",
+      "obfName": "ag",
+      "owner": "zd",
+      "typeDesc": "Lzd;"
+    },
+    {
+      "name": "oAuthLoginMode",
+      "obfName": "af",
+      "owner": "zd",
+      "typeDesc": "Lzd;"
+    }
+  ],
+  "staticMethods": [],
+  "garbage": {
+    "Actor.pathLength": "1538626549",
+    "loginIndex": "-505223025"
+  },
+  "runeLiteVersion": "1.12.33",
+  "runeLiteCommit": "f53b939"
+}

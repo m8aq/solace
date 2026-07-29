@@ -1,0 +1,572 @@
+[
+ {
+  "name": "Thick Skin",
+  "page": "Thick Skin",
+  "isMembers": false,
+  "level": 1,
+  "drain": 1,
+  "effect": "Increases your defence by 5%. (Drain: 1pt per 36s)",
+  "image": "Thick Skin.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Burst of Strength",
+  "page": "Burst of Strength",
+  "isMembers": false,
+  "level": 4,
+  "drain": 1,
+  "effect": "Increases your strength by 5%. (Drain: 1pt per 36s)",
+  "image": "Burst of Strength.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Clarity of Thought",
+  "page": "Clarity of Thought",
+  "isMembers": false,
+  "level": 7,
+  "drain": 1,
+  "effect": "Increases your attack by 5%. (Drain: 1pt per 36s)",
+  "image": "Clarity of Thought.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Sharp Eye",
+  "page": "Sharp Eye",
+  "isMembers": false,
+  "level": 8,
+  "drain": 1,
+  "effect": "Increases your Ranging by 5%. (Drain: 1pt per 36s)",
+  "image": "Sharp Eye.png",
+  "release": "22 August 2006"
+ },
+ {
+  "name": "Mystic Will",
+  "page": "Mystic Will",
+  "isMembers": false,
+  "level": 9,
+  "drain": 1,
+  "effect": "Increases your magical attack and defence by 5%. (Drain: 1pt per 36s)",
+  "image": "Mystic Will.png",
+  "release": "22 August 2006"
+ },
+ {
+  "name": "Rock Skin",
+  "page": "Rock Skin",
+  "isMembers": false,
+  "level": 10,
+  "drain": 10,
+  "effect": "Increases your defence by 10%. (Drain: 1pt per 6s)",
+  "image": "Rock Skin.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Superhuman Strength",
+  "page": "Superhuman Strength",
+  "isMembers": false,
+  "level": 13,
+  "drain": 10,
+  "effect": "Increases your strength by 10%. (Drain: 1pt per 6s)",
+  "image": "Superhuman Strength.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Improved Reflexes",
+  "page": "Improved Reflexes",
+  "isMembers": false,
+  "level": 16,
+  "drain": 10,
+  "effect": "Increases your attack by 10%. (Drain: 1pt per 6s)",
+  "image": "Improved Reflexes.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Rapid Restore",
+  "page": "Rapid Restore",
+  "isMembers": false,
+  "level": 19,
+  "drain": 1,
+  "effect": "2x restore rate for all stats except Hitpoints and Prayer. (Drain: 1pt per 36s)",
+  "image": "Rapid Restore.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Rapid Heal",
+  "page": "Rapid Heal",
+  "isMembers": false,
+  "level": 22,
+  "drain": 3,
+  "effect": "2x restore rate for Hitpoints stats. (Drain: 1pt per 18s)",
+  "image": "Rapid Heal.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Protect Item",
+  "page": "Protect Item",
+  "isMembers": false,
+  "level": 25,
+  "drain": 3,
+  "effect": "Keep 1 extra item if you die. (Drain: 1pt per 18s)",
+  "image": "Protect Item.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Hawk Eye",
+  "page": "Hawk Eye",
+  "isMembers": false,
+  "level": 26,
+  "drain": 10,
+  "effect": "Increases your Ranging by 10%. (Drain: 1pt per 6s)",
+  "image": "Hawk Eye.png",
+  "release": "22 August 2006"
+ },
+ {
+  "name": "Mystic Lore",
+  "page": "Mystic Lore",
+  "isMembers": false,
+  "level": 27,
+  "drain": 10,
+  "effect": "Increases your magical attack and defence by 10%, also increases your magic strength by 1%. (Drain: 1pt per 6s)",
+  "image": "Mystic Lore.png",
+  "release": "22 August 2006"
+ },
+ {
+  "name": "Steel Skin",
+  "page": "Steel Skin",
+  "isMembers": false,
+  "level": 28,
+  "drain": 20,
+  "effect": "Increases your defence by 15%. (Drain: 1pt per 3s)",
+  "image": "Steel Skin.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Ultimate Strength",
+  "page": "Ultimate Strength",
+  "isMembers": false,
+  "level": 31,
+  "drain": 20,
+  "effect": "Increases your strength by 15%. (Drain: 1pt per 3s)",
+  "image": "Ultimate Strength.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Incredible Reflexes",
+  "page": "Incredible Reflexes",
+  "isMembers": false,
+  "level": 34,
+  "drain": 20,
+  "effect": "Increases your attack by 15%. (Drain: 1pt per 3s)",
+  "image": "Incredible Reflexes.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Protect from Magic",
+  "page": "Protect from Magic",
+  "isMembers": false,
+  "level": 37,
+  "drain": 20,
+  "effect": "Protection from magical attacks. (Drain: 1pt per 3s)",
+  "image": "Protect from Magic.png",
+  "release": "29 March 2004"
+ },
+ {
+  "name": "Protect from Missiles",
+  "page": "Protect from Missiles",
+  "isMembers": false,
+  "level": 40,
+  "drain": 20,
+  "effect": "Protection from ranged attacks. (Drain: 1pt per 3s)",
+  "image": "Protect from Missiles.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Protect from Melee",
+  "page": "Protect from Melee",
+  "isMembers": false,
+  "level": 43,
+  "drain": 20,
+  "effect": "Protection from close attacks. (Drain: 1pt per 3s)",
+  "image": "Protect from Melee.png",
+  "release": "29 March 2004"
+ },
+ {
+  "name": "Eagle Eye",
+  "page": "Eagle Eye",
+  "isMembers": false,
+  "level": 44,
+  "drain": 20,
+  "effect": "Increases your Ranging by 15%. (Drain: 1pt per 3s)",
+  "image": "Eagle Eye.png",
+  "release": "22 August 2006"
+ },
+ {
+  "name": "Mystic Might",
+  "page": "Mystic Might",
+  "isMembers": false,
+  "level": 45,
+  "drain": 20,
+  "effect": "Increases your magical attack and defence by 15%, also increases your magic strength by 2%. (Drain: 1pt per 3s)",
+  "image": "Mystic Might.png",
+  "release": "22 August 2006"
+ },
+ {
+  "name": "Retribution",
+  "page": "Retribution",
+  "isMembers": true,
+  "level": 46,
+  "drain": 5,
+  "effect": "Inflicts damage to nearby targets if you die. (Drain: 1pt per 12s)",
+  "image": "Retribution.png",
+  "release": "6 September 2005"
+ },
+ {
+  "name": "Redemption",
+  "page": "Redemption",
+  "isMembers": true,
+  "level": 49,
+  "drain": 10,
+  "effect": "Heals you when damaged and health falls below 10%. (Drain: 1pt per 6s)",
+  "image": "Redemption.png",
+  "release": "6 September 2005"
+ },
+ {
+  "name": "Smite",
+  "page": "Smite",
+  "isMembers": true,
+  "level": 52,
+  "drain": 30,
+  "effect": "1/4 of damage dealt is also removed from opponent's Prayer. (Drain: 1pt per 2s)",
+  "image": "Smite.png",
+  "release": "6 September 2005"
+ },
+ {
+  "name": "Preserve",
+  "page": "Preserve",
+  "isMembers": true,
+  "level": 55,
+  "drain": 3,
+  "effect": "Boosted stats last 50% longer. (Drain: 1pt per 18s)",
+  "image": "Preserve.png",
+  "release": "5 January 2017"
+ },
+ {
+  "name": "Chivalry",
+  "page": "Chivalry",
+  "isMembers": true,
+  "level": 60,
+  "drain": 40,
+  "effect": "Increases your defence by 20%, strength by 18%, and attack by 15%. (Drain: 1pt per 1.5s)",
+  "image": "Chivalry.png",
+  "release": "24 July 2007"
+ },
+ {
+  "name": "Humble Chivalry",
+  "page": "Humble Chivalry",
+  "isMembers": true,
+  "level": 60,
+  "drain": 40,
+  "effect": "+18% Strength, +15% Attack",
+  "image": "Humble Chivalry.png",
+  "release": "16 March 2022"
+ },
+ {
+  "name": "Rejuvenation",
+  "page": "Rejuvenation",
+  "isMembers": true,
+  "level": 60,
+  "drain": 6,
+  "effect": "Hitpoints regenerate 3x faster.",
+  "image": "Rejuvenation.png",
+  "release": "12 April 2023"
+ },
+ {
+  "name": "Ancient Strength",
+  "page": "Ancient Strength",
+  "isMembers": true,
+  "level": 61,
+  "drain": 30,
+  "effect": "Increases your Attack and Strength by 20%.",
+  "image": "Ancient Strength.png",
+  "release": "12 April 2023"
+ },
+ {
+  "name": "Ancient Sight",
+  "page": "Ancient Sight",
+  "isMembers": true,
+  "level": 62,
+  "drain": 30,
+  "effect": "Increases your Ranged by 20%.",
+  "image": "Ancient Sight.png",
+  "release": "12 April 2023"
+ },
+ {
+  "name": "Deadeye",
+  "page": "Deadeye",
+  "isMembers": true,
+  "level": 62,
+  "drain": 20,
+  "effect": "Increases your ranged attack by 18%, your damage by 18%, and your defence by 5%. (Drain: 1pt per 3s)",
+  "image": "Deadeye.png",
+  "release": "5 February 2025"
+ },
+ {
+  "name": "Ancient Will",
+  "page": "Ancient Will",
+  "isMembers": true,
+  "level": 63,
+  "drain": 30,
+  "effect": "Increases your magic by 20% and magic strength by 3%.",
+  "image": "Ancient Will.png",
+  "release": "12 April 2023"
+ },
+ {
+  "name": "Mystic Vigour",
+  "page": "Mystic Vigour",
+  "isMembers": true,
+  "level": 63,
+  "drain": 20,
+  "effect": "Increases your magical attack and defence by 18%, your magic strength by 3% and your defence by 5%. (Drain: 1pt per 3s)",
+  "image": "Mystic Vigour.png",
+  "release": "5 February 2025"
+ },
+ {
+  "name": "Protect Item",
+  "page": "Protect Item (Ruinous Powers)",
+  "isMembers": true,
+  "level": 65,
+  "drain": 30,
+  "effect": "Protect one additional item on death.",
+  "image": "Protect Item (Ruinous Powers).png",
+  "release": "14 June 2023"
+ },
+ {
+  "name": "Ruinous Grace",
+  "page": "Ruinous Grace",
+  "isMembers": true,
+  "level": 66,
+  "drain": 1,
+  "effect": "When running, Prayer points are drained instead of run energy.",
+  "image": "Ruinous Grace.png",
+  "release": "12 April 2023"
+ },
+ {
+  "name": "Dampen Magic",
+  "page": "Dampen Magic",
+  "isMembers": true,
+  "level": 67,
+  "drain": 24,
+  "effect": "Provides up to 100% protection from magic damage",
+  "image": "Dampen Magic.png",
+  "release": "12 April 2023"
+ },
+ {
+  "name": "Dampen Ranged",
+  "page": "Dampen Ranged",
+  "isMembers": true,
+  "level": 69,
+  "drain": 24,
+  "effect": "Provides up to 100% protection from ranged damage",
+  "image": "Dampen Ranged.png",
+  "release": "12 April 2023"
+ },
+ {
+  "name": "Humble Piety",
+  "page": "Humble Piety",
+  "isMembers": true,
+  "level": 70,
+  "drain": 40,
+  "effect": "+23% Strength, +20% Attack",
+  "image": "Humble Piety.png",
+  "release": "16 March 2022"
+ },
+ {
+  "name": "Piety",
+  "page": "Piety",
+  "isMembers": true,
+  "level": 70,
+  "drain": 40,
+  "effect": "Increases your defence by 25%, strength by 23%, and attack by 20%. (Drain: 1pt per 1.5s)",
+  "image": "Piety.png",
+  "release": "24 July 2007"
+ },
+ {
+  "name": "Dampen Melee",
+  "page": "Dampen Melee",
+  "isMembers": true,
+  "level": 71,
+  "drain": 24,
+  "effect": "Provides up to 100% protection from melee damage",
+  "image": "Dampen Melee.png",
+  "release": "12 April 2023"
+ },
+ {
+  "name": "Trinitas",
+  "page": "Trinitas",
+  "isMembers": true,
+  "level": 72,
+  "drain": 36,
+  "effect": "Increases your Attack, Strength, Ranged and Magic by 15%. Increases your magic strength by 2%",
+  "image": "Trinitas.png",
+  "release": "12 April 2023"
+ },
+ {
+  "name": "Berserker",
+  "page": "Berserker (Ruinous Powers)",
+  "isMembers": true,
+  "level": 74,
+  "drain": 3,
+  "effect": "Boosted combat stats last 50% longer.",
+  "image": "Berserker (Ruinous Powers).png",
+  "release": "12 April 2023"
+ },
+ {
+  "name": "Rigour",
+  "page": "Rigour",
+  "isMembers": true,
+  "level": 74,
+  "drain": 40,
+  "effect": "Increases your ranged attack by 20% and damage by 23%, and your defence by 25%. (Drain: 1pt per 1.5s)",
+  "image": "Rigour.png",
+  "release": "5 January 2017"
+ },
+ {
+  "name": "Purge",
+  "page": "Purge",
+  "isMembers": true,
+  "level": 75,
+  "drain": 30,
+  "effect": "1/3 of damage dealt is also removed from both yours and your opponent's Prayer points.",
+  "image": "Purge.png",
+  "release": "12 April 2023"
+ },
+ {
+  "name": "Augury",
+  "page": "Augury",
+  "isMembers": true,
+  "level": 77,
+  "drain": 40,
+  "effect": "Increases your magical attack and defence by 25%, also increases your magic strength by 4% and your defence by 25%. (Drain: 1pt per 1.5s)",
+  "image": "Augury.png",
+  "release": "5 January 2017"
+ },
+ {
+  "name": "Metabolise",
+  "page": "Metabolise",
+  "isMembers": true,
+  "level": 77,
+  "drain": 20,
+  "effect": "The delay before you can attack after eating food is reduced.",
+  "image": "Metabolise.png",
+  "release": "12 April 2023"
+ },
+ {
+  "name": "Rebuke",
+  "page": "Rebuke",
+  "isMembers": true,
+  "level": 78,
+  "drain": 20,
+  "effect": "Increases recoil damage by 10%.",
+  "image": "Rebuke.png",
+  "release": "12 April 2023"
+ },
+ {
+  "name": "Vindication",
+  "page": "Vindication",
+  "isMembers": true,
+  "level": 80,
+  "drain": 15,
+  "effect": "Heals you by 25% of your Prayer level if your health falls below 10%.",
+  "image": "Vindication.png",
+  "release": "12 April 2023"
+ },
+ {
+  "name": "Decimate",
+  "page": "Decimate",
+  "isMembers": true,
+  "level": 82,
+  "drain": 46,
+  "effect": "Increases your Attack by 30% and Strength by 27%.",
+  "image": "Decimate.png",
+  "release": "12 April 2023"
+ },
+ {
+  "name": "Annihilate",
+  "page": "Annihilate",
+  "isMembers": true,
+  "level": 84,
+  "drain": 46,
+  "effect": "Increases your Ranged Attack by 30% and Ranged Strength by 27%.",
+  "image": "Annihilate.png",
+  "release": "12 April 2023"
+ },
+ {
+  "name": "Vaporise",
+  "page": "Vaporise",
+  "isMembers": true,
+  "level": 86,
+  "drain": 46,
+  "effect": "Increases your Magic Attack by 30% and Magic Damage by 4%.",
+  "image": "Vaporise.png",
+  "release": "12 April 2023"
+ },
+ {
+  "name": "Fumus' Vow",
+  "page": "Fumus' Vow",
+  "isMembers": true,
+  "level": 87,
+  "drain": 24,
+  "effect": "Attacks that inflict poison cause poison to trigger damage immediately.",
+  "image": "Fumus' Vow.png",
+  "release": "12 April 2023"
+ },
+ {
+  "name": "Umbra's Vow",
+  "page": "Umbra's Vow",
+  "isMembers": true,
+  "level": 88,
+  "drain": 24,
+  "effect": "Attacks reduce your opponent's Defence by 5% of the damage dealt, up to 15%.",
+  "image": "Umbra's Vow.png",
+  "release": "12 April 2023"
+ },
+ {
+  "name": "Cruor's Vow",
+  "page": "Cruor's Vow",
+  "isMembers": true,
+  "level": 89,
+  "drain": 24,
+  "effect": "While activated, defeating a foe will drain 3 prayer points and heal 3 hitpoints.",
+  "image": "Cruor's Vow.png",
+  "release": "12 April 2023"
+ },
+ {
+  "name": "Glacies' Vow",
+  "page": "Glacies' Vow",
+  "isMembers": true,
+  "level": 90,
+  "drain": 24,
+  "effect": "Attacks reduce a monster's Magic by 5% of damage dealt, up to 15%.",
+  "image": "Glacies' Vow.png",
+  "release": "12 April 2023"
+ },
+ {
+  "name": "Wrath",
+  "page": "Wrath",
+  "isMembers": true,
+  "level": 91,
+  "drain": 5,
+  "effect": "On death, deal up to 25% of your Prayer level in damage to nearby opponents.",
+  "image": "Wrath.png",
+  "release": "12 April 2023"
+ },
+ {
+  "name": "Intensify",
+  "page": "Intensify",
+  "isMembers": true,
+  "level": 92,
+  "drain": 46,
+  "effect": "Increases your accuracy with all styles by 50%.",
+  "image": "Intensify.png",
+  "release": "12 April 2023"
+ }
+]

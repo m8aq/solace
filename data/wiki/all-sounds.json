@@ -1,0 +1,1572 @@
+[
+ {
+  "name": "100th_banquest_cutscene_2",
+  "id": 0,
+  "kind": "sound"
+ },
+ {
+  "name": "100_pirate_cutscene",
+  "id": 1,
+  "kind": "sound"
+ },
+ {
+  "name": "light_flight",
+  "id": 2,
+  "kind": "sound"
+ },
+ {
+  "name": "goal",
+  "id": 3,
+  "kind": "sound"
+ },
+ {
+  "name": "100th_banquest_cutscene",
+  "id": 4,
+  "kind": "sound"
+ },
+ {
+  "name": "bkf_cutscene",
+  "id": 5,
+  "kind": "sound"
+ },
+ {
+  "name": "dwarf_meeting_end",
+  "id": 6,
+  "kind": "sound"
+ },
+ {
+  "name": "farming_amulet_jingle",
+  "id": 7,
+  "kind": "sound"
+ },
+ {
+  "name": "farming_final_cutscene",
+  "id": 8,
+  "kind": "sound"
+ },
+ {
+  "name": "farming_grow",
+  "id": 9,
+  "kind": "sound"
+ },
+ {
+  "name": "farming_levelup",
+  "id": 10,
+  "kind": "sound"
+ },
+ {
+  "name": "farming_levelup_2",
+  "id": 11,
+  "kind": "sound"
+ },
+ {
+  "name": "forgetful_puzzle_win",
+  "id": 12,
+  "kind": "sound"
+ },
+ {
+  "name": "ham_evil_plot",
+  "id": 13,
+  "kind": "sound"
+ },
+ {
+  "name": "mq3_castle_cutscene_1",
+  "id": 14,
+  "kind": "sound"
+ },
+ {
+  "name": "mq3_castle_cutscene_2",
+  "id": 15,
+  "kind": "sound"
+ },
+ {
+  "name": "poh_brimhaven",
+  "id": 16,
+  "kind": "sound"
+ },
+ {
+  "name": "poh_canifis",
+  "id": 17,
+  "kind": "sound"
+ },
+ {
+  "name": "poh_pollniveach",
+  "id": 18,
+  "kind": "sound"
+ },
+ {
+  "name": "poh_rellekka",
+  "id": 19,
+  "kind": "sound"
+ },
+ {
+  "name": "poh_rimmington",
+  "id": 20,
+  "kind": "sound"
+ },
+ {
+  "name": "poh_taverly",
+  "id": 21,
+  "kind": "sound"
+ },
+ {
+  "name": "poh_yanille",
+  "id": 22,
+  "kind": "sound"
+ },
+ {
+  "name": "poh_lumbridge",
+  "id": 23,
+  "kind": "sound"
+ },
+ {
+  "name": "rogue_win",
+  "id": 24,
+  "kind": "sound"
+ },
+ {
+  "name": "suduku_win",
+  "id": 25,
+  "kind": "sound"
+ },
+ {
+  "name": "tranquility_cutscene",
+  "id": 26,
+  "kind": "sound"
+ },
+ {
+  "name": "zaniks_theme",
+  "id": 27,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_agility",
+  "id": 28,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_attack",
+  "id": 29,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_attack2",
+  "id": 30,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_carpentry",
+  "id": 31,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_carpentry2",
+  "id": 32,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_cooking",
+  "id": 33,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_cooking2",
+  "id": 34,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_crafting",
+  "id": 35,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_crafting2",
+  "id": 36,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_defense",
+  "id": 37,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_defense2",
+  "id": 38,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_firemarking",
+  "id": 39,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_firemarking2",
+  "id": 40,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_fishing",
+  "id": 41,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_fishing2",
+  "id": 42,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_fletching",
+  "id": 43,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_fletching2",
+  "id": 44,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_herblaw",
+  "id": 45,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_herblaw2",
+  "id": 46,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_hitpoints",
+  "id": 47,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_hitpoints2",
+  "id": 48,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_hunting",
+  "id": 49,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_hunting2",
+  "id": 50,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_magic",
+  "id": 51,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_magic2",
+  "id": 52,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_mining",
+  "id": 53,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_mining2",
+  "id": 54,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_prayer",
+  "id": 55,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_prayer2",
+  "id": 56,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_ranged",
+  "id": 57,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_ranged2",
+  "id": 58,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_runecraft",
+  "id": 59,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_runecraft2",
+  "id": 60,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_slayer",
+  "id": 61,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_slayer2",
+  "id": 62,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_smithing",
+  "id": 63,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_smithing2",
+  "id": 64,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_strength",
+  "id": 65,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_strength2",
+  "id": 66,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_thieving",
+  "id": 67,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_thieving2",
+  "id": 68,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_woodcutting",
+  "id": 69,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_woodcutting2",
+  "id": 70,
+  "kind": "sound"
+ },
+ {
+  "name": "agility_complete",
+  "id": 71,
+  "kind": "sound"
+ },
+ {
+  "name": "ambient_church_happy",
+  "id": 72,
+  "kind": "sound"
+ },
+ {
+  "name": "ambient_church_moody",
+  "id": 73,
+  "kind": "sound"
+ },
+ {
+  "name": "ambient_church_spooky",
+  "id": 74,
+  "kind": "sound"
+ },
+ {
+  "name": "arena_last_man_standing",
+  "id": 75,
+  "kind": "sound"
+ },
+ {
+  "name": "arena_wave_complete",
+  "id": 76,
+  "kind": "sound"
+ },
+ {
+  "name": "barrows_complete",
+  "id": 77,
+  "kind": "sound"
+ },
+ {
+  "name": "slice_of_grand_opening",
+  "id": 78,
+  "kind": "sound"
+ },
+ {
+  "name": "captain_braindeath",
+  "id": 79,
+  "kind": "sound"
+ },
+ {
+  "name": "castlewars_draw",
+  "id": 80,
+  "kind": "sound"
+ },
+ {
+  "name": "castlewars_lose",
+  "id": 81,
+  "kind": "sound"
+ },
+ {
+  "name": "castlewars_win",
+  "id": 82,
+  "kind": "sound"
+ },
+ {
+  "name": "cat_defeated",
+  "id": 83,
+  "kind": "sound"
+ },
+ {
+  "name": "cat_victory",
+  "id": 84,
+  "kind": "sound"
+ },
+ {
+  "name": "champion_complete",
+  "id": 85,
+  "kind": "sound"
+ },
+ {
+  "name": "grand_exchange_trade_jingle",
+  "id": 86,
+  "kind": "sound"
+ },
+ {
+  "name": "complete_schematics",
+  "id": 87,
+  "kind": "sound"
+ },
+ {
+  "name": "contact_intro_jingle",
+  "id": 88,
+  "kind": "sound"
+ },
+ {
+  "name": "death",
+  "id": 89,
+  "kind": "sound"
+ },
+ {
+  "name": "death2",
+  "id": 90,
+  "kind": "sound"
+ },
+ {
+  "name": "denath_cutscene",
+  "id": 91,
+  "kind": "sound"
+ },
+ {
+  "name": "devious_cutscene",
+  "id": 92,
+  "kind": "sound"
+ },
+ {
+  "name": "dice_lose",
+  "id": 93,
+  "kind": "sound"
+ },
+ {
+  "name": "dice_win",
+  "id": 94,
+  "kind": "sound"
+ },
+ {
+  "name": "dream_minigames_jingle",
+  "id": 95,
+  "kind": "sound"
+ },
+ {
+  "name": "dreamland_journey_jingle",
+  "id": 96,
+  "kind": "sound"
+ },
+ {
+  "name": "duel_start",
+  "id": 97,
+  "kind": "sound"
+ },
+ {
+  "name": "duel_win2",
+  "id": 98,
+  "kind": "sound"
+ },
+ {
+  "name": "easter_jingle",
+  "id": 99,
+  "kind": "sound"
+ },
+ {
+  "name": "elf_singing",
+  "id": 100,
+  "kind": "sound"
+ },
+ {
+  "name": "evil_twin_jingle",
+  "id": 101,
+  "kind": "sound"
+ },
+ {
+  "name": "fairy_dragon_suspense",
+  "id": 102,
+  "kind": "sound"
+ },
+ {
+  "name": "first_sunshine",
+  "id": 103,
+  "kind": "sound"
+ },
+ {
+  "name": "forgetful_jingle_last",
+  "id": 104,
+  "kind": "sound"
+ },
+ {
+  "name": "forgetful_jingle_mid",
+  "id": 105,
+  "kind": "sound"
+ },
+ {
+  "name": "forgetful_jingle_open",
+  "id": 106,
+  "kind": "sound"
+ },
+ {
+  "name": "gadderanks_suspense",
+  "id": 107,
+  "kind": "sound"
+ },
+ {
+  "name": "game_draw",
+  "id": 108,
+  "kind": "sound"
+ },
+ {
+  "name": "game_lose",
+  "id": 109,
+  "kind": "sound"
+ },
+ {
+  "name": "game_win",
+  "id": 110,
+  "kind": "sound"
+ },
+ {
+  "name": "gnome_restaurant_jingle",
+  "id": 111,
+  "kind": "sound"
+ },
+ {
+  "name": "grim_reaper_jingle",
+  "id": 112,
+  "kind": "sound"
+ },
+ {
+  "name": "guide_quiz_complete",
+  "id": 113,
+  "kind": "sound"
+ },
+ {
+  "name": "handsand_cutscene",
+  "id": 114,
+  "kind": "sound"
+ },
+ {
+  "name": "hawaii_5_ogre",
+  "id": 115,
+  "kind": "sound"
+ },
+ {
+  "name": "balloon_journey_test",
+  "id": 116,
+  "kind": "sound"
+ },
+ {
+  "name": "maze_win",
+  "id": 117,
+  "kind": "sound"
+ },
+ {
+  "name": "balloon_journey_jingle",
+  "id": 118,
+  "kind": "sound"
+ },
+ {
+  "name": "lunar_isle_entrance_jingle",
+  "id": 119,
+  "kind": "sound"
+ },
+ {
+  "name": "juliet_dies_jingle",
+  "id": 120,
+  "kind": "sound"
+ },
+ {
+  "name": "keldatrade_lose",
+  "id": 121,
+  "kind": "sound"
+ },
+ {
+  "name": "keldatrade_win",
+  "id": 122,
+  "kind": "sound"
+ },
+ {
+  "name": "king_rat_dies",
+  "id": 123,
+  "kind": "sound"
+ },
+ {
+  "name": "king_rat_wins",
+  "id": 124,
+  "kind": "sound"
+ },
+ {
+  "name": "lament_cutscene_1",
+  "id": 125,
+  "kind": "sound"
+ },
+ {
+  "name": "lament_cutscene_2",
+  "id": 126,
+  "kind": "sound"
+ },
+ {
+  "name": "lament_cutscene_3",
+  "id": 127,
+  "kind": "sound"
+ },
+ {
+  "name": "lament_cutscene_4",
+  "id": 128,
+  "kind": "sound"
+ },
+ {
+  "name": "lament_cutscene_5",
+  "id": 129,
+  "kind": "sound"
+ },
+ {
+  "name": "lament_cutscene_6",
+  "id": 130,
+  "kind": "sound"
+ },
+ {
+  "name": "recruit_improvisation_jingle",
+  "id": 131,
+  "kind": "sound"
+ },
+ {
+  "name": "magic_carpet_ride",
+  "id": 132,
+  "kind": "sound"
+ },
+ {
+  "name": "mizgog_cutscene",
+  "id": 133,
+  "kind": "sound"
+ },
+ {
+  "name": "mm_killdemon",
+  "id": 134,
+  "kind": "sound"
+ },
+ {
+  "name": "mm_message",
+  "id": 135,
+  "kind": "sound"
+ },
+ {
+  "name": "mm_title",
+  "id": 136,
+  "kind": "sound"
+ },
+ {
+  "name": "morytania_boatride",
+  "id": 137,
+  "kind": "sound"
+ },
+ {
+  "name": "ogre_boat_journey",
+  "id": 138,
+  "kind": "sound"
+ },
+ {
+  "name": "open_light_chest",
+  "id": 139,
+  "kind": "sound"
+ },
+ {
+  "name": "osman_sneak_in",
+  "id": 140,
+  "kind": "sound"
+ },
+ {
+  "name": "outpost_cutscene",
+  "id": 141,
+  "kind": "sound"
+ },
+ {
+  "name": "penance_jingle",
+  "id": 142,
+  "kind": "sound"
+ },
+ {
+  "name": "penance_queen_jingle",
+  "id": 143,
+  "kind": "sound"
+ },
+ {
+  "name": "pest_fail",
+  "id": 144,
+  "kind": "sound"
+ },
+ {
+  "name": "pest_win",
+  "id": 145,
+  "kind": "sound"
+ },
+ {
+  "name": "petra_cutscene",
+  "id": 146,
+  "kind": "sound"
+ },
+ {
+  "name": "pied_piper",
+  "id": 147,
+  "kind": "sound"
+ },
+ {
+  "name": "postie_pete_jingle",
+  "id": 148,
+  "kind": "sound"
+ },
+ {
+  "name": "prisonpete_fail",
+  "id": 149,
+  "kind": "sound"
+ },
+ {
+  "name": "prisonpete_sucess",
+  "id": 150,
+  "kind": "sound"
+ },
+ {
+  "name": "pyramid_top",
+  "id": 151,
+  "kind": "sound"
+ },
+ {
+  "name": "quest_complete_1",
+  "id": 152,
+  "kind": "sound"
+ },
+ {
+  "name": "quest_complete_2",
+  "id": 153,
+  "kind": "sound"
+ },
+ {
+  "name": "quest_complete_3",
+  "id": 154,
+  "kind": "sound"
+ },
+ {
+  "name": "recruit_logic_jingle",
+  "id": 155,
+  "kind": "sound"
+ },
+ {
+  "name": "recruit_memory_jingle",
+  "id": 156,
+  "kind": "sound"
+ },
+ {
+  "name": "sos_peace",
+  "id": 157,
+  "kind": "sound"
+ },
+ {
+  "name": "sos_life",
+  "id": 158,
+  "kind": "sound"
+ },
+ {
+  "name": "recruit_observation_jingle",
+  "id": 159,
+  "kind": "sound"
+ },
+ {
+  "name": "recruit_order_jingle2",
+  "id": 160,
+  "kind": "sound"
+ },
+ {
+  "name": "recruit_patience_jingle",
+  "id": 161,
+  "kind": "sound"
+ },
+ {
+  "name": "recruit_wisdom_jingle",
+  "id": 162,
+  "kind": "sound"
+ },
+ {
+  "name": "refrain_end",
+  "id": 163,
+  "kind": "sound"
+ },
+ {
+  "name": "refrain_loop",
+  "id": 164,
+  "kind": "sound"
+ },
+ {
+  "name": "refrain_start",
+  "id": 165,
+  "kind": "sound"
+ },
+ {
+  "name": "river_daughter_jingle",
+  "id": 166,
+  "kind": "sound"
+ },
+ {
+  "name": "rock_cutscene",
+  "id": 167,
+  "kind": "sound"
+ },
+ {
+  "name": "romeo_cutscene",
+  "id": 168,
+  "kind": "sound"
+ },
+ {
+  "name": "royal_cutscene_1_extended",
+  "id": 169,
+  "kind": "sound"
+ },
+ {
+  "name": "royal_cutscene_1",
+  "id": 170,
+  "kind": "sound"
+ },
+ {
+  "name": "sailing_journey_short",
+  "id": 171,
+  "kind": "sound"
+ },
+ {
+  "name": "sailing_journey",
+  "id": 172,
+  "kind": "sound"
+ },
+ {
+  "name": "silence_25_seconds",
+  "id": 173,
+  "kind": "sound"
+ },
+ {
+  "name": "skullball_win",
+  "id": 174,
+  "kind": "sound"
+ },
+ {
+  "name": "snake_charming_short",
+  "id": 175,
+  "kind": "sound"
+ },
+ {
+  "name": "snake_charming",
+  "id": 176,
+  "kind": "sound"
+ },
+ {
+  "name": "sos_health",
+  "id": 177,
+  "kind": "sound"
+ },
+ {
+  "name": "soulbane_cutscene_1",
+  "id": 178,
+  "kind": "sound"
+ },
+ {
+  "name": "sos_plenty",
+  "id": 179,
+  "kind": "sound"
+ },
+ {
+  "name": "soulbane_cutscene_anger",
+  "id": 180,
+  "kind": "sound"
+ },
+ {
+  "name": "soulbane_cutscene_confu",
+  "id": 181,
+  "kind": "sound"
+ },
+ {
+  "name": "soulbane_cutscene_fear",
+  "id": 182,
+  "kind": "sound"
+ },
+ {
+  "name": "soulbane_cutscene_hope",
+  "id": 183,
+  "kind": "sound"
+ },
+ {
+  "name": "soulbane_final_cutscene",
+  "id": 184,
+  "kind": "sound"
+ },
+ {
+  "name": "speedygnome_lose",
+  "id": 185,
+  "kind": "sound"
+ },
+ {
+  "name": "speedygnome_win",
+  "id": 186,
+  "kind": "sound"
+ },
+ {
+  "name": "swansong_jingle",
+  "id": 187,
+  "kind": "sound"
+ },
+ {
+  "name": "tbwt_cooking",
+  "id": 188,
+  "kind": "sound"
+ },
+ {
+  "name": "tbwt_fishing",
+  "id": 189,
+  "kind": "sound"
+ },
+ {
+  "name": "tbwt_hunting",
+  "id": 190,
+  "kind": "sound"
+ },
+ {
+  "name": "temple_built",
+  "id": 191,
+  "kind": "sound"
+ },
+ {
+  "name": "tile_win",
+  "id": 192,
+  "kind": "sound"
+ },
+ {
+  "name": "treasure_hunt_win",
+  "id": 193,
+  "kind": "sound"
+ },
+ {
+  "name": "trek_destination",
+  "id": 194,
+  "kind": "sound"
+ },
+ {
+  "name": "trek_event",
+  "id": 195,
+  "kind": "sound"
+ },
+ {
+  "name": "trek_fail",
+  "id": 196,
+  "kind": "sound"
+ },
+ {
+  "name": "trek_sucess",
+  "id": 197,
+  "kind": "sound"
+ },
+ {
+  "name": "twocats_fat",
+  "id": 198,
+  "kind": "sound"
+ },
+ {
+  "name": "twocats_wiley",
+  "id": 199,
+  "kind": "sound"
+ },
+ {
+  "name": "vanstrom_cutscene",
+  "id": 200,
+  "kind": "sound"
+ },
+ {
+  "name": "wom_jingle",
+  "id": 201,
+  "kind": "sound"
+ },
+ {
+  "name": "zaniks_resurrection",
+  "id": 202,
+  "kind": "sound"
+ },
+ {
+  "name": "zombie_pirates",
+  "id": 203,
+  "kind": "sound"
+ },
+ {
+  "name": "pickpocket_fairy_godfather",
+  "id": 204,
+  "kind": "sound"
+ },
+ {
+  "name": "fairyqueen_awakens",
+  "id": 205,
+  "kind": "sound"
+ },
+ {
+  "name": "eyeglo_battlefield_cutscene_jingle",
+  "id": 206,
+  "kind": "sound"
+ },
+ {
+  "name": "eyeglo_battlefield_cutscene_part1",
+  "id": 207,
+  "kind": "sound"
+ },
+ {
+  "name": "eyeglo_battlefield_cutscene_part2",
+  "id": 208,
+  "kind": "sound"
+ },
+ {
+  "name": "eyeglo_battlefield_cutscene_part3",
+  "id": 209,
+  "kind": "sound"
+ },
+ {
+  "name": "eyeglo_expulsion_1",
+  "id": 210,
+  "kind": "sound"
+ },
+ {
+  "name": "eyeglo_expulsion_2",
+  "id": 211,
+  "kind": "sound"
+ },
+ {
+  "name": "eyeglo_expulsion_3",
+  "id": 212,
+  "kind": "sound"
+ },
+ {
+  "name": "eyeglo_expulsion_4",
+  "id": 213,
+  "kind": "sound"
+ },
+ {
+  "name": "eyeglo_expulsion_5",
+  "id": 214,
+  "kind": "sound"
+ },
+ {
+  "name": "eyeglo_expulsion_6",
+  "id": 215,
+  "kind": "sound"
+ },
+ {
+  "name": "eyeglo_expulsion_7",
+  "id": 216,
+  "kind": "sound"
+ },
+ {
+  "name": "eyeglo_expulsion_jingle",
+  "id": 217,
+  "kind": "sound"
+ },
+ {
+  "name": "eyeglo_fluffy_transforms_1",
+  "id": 218,
+  "kind": "sound"
+ },
+ {
+  "name": "eyeglo_fluffy_transforms_2",
+  "id": 219,
+  "kind": "sound"
+ },
+ {
+  "name": "eyeglo_fluffy_transforms_jingle",
+  "id": 220,
+  "kind": "sound"
+ },
+ {
+  "name": "eyeglo_saboutage_1",
+  "id": 221,
+  "kind": "sound"
+ },
+ {
+  "name": "eyeglo_saboutage_2",
+  "id": 222,
+  "kind": "sound"
+ },
+ {
+  "name": "eyeglo_saboutage_jingle",
+  "id": 223,
+  "kind": "sound"
+ },
+ {
+  "name": "eyeglo_spirit_tree_1",
+  "id": 224,
+  "kind": "sound"
+ },
+ {
+  "name": "eyeglo_spirit_tree_2",
+  "id": 225,
+  "kind": "sound"
+ },
+ {
+  "name": "eyeglo_spirit_tree_jingle",
+  "id": 226,
+  "kind": "sound"
+ },
+ {
+  "name": "myreque3_cutscene_4",
+  "id": 227,
+  "kind": "sound"
+ },
+ {
+  "name": "slug_mayor_cutscene",
+  "id": 228,
+  "kind": "sound"
+ },
+ {
+  "name": "slug_prince_cutscene",
+  "id": 229,
+  "kind": "sound"
+ },
+ {
+  "name": "slug_queen_cutscene",
+  "id": 230,
+  "kind": "sound"
+ },
+ {
+  "name": "skillcape_jingle",
+  "id": 231,
+  "kind": "sound"
+ },
+ {
+  "name": "myarm_cooking_human_jingle",
+  "id": 232,
+  "kind": "sound"
+ },
+ {
+  "name": "rumble_in_da_jungle_jingle",
+  "id": 233,
+  "kind": "sound"
+ },
+ {
+  "name": "watchtower_machine_on",
+  "id": 234,
+  "kind": "sound"
+ },
+ {
+  "name": "anma_chicken_grab_1",
+  "id": 235,
+  "kind": "sound"
+ },
+ {
+  "name": "anma_chicken_grab_2",
+  "id": 236,
+  "kind": "sound"
+ },
+ {
+  "name": "shanty_claws_sea_shanty",
+  "id": 237,
+  "kind": "sound"
+ },
+ {
+  "name": "lotr_jingle_1",
+  "id": 238,
+  "kind": "sound"
+ },
+ {
+  "name": "lotr_jingle_2",
+  "id": 239,
+  "kind": "sound"
+ },
+ {
+  "name": "peng_bongo_jingle",
+  "id": 240,
+  "kind": "sound"
+ },
+ {
+  "name": "peng_cowbell_jingle",
+  "id": 241,
+  "kind": "sound"
+ },
+ {
+  "name": "fris_jingle_2",
+  "id": 242,
+  "kind": "sound"
+ },
+ {
+  "name": "brain_fainting_jingle",
+  "id": 243,
+  "kind": "sound"
+ },
+ {
+  "name": "brain_op_jingle",
+  "id": 244,
+  "kind": "sound"
+ },
+ {
+  "name": "6_second_silence",
+  "id": 245,
+  "kind": "sound"
+ },
+ {
+  "name": "dorgeshun_nursery_jingle",
+  "id": 246,
+  "kind": "sound"
+ },
+ {
+  "name": "surok_dance_jingle",
+  "id": 247,
+  "kind": "sound"
+ },
+ {
+  "name": "surok_rock_jingle",
+  "id": 248,
+  "kind": "sound"
+ },
+ {
+  "name": "air_guitar_jingle",
+  "id": 249,
+  "kind": "sound"
+ },
+ {
+  "name": "tob_boss_killed_jingle",
+  "id": 250,
+  "kind": "sound"
+ },
+ {
+  "name": "area_tasks_jungle_jingle_all_med",
+  "id": 251,
+  "kind": "sound"
+ },
+ {
+  "name": "area_tasks_jungle_jingle_all_easy",
+  "id": 252,
+  "kind": "sound"
+ },
+ {
+  "name": "area_tasks_jungle_jingle_all_hard",
+  "id": 253,
+  "kind": "sound"
+ },
+ {
+  "name": "area_tasks_jungle_jingle_easy",
+  "id": 254,
+  "kind": "sound"
+ },
+ {
+  "name": "area_tasks_jungle_jingle_hard",
+  "id": 255,
+  "kind": "sound"
+ },
+ {
+  "name": "area_tasks_jungle_jingle_med",
+  "id": 256,
+  "kind": "sound"
+ },
+ {
+  "name": "grim_footsteps_1",
+  "id": 257,
+  "kind": "sound"
+ },
+ {
+  "name": "grim_footsteps_2",
+  "id": 258,
+  "kind": "sound"
+ },
+ {
+  "name": "grim_footsteps_3",
+  "id": 259,
+  "kind": "sound"
+ },
+ {
+  "name": "grim_grammaphone_kick",
+  "id": 260,
+  "kind": "sound"
+ },
+ {
+  "name": "grim_grammaphone_start",
+  "id": 261,
+  "kind": "sound"
+ },
+ {
+  "name": "grim_piano_demo",
+  "id": 262,
+  "kind": "sound"
+ },
+ {
+  "name": "grim_right_answer",
+  "id": 263,
+  "kind": "sound"
+ },
+ {
+  "name": "grim_story_complete",
+  "id": 264,
+  "kind": "sound"
+ },
+ {
+  "name": "grim_wrong_answer",
+  "id": 265,
+  "kind": "sound"
+ },
+ {
+  "name": "silence_1_second",
+  "id": 266,
+  "kind": "sound"
+ },
+ {
+  "name": "dragonslayer_victory",
+  "id": 267,
+  "kind": "sound"
+ },
+ {
+  "name": "brutal_viking_funeral",
+  "id": 268,
+  "kind": "sound"
+ },
+ {
+  "name": "schools_correct_jingle",
+  "id": 269,
+  "kind": "sound"
+ },
+ {
+  "name": "schools_failure_jingle",
+  "id": 270,
+  "kind": "sound"
+ },
+ {
+  "name": "kr_statue_jingle",
+  "id": 271,
+  "kind": "sound"
+ },
+ {
+  "name": "kr_not_guilty",
+  "id": 272,
+  "kind": "sound"
+ },
+ {
+  "name": "my2arm_love_theme_end",
+  "id": 273,
+  "kind": "sound"
+ },
+ {
+  "name": "my2arm_ejection",
+  "id": 274,
+  "kind": "sound"
+ },
+ {
+  "name": "my2arm_love_theme_short",
+  "id": 275,
+  "kind": "sound"
+ },
+ {
+  "name": "gauntlet_minigame_end_jingle",
+  "id": 276,
+  "kind": "sound"
+ },
+ {
+  "name": "jormungand_defeated_jingle",
+  "id": 277,
+  "kind": "sound"
+ },
+ {
+  "name": "darkmeyer_end_of_quest_jingle",
+  "id": 278,
+  "kind": "sound"
+ },
+ {
+  "name": "hosidius_jingle",
+  "id": 279,
+  "kind": "sound"
+ },
+ {
+  "name": "scape_main_jingle",
+  "id": 280,
+  "kind": "sound"
+ },
+ {
+  "name": "league_area_jingle",
+  "id": 281,
+  "kind": "sound"
+ },
+ {
+  "name": "league_relic_jingle",
+  "id": 282,
+  "kind": "sound"
+ },
+ {
+  "name": "league_task_jingle",
+  "id": 283,
+  "kind": "sound"
+ },
+ {
+  "name": "soul_wars_lose",
+  "id": 284,
+  "kind": "sound"
+ },
+ {
+  "name": "soul_wars_win",
+  "id": 285,
+  "kind": "sound"
+ },
+ {
+  "name": "poh_wintry",
+  "id": 286,
+  "kind": "sound"
+ },
+ {
+  "name": "star_mining_boost",
+  "id": 287,
+  "kind": "sound"
+ },
+ {
+  "name": "tempoross_win_jingle",
+  "id": 288,
+  "kind": "sound"
+ },
+ {
+  "name": "tempoross_lose_jingle",
+  "id": 289,
+  "kind": "sound"
+ },
+ {
+  "name": "xmas_2021_jingle",
+  "id": 290,
+  "kind": "sound"
+ },
+ {
+  "name": "gotr_lose_jingle",
+  "id": 291,
+  "kind": "sound"
+ },
+ {
+  "name": "gotr_win_jingle",
+  "id": 292,
+  "kind": "sound"
+ },
+ {
+  "name": "gf_perfect_sword_jingle",
+  "id": 293,
+  "kind": "sound"
+ },
+ {
+  "name": "pride22_cutscene_01",
+  "id": 294,
+  "kind": "sound"
+ },
+ {
+  "name": "toa_path_complete_jingle",
+  "id": 295,
+  "kind": "sound"
+ },
+ {
+  "name": "toa_boss_complete_jingle",
+  "id": 296,
+  "kind": "sound"
+ },
+ {
+  "name": "xmas22_sting_jingle",
+  "id": 297,
+  "kind": "sound"
+ },
+ {
+  "name": "devious_minds",
+  "id": 298,
+  "kind": "sound"
+ },
+ {
+  "name": "combat_level_up",
+  "id": 299,
+  "kind": "sound"
+ },
+ {
+  "name": "dt2_sliske_reveal",
+  "id": 300,
+  "kind": "sound"
+ },
+ {
+  "name": "pog_teaser_panic",
+  "id": 301,
+  "kind": "sound"
+ },
+ {
+  "name": "pog_fluffy_reveal",
+  "id": 302,
+  "kind": "sound"
+ },
+ {
+  "name": "pog_teaser",
+  "id": 303,
+  "kind": "sound"
+ },
+ {
+  "name": "dov_zemo_jingle",
+  "id": 304,
+  "kind": "sound"
+ },
+ {
+  "name": "colosseum_colossi_defeated",
+  "id": 305,
+  "kind": "sound"
+ },
+ {
+  "name": "wgs_shock_jingle",
+  "id": 306,
+  "kind": "sound"
+ },
+ {
+  "name": "poh_canafis_jingle",
+  "id": 307,
+  "kind": "sound"
+ },
+ {
+  "name": "poh_civitas_jingle",
+  "id": 308,
+  "kind": "sound"
+ },
+ {
+  "name": "yama_horn_blow_01",
+  "id": 309,
+  "kind": "sound"
+ },
+ {
+  "name": "yama_soulflame_horn",
+  "id": 310,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_sailing",
+  "id": 830,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_sailing2",
+  "id": 831,
+  "kind": "sound"
+ },
+ {
+  "name": "advance_sailing_charting",
+  "id": 832,
+  "kind": "sound"
+ }
+]

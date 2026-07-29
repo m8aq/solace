@@ -1,0 +1,8212 @@
+[
+ {
+  "name": "League Home Teleport",
+  "page": "League Home Teleport",
+  "isMembers": true,
+  "level": 1,
+  "spellbook": "All",
+  "type": "Teleport",
+  "experience": 0.0,
+  "ticks": 5,
+  "maxHit": null,
+  "element": null,
+  "description": "Requires no runes, Warning: This spell takes a long time to cast and will be interrupted by combat.",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [],
+  "image": "League Home Teleport.png",
+  "release": "15 April 2026"
+ },
+ {
+  "name": "Minigame Teleport",
+  "page": "Minigame Teleport",
+  "isMembers": false,
+  "level": 1,
+  "spellbook": "All",
+  "type": "Teleport",
+  "experience": 0.0,
+  "ticks": 22,
+  "maxHit": null,
+  "element": null,
+  "description": "Requires no runes - recharge time 20 mins. Warning: This spell takes a long time to cast and will be interrupted by combat.",
+  "quest": null,
+  "cooldown": "2,000 ticks",
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [],
+  "image": "Minigame Teleport.png",
+  "release": "11 March 2026"
+ },
+ {
+  "name": "Teleport to Target",
+  "page": "Teleport to Target",
+  "isMembers": true,
+  "level": 85,
+  "spellbook": "All",
+  "type": "Teleport",
+  "experience": 45.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports you near your Target",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 1,
+    "id": 563
+   },
+   {
+    "rune": "Chaos",
+    "quantity": 1,
+    "id": 562
+   },
+   {
+    "rune": "Death",
+    "quantity": 1,
+    "id": 560
+   }
+  ],
+  "image": "Teleport to Target.png",
+  "release": "30 October 2014"
+ },
+ {
+  "name": "Edgeville Home Teleport",
+  "page": "Edgeville Home Teleport",
+  "isMembers": false,
+  "level": 1,
+  "spellbook": "Ancient",
+  "type": "Teleport",
+  "experience": 0.0,
+  "ticks": 24,
+  "maxHit": null,
+  "element": null,
+  "description": "Requires no runes - recharge time 30 mins. Warning: This spell takes a long time to cast and will be interrupted by combat.",
+  "quest": null,
+  "cooldown": "3,000 ticks",
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [],
+  "image": "Edgeville Home Teleport.png",
+  "release": "15 May 2007"
+ },
+ {
+  "name": "Smoke Rush",
+  "page": "Smoke Rush",
+  "isMembers": true,
+  "level": 50,
+  "spellbook": "Ancient",
+  "type": "Combat",
+  "experience": 30.0,
+  "ticks": 5,
+  "maxHit": "13",
+  "element": "Smoke",
+  "description": "A single target smoke attack",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Air",
+    "quantity": 1,
+    "id": 556
+   },
+   {
+    "rune": "Fire",
+    "quantity": 1,
+    "id": 554
+   },
+   {
+    "rune": "Chaos",
+    "quantity": 2,
+    "id": 562
+   },
+   {
+    "rune": "Death",
+    "quantity": 2,
+    "id": 560
+   }
+  ],
+  "image": "Smoke Rush.png",
+  "release": "18 April 2005"
+ },
+ {
+  "name": "Shadow Rush",
+  "page": "Shadow Rush",
+  "isMembers": true,
+  "level": 52,
+  "spellbook": "Ancient",
+  "type": "Combat",
+  "experience": 31.0,
+  "ticks": 5,
+  "maxHit": "14",
+  "element": "Shadow",
+  "description": "A single target shadow attack",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Soul",
+    "quantity": 1,
+    "id": 566
+   },
+   {
+    "rune": "Death",
+    "quantity": 2,
+    "id": 560
+   },
+   {
+    "rune": "Chaos",
+    "quantity": 2,
+    "id": 562
+   },
+   {
+    "rune": "Air",
+    "quantity": 1,
+    "id": 556
+   }
+  ],
+  "image": "Shadow Rush.png",
+  "release": "18 April 2005"
+ },
+ {
+  "name": "Paddewwa Teleport",
+  "page": "Paddewwa Teleport",
+  "isMembers": true,
+  "level": 54,
+  "spellbook": "Ancient",
+  "type": "Teleport",
+  "experience": 64.0,
+  "ticks": 5,
+  "maxHit": null,
+  "element": null,
+  "description": "A teleportation spell",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 2,
+    "id": 563
+   },
+   {
+    "rune": "Air",
+    "quantity": 1,
+    "id": 556
+   },
+   {
+    "rune": "Fire",
+    "quantity": 1,
+    "id": 554
+   }
+  ],
+  "image": "Paddewwa Teleport.png",
+  "release": "18 April 2005"
+ },
+ {
+  "name": "Blood Rush",
+  "page": "Blood Rush",
+  "isMembers": true,
+  "level": 56,
+  "spellbook": "Ancient",
+  "type": "Combat",
+  "experience": 33.0,
+  "ticks": 5,
+  "maxHit": "15",
+  "element": "Blood",
+  "description": "A single target blood attack",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Blood",
+    "quantity": 1,
+    "id": 565
+   },
+   {
+    "rune": "Death",
+    "quantity": 2,
+    "id": 560
+   },
+   {
+    "rune": "Chaos",
+    "quantity": 2,
+    "id": 562
+   }
+  ],
+  "image": "Blood Rush.png",
+  "release": "18 April 2005"
+ },
+ {
+  "name": "Ice Rush",
+  "page": "Ice Rush",
+  "isMembers": true,
+  "level": 58,
+  "spellbook": "Ancient",
+  "type": "Combat",
+  "experience": 34.0,
+  "ticks": 5,
+  "maxHit": "16",
+  "element": "Ice",
+  "description": "A single target ice attack",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Death",
+    "quantity": 2,
+    "id": 560
+   },
+   {
+    "rune": "Chaos",
+    "quantity": 2,
+    "id": 562
+   },
+   {
+    "rune": "Water",
+    "quantity": 2,
+    "id": 555
+   }
+  ],
+  "image": "Ice Rush.png",
+  "release": "18 April 2005"
+ },
+ {
+  "name": "Senntisten Teleport",
+  "page": "Senntisten Teleport",
+  "isMembers": true,
+  "level": 60,
+  "spellbook": "Ancient",
+  "type": "Teleport",
+  "experience": 70.0,
+  "ticks": 5,
+  "maxHit": null,
+  "element": null,
+  "description": "A teleportation spell",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 2,
+    "id": 563
+   },
+   {
+    "rune": "Soul",
+    "quantity": 1,
+    "id": 566
+   }
+  ],
+  "image": "Senntisten Teleport.png",
+  "release": "18 April 2005"
+ },
+ {
+  "name": "Smoke Burst",
+  "page": "Smoke Burst",
+  "isMembers": true,
+  "level": 62,
+  "spellbook": "Ancient",
+  "type": "Combat",
+  "experience": 36.0,
+  "ticks": 5,
+  "maxHit": "17",
+  "element": "Smoke",
+  "description": "A multi-target smoke attack",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Air",
+    "quantity": 2,
+    "id": 556
+   },
+   {
+    "rune": "Fire",
+    "quantity": 2,
+    "id": 554
+   },
+   {
+    "rune": "Chaos",
+    "quantity": 4,
+    "id": 562
+   },
+   {
+    "rune": "Death",
+    "quantity": 2,
+    "id": 560
+   }
+  ],
+  "image": "Smoke Burst.png",
+  "release": "18 April 2005"
+ },
+ {
+  "name": "Shadow Burst",
+  "page": "Shadow Burst",
+  "isMembers": true,
+  "level": 64,
+  "spellbook": "Ancient",
+  "type": "Combat",
+  "experience": 37.0,
+  "ticks": 5,
+  "maxHit": "18",
+  "element": "Shadow",
+  "description": "A multi-target shadow attack",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Soul",
+    "quantity": 2,
+    "id": 566
+   },
+   {
+    "rune": "Chaos",
+    "quantity": 4,
+    "id": 562
+   },
+   {
+    "rune": "Air",
+    "quantity": 1,
+    "id": 556
+   },
+   {
+    "rune": "Death",
+    "quantity": 2,
+    "id": 560
+   }
+  ],
+  "image": "Shadow Burst.png",
+  "release": "18 April 2005"
+ },
+ {
+  "name": "Kharyrll Teleport",
+  "page": "Kharyrll Teleport",
+  "isMembers": true,
+  "level": 66,
+  "spellbook": "Ancient",
+  "type": "Teleport",
+  "experience": 76.0,
+  "ticks": 5,
+  "maxHit": null,
+  "element": null,
+  "description": "A teleportation spell",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 2,
+    "id": 563
+   },
+   {
+    "rune": "Blood",
+    "quantity": 1,
+    "id": 565
+   }
+  ],
+  "image": "Kharyrll Teleport.png",
+  "release": "18 April 2005"
+ },
+ {
+  "name": "Blood Burst",
+  "page": "Blood Burst",
+  "isMembers": true,
+  "level": 68,
+  "spellbook": "Ancient",
+  "type": "Combat",
+  "experience": 39.0,
+  "ticks": 5,
+  "maxHit": "21",
+  "element": "Blood",
+  "description": "A multi-target blood attack",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Death",
+    "quantity": 2,
+    "id": 560
+   },
+   {
+    "rune": "Blood",
+    "quantity": 2,
+    "id": 565
+   },
+   {
+    "rune": "Chaos",
+    "quantity": 4,
+    "id": 562
+   }
+  ],
+  "image": "Blood Burst.png",
+  "release": "18 April 2005"
+ },
+ {
+  "name": "Ice Burst",
+  "page": "Ice Burst",
+  "isMembers": true,
+  "level": 70,
+  "spellbook": "Ancient",
+  "type": "Combat",
+  "experience": 40.0,
+  "ticks": 5,
+  "maxHit": "22",
+  "element": "Ice",
+  "description": "A multi-target ice attack",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Death",
+    "quantity": 2,
+    "id": 560
+   },
+   {
+    "rune": "Chaos",
+    "quantity": 4,
+    "id": 562
+   },
+   {
+    "rune": "Water",
+    "quantity": 4,
+    "id": 555
+   }
+  ],
+  "image": "Ice Burst.png",
+  "release": "18 April 2005"
+ },
+ {
+  "name": "Lassar Teleport",
+  "page": "Lassar Teleport",
+  "isMembers": true,
+  "level": 72,
+  "spellbook": "Ancient",
+  "type": "Teleport",
+  "experience": 82.0,
+  "ticks": 5,
+  "maxHit": null,
+  "element": null,
+  "description": "A teleportation spell",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 2,
+    "id": 563
+   },
+   {
+    "rune": "Water",
+    "quantity": 4,
+    "id": 555
+   }
+  ],
+  "image": "Lassar Teleport.png",
+  "release": "18 April 2005"
+ },
+ {
+  "name": "Smoke Blitz",
+  "page": "Smoke Blitz",
+  "isMembers": true,
+  "level": 74,
+  "spellbook": "Ancient",
+  "type": "Combat",
+  "experience": 42.0,
+  "ticks": 5,
+  "maxHit": "23",
+  "element": "Smoke",
+  "description": "A single target strong smoke attack",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Blood",
+    "quantity": 2,
+    "id": 565
+   },
+   {
+    "rune": "Air",
+    "quantity": 2,
+    "id": 556
+   },
+   {
+    "rune": "Death",
+    "quantity": 2,
+    "id": 560
+   },
+   {
+    "rune": "Fire",
+    "quantity": 2,
+    "id": 554
+   }
+  ],
+  "image": "Smoke Blitz.png",
+  "release": "18 April 2005"
+ },
+ {
+  "name": "Shadow Blitz",
+  "page": "Shadow Blitz",
+  "isMembers": true,
+  "level": 76,
+  "spellbook": "Ancient",
+  "type": "Combat",
+  "experience": 43.0,
+  "ticks": 5,
+  "maxHit": "24",
+  "element": "Shadow",
+  "description": "A single target strong shadow attack",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Soul",
+    "quantity": 2,
+    "id": 566
+   },
+   {
+    "rune": "Blood",
+    "quantity": 2,
+    "id": 565
+   },
+   {
+    "rune": "Air",
+    "quantity": 2,
+    "id": 556
+   },
+   {
+    "rune": "Death",
+    "quantity": 2,
+    "id": 560
+   }
+  ],
+  "image": "Shadow Blitz.png",
+  "release": "18 April 2005"
+ },
+ {
+  "name": "Dareeyak Teleport",
+  "page": "Dareeyak Teleport",
+  "isMembers": true,
+  "level": 78,
+  "spellbook": "Ancient",
+  "type": "Teleport",
+  "experience": 88.0,
+  "ticks": 5,
+  "maxHit": null,
+  "element": null,
+  "description": "A teleportation spell",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 2,
+    "id": 563
+   },
+   {
+    "rune": "Fire",
+    "quantity": 3,
+    "id": 554
+   },
+   {
+    "rune": "Air",
+    "quantity": 2,
+    "id": 556
+   }
+  ],
+  "image": "Dareeyak Teleport.png",
+  "release": "18 April 2005"
+ },
+ {
+  "name": "Blood Blitz",
+  "page": "Blood Blitz",
+  "isMembers": true,
+  "level": 80,
+  "spellbook": "Ancient",
+  "type": "Combat",
+  "experience": 45.0,
+  "ticks": 5,
+  "maxHit": "25",
+  "element": "Blood",
+  "description": "A single target strong blood attack",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Death",
+    "quantity": 2,
+    "id": 560
+   },
+   {
+    "rune": "Blood",
+    "quantity": 4,
+    "id": 565
+   }
+  ],
+  "image": "Blood Blitz.png",
+  "release": "18 April 2005"
+ },
+ {
+  "name": "Ice Blitz",
+  "page": "Ice Blitz",
+  "isMembers": true,
+  "level": 82,
+  "spellbook": "Ancient",
+  "type": "Combat",
+  "experience": 46.0,
+  "ticks": 5,
+  "maxHit": "26",
+  "element": "Ice",
+  "description": "A single target strong ice attack",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Death",
+    "quantity": 2,
+    "id": 560
+   },
+   {
+    "rune": "Blood",
+    "quantity": 2,
+    "id": 565
+   },
+   {
+    "rune": "Water",
+    "quantity": 3,
+    "id": 555
+   }
+  ],
+  "image": "Ice Blitz.png",
+  "release": "18 April 2005"
+ },
+ {
+  "name": "Carrallanger Teleport",
+  "page": "Carrallanger Teleport",
+  "isMembers": true,
+  "level": 84,
+  "spellbook": "Ancient",
+  "type": "Teleport",
+  "experience": 94.0,
+  "ticks": 5,
+  "maxHit": null,
+  "element": null,
+  "description": "A teleportation spell",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Soul",
+    "quantity": 2,
+    "id": 566
+   },
+   {
+    "rune": "Law",
+    "quantity": 2,
+    "id": 563
+   }
+  ],
+  "image": "Carrallanger Teleport.png",
+  "release": "18 April 2005"
+ },
+ {
+  "name": "Smoke Barrage",
+  "page": "Smoke Barrage",
+  "isMembers": true,
+  "level": 86,
+  "spellbook": "Ancient",
+  "type": "Combat",
+  "experience": 48.0,
+  "ticks": 5,
+  "maxHit": "27",
+  "element": "Smoke",
+  "description": "A multi-target strong smoke attack",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Blood",
+    "quantity": 2,
+    "id": 565
+   },
+   {
+    "rune": "Air",
+    "quantity": 4,
+    "id": 556
+   },
+   {
+    "rune": "Death",
+    "quantity": 4,
+    "id": 560
+   },
+   {
+    "rune": "Fire",
+    "quantity": 4,
+    "id": 554
+   }
+  ],
+  "image": "Smoke Barrage.png",
+  "release": "18 April 2005"
+ },
+ {
+  "name": "Shadow Barrage",
+  "page": "Shadow Barrage",
+  "isMembers": true,
+  "level": 88,
+  "spellbook": "Ancient",
+  "type": "Combat",
+  "experience": 49.0,
+  "ticks": 5,
+  "maxHit": "28",
+  "element": "Shadow",
+  "description": "A multi-target strong shadow attack",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Air",
+    "quantity": 4,
+    "id": 556
+   },
+   {
+    "rune": "Soul",
+    "quantity": 3,
+    "id": 566
+   },
+   {
+    "rune": "Blood",
+    "quantity": 2,
+    "id": 565
+   },
+   {
+    "rune": "Death",
+    "quantity": 4,
+    "id": 560
+   }
+  ],
+  "image": "Shadow Barrage.png",
+  "release": "18 April 2005"
+ },
+ {
+  "name": "Annakarl Teleport",
+  "page": "Annakarl Teleport",
+  "isMembers": true,
+  "level": 90,
+  "spellbook": "Ancient",
+  "type": "Teleport",
+  "experience": 100.0,
+  "ticks": 5,
+  "maxHit": null,
+  "element": null,
+  "description": "A teleportation spell",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Blood",
+    "quantity": 2,
+    "id": 565
+   },
+   {
+    "rune": "Law",
+    "quantity": 2,
+    "id": 563
+   }
+  ],
+  "image": "Annakarl Teleport.png",
+  "release": "18 April 2005"
+ },
+ {
+  "name": "Blood Barrage",
+  "page": "Blood Barrage",
+  "isMembers": true,
+  "level": 92,
+  "spellbook": "Ancient",
+  "type": "Combat",
+  "experience": 51.0,
+  "ticks": 5,
+  "maxHit": "29",
+  "element": "Blood",
+  "description": "A multi-target strong blood attack",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Death",
+    "quantity": 4,
+    "id": 560
+   },
+   {
+    "rune": "Blood",
+    "quantity": 4,
+    "id": 565
+   },
+   {
+    "rune": "Soul",
+    "quantity": 1,
+    "id": 566
+   }
+  ],
+  "image": "Blood Barrage.png",
+  "release": "18 April 2005"
+ },
+ {
+  "name": "Ice Barrage",
+  "page": "Ice Barrage",
+  "isMembers": true,
+  "level": 94,
+  "spellbook": "Ancient",
+  "type": "Combat",
+  "experience": 52.0,
+  "ticks": 5,
+  "maxHit": "30",
+  "element": "Ice",
+  "description": "A multi-target strong ice attack",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Death",
+    "quantity": 4,
+    "id": 560
+   },
+   {
+    "rune": "Blood",
+    "quantity": 2,
+    "id": 565
+   },
+   {
+    "rune": "Water",
+    "quantity": 6,
+    "id": 555
+   }
+  ],
+  "image": "Ice Barrage.png",
+  "release": "18 April 2005"
+ },
+ {
+  "name": "Ghorrock Teleport",
+  "page": "Ghorrock Teleport",
+  "isMembers": true,
+  "level": 96,
+  "spellbook": "Ancient",
+  "type": "Teleport",
+  "experience": 106.0,
+  "ticks": 5,
+  "maxHit": null,
+  "element": null,
+  "description": "A teleportation spell",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 2,
+    "id": 563
+   },
+   {
+    "rune": "Water",
+    "quantity": 8,
+    "id": 555
+   }
+  ],
+  "image": "Ghorrock Teleport.png",
+  "release": "18 April 2005"
+ },
+ {
+  "name": "Arceuus Home Teleport",
+  "page": "Arceuus Home Teleport",
+  "isMembers": true,
+  "level": 1,
+  "spellbook": "Arceuus",
+  "type": "Teleport",
+  "experience": 0.0,
+  "ticks": 24,
+  "maxHit": null,
+  "element": null,
+  "description": "Requires no runes - recharge time 30 mins. Warning: This spell takes a long time to cast and will be interrupted by combat.",
+  "quest": null,
+  "cooldown": "3,000 ticks",
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [],
+  "image": "Arceuus Home Teleport.png",
+  "release": "7 January 2016"
+ },
+ {
+  "name": "Reanimate Goblin",
+  "page": "Reanimate Goblin",
+  "isMembers": true,
+  "level": 3,
+  "spellbook": "Arceuus",
+  "type": "Utility",
+  "experience": 6.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Reanimates an ensouled corpse",
+  "quest": "None",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": "28 April 2021",
+  "removalUpdate": "Arceuus Spellbook Beta and A Kingdom Divided Preparation",
+  "runes": [
+   {
+    "rune": "Body",
+    "quantity": 2,
+    "id": 559
+   },
+   {
+    "rune": "Nature",
+    "quantity": 1,
+    "id": 561
+   }
+  ],
+  "image": "Reanimate Goblin.png",
+  "release": "7 January 2016"
+ },
+ {
+  "name": "Arceuus Library Teleport",
+  "page": "Arceuus Library Teleport",
+  "isMembers": true,
+  "level": 6,
+  "spellbook": "Arceuus",
+  "type": "Teleport",
+  "experience": 9.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports you to the Arceuus Library",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 1,
+    "id": 563
+   },
+   {
+    "rune": "Earth",
+    "quantity": 2,
+    "id": 557
+   }
+  ],
+  "image": "Arceuus Library Teleport.png",
+  "release": "28 April 2021"
+ },
+ {
+  "name": "Lumbridge Graveyard Teleport",
+  "page": "Lumbridge Graveyard Teleport",
+  "isMembers": true,
+  "level": 6,
+  "spellbook": "Arceuus",
+  "type": "Teleport",
+  "experience": 9.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports you to the graveyard in Lumbridge",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": "28 April 2021",
+  "removalUpdate": "Arceuus Spellbook Beta and A Kingdom Divided Preparation",
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 1,
+    "id": 563
+   },
+   {
+    "rune": "Earth",
+    "quantity": 2,
+    "id": 557
+   }
+  ],
+  "image": "Lumbridge Graveyard Teleport.png",
+  "release": "28 January 2016"
+ },
+ {
+  "name": "Reanimate Monkey",
+  "page": "Reanimate Monkey",
+  "isMembers": true,
+  "level": 7,
+  "spellbook": "Arceuus",
+  "type": "Utility",
+  "experience": 14.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Reanimates an ensouled corpse",
+  "quest": "None",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": "28 April 2021",
+  "removalUpdate": "Arceuus Spellbook Beta and A Kingdom Divided Preparation",
+  "runes": [
+   {
+    "rune": "Body",
+    "quantity": 3,
+    "id": 559
+   },
+   {
+    "rune": "Nature",
+    "quantity": 1,
+    "id": 561
+   }
+  ],
+  "image": "Reanimate Monkey.png",
+  "release": "7 January 2016"
+ },
+ {
+  "name": "Reanimate Imp",
+  "page": "Reanimate Imp",
+  "isMembers": true,
+  "level": 12,
+  "spellbook": "Arceuus",
+  "type": "Utility",
+  "experience": 24.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Reanimates an ensouled corpse",
+  "quest": "None",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": "28 April 2021",
+  "removalUpdate": "Arceuus Spellbook Beta and A Kingdom Divided Preparation",
+  "runes": [
+   {
+    "rune": "Body",
+    "quantity": 3,
+    "id": 559
+   },
+   {
+    "rune": "Nature",
+    "quantity": 2,
+    "id": 561
+   }
+  ],
+  "image": "Reanimate Imp.png",
+  "release": "7 January 2016"
+ },
+ {
+  "name": "Basic Reanimation",
+  "page": "Basic Reanimation",
+  "isMembers": true,
+  "level": 16,
+  "spellbook": "Arceuus",
+  "type": "Utility",
+  "experience": 32.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Reanimates a low levelled creature",
+  "quest": "None",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Body",
+    "quantity": 4,
+    "id": 559
+   },
+   {
+    "rune": "Nature",
+    "quantity": 2,
+    "id": 561
+   }
+  ],
+  "image": "Basic Reanimation.png",
+  "release": "28 April 2021"
+ },
+ {
+  "name": "Reanimate Minotaur",
+  "page": "Reanimate Minotaur",
+  "isMembers": true,
+  "level": 16,
+  "spellbook": "Arceuus",
+  "type": "Utility",
+  "experience": 32.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Reanimates an ensouled corpse",
+  "quest": "None",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": "28 April 2021",
+  "removalUpdate": "Arceuus Spellbook Beta and A Kingdom Divided Preparation",
+  "runes": [
+   {
+    "rune": "Body",
+    "quantity": 4,
+    "id": 559
+   },
+   {
+    "rune": "Nature",
+    "quantity": 2,
+    "id": 561
+   }
+  ],
+  "image": "Reanimate Minotaur.png",
+  "release": "7 January 2016"
+ },
+ {
+  "name": "Draynor Manor Teleport",
+  "page": "Draynor Manor Teleport",
+  "isMembers": true,
+  "level": 17,
+  "spellbook": "Arceuus",
+  "type": "Teleport",
+  "experience": 16.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports you to Draynor Manor",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 1,
+    "id": 563
+   },
+   {
+    "rune": "Earth",
+    "quantity": 1,
+    "id": 557
+   },
+   {
+    "rune": "Water",
+    "quantity": 1,
+    "id": 555
+   }
+  ],
+  "image": "Draynor Manor Teleport.png",
+  "release": "28 January 2016"
+ },
+ {
+  "name": "Reanimate Scorpion",
+  "page": "Reanimate Scorpion",
+  "isMembers": true,
+  "level": 19,
+  "spellbook": "Arceuus",
+  "type": "Utility",
+  "experience": 38.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Reanimates an ensouled corpse",
+  "quest": "None",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": "28 April 2021",
+  "removalUpdate": "Arceuus Spellbook Beta and A Kingdom Divided Preparation",
+  "runes": [
+   {
+    "rune": "Soul",
+    "quantity": 1,
+    "id": 566
+   },
+   {
+    "rune": "Nature",
+    "quantity": 1,
+    "id": 561
+   }
+  ],
+  "image": "Reanimate Scorpion.png",
+  "release": "7 January 2016"
+ },
+ {
+  "name": "Reanimate Bear",
+  "page": "Reanimate Bear",
+  "isMembers": true,
+  "level": 21,
+  "spellbook": "Arceuus",
+  "type": "Utility",
+  "experience": 42.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Reanimates an ensouled corpse",
+  "quest": "None",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": "28 April 2021",
+  "removalUpdate": "Arceuus Spellbook Beta and A Kingdom Divided Preparation",
+  "runes": [
+   {
+    "rune": "Soul",
+    "quantity": 1,
+    "id": 566
+   },
+   {
+    "rune": "Nature",
+    "quantity": 1,
+    "id": 561
+   },
+   {
+    "rune": "Body",
+    "quantity": 1,
+    "id": 559
+   }
+  ],
+  "image": "Reanimate Bear.png",
+  "release": "7 January 2016"
+ },
+ {
+  "name": "Reanimate Unicorn",
+  "page": "Reanimate Unicorn",
+  "isMembers": true,
+  "level": 22,
+  "spellbook": "Arceuus",
+  "type": "Utility",
+  "experience": 44.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Reanimates an ensouled corpse",
+  "quest": "None",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": "28 April 2021",
+  "removalUpdate": "Arceuus Spellbook Beta and A Kingdom Divided Preparation",
+  "runes": [
+   {
+    "rune": "Soul",
+    "quantity": 1,
+    "id": 566
+   },
+   {
+    "rune": "Nature",
+    "quantity": 1,
+    "id": 561
+   },
+   {
+    "rune": "Body",
+    "quantity": 2,
+    "id": 559
+   }
+  ],
+  "image": "Reanimate Unicorn.png",
+  "release": "7 January 2016"
+ },
+ {
+  "name": "Battlefront Teleport",
+  "page": "Battlefront Teleport",
+  "isMembers": true,
+  "level": 23,
+  "spellbook": "Arceuus",
+  "type": "Teleport",
+  "experience": 19.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports you to the grave north-west of Kebos Battlefront",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 1,
+    "id": 563
+   },
+   {
+    "rune": "Earth",
+    "quantity": 1,
+    "id": 557
+   },
+   {
+    "rune": "Fire",
+    "quantity": 1,
+    "id": 554
+   }
+  ],
+  "image": "Battlefront Teleport.png",
+  "release": "10 January 2019"
+ },
+ {
+  "name": "Reanimate Dog",
+  "page": "Reanimate Dog",
+  "isMembers": true,
+  "level": 26,
+  "spellbook": "Arceuus",
+  "type": "Utility",
+  "experience": 52.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Reanimates an ensouled corpse",
+  "quest": "None",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": "28 April 2021",
+  "removalUpdate": "Arceuus Spellbook Beta and A Kingdom Divided Preparation",
+  "runes": [
+   {
+    "rune": "Soul",
+    "quantity": 1,
+    "id": 566
+   },
+   {
+    "rune": "Nature",
+    "quantity": 2,
+    "id": 561
+   },
+   {
+    "rune": "Body",
+    "quantity": 2,
+    "id": 559
+   }
+  ],
+  "image": "Reanimate Dog.png",
+  "release": "7 January 2016"
+ },
+ {
+  "name": "Mind Altar Teleport",
+  "page": "Mind Altar Teleport",
+  "isMembers": true,
+  "level": 28,
+  "spellbook": "Arceuus",
+  "type": "Teleport",
+  "experience": 22.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports you to the Mind Altar",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 1,
+    "id": 563
+   },
+   {
+    "rune": "Mind",
+    "quantity": 2,
+    "id": 558
+   }
+  ],
+  "image": "Mind Altar Teleport.png",
+  "release": "28 January 2016"
+ },
+ {
+  "name": "Reanimate Chaos Druid",
+  "page": "Reanimate Chaos Druid",
+  "isMembers": true,
+  "level": 30,
+  "spellbook": "Arceuus",
+  "type": "Utility",
+  "experience": 60.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Reanimates an ensouled corpse",
+  "quest": "None",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": "28 April 2021",
+  "removalUpdate": "Arceuus Spellbook Beta and A Kingdom Divided Preparation",
+  "runes": [
+   {
+    "rune": "Soul",
+    "quantity": 1,
+    "id": 566
+   },
+   {
+    "rune": "Nature",
+    "quantity": 2,
+    "id": 561
+   },
+   {
+    "rune": "Body",
+    "quantity": 3,
+    "id": 559
+   }
+  ],
+  "image": "Reanimate Chaos Druid.png",
+  "release": "7 January 2016"
+ },
+ {
+  "name": "Respawn Teleport",
+  "page": "Respawn Teleport",
+  "isMembers": true,
+  "level": 34,
+  "spellbook": "Arceuus",
+  "type": "Teleport",
+  "experience": 27.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports you to your respawn location",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 1,
+    "id": 563
+   },
+   {
+    "rune": "Soul",
+    "quantity": 1,
+    "id": 566
+   }
+  ],
+  "image": "Respawn Teleport.png",
+  "release": "28 January 2016"
+ },
+ {
+  "name": "Ghostly Grasp",
+  "page": "Ghostly Grasp",
+  "isMembers": true,
+  "level": 35,
+  "spellbook": "Arceuus",
+  "type": "Combat",
+  "experience": 22.5,
+  "ticks": 5,
+  "maxHit": "12",
+  "element": null,
+  "description": "Deals minor damage with a low chance of holding your target",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Air",
+    "quantity": 4,
+    "id": 556
+   },
+   {
+    "rune": "Chaos",
+    "quantity": 1,
+    "id": 562
+   }
+  ],
+  "image": "Ghostly Grasp.png",
+  "release": "16 June 2021"
+ },
+ {
+  "name": "Reanimate Giant",
+  "page": "Reanimate Giant",
+  "isMembers": true,
+  "level": 37,
+  "spellbook": "Arceuus",
+  "type": "Utility",
+  "experience": 74.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Reanimates an ensouled corpse",
+  "quest": "None",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": "28 April 2021",
+  "removalUpdate": "Arceuus Spellbook Beta and A Kingdom Divided Preparation",
+  "runes": [
+   {
+    "rune": "Soul",
+    "quantity": 1,
+    "id": 566
+   },
+   {
+    "rune": "Nature",
+    "quantity": 2,
+    "id": 561
+   },
+   {
+    "rune": "Body",
+    "quantity": 4,
+    "id": 559
+   }
+  ],
+  "image": "Reanimate Giant.png",
+  "release": "7 January 2016"
+ },
+ {
+  "name": "Resurrect Ghost",
+  "page": "Resurrect Ghost (beta)",
+  "isMembers": true,
+  "level": 38,
+  "spellbook": "Arceuus",
+  "type": "Combat",
+  "experience": 55.0,
+  "ticks": 50,
+  "maxHit": null,
+  "element": null,
+  "description": "N/A",
+  "quest": "A Kingdom Divided",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Air",
+    "quantity": 10,
+    "id": 556
+   },
+   {
+    "rune": "Mind",
+    "quantity": 5,
+    "id": 558
+   },
+   {
+    "rune": "Cosmic",
+    "quantity": 1,
+    "id": 564
+   }
+  ],
+  "image": "Resurrect Ghost (beta).png",
+  "release": "28 April 2021"
+ },
+ {
+  "name": "Resurrect Lesser Ghost",
+  "page": "Resurrect Lesser Ghost",
+  "isMembers": true,
+  "level": 38,
+  "spellbook": "Arceuus",
+  "type": "Combat",
+  "experience": 55.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Calls upon a lesser ghostly thrall to fight alongside you",
+  "quest": "A Kingdom Divided",
+  "cooldown": "16 ticks",
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Air",
+    "quantity": 10,
+    "id": 556
+   },
+   {
+    "rune": "Mind",
+    "quantity": 5,
+    "id": 558
+   },
+   {
+    "rune": "Cosmic",
+    "quantity": 1,
+    "id": 564
+   }
+  ],
+  "image": "Resurrect Lesser Ghost.png",
+  "release": "16 June 2021"
+ },
+ {
+  "name": "Resurrect Lesser Skeleton",
+  "page": "Resurrect Lesser Skeleton",
+  "isMembers": true,
+  "level": 38,
+  "spellbook": "Arceuus",
+  "type": "Combat",
+  "experience": 55.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Calls upon a lesser skeletal thrall to fight alongside you",
+  "quest": "A Kingdom Divided",
+  "cooldown": "16 ticks",
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Air",
+    "quantity": 10,
+    "id": 556
+   },
+   {
+    "rune": "Mind",
+    "quantity": 5,
+    "id": 558
+   },
+   {
+    "rune": "Cosmic",
+    "quantity": 1,
+    "id": 564
+   }
+  ],
+  "image": "Resurrect Lesser Skeleton.png",
+  "release": "16 June 2021"
+ },
+ {
+  "name": "Resurrect Lesser Zombie",
+  "page": "Resurrect Lesser Zombie",
+  "isMembers": true,
+  "level": 38,
+  "spellbook": "Arceuus",
+  "type": "Combat",
+  "experience": 55.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Calls upon a lesser zombified thrall to fight alongside you",
+  "quest": "A Kingdom Divided",
+  "cooldown": "16 ticks",
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Air",
+    "quantity": 10,
+    "id": 556
+   },
+   {
+    "rune": "Mind",
+    "quantity": 5,
+    "id": 558
+   },
+   {
+    "rune": "Cosmic",
+    "quantity": 1,
+    "id": 564
+   }
+  ],
+  "image": "Resurrect Lesser Zombie.png",
+  "release": "16 June 2021"
+ },
+ {
+  "name": "Reanimate Ogre",
+  "page": "Reanimate Ogre",
+  "isMembers": true,
+  "level": 40,
+  "spellbook": "Arceuus",
+  "type": "Utility",
+  "experience": 80.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Reanimates an ensouled corpse",
+  "quest": "None",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": "28 April 2021",
+  "removalUpdate": "Arceuus Spellbook Beta and A Kingdom Divided Preparation",
+  "runes": [
+   {
+    "rune": "Soul",
+    "quantity": 1,
+    "id": 566
+   },
+   {
+    "rune": "Nature",
+    "quantity": 3,
+    "id": 561
+   },
+   {
+    "rune": "Body",
+    "quantity": 4,
+    "id": 559
+   }
+  ],
+  "image": "Reanimate Ogre.png",
+  "release": "7 January 2016"
+ },
+ {
+  "name": "Salve Graveyard Teleport",
+  "page": "Salve Graveyard Teleport",
+  "isMembers": true,
+  "level": 40,
+  "spellbook": "Arceuus",
+  "type": "Teleport",
+  "experience": 30.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports you to the graveyard on the River Salve",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 1,
+    "id": 563
+   },
+   {
+    "rune": "Soul",
+    "quantity": 2,
+    "id": 566
+   }
+  ],
+  "image": "Salve Graveyard Teleport.png",
+  "release": "28 January 2016"
+ },
+ {
+  "name": "Adept Reanimation",
+  "page": "Adept Reanimation",
+  "isMembers": true,
+  "level": 41,
+  "spellbook": "Arceuus",
+  "type": "Utility",
+  "experience": 80.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Reanimates a medium levelled creature",
+  "quest": "None",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Body",
+    "quantity": 4,
+    "id": 559
+   },
+   {
+    "rune": "Nature",
+    "quantity": 3,
+    "id": 561
+   },
+   {
+    "rune": "Soul",
+    "quantity": 1,
+    "id": 566
+   }
+  ],
+  "image": "Adept Reanimation.png",
+  "release": "28 April 2021"
+ },
+ {
+  "name": "Reanimate Elf",
+  "page": "Reanimate Elf",
+  "isMembers": true,
+  "level": 43,
+  "spellbook": "Arceuus",
+  "type": "Utility",
+  "experience": 86.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Reanimates an ensouled corpse",
+  "quest": "None",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": "28 April 2021",
+  "removalUpdate": "Arceuus Spellbook Beta and A Kingdom Divided Preparation",
+  "runes": [
+   {
+    "rune": "Soul",
+    "quantity": 2,
+    "id": 566
+   },
+   {
+    "rune": "Nature",
+    "quantity": 2,
+    "id": 561
+   },
+   {
+    "rune": "Body",
+    "quantity": 2,
+    "id": 559
+   }
+  ],
+  "image": "Reanimate Elf.png",
+  "release": "7 January 2016"
+ },
+ {
+  "name": "Inferior Demonbane",
+  "page": "Inferior Demonbane",
+  "isMembers": true,
+  "level": 44,
+  "spellbook": "Arceuus",
+  "type": "Combat",
+  "experience": 27.0,
+  "ticks": 5,
+  "maxHit": "16",
+  "element": null,
+  "description": "Hits a demon for minor damage",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Fire",
+    "quantity": 3,
+    "id": 554
+   },
+   {
+    "rune": "Chaos",
+    "quantity": 1,
+    "id": 562
+   }
+  ],
+  "image": "Inferior Demonbane.png",
+  "release": "16 June 2021"
+ },
+ {
+  "name": "Reanimate Troll",
+  "page": "Reanimate Troll",
+  "isMembers": true,
+  "level": 46,
+  "spellbook": "Arceuus",
+  "type": "Utility",
+  "experience": 93.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Reanimates an ensouled corpse",
+  "quest": "None",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": "28 April 2021",
+  "removalUpdate": "Arceuus Spellbook Beta and A Kingdom Divided Preparation",
+  "runes": [
+   {
+    "rune": "Soul",
+    "quantity": 2,
+    "id": 566
+   },
+   {
+    "rune": "Nature",
+    "quantity": 2,
+    "id": 561
+   },
+   {
+    "rune": "Body",
+    "quantity": 3,
+    "id": 559
+   }
+  ],
+  "image": "Reanimate Troll.png",
+  "release": "7 January 2016"
+ },
+ {
+  "name": "Shadow Veil",
+  "page": "Shadow Veil",
+  "isMembers": true,
+  "level": 47,
+  "spellbook": "Arceuus",
+  "type": "Utility",
+  "experience": 58.0,
+  "ticks": 1,
+  "maxHit": null,
+  "element": null,
+  "description": "Reduces your chance of being caught when pickpocketing",
+  "quest": "A Kingdom Divided",
+  "cooldown": "50 ticks",
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Earth",
+    "quantity": 5,
+    "id": 557
+   },
+   {
+    "rune": "Fire",
+    "quantity": 5,
+    "id": 554
+   },
+   {
+    "rune": "Cosmic",
+    "quantity": 5,
+    "id": 564
+   }
+  ],
+  "image": "Shadow Veil.png",
+  "release": "16 June 2021"
+ },
+ {
+  "name": "Fenkenstrain's Castle Teleport",
+  "page": "Fenkenstrain's Castle Teleport",
+  "isMembers": true,
+  "level": 48,
+  "spellbook": "Arceuus",
+  "type": "Teleport",
+  "experience": 50.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports you to Fenkenstrain's Castle",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 1,
+    "id": 563
+   },
+   {
+    "rune": "Soul",
+    "quantity": 1,
+    "id": 566
+   },
+   {
+    "rune": "Earth",
+    "quantity": 1,
+    "id": 557
+   }
+  ],
+  "image": "Fenkenstrain's Castle Teleport.png",
+  "release": "28 January 2016"
+ },
+ {
+  "name": "Dark Lure",
+  "page": "Dark Lure",
+  "isMembers": true,
+  "level": 50,
+  "spellbook": "Arceuus",
+  "type": "Combat",
+  "experience": 60.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Lures your target toward you",
+  "quest": "A Kingdom Divided",
+  "cooldown": "17 ticks",
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Nature",
+    "quantity": 1,
+    "id": 561
+   },
+   {
+    "rune": "Death",
+    "quantity": 1,
+    "id": 560
+   }
+  ],
+  "image": "Dark Lure.png",
+  "release": "16 June 2021"
+ },
+ {
+  "name": "Reanimate Horror",
+  "page": "Reanimate Horror",
+  "isMembers": true,
+  "level": 52,
+  "spellbook": "Arceuus",
+  "type": "Utility",
+  "experience": 104.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Reanimates an ensouled corpse",
+  "quest": "None",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": "28 April 2021",
+  "removalUpdate": "Arceuus Spellbook Beta and A Kingdom Divided Preparation",
+  "runes": [
+   {
+    "rune": "Soul",
+    "quantity": 2,
+    "id": 566
+   },
+   {
+    "rune": "Nature",
+    "quantity": 2,
+    "id": 561
+   },
+   {
+    "rune": "Body",
+    "quantity": 4,
+    "id": 559
+   }
+  ],
+  "image": "Reanimate Horror.png",
+  "release": "7 January 2016"
+ },
+ {
+  "name": "Skeletal Grasp",
+  "page": "Skeletal Grasp",
+  "isMembers": true,
+  "level": 56,
+  "spellbook": "Arceuus",
+  "type": "Combat",
+  "experience": 33.0,
+  "ticks": 5,
+  "maxHit": "17",
+  "element": null,
+  "description": "Deals medium damage with a medium chance of holding your target",
+  "quest": "A Kingdom Divided",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Earth",
+    "quantity": 8,
+    "id": 557
+   },
+   {
+    "rune": "Death",
+    "quantity": 1,
+    "id": 560
+   }
+  ],
+  "image": "Skeletal Grasp.png",
+  "release": "16 June 2021"
+ },
+ {
+  "name": "Reanimate Kalphite",
+  "page": "Reanimate Kalphite",
+  "isMembers": true,
+  "level": 57,
+  "spellbook": "Arceuus",
+  "type": "Utility",
+  "experience": 114.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Reanimates an ensouled corpse",
+  "quest": "None",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": "28 April 2021",
+  "removalUpdate": "Arceuus Spellbook Beta and A Kingdom Divided Preparation",
+  "runes": [
+   {
+    "rune": "Soul",
+    "quantity": 2,
+    "id": 566
+   },
+   {
+    "rune": "Nature",
+    "quantity": 3,
+    "id": 561
+   },
+   {
+    "rune": "Body",
+    "quantity": 4,
+    "id": 559
+   }
+  ],
+  "image": "Reanimate Kalphite.png",
+  "release": "7 January 2016"
+ },
+ {
+  "name": "Resurrect Skeleton",
+  "page": "Resurrect Skeleton (beta)",
+  "isMembers": true,
+  "level": 57,
+  "spellbook": "Arceuus",
+  "type": "Combat",
+  "experience": 70.0,
+  "ticks": 50,
+  "maxHit": null,
+  "element": null,
+  "description": "N/A",
+  "quest": "A Kingdom Divided",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Earth",
+    "quantity": 10,
+    "id": 557
+   },
+   {
+    "rune": "Death",
+    "quantity": 5,
+    "id": 560
+   },
+   {
+    "rune": "Cosmic",
+    "quantity": 1,
+    "id": 564
+   }
+  ],
+  "image": "Resurrect Skeleton (beta).png",
+  "release": "28 April 2021"
+ },
+ {
+  "name": "Resurrect Superior Ghost",
+  "page": "Resurrect Superior Ghost",
+  "isMembers": true,
+  "level": 57,
+  "spellbook": "Arceuus",
+  "type": "Combat",
+  "experience": 70.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Calls upon a superior ghostly thrall to fight alongside you",
+  "quest": "A Kingdom Divided",
+  "cooldown": "16 ticks",
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Earth",
+    "quantity": 10,
+    "id": 557
+   },
+   {
+    "rune": "Death",
+    "quantity": 5,
+    "id": 560
+   },
+   {
+    "rune": "Cosmic",
+    "quantity": 1,
+    "id": 564
+   }
+  ],
+  "image": "Resurrect Superior Ghost.png",
+  "release": "16 June 2021"
+ },
+ {
+  "name": "Resurrect Superior Skeleton",
+  "page": "Resurrect Superior Skeleton",
+  "isMembers": true,
+  "level": 57,
+  "spellbook": "Arceuus",
+  "type": "Combat",
+  "experience": 70.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Calls upon a superior skeletal thrall to fight alongside you",
+  "quest": "A Kingdom Divided",
+  "cooldown": "16 ticks",
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Earth",
+    "quantity": 10,
+    "id": 557
+   },
+   {
+    "rune": "Death",
+    "quantity": 5,
+    "id": 560
+   },
+   {
+    "rune": "Cosmic",
+    "quantity": 1,
+    "id": 564
+   }
+  ],
+  "image": "Resurrect Superior Skeleton.png",
+  "release": "16 June 2021"
+ },
+ {
+  "name": "Resurrect Superior Zombie",
+  "page": "Resurrect Superior Zombie",
+  "isMembers": true,
+  "level": 57,
+  "spellbook": "Arceuus",
+  "type": "Combat",
+  "experience": 70.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Calls upon a superior zombified thrall to fight alongside you",
+  "quest": "A Kingdom Divided",
+  "cooldown": "16 ticks",
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Earth",
+    "quantity": 10,
+    "id": 557
+   },
+   {
+    "rune": "Death",
+    "quantity": 5,
+    "id": 560
+   },
+   {
+    "rune": "Cosmic",
+    "quantity": 1,
+    "id": 564
+   }
+  ],
+  "image": "Resurrect Superior Zombie.png",
+  "release": "16 June 2021"
+ },
+ {
+  "name": "Mark of Darkness",
+  "page": "Mark of Darkness",
+  "isMembers": true,
+  "level": 59,
+  "spellbook": "Arceuus",
+  "type": "Combat",
+  "experience": 70.0,
+  "ticks": 0,
+  "maxHit": null,
+  "element": null,
+  "description": "Makes your offensive Arceuus spells more potent",
+  "quest": "A Kingdom Divided",
+  "cooldown": "10 ticks",
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Cosmic",
+    "quantity": 1,
+    "id": 564
+   },
+   {
+    "rune": "Soul",
+    "quantity": 1,
+    "id": 566
+   }
+  ],
+  "image": "Mark of Darkness.png",
+  "release": "16 June 2021"
+ },
+ {
+  "name": "West Ardougne Teleport",
+  "page": "West Ardougne Teleport",
+  "isMembers": true,
+  "level": 61,
+  "spellbook": "Arceuus",
+  "type": "Teleport",
+  "experience": 68.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports you to West Ardougne",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 2,
+    "id": 563
+   },
+   {
+    "rune": "Soul",
+    "quantity": 2,
+    "id": 566
+   }
+  ],
+  "image": "West Ardougne Teleport.png",
+  "release": "28 January 2016"
+ },
+ {
+  "name": "Reanimate Dagannoth",
+  "page": "Reanimate Dagannoth",
+  "isMembers": true,
+  "level": 62,
+  "spellbook": "Arceuus",
+  "type": "Utility",
+  "experience": 124.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Reanimates an ensouled corpse",
+  "quest": "None",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": "28 April 2021",
+  "removalUpdate": "Arceuus Spellbook Beta and A Kingdom Divided Preparation",
+  "runes": [
+   {
+    "rune": "Soul",
+    "quantity": 3,
+    "id": 566
+   },
+   {
+    "rune": "Nature",
+    "quantity": 3,
+    "id": 561
+   },
+   {
+    "rune": "Body",
+    "quantity": 4,
+    "id": 559
+   }
+  ],
+  "image": "Reanimate Dagannoth.png",
+  "release": "7 January 2016"
+ },
+ {
+  "name": "Superior Demonbane",
+  "page": "Superior Demonbane",
+  "isMembers": true,
+  "level": 62,
+  "spellbook": "Arceuus",
+  "type": "Combat",
+  "experience": 36.0,
+  "ticks": 5,
+  "maxHit": "23",
+  "element": null,
+  "description": "Hits a demon for moderate damage",
+  "quest": "A Kingdom Divided",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Fire",
+    "quantity": 5,
+    "id": 554
+   },
+   {
+    "rune": "Soul",
+    "quantity": 1,
+    "id": 566
+   }
+  ],
+  "image": "Superior Demonbane.png",
+  "release": "16 June 2021"
+ },
+ {
+  "name": "Lesser Corruption",
+  "page": "Lesser Corruption",
+  "isMembers": true,
+  "level": 64,
+  "spellbook": "Arceuus",
+  "type": "Combat",
+  "experience": 75.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Imbues your attacks with a lesser corruption",
+  "quest": "A Kingdom Divided",
+  "cooldown": "50 ticks",
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Death",
+    "quantity": 1,
+    "id": 560
+   },
+   {
+    "rune": "Soul",
+    "quantity": 2,
+    "id": 566
+   }
+  ],
+  "image": "Lesser Corruption.png",
+  "release": "16 June 2021"
+ },
+ {
+  "name": "Harmony Island Teleport",
+  "page": "Harmony Island Teleport",
+  "isMembers": true,
+  "level": 65,
+  "spellbook": "Arceuus",
+  "type": "Teleport",
+  "experience": 74.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports you to Harmony Island",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 1,
+    "id": 563
+   },
+   {
+    "rune": "Soul",
+    "quantity": 1,
+    "id": 566
+   },
+   {
+    "rune": "Nature",
+    "quantity": 1,
+    "id": 561
+   }
+  ],
+  "image": "Harmony Island Teleport.png",
+  "release": "28 January 2016"
+ },
+ {
+  "name": "Reanimate Bloodveld",
+  "page": "Reanimate Bloodveld",
+  "isMembers": true,
+  "level": 65,
+  "spellbook": "Arceuus",
+  "type": "Utility",
+  "experience": 130.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Reanimates an ensouled corpse",
+  "quest": "None",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": "28 April 2021",
+  "removalUpdate": "Arceuus Spellbook Beta and A Kingdom Divided Preparation",
+  "runes": [
+   {
+    "rune": "Soul",
+    "quantity": 2,
+    "id": 566
+   },
+   {
+    "rune": "Blood",
+    "quantity": 1,
+    "id": 565
+   },
+   {
+    "rune": "Nature",
+    "quantity": 2,
+    "id": 561
+   }
+  ],
+  "image": "Reanimate Bloodveld.png",
+  "release": "7 January 2016"
+ },
+ {
+  "name": "Vile Vigour",
+  "page": "Vile Vigour",
+  "isMembers": true,
+  "level": 66,
+  "spellbook": "Arceuus",
+  "type": "Utility",
+  "experience": 76.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Converts your available prayer points into run energy",
+  "quest": "A Kingdom Divided",
+  "cooldown": "17 ticks",
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Air",
+    "quantity": 3,
+    "id": 556
+   },
+   {
+    "rune": "Soul",
+    "quantity": 1,
+    "id": 566
+   }
+  ],
+  "image": "Vile Vigour.png",
+  "release": "16 June 2021"
+ },
+ {
+  "name": "Reanimate TzHaar",
+  "page": "Reanimate TzHaar",
+  "isMembers": true,
+  "level": 69,
+  "spellbook": "Arceuus",
+  "type": "Utility",
+  "experience": 138.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Reanimates an ensouled corpse",
+  "quest": "None",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": "28 April 2021",
+  "removalUpdate": "Arceuus Spellbook Beta and A Kingdom Divided Preparation",
+  "runes": [
+   {
+    "rune": "Soul",
+    "quantity": 2,
+    "id": 566
+   },
+   {
+    "rune": "Nature",
+    "quantity": 3,
+    "id": 561
+   },
+   {
+    "rune": "Blood",
+    "quantity": 1,
+    "id": 565
+   }
+  ],
+  "image": "Reanimate TzHaar.png",
+  "release": "7 January 2016"
+ },
+ {
+  "name": "Degrime",
+  "page": "Degrime",
+  "isMembers": true,
+  "level": 70,
+  "spellbook": "Arceuus",
+  "type": "Utility",
+  "experience": 83.0,
+  "ticks": 8,
+  "maxHit": null,
+  "element": null,
+  "description": "Cleans all of your grimy herbs",
+  "quest": "A Kingdom Divided",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Earth",
+    "quantity": 4,
+    "id": 557
+   },
+   {
+    "rune": "Nature",
+    "quantity": 2,
+    "id": 561
+   }
+  ],
+  "image": "Degrime.png",
+  "release": "16 June 2021"
+ },
+ {
+  "name": "Cemetery Teleport",
+  "page": "Cemetery Teleport",
+  "isMembers": true,
+  "level": 71,
+  "spellbook": "Arceuus",
+  "type": "Teleport",
+  "experience": 82.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports you to the Forgotten Cemetery",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 1,
+    "id": 563
+   },
+   {
+    "rune": "Soul",
+    "quantity": 1,
+    "id": 566
+   },
+   {
+    "rune": "Blood",
+    "quantity": 1,
+    "id": 565
+   }
+  ],
+  "image": "Cemetery Teleport.png",
+  "release": "28 January 2016"
+ },
+ {
+  "name": "Expert Reanimation",
+  "page": "Expert Reanimation",
+  "isMembers": true,
+  "level": 72,
+  "spellbook": "Arceuus",
+  "type": "Utility",
+  "experience": 138.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Reanimates a high levelled creature",
+  "quest": "None",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Nature",
+    "quantity": 3,
+    "id": 561
+   },
+   {
+    "rune": "Blood",
+    "quantity": 1,
+    "id": 565
+   },
+   {
+    "rune": "Soul",
+    "quantity": 2,
+    "id": 566
+   }
+  ],
+  "image": "Expert Reanimation.png",
+  "release": "28 April 2021"
+ },
+ {
+  "name": "Reanimate Demon",
+  "page": "Reanimate Demon",
+  "isMembers": true,
+  "level": 72,
+  "spellbook": "Arceuus",
+  "type": "Utility",
+  "experience": 144.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Reanimates an ensouled corpse",
+  "quest": "None",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": "28 April 2021",
+  "removalUpdate": "Arceuus Spellbook Beta and A Kingdom Divided Preparation",
+  "runes": [
+   {
+    "rune": "Soul",
+    "quantity": 2,
+    "id": 566
+   },
+   {
+    "rune": "Nature",
+    "quantity": 4,
+    "id": 561
+   },
+   {
+    "rune": "Blood",
+    "quantity": 1,
+    "id": 565
+   }
+  ],
+  "image": "Reanimate Demon.png",
+  "release": "7 January 2016"
+ },
+ {
+  "name": "Ward of Arceuus",
+  "page": "Ward of Arceuus",
+  "isMembers": true,
+  "level": 73,
+  "spellbook": "Arceuus",
+  "type": "Combat",
+  "experience": 83.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Gives you protection from the effects of offensive Arceuus spells and demonic attacks",
+  "quest": "A Kingdom Divided",
+  "cooldown": "50 ticks",
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Cosmic",
+    "quantity": 1,
+    "id": 564
+   },
+   {
+    "rune": "Nature",
+    "quantity": 2,
+    "id": 561
+   },
+   {
+    "rune": "Soul",
+    "quantity": 4,
+    "id": 566
+   }
+  ],
+  "image": "Ward of Arceuus.png",
+  "release": "16 June 2021"
+ },
+ {
+  "name": "Resurrect Greater Ghost",
+  "page": "Resurrect Greater Ghost",
+  "isMembers": true,
+  "level": 76,
+  "spellbook": "Arceuus",
+  "type": "Combat",
+  "experience": 88.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Calls upon a greater ghostly thrall to fight alongside you",
+  "quest": "A Kingdom Divided",
+  "cooldown": "16 ticks",
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Fire",
+    "quantity": 10,
+    "id": 554
+   },
+   {
+    "rune": "Blood",
+    "quantity": 5,
+    "id": 565
+   },
+   {
+    "rune": "Cosmic",
+    "quantity": 1,
+    "id": 564
+   }
+  ],
+  "image": "Resurrect Greater Ghost.png",
+  "release": "16 June 2021"
+ },
+ {
+  "name": "Resurrect Greater Skeleton",
+  "page": "Resurrect Greater Skeleton",
+  "isMembers": true,
+  "level": 76,
+  "spellbook": "Arceuus",
+  "type": "Combat",
+  "experience": 88.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Calls upon a greater skeletal thrall to fight alongside you",
+  "quest": "A Kingdom Divided",
+  "cooldown": "16 ticks",
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Fire",
+    "quantity": 10,
+    "id": 554
+   },
+   {
+    "rune": "Blood",
+    "quantity": 5,
+    "id": 565
+   },
+   {
+    "rune": "Cosmic",
+    "quantity": 1,
+    "id": 564
+   }
+  ],
+  "image": "Resurrect Greater Skeleton.png",
+  "release": "16 June 2021"
+ },
+ {
+  "name": "Resurrect Greater Zombie",
+  "page": "Resurrect Greater Zombie",
+  "isMembers": true,
+  "level": 76,
+  "spellbook": "Arceuus",
+  "type": "Combat",
+  "experience": 88.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Calls upon a greater zombified thrall to fight alongside you",
+  "quest": "A Kingdom Divided",
+  "cooldown": "16 ticks",
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Fire",
+    "quantity": 10,
+    "id": 554
+   },
+   {
+    "rune": "Blood",
+    "quantity": 5,
+    "id": 565
+   },
+   {
+    "rune": "Cosmic",
+    "quantity": 1,
+    "id": 564
+   }
+  ],
+  "image": "Resurrect Greater Zombie.png",
+  "release": "16 June 2021"
+ },
+ {
+  "name": "Resurrect Zombie",
+  "page": "Resurrect Zombie (beta)",
+  "isMembers": true,
+  "level": 76,
+  "spellbook": "Arceuus",
+  "type": "Combat",
+  "experience": 88.0,
+  "ticks": 50,
+  "maxHit": null,
+  "element": null,
+  "description": "N/A",
+  "quest": "A Kingdom Divided",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Fire",
+    "quantity": 10,
+    "id": 554
+   },
+   {
+    "rune": "Blood",
+    "quantity": 5,
+    "id": 565
+   },
+   {
+    "rune": "Cosmic",
+    "quantity": 1,
+    "id": 564
+   }
+  ],
+  "image": "Resurrect Zombie (beta).png",
+  "release": "28 April 2021"
+ },
+ {
+  "name": "Reanimate Aviansie",
+  "page": "Reanimate Aviansie",
+  "isMembers": true,
+  "level": 78,
+  "spellbook": "Arceuus",
+  "type": "Utility",
+  "experience": 156.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Reanimates an ensouled corpse",
+  "quest": "None",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": "28 April 2021",
+  "removalUpdate": "Arceuus Spellbook Beta and A Kingdom Divided Preparation",
+  "runes": [
+   {
+    "rune": "Soul",
+    "quantity": 3,
+    "id": 566
+   },
+   {
+    "rune": "Nature",
+    "quantity": 4,
+    "id": 561
+   },
+   {
+    "rune": "Blood",
+    "quantity": 1,
+    "id": 565
+   }
+  ],
+  "image": "Reanimate Aviansie.png",
+  "release": "7 January 2016"
+ },
+ {
+  "name": "Resurrect Crops",
+  "page": "Resurrect Crops",
+  "isMembers": true,
+  "level": 78,
+  "spellbook": "Arceuus",
+  "type": "Utility",
+  "experience": 90.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Gives a chance to resurrect dead farming crops",
+  "quest": "None",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Soul",
+    "quantity": 8,
+    "id": 566
+   },
+   {
+    "rune": "Nature",
+    "quantity": 12,
+    "id": 561
+   },
+   {
+    "rune": "Blood",
+    "quantity": 8,
+    "id": 565
+   },
+   {
+    "rune": "Earth",
+    "quantity": 25,
+    "id": 557
+   }
+  ],
+  "image": "Resurrect Crops.png",
+  "release": "28 January 2016"
+ },
+ {
+  "name": "Undead Grasp",
+  "page": "Undead Grasp",
+  "isMembers": true,
+  "level": 79,
+  "spellbook": "Arceuus",
+  "type": "Combat",
+  "experience": 46.5,
+  "ticks": 5,
+  "maxHit": "24",
+  "element": null,
+  "description": "Deals major damage with a high chance of holding your target",
+  "quest": "A Kingdom Divided",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Fire",
+    "quantity": 12,
+    "id": 554
+   },
+   {
+    "rune": "Blood",
+    "quantity": 1,
+    "id": 565
+   }
+  ],
+  "image": "Undead Grasp.png",
+  "release": "16 June 2021"
+ },
+ {
+  "name": "Death Charge",
+  "page": "Death Charge",
+  "isMembers": true,
+  "level": 80,
+  "spellbook": "Arceuus",
+  "type": "Utility",
+  "experience": 90.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Restores some of your special attack energy when you defeat a foe",
+  "quest": "A Kingdom Divided",
+  "cooldown": "100 ticks",
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Death",
+    "quantity": 1,
+    "id": 560
+   },
+   {
+    "rune": "Blood",
+    "quantity": 1,
+    "id": 565
+   },
+   {
+    "rune": "Soul",
+    "quantity": 1,
+    "id": 566
+   }
+  ],
+  "image": "Death Charge.png",
+  "release": "16 June 2021"
+ },
+ {
+  "name": "Dark Demonbane",
+  "page": "Dark Demonbane",
+  "isMembers": true,
+  "level": 82,
+  "spellbook": "Arceuus",
+  "type": "Combat",
+  "experience": 43.5,
+  "ticks": 5,
+  "maxHit": "30",
+  "element": null,
+  "description": "Hits a demon for major damage",
+  "quest": "A Kingdom Divided",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Fire",
+    "quantity": 7,
+    "id": 554
+   },
+   {
+    "rune": "Soul",
+    "quantity": 2,
+    "id": 566
+   }
+  ],
+  "image": "Dark Demonbane.png",
+  "release": "16 June 2021"
+ },
+ {
+  "name": "Barrows Teleport",
+  "page": "Barrows Teleport",
+  "isMembers": true,
+  "level": 83,
+  "spellbook": "Arceuus",
+  "type": "Teleport",
+  "experience": 90.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports you to the Barrows brothers' graveyard",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 2,
+    "id": 563
+   },
+   {
+    "rune": "Soul",
+    "quantity": 2,
+    "id": 566
+   },
+   {
+    "rune": "Blood",
+    "quantity": 1,
+    "id": 565
+   }
+  ],
+  "image": "Barrows Teleport.png",
+  "release": "28 January 2016"
+ },
+ {
+  "name": "Demonic Offering",
+  "page": "Demonic Offering",
+  "isMembers": true,
+  "level": 84,
+  "spellbook": "Arceuus",
+  "type": "Utility",
+  "experience": 175.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Converts demonic ashes into prayer points and experience",
+  "quest": "A Kingdom Divided",
+  "cooldown": "9 ticks",
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Soul",
+    "quantity": 1,
+    "id": 566
+   },
+   {
+    "rune": "Wrath",
+    "quantity": 1,
+    "id": 21880
+   }
+  ],
+  "image": "Demonic Offering.png",
+  "release": "16 June 2021"
+ },
+ {
+  "name": "Greater Corruption",
+  "page": "Greater Corruption",
+  "isMembers": true,
+  "level": 85,
+  "spellbook": "Arceuus",
+  "type": "Combat",
+  "experience": 95.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Imbues your attacks with a greater corruption",
+  "quest": "A Kingdom Divided",
+  "cooldown": "50 ticks",
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Blood",
+    "quantity": 1,
+    "id": 565
+   },
+   {
+    "rune": "Soul",
+    "quantity": 3,
+    "id": 566
+   }
+  ],
+  "image": "Greater Corruption.png",
+  "release": "16 June 2021"
+ },
+ {
+  "name": "Reanimate Abyssal Creature",
+  "page": "Reanimate Abyssal Creature",
+  "isMembers": true,
+  "level": 85,
+  "spellbook": "Arceuus",
+  "type": "Utility",
+  "experience": 170.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Reanimates an ensouled corpse",
+  "quest": "None",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": "28 April 2021",
+  "removalUpdate": "Arceuus Spellbook Beta and A Kingdom Divided Preparation",
+  "runes": [
+   {
+    "rune": "Soul",
+    "quantity": 4,
+    "id": 566
+   },
+   {
+    "rune": "Nature",
+    "quantity": 4,
+    "id": 561
+   },
+   {
+    "rune": "Blood",
+    "quantity": 1,
+    "id": 565
+   }
+  ],
+  "image": "Reanimate Abyssal Creature.png",
+  "release": "7 January 2016"
+ },
+ {
+  "name": "Ape Atoll Teleport",
+  "page": "Ape Atoll Teleport (Arceuus)",
+  "isMembers": true,
+  "level": 90,
+  "spellbook": "Arceuus",
+  "type": "Teleport",
+  "experience": 100.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports you to the dungeon under the Ape Atoll temple",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 2,
+    "id": 563
+   },
+   {
+    "rune": "Soul",
+    "quantity": 2,
+    "id": 566
+   },
+   {
+    "rune": "Blood",
+    "quantity": 2,
+    "id": 565
+   }
+  ],
+  "image": "Ape Atoll Teleport (Arceuus).png",
+  "release": "28 January 2016"
+ },
+ {
+  "name": "Master Reanimation",
+  "page": "Master Reanimation",
+  "isMembers": true,
+  "level": 90,
+  "spellbook": "Arceuus",
+  "type": "Utility",
+  "experience": 170.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Reanimates a very high levelled creature",
+  "quest": "None",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Nature",
+    "quantity": 4,
+    "id": 561
+   },
+   {
+    "rune": "Blood",
+    "quantity": 2,
+    "id": 565
+   },
+   {
+    "rune": "Soul",
+    "quantity": 4,
+    "id": 566
+   }
+  ],
+  "image": "Master Reanimation.png",
+  "release": "28 April 2021"
+ },
+ {
+  "name": "Sinister Offering",
+  "page": "Sinister Offering",
+  "isMembers": true,
+  "level": 92,
+  "spellbook": "Arceuus",
+  "type": "Utility",
+  "experience": 180.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Converts bones into prayer points and experience",
+  "quest": "A Kingdom Divided",
+  "cooldown": "9 ticks",
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Blood",
+    "quantity": 1,
+    "id": 565
+   },
+   {
+    "rune": "Wrath",
+    "quantity": 1,
+    "id": 21880
+   }
+  ],
+  "image": "Sinister Offering.png",
+  "release": "16 June 2021"
+ },
+ {
+  "name": "Reanimate Dragon",
+  "page": "Reanimate Dragon",
+  "isMembers": true,
+  "level": 93,
+  "spellbook": "Arceuus",
+  "type": "Utility",
+  "experience": 186.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Reanimates an ensouled corpse",
+  "quest": "None",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": "28 April 2021",
+  "removalUpdate": "Arceuus Spellbook Beta and A Kingdom Divided Preparation",
+  "runes": [
+   {
+    "rune": "Soul",
+    "quantity": 4,
+    "id": 566
+   },
+   {
+    "rune": "Nature",
+    "quantity": 4,
+    "id": 561
+   },
+   {
+    "rune": "Blood",
+    "quantity": 2,
+    "id": 565
+   }
+  ],
+  "image": "Reanimate Dragon.png",
+  "release": "7 January 2016"
+ },
+ {
+  "name": "Lunar Home Teleport",
+  "page": "Lunar Home Teleport",
+  "isMembers": true,
+  "level": 1,
+  "spellbook": "Lunar",
+  "type": "Teleport",
+  "experience": 0.0,
+  "ticks": 24,
+  "maxHit": null,
+  "element": null,
+  "description": "Requires no runes - recharge time 30 mins. Warning: This spell takes a long time to cast and will be interrupted by combat.",
+  "quest": null,
+  "cooldown": "3,000 ticks",
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [],
+  "image": "Lunar Home Teleport.png",
+  "release": "15 May 2007"
+ },
+ {
+  "name": "Bake Pie",
+  "page": "Bake Pie",
+  "isMembers": true,
+  "level": 65,
+  "spellbook": "Lunar",
+  "type": "Utility",
+  "experience": 60.0,
+  "ticks": 3,
+  "maxHit": null,
+  "element": null,
+  "description": "Bake pies without a stove",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Astral",
+    "quantity": 1,
+    "id": 9075
+   },
+   {
+    "rune": "Fire",
+    "quantity": 5,
+    "id": 554
+   },
+   {
+    "rune": "Water",
+    "quantity": 4,
+    "id": 555
+   }
+  ],
+  "image": "Bake Pie.png",
+  "release": "24 July 2006"
+ },
+ {
+  "name": "Geomancy",
+  "page": "Geomancy",
+  "isMembers": true,
+  "level": 65,
+  "spellbook": "Lunar",
+  "type": "Utility",
+  "experience": 60.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Checks the status of your main Farming patches",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Astral",
+    "quantity": 3,
+    "id": 9075
+   },
+   {
+    "rune": "Nature",
+    "quantity": 3,
+    "id": 561
+   },
+   {
+    "rune": "Earth",
+    "quantity": 8,
+    "id": 557
+   }
+  ],
+  "image": "Geomancy.png",
+  "release": "15 October 2015"
+ },
+ {
+  "name": "Cure Plant",
+  "page": "Cure Plant",
+  "isMembers": true,
+  "level": 66,
+  "spellbook": "Lunar",
+  "type": "Utility",
+  "experience": 60.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Cures disease on farming patch",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Astral",
+    "quantity": 1,
+    "id": 9075
+   },
+   {
+    "rune": "Earth",
+    "quantity": 8,
+    "id": 557
+   }
+  ],
+  "image": "Cure Plant.png",
+  "release": "24 July 2006"
+ },
+ {
+  "name": "Monster Examine",
+  "page": "Monster Examine",
+  "isMembers": true,
+  "level": 66,
+  "spellbook": "Lunar",
+  "type": "Combat",
+  "experience": 61.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Detect the combat statistics of a monster",
+  "quest": "Dream Mentor",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Astral",
+    "quantity": 1,
+    "id": 9075
+   },
+   {
+    "rune": "Cosmic",
+    "quantity": 1,
+    "id": 564
+   },
+   {
+    "rune": "Mind",
+    "quantity": 1,
+    "id": 558
+   }
+  ],
+  "image": "Monster Examine.png",
+  "release": "15 May 2007"
+ },
+ {
+  "name": "NPC Contact",
+  "page": "NPC Contact",
+  "isMembers": true,
+  "level": 67,
+  "spellbook": "Lunar",
+  "type": "Utility",
+  "experience": 63.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Speak to various NPCs",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Astral",
+    "quantity": 1,
+    "id": 9075
+   },
+   {
+    "rune": "Cosmic",
+    "quantity": 1,
+    "id": 564
+   },
+   {
+    "rune": "Air",
+    "quantity": 2,
+    "id": 556
+   }
+  ],
+  "image": "NPC Contact.png",
+  "release": "24 July 2006"
+ },
+ {
+  "name": "Cure Other",
+  "page": "Cure Other",
+  "isMembers": true,
+  "level": 68,
+  "spellbook": "Lunar",
+  "type": "Combat",
+  "experience": 65.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Cure poisoned players",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Astral",
+    "quantity": 1,
+    "id": 9075
+   },
+   {
+    "rune": "Law",
+    "quantity": 1,
+    "id": 563
+   },
+   {
+    "rune": "Earth",
+    "quantity": 10,
+    "id": 557
+   }
+  ],
+  "image": "Cure Other.png",
+  "release": "24 July 2006"
+ },
+ {
+  "name": "Humidify",
+  "page": "Humidify",
+  "isMembers": true,
+  "level": 68,
+  "spellbook": "Lunar",
+  "type": "Utility",
+  "experience": 65.0,
+  "ticks": 3,
+  "maxHit": null,
+  "element": null,
+  "description": "Fills certain vessels with water",
+  "quest": "Dream Mentor",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Astral",
+    "quantity": 1,
+    "id": 9075
+   },
+   {
+    "rune": "Water",
+    "quantity": 3,
+    "id": 555
+   },
+   {
+    "rune": "Fire",
+    "quantity": 1,
+    "id": 554
+   }
+  ],
+  "image": "Humidify.png",
+  "release": "15 May 2007"
+ },
+ {
+  "name": "Moonclan Teleport",
+  "page": "Moonclan Teleport",
+  "isMembers": true,
+  "level": 69,
+  "spellbook": "Lunar",
+  "type": "Teleport",
+  "experience": 66.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports you to Moonclan Island",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 1,
+    "id": 563
+   },
+   {
+    "rune": "Earth",
+    "quantity": 2,
+    "id": 557
+   },
+   {
+    "rune": "Astral",
+    "quantity": 2,
+    "id": 9075
+   }
+  ],
+  "image": "Moonclan Teleport.png",
+  "release": "24 July 2006"
+ },
+ {
+  "name": "Tele Group Moonclan",
+  "page": "Tele Group Moonclan",
+  "isMembers": true,
+  "level": 70,
+  "spellbook": "Lunar",
+  "type": "Teleport",
+  "experience": 67.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports players to Moonclan Island",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 1,
+    "id": 563
+   },
+   {
+    "rune": "Earth",
+    "quantity": 4,
+    "id": 557
+   },
+   {
+    "rune": "Astral",
+    "quantity": 2,
+    "id": 9075
+   }
+  ],
+  "image": "Tele Group Moonclan.png",
+  "release": "24 July 2006"
+ },
+ {
+  "name": "Cure Me",
+  "page": "Cure Me",
+  "isMembers": true,
+  "level": 71,
+  "spellbook": "Lunar",
+  "type": "Combat",
+  "experience": 69.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Cure poison",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Astral",
+    "quantity": 2,
+    "id": 9075
+   },
+   {
+    "rune": "Cosmic",
+    "quantity": 2,
+    "id": 564
+   },
+   {
+    "rune": "Law",
+    "quantity": 1,
+    "id": 563
+   }
+  ],
+  "image": "Cure Me.png",
+  "release": "24 July 2006"
+ },
+ {
+  "name": "Hunter Kit",
+  "page": "Hunter Kit (spell)",
+  "isMembers": true,
+  "level": 71,
+  "spellbook": "Lunar",
+  "type": "Utility",
+  "experience": 70.0,
+  "ticks": 3,
+  "maxHit": null,
+  "element": null,
+  "description": "Get a kit of hunter gear",
+  "quest": "Dream Mentor",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Astral",
+    "quantity": 2,
+    "id": 9075
+   },
+   {
+    "rune": "Earth",
+    "quantity": 2,
+    "id": 557
+   }
+  ],
+  "image": "Hunter Kit.png",
+  "release": "15 May 2007"
+ },
+ {
+  "name": "Ourania Teleport",
+  "page": "Ourania Teleport",
+  "isMembers": true,
+  "level": 71,
+  "spellbook": "Lunar",
+  "type": "Teleport",
+  "experience": 69.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports you to the Ourania altar",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 1,
+    "id": 563
+   },
+   {
+    "rune": "Earth",
+    "quantity": 6,
+    "id": 557
+   },
+   {
+    "rune": "Astral",
+    "quantity": 2,
+    "id": 9075
+   }
+  ],
+  "image": "Ourania Teleport.png",
+  "release": "13 October 2016"
+ },
+ {
+  "name": "Waterbirth Teleport",
+  "page": "Waterbirth Teleport",
+  "isMembers": true,
+  "level": 72,
+  "spellbook": "Lunar",
+  "type": "Teleport",
+  "experience": 71.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports you to Waterbirth Island",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 1,
+    "id": 563
+   },
+   {
+    "rune": "Water",
+    "quantity": 1,
+    "id": 555
+   },
+   {
+    "rune": "Astral",
+    "quantity": 2,
+    "id": 9075
+   }
+  ],
+  "image": "Waterbirth Teleport.png",
+  "release": "24 July 2006"
+ },
+ {
+  "name": "Tele Group Waterbirth",
+  "page": "Tele Group Waterbirth",
+  "isMembers": true,
+  "level": 73,
+  "spellbook": "Lunar",
+  "type": "Teleport",
+  "experience": 72.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports players to Waterbirth Island",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 1,
+    "id": 563
+   },
+   {
+    "rune": "Water",
+    "quantity": 5,
+    "id": 555
+   },
+   {
+    "rune": "Astral",
+    "quantity": 2,
+    "id": 9075
+   }
+  ],
+  "image": "Tele Group Waterbirth.png",
+  "release": "24 July 2006"
+ },
+ {
+  "name": "Cure Group",
+  "page": "Cure Group",
+  "isMembers": true,
+  "level": 74,
+  "spellbook": "Lunar",
+  "type": "Combat",
+  "experience": 74.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Cure poison on players",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Astral",
+    "quantity": 2,
+    "id": 9075
+   },
+   {
+    "rune": "Law",
+    "quantity": 2,
+    "id": 563
+   },
+   {
+    "rune": "Cosmic",
+    "quantity": 2,
+    "id": 564
+   }
+  ],
+  "image": "Cure Group.png",
+  "release": "24 July 2006"
+ },
+ {
+  "name": "Barbarian Teleport",
+  "page": "Barbarian Teleport",
+  "isMembers": true,
+  "level": 75,
+  "spellbook": "Lunar",
+  "type": "Teleport",
+  "experience": 76.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports you to the Barbarian Outpost",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 2,
+    "id": 563
+   },
+   {
+    "rune": "Fire",
+    "quantity": 3,
+    "id": 554
+   },
+   {
+    "rune": "Astral",
+    "quantity": 2,
+    "id": 9075
+   }
+  ],
+  "image": "Barbarian Teleport.png",
+  "release": "24 July 2006"
+ },
+ {
+  "name": "Stat Spy",
+  "page": "Stat Spy",
+  "isMembers": true,
+  "level": 75,
+  "spellbook": "Lunar",
+  "type": "Combat",
+  "experience": 76.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Cast on another player to see their skill levels",
+  "quest": "Dream Mentor",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Astral",
+    "quantity": 2,
+    "id": 9075
+   },
+   {
+    "rune": "Cosmic",
+    "quantity": 2,
+    "id": 564
+   },
+   {
+    "rune": "Body",
+    "quantity": 5,
+    "id": 559
+   }
+  ],
+  "image": "Stat Spy.png",
+  "release": "15 May 2007"
+ },
+ {
+  "name": "Spin Flax",
+  "page": "Spin Flax",
+  "isMembers": true,
+  "level": 76,
+  "spellbook": "Lunar",
+  "type": "Utility",
+  "experience": 75.0,
+  "ticks": 5,
+  "maxHit": null,
+  "element": null,
+  "description": "Turn flax into bowstring",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Astral",
+    "quantity": 1,
+    "id": 9075
+   },
+   {
+    "rune": "Nature",
+    "quantity": 2,
+    "id": 561
+   },
+   {
+    "rune": "Air",
+    "quantity": 5,
+    "id": 556
+   }
+  ],
+  "image": "Spin Flax.png",
+  "release": "4 August 2016"
+ },
+ {
+  "name": "Tele Group Barbarian",
+  "page": "Tele Group Barbarian",
+  "isMembers": true,
+  "level": 76,
+  "spellbook": "Lunar",
+  "type": "Teleport",
+  "experience": 77.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports players to the Barbarian Outpost",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 2,
+    "id": 563
+   },
+   {
+    "rune": "Fire",
+    "quantity": 6,
+    "id": 554
+   },
+   {
+    "rune": "Astral",
+    "quantity": 2,
+    "id": 9075
+   }
+  ],
+  "image": "Tele Group Barbarian.png",
+  "release": "24 July 2006"
+ },
+ {
+  "name": "Superglass Make",
+  "page": "Superglass Make",
+  "isMembers": true,
+  "level": 77,
+  "spellbook": "Lunar",
+  "type": "Utility",
+  "experience": 78.0,
+  "ticks": 3,
+  "maxHit": null,
+  "element": null,
+  "description": "Make glass without a furnace",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Air",
+    "quantity": 10,
+    "id": 556
+   },
+   {
+    "rune": "Fire",
+    "quantity": 6,
+    "id": 554
+   },
+   {
+    "rune": "Astral",
+    "quantity": 2,
+    "id": 9075
+   }
+  ],
+  "image": "Superglass Make.png",
+  "release": "24 July 2006"
+ },
+ {
+  "name": "Khazard Teleport",
+  "page": "Khazard Teleport",
+  "isMembers": true,
+  "level": 78,
+  "spellbook": "Lunar",
+  "type": "Teleport",
+  "experience": 80.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports you to Port Khazard",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 2,
+    "id": 563
+   },
+   {
+    "rune": "Water",
+    "quantity": 4,
+    "id": 555
+   },
+   {
+    "rune": "Astral",
+    "quantity": 2,
+    "id": 9075
+   }
+  ],
+  "image": "Khazard Teleport.png",
+  "release": "24 July 2006"
+ },
+ {
+  "name": "Tan Leather",
+  "page": "Tan Leather",
+  "isMembers": true,
+  "level": 78,
+  "spellbook": "Lunar",
+  "type": "Utility",
+  "experience": 81.0,
+  "ticks": 3,
+  "maxHit": null,
+  "element": null,
+  "description": "Tans up to 5 hides",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Astral",
+    "quantity": 2,
+    "id": 9075
+   },
+   {
+    "rune": "Nature",
+    "quantity": 1,
+    "id": 561
+   },
+   {
+    "rune": "Fire",
+    "quantity": 5,
+    "id": 554
+   }
+  ],
+  "image": "Tan Leather.png",
+  "release": "5 March 2015"
+ },
+ {
+  "name": "Dream",
+  "page": "Dream",
+  "isMembers": true,
+  "level": 79,
+  "spellbook": "Lunar",
+  "type": "Combat",
+  "experience": 82.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Take a rest and restore Hitpoints 3 times faster",
+  "quest": "Dream Mentor",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Cosmic",
+    "quantity": 1,
+    "id": 564
+   },
+   {
+    "rune": "Body",
+    "quantity": 5,
+    "id": 559
+   },
+   {
+    "rune": "Astral",
+    "quantity": 2,
+    "id": 9075
+   }
+  ],
+  "image": "Dream.png",
+  "release": "15 May 2007"
+ },
+ {
+  "name": "Tele Group Khazard",
+  "page": "Tele Group Khazard",
+  "isMembers": true,
+  "level": 79,
+  "spellbook": "Lunar",
+  "type": "Teleport",
+  "experience": 81.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports players to Port Khazard",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 2,
+    "id": 563
+   },
+   {
+    "rune": "Water",
+    "quantity": 8,
+    "id": 555
+   },
+   {
+    "rune": "Astral",
+    "quantity": 2,
+    "id": 9075
+   }
+  ],
+  "image": "Tele Group Khazard.png",
+  "release": "24 July 2006"
+ },
+ {
+  "name": "String Jewellery",
+  "page": "String Jewellery",
+  "isMembers": true,
+  "level": 80,
+  "spellbook": "Lunar",
+  "type": "Utility",
+  "experience": 83.0,
+  "ticks": 3,
+  "maxHit": null,
+  "element": null,
+  "description": "String amulets without wool",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Astral",
+    "quantity": 2,
+    "id": 9075
+   },
+   {
+    "rune": "Earth",
+    "quantity": 10,
+    "id": 557
+   },
+   {
+    "rune": "Water",
+    "quantity": 5,
+    "id": 555
+   }
+  ],
+  "image": "String Jewellery.png",
+  "release": "24 July 2006"
+ },
+ {
+  "name": "Stat Restore Pot Share",
+  "page": "Stat Restore Pot Share",
+  "isMembers": true,
+  "level": 81,
+  "spellbook": "Lunar",
+  "type": "Combat",
+  "experience": 84.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Shares a potion with up to 4 nearby players",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Earth",
+    "quantity": 10,
+    "id": 557
+   },
+   {
+    "rune": "Water",
+    "quantity": 10,
+    "id": 555
+   },
+   {
+    "rune": "Astral",
+    "quantity": 2,
+    "id": 9075
+   }
+  ],
+  "image": "Stat Restore Pot Share.png",
+  "release": "24 July 2006"
+ },
+ {
+  "name": "Magic Imbue",
+  "page": "Magic Imbue",
+  "isMembers": true,
+  "level": 82,
+  "spellbook": "Lunar",
+  "type": "Utility",
+  "experience": 86.0,
+  "ticks": 0,
+  "maxHit": null,
+  "element": null,
+  "description": "Combine runes without a talisman",
+  "quest": null,
+  "cooldown": "21 ticks",
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Fire",
+    "quantity": 7,
+    "id": 554
+   },
+   {
+    "rune": "Water",
+    "quantity": 7,
+    "id": 555
+   },
+   {
+    "rune": "Astral",
+    "quantity": 2,
+    "id": 9075
+   }
+  ],
+  "image": "Magic Imbue.png",
+  "release": "24 July 2006"
+ },
+ {
+  "name": "Fertile Soil",
+  "page": "Fertile Soil",
+  "isMembers": true,
+  "level": 83,
+  "spellbook": "Lunar",
+  "type": "Utility",
+  "experience": 87.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Fertilise a farming patch with super compost",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Earth",
+    "quantity": 15,
+    "id": 557
+   },
+   {
+    "rune": "Nature",
+    "quantity": 2,
+    "id": 561
+   },
+   {
+    "rune": "Astral",
+    "quantity": 3,
+    "id": 9075
+   }
+  ],
+  "image": "Fertile Soil.png",
+  "release": "24 July 2006"
+ },
+ {
+  "name": "Boost Potion Share",
+  "page": "Boost Potion Share",
+  "isMembers": true,
+  "level": 84,
+  "spellbook": "Lunar",
+  "type": "Combat",
+  "experience": 88.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Shares a potion with up to 4 nearby players",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Earth",
+    "quantity": 12,
+    "id": 557
+   },
+   {
+    "rune": "Water",
+    "quantity": 10,
+    "id": 555
+   },
+   {
+    "rune": "Astral",
+    "quantity": 3,
+    "id": 9075
+   }
+  ],
+  "image": "Boost Potion Share.png",
+  "release": "24 July 2006"
+ },
+ {
+  "name": "Fishing Guild Teleport",
+  "page": "Fishing Guild Teleport",
+  "isMembers": true,
+  "level": 85,
+  "spellbook": "Lunar",
+  "type": "Teleport",
+  "experience": 89.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports you to the Fishing Guild",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 3,
+    "id": 563
+   },
+   {
+    "rune": "Water",
+    "quantity": 10,
+    "id": 555
+   },
+   {
+    "rune": "Astral",
+    "quantity": 3,
+    "id": 9075
+   }
+  ],
+  "image": "Fishing Guild Teleport.png",
+  "release": "24 July 2006"
+ },
+ {
+  "name": "Plank Make",
+  "page": "Plank Make",
+  "isMembers": true,
+  "level": 86,
+  "spellbook": "Lunar",
+  "type": "Utility",
+  "experience": 90.0,
+  "ticks": 3,
+  "maxHit": null,
+  "element": null,
+  "description": "Turn logs into planks",
+  "quest": "Dream Mentor",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Astral",
+    "quantity": 2,
+    "id": 9075
+   },
+   {
+    "rune": "Nature",
+    "quantity": 1,
+    "id": 561
+   },
+   {
+    "rune": "Earth",
+    "quantity": 15,
+    "id": 557
+   }
+  ],
+  "image": "Plank Make.png",
+  "release": "15 May 2007"
+ },
+ {
+  "name": "Tele Group Fishing Guild",
+  "page": "Tele Group Fishing Guild",
+  "isMembers": true,
+  "level": 86,
+  "spellbook": "Lunar",
+  "type": "Teleport",
+  "experience": 90.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports players to the Fishing Guild",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 3,
+    "id": 563
+   },
+   {
+    "rune": "Water",
+    "quantity": 14,
+    "id": 555
+   },
+   {
+    "rune": "Astral",
+    "quantity": 3,
+    "id": 9075
+   }
+  ],
+  "image": "Tele Group Fishing Guild.png",
+  "release": "24 July 2006"
+ },
+ {
+  "name": "Catherby Teleport",
+  "page": "Catherby Teleport",
+  "isMembers": true,
+  "level": 87,
+  "spellbook": "Lunar",
+  "type": "Teleport",
+  "experience": 92.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports you to Catherby",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 3,
+    "id": 563
+   },
+   {
+    "rune": "Water",
+    "quantity": 10,
+    "id": 555
+   },
+   {
+    "rune": "Astral",
+    "quantity": 3,
+    "id": 9075
+   }
+  ],
+  "image": "Catherby Teleport.png",
+  "release": "24 July 2006"
+ },
+ {
+  "name": "Tele Group Catherby",
+  "page": "Tele Group Catherby",
+  "isMembers": true,
+  "level": 88,
+  "spellbook": "Lunar",
+  "type": "Teleport",
+  "experience": 93.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports players to Catherby",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 3,
+    "id": 563
+   },
+   {
+    "rune": "Water",
+    "quantity": 15,
+    "id": 555
+   },
+   {
+    "rune": "Astral",
+    "quantity": 3,
+    "id": 9075
+   }
+  ],
+  "image": "Tele Group Catherby.png",
+  "release": "24 July 2006"
+ },
+ {
+  "name": "Ice Plateau Teleport",
+  "page": "Ice Plateau Teleport",
+  "isMembers": true,
+  "level": 89,
+  "spellbook": "Lunar",
+  "type": "Teleport",
+  "experience": 96.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports you to Ice Plateau",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 3,
+    "id": 563
+   },
+   {
+    "rune": "Water",
+    "quantity": 8,
+    "id": 555
+   },
+   {
+    "rune": "Astral",
+    "quantity": 3,
+    "id": 9075
+   }
+  ],
+  "image": "Ice Plateau Teleport.png",
+  "release": "24 July 2006"
+ },
+ {
+  "name": "Recharge Dragonstone",
+  "page": "Recharge Dragonstone",
+  "isMembers": true,
+  "level": 89,
+  "spellbook": "Lunar",
+  "type": "Utility",
+  "experience": 97.5,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Recharges enchanted dragonstone jewellery",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Astral",
+    "quantity": 1,
+    "id": 9075
+   },
+   {
+    "rune": "Soul",
+    "quantity": 1,
+    "id": 566
+   },
+   {
+    "rune": "Water",
+    "quantity": 4,
+    "id": 555
+   }
+  ],
+  "image": "Recharge Dragonstone.png",
+  "release": "5 March 2015"
+ },
+ {
+  "name": "Ice Plateau Teleport",
+  "page": "Tele Group Ice Plateau",
+  "isMembers": true,
+  "level": 90,
+  "spellbook": "Lunar",
+  "type": "Teleport",
+  "experience": 99.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports players to Ice Plateau",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 3,
+    "id": 563
+   },
+   {
+    "rune": "Astral",
+    "quantity": 3,
+    "id": 9075
+   },
+   {
+    "rune": "Water",
+    "quantity": 16,
+    "id": 555
+   }
+  ],
+  "image": "Tele Group Ice Plateau.png",
+  "release": "24 July 2006"
+ },
+ {
+  "name": "Energy Transfer",
+  "page": "Energy Transfer",
+  "isMembers": true,
+  "level": 91,
+  "spellbook": "Lunar",
+  "type": "Combat",
+  "experience": 100.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Spend Hitpoints and SA energy to give another SA and run energy",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Astral",
+    "quantity": 3,
+    "id": 9075
+   },
+   {
+    "rune": "Law",
+    "quantity": 2,
+    "id": 563
+   },
+   {
+    "rune": "Nature",
+    "quantity": 1,
+    "id": 561
+   }
+  ],
+  "image": "Energy Transfer.png",
+  "release": "24 July 2006"
+ },
+ {
+  "name": "Heal Other",
+  "page": "Heal Other",
+  "isMembers": true,
+  "level": 92,
+  "spellbook": "Lunar",
+  "type": "Combat",
+  "experience": 101.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Transfers up to 75% of Hitpoints to another player",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Blood",
+    "quantity": 1,
+    "id": 565
+   },
+   {
+    "rune": "Law",
+    "quantity": 3,
+    "id": 563
+   },
+   {
+    "rune": "Astral",
+    "quantity": 3,
+    "id": 9075
+   }
+  ],
+  "image": "Heal Other.png",
+  "release": "24 July 2006"
+ },
+ {
+  "name": "Vengeance Other",
+  "page": "Vengeance Other",
+  "isMembers": true,
+  "level": 93,
+  "spellbook": "Lunar",
+  "type": "Combat",
+  "experience": 108.0,
+  "ticks": 0,
+  "maxHit": null,
+  "element": null,
+  "description": "Allows another player to rebound damage to an opponent",
+  "quest": null,
+  "cooldown": "50 ticks",
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Astral",
+    "quantity": 3,
+    "id": 9075
+   },
+   {
+    "rune": "Earth",
+    "quantity": 10,
+    "id": 557
+   },
+   {
+    "rune": "Death",
+    "quantity": 2,
+    "id": 560
+   }
+  ],
+  "image": "Vengeance Other.png",
+  "release": "24 July 2006"
+ },
+ {
+  "name": "Vengeance",
+  "page": "Vengeance",
+  "isMembers": true,
+  "level": 94,
+  "spellbook": "Lunar",
+  "type": "Combat",
+  "experience": 112.0,
+  "ticks": 0,
+  "maxHit": null,
+  "element": null,
+  "description": "Rebound damage to an opponent",
+  "quest": null,
+  "cooldown": "50 ticks",
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Astral",
+    "quantity": 4,
+    "id": 9075
+   },
+   {
+    "rune": "Earth",
+    "quantity": 10,
+    "id": 557
+   },
+   {
+    "rune": "Death",
+    "quantity": 2,
+    "id": 560
+   }
+  ],
+  "image": "Vengeance.png",
+  "release": "24 July 2006"
+ },
+ {
+  "name": "Heal Group",
+  "page": "Heal Group",
+  "isMembers": true,
+  "level": 95,
+  "spellbook": "Lunar",
+  "type": "Combat",
+  "experience": 124.0,
+  "ticks": 150,
+  "maxHit": null,
+  "element": null,
+  "description": "Transfers up to 75% of Hitpoints to a group",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Blood",
+    "quantity": 3,
+    "id": 565
+   },
+   {
+    "rune": "Law",
+    "quantity": 6,
+    "id": 563
+   },
+   {
+    "rune": "Astral",
+    "quantity": 4,
+    "id": 9075
+   }
+  ],
+  "image": "Heal Group.png",
+  "release": "24 July 2006"
+ },
+ {
+  "name": "Spellbook Swap",
+  "page": "Spellbook Swap",
+  "isMembers": true,
+  "level": 96,
+  "spellbook": "Lunar",
+  "type": "Utility",
+  "experience": 130.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Change to another spellbook for 1 spell cast",
+  "quest": "Dream Mentor",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Astral",
+    "quantity": 3,
+    "id": 9075
+   },
+   {
+    "rune": "Cosmic",
+    "quantity": 2,
+    "id": 564
+   },
+   {
+    "rune": "Law",
+    "quantity": 1,
+    "id": 563
+   }
+  ],
+  "image": "Spellbook Swap.png",
+  "release": "15 May 2007"
+ },
+ {
+  "name": "Lumbridge Home Teleport",
+  "page": "Lumbridge Home Teleport",
+  "isMembers": false,
+  "level": 0,
+  "spellbook": "Normal",
+  "type": "Teleport",
+  "experience": 0.0,
+  "ticks": 24,
+  "maxHit": null,
+  "element": null,
+  "description": "Requires no runes - recharge time 30 mins. Warning: This spell takes a long time to cast and will be interrupted by combat.",
+  "quest": null,
+  "cooldown": "3,000 ticks",
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [],
+  "image": "Lumbridge Home Teleport.png",
+  "release": "27 September 2006"
+ },
+ {
+  "name": "Alchemic Convergence",
+  "page": "Alchemic Convergence",
+  "isMembers": true,
+  "level": 1,
+  "spellbook": "Normal",
+  "type": "Utility",
+  "experience": 10.0,
+  "ticks": 5,
+  "maxHit": null,
+  "element": null,
+  "description": "Downgrades up to 10 of a resource into a lower tier",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [],
+  "image": "Alchemic Convergence.png",
+  "release": "15 April 2026"
+ },
+ {
+  "name": "Alchemic Divergence",
+  "page": "Alchemic Divergence",
+  "isMembers": true,
+  "level": 1,
+  "spellbook": "Normal",
+  "type": "Utility",
+  "experience": 10.0,
+  "ticks": 5,
+  "maxHit": null,
+  "element": null,
+  "description": "Upgrades up to 10 of a resource into a higher tier.",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [],
+  "image": "Alchemic Divergence.png",
+  "release": "15 April 2026"
+ },
+ {
+  "name": "Wind Strike",
+  "page": "Wind Strike",
+  "isMembers": false,
+  "level": 1,
+  "spellbook": "Normal",
+  "type": "Combat",
+  "experience": 5.5,
+  "ticks": 5,
+  "maxHit": "2, 4, 6, or 8",
+  "element": "Air",
+  "description": "A basic Air missile",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Air",
+    "quantity": 1,
+    "id": 556
+   },
+   {
+    "rune": "Mind",
+    "quantity": 1,
+    "id": 558
+   }
+  ],
+  "image": "Wind Strike.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Confuse",
+  "page": "Confuse",
+  "isMembers": false,
+  "level": 3,
+  "spellbook": "Normal",
+  "type": "Combat",
+  "experience": 13.0,
+  "ticks": 5,
+  "maxHit": null,
+  "element": null,
+  "description": "Reduces your opponent's attack by 5%",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Body",
+    "quantity": 1,
+    "id": 559
+   },
+   {
+    "rune": "Earth",
+    "quantity": 2,
+    "id": 557
+   },
+   {
+    "rune": "Water",
+    "quantity": 3,
+    "id": 555
+   }
+  ],
+  "image": "Confuse.png",
+  "release": "4 January 2001"
+ },
+ {
+  "name": "Enchant Crossbow Bolt (Opal)",
+  "page": "Enchant Crossbow Bolt (Opal)",
+  "isMembers": true,
+  "level": 4,
+  "spellbook": "Normal",
+  "type": "Utility",
+  "experience": 9.0,
+  "ticks": 1,
+  "maxHit": null,
+  "element": null,
+  "description": "For use on opal-tipped bolts.",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Cosmic",
+    "quantity": 1,
+    "id": 564
+   },
+   {
+    "rune": "Air",
+    "quantity": 2,
+    "id": 556
+   }
+  ],
+  "image": "Enchant Crossbow Bolt.png",
+  "release": "31 July 2006"
+ },
+ {
+  "name": "Water Strike",
+  "page": "Water Strike",
+  "isMembers": false,
+  "level": 5,
+  "spellbook": "Normal",
+  "type": "Combat",
+  "experience": 7.5,
+  "ticks": 5,
+  "maxHit": "4, 6, or 8",
+  "element": "Water",
+  "description": "A basic Water missile",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Water",
+    "quantity": 1,
+    "id": 555
+   },
+   {
+    "rune": "Air",
+    "quantity": 1,
+    "id": 556
+   },
+   {
+    "rune": "Mind",
+    "quantity": 1,
+    "id": 558
+   }
+  ],
+  "image": "Water Strike.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Enchant Crossbow Bolt (Sapphire)",
+  "page": "Enchant Crossbow Bolt (Sapphire)",
+  "isMembers": true,
+  "level": 7,
+  "spellbook": "Normal",
+  "type": "Utility",
+  "experience": 17.5,
+  "ticks": 1,
+  "maxHit": null,
+  "element": null,
+  "description": "For use on sapphire-tipped bolts.",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Cosmic",
+    "quantity": 1,
+    "id": 564
+   },
+   {
+    "rune": "Water",
+    "quantity": 1,
+    "id": 555
+   },
+   {
+    "rune": "Mind",
+    "quantity": 1,
+    "id": 558
+   }
+  ],
+  "image": "Enchant Crossbow Bolt.png",
+  "release": "31 July 2006"
+ },
+ {
+  "name": "Lvl-1 Enchant",
+  "page": "Lvl-1 Enchant",
+  "isMembers": false,
+  "level": 7,
+  "spellbook": "Normal",
+  "type": "Utility",
+  "experience": 17.5,
+  "ticks": 3,
+  "maxHit": null,
+  "element": null,
+  "description": "For use on sapphire and opal jewellery",
+  "quest": null,
+  "cooldown": null,
+  "lectern": "Oak",
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Cosmic",
+    "quantity": 1,
+    "id": 564
+   },
+   {
+    "rune": "Water",
+    "quantity": 1,
+    "id": 555
+   }
+  ],
+  "image": "Lvl-1 Enchant.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Earth Strike",
+  "page": "Earth Strike",
+  "isMembers": false,
+  "level": 9,
+  "spellbook": "Normal",
+  "type": "Combat",
+  "experience": 9.5,
+  "ticks": 5,
+  "maxHit": "6 or 8",
+  "element": "Earth",
+  "description": "A basic Earth missile",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Earth",
+    "quantity": 2,
+    "id": 557
+   },
+   {
+    "rune": "Air",
+    "quantity": 1,
+    "id": 556
+   },
+   {
+    "rune": "Mind",
+    "quantity": 1,
+    "id": 558
+   }
+  ],
+  "image": "Earth Strike.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Weaken",
+  "page": "Weaken",
+  "isMembers": false,
+  "level": 11,
+  "spellbook": "Normal",
+  "type": "Combat",
+  "experience": 21.0,
+  "ticks": 5,
+  "maxHit": null,
+  "element": null,
+  "description": "Reduces your opponent's strength by 5%",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Body",
+    "quantity": 1,
+    "id": 559
+   },
+   {
+    "rune": "Earth",
+    "quantity": 2,
+    "id": 557
+   },
+   {
+    "rune": "Water",
+    "quantity": 3,
+    "id": 555
+   }
+  ],
+  "image": "Weaken.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Fire Strike",
+  "page": "Fire Strike",
+  "isMembers": false,
+  "level": 13,
+  "spellbook": "Normal",
+  "type": "Combat",
+  "experience": 11.5,
+  "ticks": 5,
+  "maxHit": "8",
+  "element": "Fire",
+  "description": "A basic Fire missile",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Fire",
+    "quantity": 3,
+    "id": 554
+   },
+   {
+    "rune": "Air",
+    "quantity": 2,
+    "id": 556
+   },
+   {
+    "rune": "Mind",
+    "quantity": 1,
+    "id": 558
+   }
+  ],
+  "image": "Fire Strike.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Enchant Crossbow Bolt (Jade)",
+  "page": "Enchant Crossbow Bolt (Jade)",
+  "isMembers": true,
+  "level": 14,
+  "spellbook": "Normal",
+  "type": "Utility",
+  "experience": 19.0,
+  "ticks": 1,
+  "maxHit": null,
+  "element": null,
+  "description": "For use on jade-tipped bolts.",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Cosmic",
+    "quantity": 1,
+    "id": 564
+   },
+   {
+    "rune": "Earth",
+    "quantity": 2,
+    "id": 557
+   }
+  ],
+  "image": "Enchant Crossbow Bolt.png",
+  "release": "31 July 2006"
+ },
+ {
+  "name": "Bones to Bananas",
+  "page": "Bones to Bananas",
+  "isMembers": false,
+  "level": 15,
+  "spellbook": "Normal",
+  "type": "Utility",
+  "experience": 25.0,
+  "ticks": 1,
+  "maxHit": null,
+  "element": null,
+  "description": "Changes held bones into bananas",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Nature",
+    "quantity": 1,
+    "id": 561
+   },
+   {
+    "rune": "Earth",
+    "quantity": 2,
+    "id": 557
+   },
+   {
+    "rune": "Water",
+    "quantity": 2,
+    "id": 555
+   }
+  ],
+  "image": "Bones to Bananas.png",
+  "release": "26 May 2001"
+ },
+ {
+  "name": "Wind Bolt",
+  "page": "Wind Bolt",
+  "isMembers": false,
+  "level": 17,
+  "spellbook": "Normal",
+  "type": "Combat",
+  "experience": 13.5,
+  "ticks": 5,
+  "maxHit": "9, 10, 11, or 12",
+  "element": "Air",
+  "description": "A low level Air missile",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Air",
+    "quantity": 2,
+    "id": 556
+   },
+   {
+    "rune": "Chaos",
+    "quantity": 1,
+    "id": 562
+   }
+  ],
+  "image": "Wind Bolt.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Curse",
+  "page": "Curse",
+  "isMembers": false,
+  "level": 19,
+  "spellbook": "Normal",
+  "type": "Combat",
+  "experience": 29.0,
+  "ticks": 5,
+  "maxHit": null,
+  "element": null,
+  "description": "Reduces your opponent's defence by 5%",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Body",
+    "quantity": 1,
+    "id": 559
+   },
+   {
+    "rune": "Earth",
+    "quantity": 3,
+    "id": 557
+   },
+   {
+    "rune": "Water",
+    "quantity": 2,
+    "id": 555
+   }
+  ],
+  "image": "Curse.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Bind",
+  "page": "Bind",
+  "isMembers": false,
+  "level": 20,
+  "spellbook": "Normal",
+  "type": "Combat",
+  "experience": 31.0,
+  "ticks": 5,
+  "maxHit": "0",
+  "element": null,
+  "description": "Holds your opponent for 5 seconds",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Nature",
+    "quantity": 2,
+    "id": 561
+   },
+   {
+    "rune": "Earth",
+    "quantity": 3,
+    "id": 557
+   },
+   {
+    "rune": "Water",
+    "quantity": 3,
+    "id": 555
+   }
+  ],
+  "image": "Bind.png",
+  "release": "29 March 2004"
+ },
+ {
+  "name": "Low Level Alchemy",
+  "page": "Low Level Alchemy",
+  "isMembers": false,
+  "level": 21,
+  "spellbook": "Normal",
+  "type": "Utility",
+  "experience": 31.0,
+  "ticks": 3,
+  "maxHit": null,
+  "element": null,
+  "description": "Converts an item into gold",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Nature",
+    "quantity": 1,
+    "id": 561
+   },
+   {
+    "rune": "Fire",
+    "quantity": 3,
+    "id": 554
+   }
+  ],
+  "image": "Low Level Alchemy.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Water Bolt",
+  "page": "Water Bolt",
+  "isMembers": false,
+  "level": 23,
+  "spellbook": "Normal",
+  "type": "Combat",
+  "experience": 16.5,
+  "ticks": 5,
+  "maxHit": "10, 11, or 12",
+  "element": "Water",
+  "description": "A low level Water missile",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Water",
+    "quantity": 2,
+    "id": 555
+   },
+   {
+    "rune": "Air",
+    "quantity": 2,
+    "id": 556
+   },
+   {
+    "rune": "Chaos",
+    "quantity": 1,
+    "id": 562
+   }
+  ],
+  "image": "Water Bolt.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Enchant Crossbow Bolts (Pearl)",
+  "page": "Enchant Crossbow Bolt (Pearl)",
+  "isMembers": true,
+  "level": 24,
+  "spellbook": "Normal",
+  "type": "Utility",
+  "experience": 29.0,
+  "ticks": 1,
+  "maxHit": null,
+  "element": null,
+  "description": "For use on pearl-tipped bolts.",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Cosmic",
+    "quantity": 1,
+    "id": 564
+   },
+   {
+    "rune": "Water",
+    "quantity": 2,
+    "id": 555
+   }
+  ],
+  "image": "Enchant Crossbow Bolt.png",
+  "release": "31 July 2006"
+ },
+ {
+  "name": "Varrock Teleport",
+  "page": "Varrock Teleport",
+  "isMembers": false,
+  "level": 25,
+  "spellbook": "Normal",
+  "type": "Teleport",
+  "experience": 35.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports you to Varrock",
+  "quest": null,
+  "cooldown": null,
+  "lectern": "Oak",
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 1,
+    "id": 563
+   },
+   {
+    "rune": "Air",
+    "quantity": 3,
+    "id": 556
+   },
+   {
+    "rune": "Fire",
+    "quantity": 1,
+    "id": 554
+   }
+  ],
+  "image": "Varrock Teleport.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Enchant Crossbow Bolts (Emerald)",
+  "page": "Enchant Crossbow Bolt (Emerald)",
+  "isMembers": true,
+  "level": 27,
+  "spellbook": "Normal",
+  "type": "Utility",
+  "experience": 37.0,
+  "ticks": 1,
+  "maxHit": null,
+  "element": null,
+  "description": "For use on emerald-tipped bolts.",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Cosmic",
+    "quantity": 1,
+    "id": 564
+   },
+   {
+    "rune": "Air",
+    "quantity": 3,
+    "id": 556
+   },
+   {
+    "rune": "Nature",
+    "quantity": 1,
+    "id": 561
+   }
+  ],
+  "image": "Enchant Crossbow Bolt.png",
+  "release": "31 July 2006"
+ },
+ {
+  "name": "Lvl-2 Enchant",
+  "page": "Lvl-2 Enchant",
+  "isMembers": false,
+  "level": 27,
+  "spellbook": "Normal",
+  "type": "Utility",
+  "experience": 37.0,
+  "ticks": 3,
+  "maxHit": null,
+  "element": null,
+  "description": "For use on emerald and jade jewellery",
+  "quest": null,
+  "cooldown": null,
+  "lectern": "Demon",
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Air",
+    "quantity": 3,
+    "id": 556
+   },
+   {
+    "rune": "Cosmic",
+    "quantity": 1,
+    "id": 564
+   }
+  ],
+  "image": "Lvl-2 Enchant.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Earth Bolt",
+  "page": "Earth Bolt",
+  "isMembers": false,
+  "level": 29,
+  "spellbook": "Normal",
+  "type": "Combat",
+  "experience": 19.5,
+  "ticks": 5,
+  "maxHit": "11 or 12",
+  "element": "Earth",
+  "description": "A low level Earth missile",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Earth",
+    "quantity": 3,
+    "id": 557
+   },
+   {
+    "rune": "Air",
+    "quantity": 2,
+    "id": 556
+   },
+   {
+    "rune": "Chaos",
+    "quantity": 1,
+    "id": 562
+   }
+  ],
+  "image": "Earth Bolt.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Enchant Crossbow Bolt (Topaz)",
+  "page": "Enchant Crossbow Bolt (Red Topaz)",
+  "isMembers": true,
+  "level": 29,
+  "spellbook": "Normal",
+  "type": "Utility",
+  "experience": 33.5,
+  "ticks": 1,
+  "maxHit": null,
+  "element": null,
+  "description": "For use on red topaz-tipped bolts.",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Cosmic",
+    "quantity": 1,
+    "id": 564
+   },
+   {
+    "rune": "Fire",
+    "quantity": 2,
+    "id": 554
+   }
+  ],
+  "image": "Enchant Crossbow Bolt.png",
+  "release": "31 July 2006"
+ },
+ {
+  "name": "Lumbridge Teleport",
+  "page": "Lumbridge Teleport",
+  "isMembers": false,
+  "level": 31,
+  "spellbook": "Normal",
+  "type": "Teleport",
+  "experience": 41.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports you to Lumbridge",
+  "quest": "No",
+  "cooldown": null,
+  "lectern": "Eagle",
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 1,
+    "id": 563
+   },
+   {
+    "rune": "Air",
+    "quantity": 3,
+    "id": 556
+   },
+   {
+    "rune": "Earth",
+    "quantity": 1,
+    "id": 557
+   }
+  ],
+  "image": "Lumbridge Teleport.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Telekinetic Grab",
+  "page": "Telekinetic Grab",
+  "isMembers": false,
+  "level": 33,
+  "spellbook": "Normal",
+  "type": "Utility",
+  "experience": 43.0,
+  "ticks": 3,
+  "maxHit": null,
+  "element": null,
+  "description": "Take an item you can see but can't reach",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 1,
+    "id": 563
+   },
+   {
+    "rune": "Air",
+    "quantity": 1,
+    "id": 556
+   }
+  ],
+  "image": "Telekinetic Grab.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Fire Bolt",
+  "page": "Fire Bolt",
+  "isMembers": false,
+  "level": 35,
+  "spellbook": "Normal",
+  "type": "Combat",
+  "experience": 22.5,
+  "ticks": 5,
+  "maxHit": "12",
+  "element": "Fire",
+  "description": "A low level Fire missile",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Fire",
+    "quantity": 4,
+    "id": 554
+   },
+   {
+    "rune": "Air",
+    "quantity": 3,
+    "id": 556
+   },
+   {
+    "rune": "Chaos",
+    "quantity": 1,
+    "id": 562
+   }
+  ],
+  "image": "Fire Bolt.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Falador Teleport",
+  "page": "Falador Teleport",
+  "isMembers": false,
+  "level": 37,
+  "spellbook": "Normal",
+  "type": "Teleport",
+  "experience": 48.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports you to Falador",
+  "quest": null,
+  "cooldown": null,
+  "lectern": "Eagle",
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 1,
+    "id": 563
+   },
+   {
+    "rune": "Water",
+    "quantity": 1,
+    "id": 555
+   },
+   {
+    "rune": "Air",
+    "quantity": 3,
+    "id": 556
+   }
+  ],
+  "image": "Falador Teleport.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Crumble Undead",
+  "page": "Crumble Undead",
+  "isMembers": false,
+  "level": 39,
+  "spellbook": "Normal",
+  "type": "Combat",
+  "experience": 24.5,
+  "ticks": 5,
+  "maxHit": "15",
+  "element": null,
+  "description": "Hits skeletons, ghosts, shades & zombies hard",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Earth",
+    "quantity": 2,
+    "id": 557
+   },
+   {
+    "rune": "Air",
+    "quantity": 2,
+    "id": 556
+   },
+   {
+    "rune": "Chaos",
+    "quantity": 1,
+    "id": 562
+   }
+  ],
+  "image": "Crumble Undead.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Teleport to House",
+  "page": "Teleport to House",
+  "isMembers": true,
+  "level": 40,
+  "spellbook": "Normal",
+  "type": "Teleport",
+  "experience": 30.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports you to your house",
+  "quest": "No",
+  "cooldown": null,
+  "lectern": "Mahogany eagle",
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Earth",
+    "quantity": 1,
+    "id": 557
+   },
+   {
+    "rune": "Law",
+    "quantity": 1,
+    "id": 563
+   },
+   {
+    "rune": "Air",
+    "quantity": 1,
+    "id": 556
+   }
+  ],
+  "image": "Teleport to House.png",
+  "release": "31 May 2006"
+ },
+ {
+  "name": "Wind Blast",
+  "page": "Wind Blast",
+  "isMembers": false,
+  "level": 41,
+  "spellbook": "Normal",
+  "type": "Combat",
+  "experience": 25.5,
+  "ticks": 5,
+  "maxHit": "13, 14, 15, or 16",
+  "element": "Air",
+  "description": "A medium level Air missile",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Air",
+    "quantity": 3,
+    "id": 556
+   },
+   {
+    "rune": "Death",
+    "quantity": 1,
+    "id": 560
+   }
+  ],
+  "image": "Wind Blast.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Monster Inspect",
+  "page": "Monster Inspect",
+  "isMembers": false,
+  "level": 42,
+  "spellbook": "Normal",
+  "type": "Utility",
+  "experience": 30.5,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Inspect various statistics of a monster",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Body",
+    "quantity": 2,
+    "id": 559
+   },
+   {
+    "rune": "Mind",
+    "quantity": 2,
+    "id": 558
+   }
+  ],
+  "image": "Monster Inspect.png",
+  "release": "25 June 2025"
+ },
+ {
+  "name": "Superheat Item",
+  "page": "Superheat Item",
+  "isMembers": false,
+  "level": 43,
+  "spellbook": "Normal",
+  "type": "Utility",
+  "experience": 53.0,
+  "ticks": 3,
+  "maxHit": null,
+  "element": null,
+  "description": "Smelt ore without a furnace",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Nature",
+    "quantity": 1,
+    "id": 561
+   },
+   {
+    "rune": "Fire",
+    "quantity": 4,
+    "id": 554
+   }
+  ],
+  "image": "Superheat Item.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Camelot Teleport",
+  "page": "Camelot Teleport",
+  "isMembers": true,
+  "level": 45,
+  "spellbook": "Normal",
+  "type": "Teleport",
+  "experience": 55.5,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports you to Camelot",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 1,
+    "id": 563
+   },
+   {
+    "rune": "Air",
+    "quantity": 5,
+    "id": 556
+   }
+  ],
+  "image": "Camelot Teleport.png",
+  "release": "18 March 2002"
+ },
+ {
+  "name": "Water Blast",
+  "page": "Water Blast",
+  "isMembers": false,
+  "level": 47,
+  "spellbook": "Normal",
+  "type": "Combat",
+  "experience": 28.5,
+  "ticks": 5,
+  "maxHit": "14, 15, or 16",
+  "element": "Water",
+  "description": "A medium level Water missile",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Water",
+    "quantity": 3,
+    "id": 555
+   },
+   {
+    "rune": "Air",
+    "quantity": 3,
+    "id": 556
+   },
+   {
+    "rune": "Death",
+    "quantity": 1,
+    "id": 560
+   }
+  ],
+  "image": "Water Blast.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Kourend Castle Teleport",
+  "page": "Kourend Castle Teleport",
+  "isMembers": true,
+  "level": 48,
+  "spellbook": "Normal",
+  "type": "Teleport",
+  "experience": 58.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports you to Kourend Castle",
+  "quest": "Client of Kourend",
+  "cooldown": null,
+  "lectern": "Teak eagle",
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 2,
+    "id": 563
+   },
+   {
+    "rune": "Water",
+    "quantity": 1,
+    "id": 555
+   },
+   {
+    "rune": "Fire",
+    "quantity": 1,
+    "id": 554
+   }
+  ],
+  "image": "Kourend Castle Teleport.png",
+  "release": "7 January 2016"
+ },
+ {
+  "name": "Enchant Crossbow Bolts (Ruby)",
+  "page": "Enchant Crossbow Bolt (Ruby)",
+  "isMembers": true,
+  "level": 49,
+  "spellbook": "Normal",
+  "type": "Utility",
+  "experience": 59.0,
+  "ticks": 1,
+  "maxHit": null,
+  "element": null,
+  "description": "For use on ruby-tipped bolts.",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Cosmic",
+    "quantity": 1,
+    "id": 564
+   },
+   {
+    "rune": "Fire",
+    "quantity": 5,
+    "id": 554
+   },
+   {
+    "rune": "Blood",
+    "quantity": 1,
+    "id": 565
+   }
+  ],
+  "image": "Enchant Crossbow Bolt.png",
+  "release": "31 July 2006"
+ },
+ {
+  "name": "Lvl-3 Enchant",
+  "page": "Lvl-3 Enchant",
+  "isMembers": false,
+  "level": 49,
+  "spellbook": "Normal",
+  "type": "Utility",
+  "experience": 59.0,
+  "ticks": 3,
+  "maxHit": null,
+  "element": null,
+  "description": "For use on a ruby and topaz jewellery",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Fire",
+    "quantity": 5,
+    "id": 554
+   },
+   {
+    "rune": "Cosmic",
+    "quantity": 1,
+    "id": 564
+   }
+  ],
+  "image": "Lvl-3 Enchant.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Iban Blast",
+  "page": "Iban Blast",
+  "isMembers": true,
+  "level": 50,
+  "spellbook": "Normal",
+  "type": "Combat",
+  "experience": 30.0,
+  "ticks": 5,
+  "maxHit": "25",
+  "element": null,
+  "description": "Summons the wrath of Iban",
+  "quest": "Underground Pass",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Fire",
+    "quantity": 5,
+    "id": 554
+   },
+   {
+    "rune": "Death",
+    "quantity": 1,
+    "id": 560
+   }
+  ],
+  "image": "Iban Blast.png",
+  "release": "3 March 2003"
+ },
+ {
+  "name": "Magic Dart",
+  "page": "Magic Dart",
+  "isMembers": true,
+  "level": 50,
+  "spellbook": "Normal",
+  "type": "Combat",
+  "experience": 30.0,
+  "ticks": 5,
+  "maxHit": "10% of level + 10 Slayer's staff (e) & on task: 16.6% of level + 13",
+  "element": null,
+  "description": "A magic dart of slaying",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": 55,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Mind",
+    "quantity": 4,
+    "id": 558
+   },
+   {
+    "rune": "Death",
+    "quantity": 1,
+    "id": 560
+   }
+  ],
+  "image": "Magic Dart.png",
+  "release": "26 January 2005"
+ },
+ {
+  "name": "Snare",
+  "page": "Snare",
+  "isMembers": false,
+  "level": 50,
+  "spellbook": "Normal",
+  "type": "Combat",
+  "experience": 61.0,
+  "ticks": 5,
+  "maxHit": "2",
+  "element": null,
+  "description": "Hold your opponent for 10 seconds",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Nature",
+    "quantity": 3,
+    "id": 561
+   },
+   {
+    "rune": "Earth",
+    "quantity": 4,
+    "id": 557
+   },
+   {
+    "rune": "Water",
+    "quantity": 4,
+    "id": 555
+   }
+  ],
+  "image": "Snare.png",
+  "release": "29 March 2004"
+ },
+ {
+  "name": "Ardougne Teleport",
+  "page": "Ardougne Teleport",
+  "isMembers": true,
+  "level": 51,
+  "spellbook": "Normal",
+  "type": "Teleport",
+  "experience": 61.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports you to Ardougne",
+  "quest": "Plague City",
+  "cooldown": null,
+  "lectern": "Teak eagle",
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 2,
+    "id": 563
+   },
+   {
+    "rune": "Water",
+    "quantity": 2,
+    "id": 555
+   }
+  ],
+  "image": "Ardougne Teleport.png",
+  "release": "27 August 2002"
+ },
+ {
+  "name": "Earth Blast",
+  "page": "Earth Blast",
+  "isMembers": false,
+  "level": 53,
+  "spellbook": "Normal",
+  "type": "Combat",
+  "experience": 31.5,
+  "ticks": 5,
+  "maxHit": "15 or 16",
+  "element": "Earth",
+  "description": "A medium level Earth missile",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Earth",
+    "quantity": 4,
+    "id": 557
+   },
+   {
+    "rune": "Air",
+    "quantity": 3,
+    "id": 556
+   },
+   {
+    "rune": "Death",
+    "quantity": 1,
+    "id": 560
+   }
+  ],
+  "image": "Earth Blast.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Civitas illa Fortis Teleport",
+  "page": "Civitas illa Fortis Teleport",
+  "isMembers": true,
+  "level": 54,
+  "spellbook": "Normal",
+  "type": "Teleport",
+  "experience": 64.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports you to Civitas illa Fortis",
+  "quest": "Twilight's Promise",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 2,
+    "id": 563
+   },
+   {
+    "rune": "Earth",
+    "quantity": 1,
+    "id": 557
+   },
+   {
+    "rune": "Fire",
+    "quantity": 1,
+    "id": 554
+   }
+  ],
+  "image": "Civitas illa Fortis Teleport.png",
+  "release": "20 March 2024"
+ },
+ {
+  "name": "High Level Alchemy",
+  "page": "High Level Alchemy",
+  "isMembers": false,
+  "level": 55,
+  "spellbook": "Normal",
+  "type": "Utility",
+  "experience": 65.0,
+  "ticks": 5,
+  "maxHit": null,
+  "element": null,
+  "description": "Converts an item into more gold",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Nature",
+    "quantity": 1,
+    "id": 561
+   },
+   {
+    "rune": "Fire",
+    "quantity": 5,
+    "id": 554
+   }
+  ],
+  "image": "High Level Alchemy.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Charge Water Orb",
+  "page": "Charge Water Orb",
+  "isMembers": true,
+  "level": 56,
+  "spellbook": "Normal",
+  "type": "Utility",
+  "experience": 66.0,
+  "ticks": 3,
+  "maxHit": null,
+  "element": null,
+  "description": "Needs to be cast on a water obelisk",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Cosmic",
+    "quantity": 3,
+    "id": 564
+   },
+   {
+    "rune": "Water",
+    "quantity": 30,
+    "id": 555
+   },
+   {
+    "rune": "Orb",
+    "quantity": 1,
+    "id": 6821
+   }
+  ],
+  "image": "Charge Water Orb.png",
+  "release": "18 March 2002"
+ },
+ {
+  "name": "Summon Boat",
+  "page": "Summon Boat",
+  "isMembers": true,
+  "level": 56,
+  "spellbook": "Normal",
+  "type": "Teleport",
+  "experience": 66.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports your boat to the dock nearest you",
+  "quest": "Pandemonium",
+  "cooldown": null,
+  "lectern": "Mahogany eagle lectern",
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 2,
+    "id": 563
+   },
+   {
+    "rune": "Earth",
+    "quantity": 1,
+    "id": 557
+   },
+   {
+    "rune": "Water",
+    "quantity": 1,
+    "id": 555
+   }
+  ],
+  "image": "Summon Boat.png",
+  "release": "19 November 2025"
+ },
+ {
+  "name": "Enchant Crossbow Bolts (Diamond)",
+  "page": "Enchant Crossbow Bolt (Diamond)",
+  "isMembers": true,
+  "level": 57,
+  "spellbook": "Normal",
+  "type": "Utility",
+  "experience": 67.0,
+  "ticks": 1,
+  "maxHit": null,
+  "element": null,
+  "description": "For use on diamond-tipped bolts.",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Cosmic",
+    "quantity": 1,
+    "id": 564
+   },
+   {
+    "rune": "Earth",
+    "quantity": 10,
+    "id": 557
+   },
+   {
+    "rune": "Law",
+    "quantity": 2,
+    "id": 563
+   }
+  ],
+  "image": "Enchant Crossbow Bolt.png",
+  "release": "31 July 2006"
+ },
+ {
+  "name": "Lvl-4 Enchant",
+  "page": "Lvl-4 Enchant",
+  "isMembers": false,
+  "level": 57,
+  "spellbook": "Normal",
+  "type": "Utility",
+  "experience": 67.0,
+  "ticks": 3,
+  "maxHit": null,
+  "element": null,
+  "description": "For use on diamond jewellery",
+  "quest": null,
+  "cooldown": null,
+  "lectern": "Teak demon",
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Earth",
+    "quantity": 10,
+    "id": 557
+   },
+   {
+    "rune": "Cosmic",
+    "quantity": 1,
+    "id": 564
+   }
+  ],
+  "image": "Lvl-4 Enchant.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Watchtower Teleport",
+  "page": "Watchtower Teleport",
+  "isMembers": true,
+  "level": 58,
+  "spellbook": "Normal",
+  "type": "Teleport",
+  "experience": 68.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports you to the Watchtower",
+  "quest": "Watchtower",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Earth",
+    "quantity": 2,
+    "id": 557
+   },
+   {
+    "rune": "Law",
+    "quantity": 2,
+    "id": 563
+   }
+  ],
+  "image": "Watchtower Teleport.png",
+  "release": "7 May 2003"
+ },
+ {
+  "name": "Fire Blast",
+  "page": "Fire Blast",
+  "isMembers": false,
+  "level": 59,
+  "spellbook": "Normal",
+  "type": "Combat",
+  "experience": 34.5,
+  "ticks": 5,
+  "maxHit": "16",
+  "element": "Fire",
+  "description": "A medium level Fire missile",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Fire",
+    "quantity": 5,
+    "id": 554
+   },
+   {
+    "rune": "Air",
+    "quantity": 4,
+    "id": 556
+   },
+   {
+    "rune": "Death",
+    "quantity": 1,
+    "id": 560
+   }
+  ],
+  "image": "Fire Blast.png",
+  "release": "24 May 2001"
+ },
+ {
+  "name": "Bones to Peaches",
+  "page": "Bones to Peaches",
+  "isMembers": true,
+  "level": 60,
+  "spellbook": "Normal",
+  "type": "Utility",
+  "experience": 35.5,
+  "ticks": 1,
+  "maxHit": null,
+  "element": null,
+  "description": "Changes held bones into peaches",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Nature",
+    "quantity": 2,
+    "id": 561
+   },
+   {
+    "rune": "Water",
+    "quantity": 4,
+    "id": 555
+   },
+   {
+    "rune": "Earth",
+    "quantity": 4,
+    "id": 557
+   }
+  ],
+  "image": "Bones to Peaches.png",
+  "release": "4 January 2006"
+ },
+ {
+  "name": "Charge Earth Orb",
+  "page": "Charge Earth Orb",
+  "isMembers": true,
+  "level": 60,
+  "spellbook": "Normal",
+  "type": "Utility",
+  "experience": 70.0,
+  "ticks": 3,
+  "maxHit": null,
+  "element": null,
+  "description": "Needs to be cast on an earth obelisk",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Cosmic",
+    "quantity": 3,
+    "id": 564
+   },
+   {
+    "rune": "Earth",
+    "quantity": 30,
+    "id": 557
+   },
+   {
+    "rune": "Orb",
+    "quantity": 1,
+    "id": 6821
+   }
+  ],
+  "image": "Charge Earth Orb.png",
+  "release": "18 March 2002"
+ },
+ {
+  "name": "Claws of Guthix",
+  "page": "Claws of Guthix",
+  "isMembers": true,
+  "level": 60,
+  "spellbook": "Normal",
+  "type": "Combat",
+  "experience": 35.0,
+  "ticks": 5,
+  "maxHit": "20 Charged & Guthix cape worn: 30",
+  "element": "God",
+  "description": "Summons the power of Guthix",
+  "quest": "Mage Arena",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Fire",
+    "quantity": 1,
+    "id": 554
+   },
+   {
+    "rune": "Blood",
+    "quantity": 2,
+    "id": 565
+   },
+   {
+    "rune": "Air",
+    "quantity": 4,
+    "id": 556
+   }
+  ],
+  "image": "Claws of Guthix.png",
+  "release": "22 September 2003"
+ },
+ {
+  "name": "Flames of Zamorak",
+  "page": "Flames of Zamorak",
+  "isMembers": true,
+  "level": 60,
+  "spellbook": "Normal",
+  "type": "Combat",
+  "experience": 35.0,
+  "ticks": 5,
+  "maxHit": "20 Charged & Zamorak cape worn: 30",
+  "element": "God",
+  "description": "Summons the power of Zamorak",
+  "quest": "Mage Arena",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Fire",
+    "quantity": 4,
+    "id": 554
+   },
+   {
+    "rune": "Blood",
+    "quantity": 2,
+    "id": 565
+   },
+   {
+    "rune": "Air",
+    "quantity": 1,
+    "id": 556
+   }
+  ],
+  "image": "Flames of Zamorak.png",
+  "release": "22 September 2003"
+ },
+ {
+  "name": "Saradomin Strike",
+  "page": "Saradomin Strike",
+  "isMembers": true,
+  "level": 60,
+  "spellbook": "Normal",
+  "type": "Combat",
+  "experience": 35.0,
+  "ticks": 5,
+  "maxHit": "20 Charged & Saradomin cape worn: 30",
+  "element": "God",
+  "description": "Summons the power of Saradomin",
+  "quest": "Mage Arena",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Air",
+    "quantity": 4,
+    "id": 556
+   },
+   {
+    "rune": "Fire",
+    "quantity": 2,
+    "id": 554
+   },
+   {
+    "rune": "Blood",
+    "quantity": 2,
+    "id": 565
+   }
+  ],
+  "image": "Saradomin Strike.png",
+  "release": "22 September 2003"
+ },
+ {
+  "name": "Trollheim Teleport",
+  "page": "Trollheim Teleport",
+  "isMembers": true,
+  "level": 61,
+  "spellbook": "Normal",
+  "type": "Teleport",
+  "experience": 68.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports you to Trollheim",
+  "quest": "Eadgar's Ruse",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 2,
+    "id": 563
+   },
+   {
+    "rune": "Fire",
+    "quantity": 2,
+    "id": 554
+   }
+  ],
+  "image": "Trollheim Teleport.png",
+  "release": "5 October 2004"
+ },
+ {
+  "name": "Wind Wave",
+  "page": "Wind Wave",
+  "isMembers": true,
+  "level": 62,
+  "spellbook": "Normal",
+  "type": "Combat",
+  "experience": 36.0,
+  "ticks": 5,
+  "maxHit": "17, 18, 19, or 20",
+  "element": "Air",
+  "description": "A high level Air missile",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Air",
+    "quantity": 5,
+    "id": 556
+   },
+   {
+    "rune": "Blood",
+    "quantity": 1,
+    "id": 565
+   }
+  ],
+  "image": "Wind Wave.png",
+  "release": "18 March 2002"
+ },
+ {
+  "name": "Charge Fire Orb",
+  "page": "Charge Fire Orb",
+  "isMembers": true,
+  "level": 63,
+  "spellbook": "Normal",
+  "type": "Utility",
+  "experience": 73.0,
+  "ticks": 3,
+  "maxHit": null,
+  "element": null,
+  "description": "Needs to be cast on a fire obelisk",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Cosmic",
+    "quantity": 3,
+    "id": 564
+   },
+   {
+    "rune": "Fire",
+    "quantity": 30,
+    "id": 554
+   },
+   {
+    "rune": "Orb",
+    "quantity": 1,
+    "id": 6821
+   }
+  ],
+  "image": "Charge Fire Orb.png",
+  "release": "18 March 2002"
+ },
+ {
+  "name": "Ape Atoll Teleport",
+  "page": "Ape Atoll Teleport (standard)",
+  "isMembers": true,
+  "level": 64,
+  "spellbook": "Normal",
+  "type": "Teleport",
+  "experience": 74.0,
+  "ticks": 4,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports you to Ape Atoll",
+  "quest": "Recipe for Disaster (Awowogei)",
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 2,
+    "id": 563
+   },
+   {
+    "rune": "Fire",
+    "quantity": 2,
+    "id": 554
+   },
+   {
+    "rune": "Water",
+    "quantity": 2,
+    "id": 555
+   },
+   {
+    "rune": "Banana",
+    "quantity": 1,
+    "id": 1963
+   }
+  ],
+  "image": "Ape Atoll Teleport (standard).png",
+  "release": "15 March 2006"
+ },
+ {
+  "name": "Water Wave",
+  "page": "Water Wave",
+  "isMembers": true,
+  "level": 65,
+  "spellbook": "Normal",
+  "type": "Combat",
+  "experience": 37.5,
+  "ticks": 5,
+  "maxHit": "18, 19, or 20",
+  "element": "Water",
+  "description": "A high level Water missile",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Water",
+    "quantity": 7,
+    "id": 555
+   },
+   {
+    "rune": "Air",
+    "quantity": 5,
+    "id": 556
+   },
+   {
+    "rune": "Blood",
+    "quantity": 1,
+    "id": 565
+   }
+  ],
+  "image": "Water Wave.png",
+  "release": "18 March 2002"
+ },
+ {
+  "name": "Charge Air Orb",
+  "page": "Charge Air Orb",
+  "isMembers": true,
+  "level": 66,
+  "spellbook": "Normal",
+  "type": "Utility",
+  "experience": 76.0,
+  "ticks": 3,
+  "maxHit": null,
+  "element": null,
+  "description": "Needs to be cast on an air obelisk",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Cosmic",
+    "quantity": 3,
+    "id": 564
+   },
+   {
+    "rune": "Air",
+    "quantity": 30,
+    "id": 556
+   },
+   {
+    "rune": "Orb",
+    "quantity": 1,
+    "id": 6821
+   }
+  ],
+  "image": "Charge Air Orb.png",
+  "release": "18 March 2002"
+ },
+ {
+  "name": "Vulnerability",
+  "page": "Vulnerability",
+  "isMembers": true,
+  "level": 66,
+  "spellbook": "Normal",
+  "type": "Combat",
+  "experience": 76.0,
+  "ticks": 5,
+  "maxHit": null,
+  "element": null,
+  "description": "Reduces your opponent's defence by 10%",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Water",
+    "quantity": 5,
+    "id": 555
+   },
+   {
+    "rune": "Earth",
+    "quantity": 5,
+    "id": 557
+   },
+   {
+    "rune": "Soul",
+    "quantity": 1,
+    "id": 566
+   }
+  ],
+  "image": "Vulnerability.png",
+  "release": "23 October 2002"
+ },
+ {
+  "name": "Teleport to Boat",
+  "page": "Teleport to Boat",
+  "isMembers": true,
+  "level": 67,
+  "spellbook": "Normal",
+  "type": "Teleport",
+  "experience": 77.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports you to your boat",
+  "quest": "Pandemonium",
+  "cooldown": null,
+  "lectern": "Mahogany eagle lectern",
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 2,
+    "id": 563
+   },
+   {
+    "rune": "Earth",
+    "quantity": 2,
+    "id": 557
+   },
+   {
+    "rune": "Water",
+    "quantity": 2,
+    "id": 555
+   }
+  ],
+  "image": "Teleport to Boat.png",
+  "release": "19 November 2025"
+ },
+ {
+  "name": "Enchant Crossbow bolt (Dragonstone)",
+  "page": "Enchant Crossbow Bolt (Dragonstone)",
+  "isMembers": true,
+  "level": 68,
+  "spellbook": "Normal",
+  "type": "Utility",
+  "experience": 78.0,
+  "ticks": 1,
+  "maxHit": null,
+  "element": null,
+  "description": "For use on dragonstone-tipped bolts.",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Cosmic",
+    "quantity": 1,
+    "id": 564
+   },
+   {
+    "rune": "Earth",
+    "quantity": 15,
+    "id": 557
+   },
+   {
+    "rune": "Soul",
+    "quantity": 1,
+    "id": 566
+   }
+  ],
+  "image": "Enchant Crossbow Bolt.png",
+  "release": "31 July 2006"
+ },
+ {
+  "name": "Lvl-5 Enchant",
+  "page": "Lvl-5 Enchant",
+  "isMembers": true,
+  "level": 68,
+  "spellbook": "Normal",
+  "type": "Utility",
+  "experience": 78.0,
+  "ticks": 3,
+  "maxHit": null,
+  "element": null,
+  "description": "For use on dragonstone jewellery",
+  "quest": null,
+  "cooldown": null,
+  "lectern": "Mahogany demon",
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Earth",
+    "quantity": 15,
+    "id": 557
+   },
+   {
+    "rune": "Water",
+    "quantity": 15,
+    "id": 555
+   },
+   {
+    "rune": "Cosmic",
+    "quantity": 1,
+    "id": 564
+   }
+  ],
+  "image": "Lvl-5 Enchant.png",
+  "release": "27 February 2002"
+ },
+ {
+  "name": "Earth Wave",
+  "page": "Earth Wave",
+  "isMembers": true,
+  "level": 70,
+  "spellbook": "Normal",
+  "type": "Combat",
+  "experience": 40.0,
+  "ticks": 5,
+  "maxHit": "19 or 20",
+  "element": "Earth",
+  "description": "A high level Earth missile",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Earth",
+    "quantity": 7,
+    "id": 557
+   },
+   {
+    "rune": "Air",
+    "quantity": 5,
+    "id": 556
+   },
+   {
+    "rune": "Blood",
+    "quantity": 1,
+    "id": 565
+   }
+  ],
+  "image": "Earth Wave.png",
+  "release": "18 March 2002"
+ },
+ {
+  "name": "Enfeeble",
+  "page": "Enfeeble",
+  "isMembers": true,
+  "level": 73,
+  "spellbook": "Normal",
+  "type": "Combat",
+  "experience": 83.0,
+  "ticks": 5,
+  "maxHit": null,
+  "element": null,
+  "description": "Reduces your opponent's strength by 10%",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Earth",
+    "quantity": 8,
+    "id": 557
+   },
+   {
+    "rune": "Water",
+    "quantity": 8,
+    "id": 555
+   },
+   {
+    "rune": "Soul",
+    "quantity": 1,
+    "id": 566
+   }
+  ],
+  "image": "Enfeeble.png",
+  "release": "23 October 2002"
+ },
+ {
+  "name": "Teleother Lumbridge",
+  "page": "Teleother Lumbridge",
+  "isMembers": true,
+  "level": 74,
+  "spellbook": "Normal",
+  "type": "Teleport",
+  "experience": 84.0,
+  "ticks": 10,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports target to Lumbridge",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Soul",
+    "quantity": 1,
+    "id": 566
+   },
+   {
+    "rune": "Earth",
+    "quantity": 1,
+    "id": 557
+   },
+   {
+    "rune": "Law",
+    "quantity": 1,
+    "id": 563
+   }
+  ],
+  "image": "Teleother Lumbridge.png",
+  "release": "14 March 2005"
+ },
+ {
+  "name": "Fire Wave",
+  "page": "Fire Wave",
+  "isMembers": true,
+  "level": 75,
+  "spellbook": "Normal",
+  "type": "Combat",
+  "experience": 42.5,
+  "ticks": 5,
+  "maxHit": "20",
+  "element": "Fire",
+  "description": "A high level Fire missile",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Fire",
+    "quantity": 7,
+    "id": 554
+   },
+   {
+    "rune": "Air",
+    "quantity": 5,
+    "id": 556
+   },
+   {
+    "rune": "Blood",
+    "quantity": 1,
+    "id": 565
+   }
+  ],
+  "image": "Fire Wave.png",
+  "release": "18 March 2002"
+ },
+ {
+  "name": "Entangle",
+  "page": "Entangle",
+  "isMembers": true,
+  "level": 79,
+  "spellbook": "Normal",
+  "type": "Combat",
+  "experience": 89.0,
+  "ticks": 5,
+  "maxHit": "5",
+  "element": null,
+  "description": "Holds your opponent for 15 seconds",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Nature",
+    "quantity": 4,
+    "id": 561
+   },
+   {
+    "rune": "Earth",
+    "quantity": 5,
+    "id": 557
+   },
+   {
+    "rune": "Water",
+    "quantity": 5,
+    "id": 555
+   }
+  ],
+  "image": "Entangle.png",
+  "release": "29 March 2004"
+ },
+ {
+  "name": "Charge",
+  "page": "Charge",
+  "isMembers": true,
+  "level": 80,
+  "spellbook": "Normal",
+  "type": "Combat",
+  "experience": 180.0,
+  "ticks": null,
+  "maxHit": null,
+  "element": null,
+  "description": "Temporarily increases the power of the three arena spells when wearing Mage Arena capes",
+  "quest": null,
+  "cooldown": "100 ticks",
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Fire",
+    "quantity": 3,
+    "id": 554
+   },
+   {
+    "rune": "Blood",
+    "quantity": 3,
+    "id": 565
+   },
+   {
+    "rune": "Air",
+    "quantity": 3,
+    "id": 556
+   }
+  ],
+  "image": "Charge.png",
+  "release": "22 September 2003"
+ },
+ {
+  "name": "Stun",
+  "page": "Stun",
+  "isMembers": true,
+  "level": 80,
+  "spellbook": "Normal",
+  "type": "Combat",
+  "experience": 90.0,
+  "ticks": 5,
+  "maxHit": null,
+  "element": null,
+  "description": "Reduces your opponent's attack by 10%",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Soul",
+    "quantity": 1,
+    "id": 566
+   },
+   {
+    "rune": "Earth",
+    "quantity": 12,
+    "id": 557
+   },
+   {
+    "rune": "Water",
+    "quantity": 12,
+    "id": 555
+   }
+  ],
+  "image": "Stun.png",
+  "release": "23 October 2002"
+ },
+ {
+  "name": "Wind Surge",
+  "page": "Wind Surge",
+  "isMembers": true,
+  "level": 81,
+  "spellbook": "Normal",
+  "type": "Combat",
+  "experience": 44.5,
+  "ticks": 5,
+  "maxHit": "21, 22, 23, or 24",
+  "element": "Air",
+  "description": "A very high level Air missile",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Air",
+    "quantity": 7,
+    "id": 556
+   },
+   {
+    "rune": "Wrath",
+    "quantity": 1,
+    "id": 21880
+   }
+  ],
+  "image": "Wind Surge.png",
+  "release": "4 January 2018"
+ },
+ {
+  "name": "Teleother Falador",
+  "page": "Teleother Falador",
+  "isMembers": true,
+  "level": 82,
+  "spellbook": "Normal",
+  "type": "Teleport",
+  "experience": 92.0,
+  "ticks": 10,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports target to Falador",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Soul",
+    "quantity": 1,
+    "id": 566
+   },
+   {
+    "rune": "Law",
+    "quantity": 1,
+    "id": 563
+   },
+   {
+    "rune": "Water",
+    "quantity": 1,
+    "id": 555
+   }
+  ],
+  "image": "Teleother Falador.png",
+  "release": "14 March 2005"
+ },
+ {
+  "name": "Tele Block",
+  "page": "Tele Block",
+  "isMembers": false,
+  "level": 85,
+  "spellbook": "Normal",
+  "type": "Combat",
+  "experience": 83.6,
+  "ticks": 5,
+  "maxHit": null,
+  "element": null,
+  "description": "Stops your target from teleporting",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Law",
+    "quantity": 1,
+    "id": 563
+   },
+   {
+    "rune": "Chaos",
+    "quantity": 1,
+    "id": 562
+   },
+   {
+    "rune": "Death",
+    "quantity": 1,
+    "id": 560
+   }
+  ],
+  "image": "Tele Block.png",
+  "release": "14 March 2005"
+ },
+ {
+  "name": "Water Surge",
+  "page": "Water Surge",
+  "isMembers": true,
+  "level": 85,
+  "spellbook": "Normal",
+  "type": "Combat",
+  "experience": 46.5,
+  "ticks": 5,
+  "maxHit": "22, 23, or 24",
+  "element": "Water",
+  "description": "A very high level Water missile",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Water",
+    "quantity": 10,
+    "id": 555
+   },
+   {
+    "rune": "Air",
+    "quantity": 7,
+    "id": 556
+   },
+   {
+    "rune": "Wrath",
+    "quantity": 1,
+    "id": 21880
+   }
+  ],
+  "image": "Water Surge.png",
+  "release": "4 January 2018"
+ },
+ {
+  "name": "Enchant Crossbow Bolt (Onyx)",
+  "page": "Enchant Crossbow Bolt (Onyx)",
+  "isMembers": true,
+  "level": 87,
+  "spellbook": "Normal",
+  "type": "Utility",
+  "experience": 97.0,
+  "ticks": 1,
+  "maxHit": null,
+  "element": null,
+  "description": "For use on onyx-tipped bolts.",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Cosmic",
+    "quantity": 1,
+    "id": 564
+   },
+   {
+    "rune": "Fire",
+    "quantity": 20,
+    "id": 554
+   },
+   {
+    "rune": "Death",
+    "quantity": 1,
+    "id": 560
+   }
+  ],
+  "image": "Enchant Crossbow Bolt.png",
+  "release": "31 July 2006"
+ },
+ {
+  "name": "Lvl-6 Enchant",
+  "page": "Lvl-6 Enchant",
+  "isMembers": true,
+  "level": 87,
+  "spellbook": "Normal",
+  "type": "Utility",
+  "experience": 97.0,
+  "ticks": 3,
+  "maxHit": null,
+  "element": null,
+  "description": "For use on onyx jewellery",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Earth",
+    "quantity": 20,
+    "id": 557
+   },
+   {
+    "rune": "Fire",
+    "quantity": 20,
+    "id": 554
+   },
+   {
+    "rune": "Cosmic",
+    "quantity": 1,
+    "id": 564
+   }
+  ],
+  "image": "Lvl-6 Enchant.png",
+  "release": "4 October 2005"
+ },
+ {
+  "name": "Earth Surge",
+  "page": "Earth Surge",
+  "isMembers": true,
+  "level": 90,
+  "spellbook": "Normal",
+  "type": "Combat",
+  "experience": 48.2,
+  "ticks": 5,
+  "maxHit": "23 or 24",
+  "element": "Earth",
+  "description": "A very high level Earth missile",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Earth",
+    "quantity": 10,
+    "id": 557
+   },
+   {
+    "rune": "Air",
+    "quantity": 7,
+    "id": 556
+   },
+   {
+    "rune": "Wrath",
+    "quantity": 1,
+    "id": 21880
+   }
+  ],
+  "image": "Earth Surge.png",
+  "release": "4 January 2018"
+ },
+ {
+  "name": "Teleother Camelot",
+  "page": "Teleother Camelot",
+  "isMembers": true,
+  "level": 90,
+  "spellbook": "Normal",
+  "type": "Teleport",
+  "experience": 100.0,
+  "ticks": 10,
+  "maxHit": null,
+  "element": null,
+  "description": "Teleports target to Camelot",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Soul",
+    "quantity": 2,
+    "id": 566
+   },
+   {
+    "rune": "Law",
+    "quantity": 1,
+    "id": 563
+   }
+  ],
+  "image": "Teleother Camelot.png",
+  "release": "14 March 2005"
+ },
+ {
+  "name": "Lvl-7 Enchant",
+  "page": "Lvl-7 Enchant",
+  "isMembers": true,
+  "level": 93,
+  "spellbook": "Normal",
+  "type": "Utility",
+  "experience": 110.0,
+  "ticks": 3,
+  "maxHit": null,
+  "element": null,
+  "description": "For use on zenyte jewellery",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Blood",
+    "quantity": 20,
+    "id": 565
+   },
+   {
+    "rune": "Soul",
+    "quantity": 20,
+    "id": 566
+   },
+   {
+    "rune": "Cosmic",
+    "quantity": 1,
+    "id": 564
+   }
+  ],
+  "image": "Lvl-7 Enchant.png",
+  "release": "6 May 2016"
+ },
+ {
+  "name": "Fire Surge",
+  "page": "Fire Surge",
+  "isMembers": true,
+  "level": 95,
+  "spellbook": "Normal",
+  "type": "Combat",
+  "experience": 50.5,
+  "ticks": 5,
+  "maxHit": "24",
+  "element": "Fire",
+  "description": "A very high level Fire missile",
+  "quest": null,
+  "cooldown": null,
+  "lectern": null,
+  "slayerLevel": null,
+  "removal": null,
+  "removalUpdate": null,
+  "runes": [
+   {
+    "rune": "Fire",
+    "quantity": 10,
+    "id": 554
+   },
+   {
+    "rune": "Air",
+    "quantity": 7,
+    "id": 556
+   },
+   {
+    "rune": "Wrath",
+    "quantity": 1,
+    "id": 21880
+   }
+  ],
+  "image": "Fire Surge.png",
+  "release": "4 January 2018"
+ }
+]

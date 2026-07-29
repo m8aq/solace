@@ -1,0 +1,337 @@
+{
+  "_comment": [
+    "Hand-maintained hooks for RuneLite 1.12.33 that are absent from the public canonical mappings.",
+    "Merged via: generateVersionPackage --merge mappings/canonical/supplemental-1.12.33.json",
+    "Every entry below was recovered from injected-client-1.12.33.jar bytecode, not inferred by name.",
+    "",
+    "Provenance of each obfuscated name:",
+    "  username                          client.getUsername()      -> GETSTATIC bx.bk",
+    "  password                          client.setPassword(S)     -> PUTSTATIC bx.bw",
+    "  otp                               client.setOtp(S)          -> PUTSTATIC ay.cf",
+    "  loginIndex                        client.getLoginIndex()    -> GETSTATIC bx.cr, imul -505223025",
+    "  displayName / JX_DISPLAY_NAME     client.init() JX_DISPLAY_NAME  -> PUTSTATIC bx.cl",
+    "  characterId / JX_CHARACTER_ID     client.init() JX_CHARACTER_ID  -> PUTSTATIC lo.lx",
+    "  sessionId                         client.init() JX_SESSION_ID    -> PUTSTATIC et.ln",
+    "  isMenuOpen                        client.isMenuOpen()       -> GETSTATIC client.nu",
+    "  widgets                           client.di(II)             -> GETSTATIC xz.ch, then GETFIELD ll.ap",
+    "  Widgets.Widget_interfaceComponents  same site               -> ll.ap:[[Llp; (us extends ll)",
+    "  KeyHandler_instance               client.getKeyboardIdleTicks() -> GETSTATIC tj.rj:Ltg;",
+    "  KeyHandler.idleTicks              tg.wo() -> GETFIELD tg.ax, imul 588807121",
+    "  loginMode                         client.<clinit> / bx.bu login handler -> PUTSTATIC client.da:Lzd;",
+    "  normalLoginMode                   client.<clinit> initialises client.da from zd.ag (legacyType)",
+    "  oAuthLoginMode                    login handler reads zd.af (jagexType)",
+    "  Scene.selectedX / selectedY       eb.bu / eb.bk. The client keeps TWO coordinate pairs and",
+    "                                    dp.getSelectedSceneTile() picks between them on isMenuOpen:",
+    "                                    the true branch reads eb.bu / eb.bk, the false branch reads",
+    "                                    eb.cv / eb.dx. Solace WRITES these to inject a walk target,",
+    "                                    and a menu action is processed while the menu is open, so the",
+    "                                    menu-open pair (bu/bk) is the one that must be written. The",
+    "                                    cv/dx pair is the pointer-hovered value, recomputed from the",
+    "                                    mouse every frame - writing it is silently discarded.",
+    "                                    Confirmed live: writing eb.bu/eb.bk moved the character;",
+    "                                    writing eb.cv/eb.dx produced no movement at all. X vs Y comes",
+    "                                    from the tiles array index order, eb.yj[plane][x][y].",
+    "                                    Neither pair is garbage-encoded.",
+    "",
+    "                                    CORRECTION: an earlier revision of this file mapped selectedX",
+    "                                    /selectedY to eb.cv / eb.dx. That was the hovered pair - the",
+    "                                    right fields for READING the tile under the cursor, the wrong",
+    "                                    ones for Solace, which only ever writes them. Third-party hook",
+    "                                    sets name the menu-open pair as setSelectedSceneTileX/Y, and",
+    "                                    the same distinction holds at revisions 223/224/225/227/229.",
+    "",
+    "  Scene.viewportWalking             eb.bw, and Scene.checkClick eb.dk. Identified by the client's",
+    "                                    own pending-walk test, which reads viewportWalking in the same",
+    "                                    expression as a selectedX-against-(-1) comparison (visible as",
+    "                                    'viewportWalking && Scene_selectedX != -1' in a semantically",
+    "                                    named decompilation). checkClick is the other boolean written",
+    "                                    by the same selection-reset routine. This structural rule",
+    "                                    scores 5/5 on revisions 223-229 against third-party labels.",
+    "",
+    "                                    CORRECTION: a statistical tiebreak (lowest get/put ratio)",
+    "                                    previously assigned viewportWalking to eb.dk. That heuristic",
+    "                                    swaps the two on several revisions and is not reliable.",
+    "",
+    "  TileItem.worldViewId              dj.ot. The world view stamps its own getId() straight onto",
+    "                                    each item: client.ad calls dp.getId() and stores the result",
+    "                                    into dj.ot. dp is the WorldView implementation and getId() is",
+    "                                    public RuneLite API, so this is anchored on unrenameable names.",
+    "",
+    "  Actor.pathLength                  client.np reads du.cc alongside the du.dg[] / du.du[] path",
+    "                                    arrays; exact decoder from `getfield du.cc:I; ldc 1538626549;",
+    "                                    imul`. Live: 0 while idle, 2 then 1 while walking a short path.",
+    "",
+    "  GARBAGE CORRECTIONS (getter multipliers). CanonicalMappingConverter picks",
+    "  `setter != null ? setter : getter`, but ReflField needs the GETTER: getValue multiplies by the",
+    "  stored constant, and setValue multiplies by its modular inverse. Shipping the setter therefore",
+    "  breaks reads AND writes. Five entries were affected: MouseHandler_x, MouseHandler_y,",
+    "  MouseHandler_idleCycles, MouseHandler_lastPressedTimeMillis, mouseLastPressedTimeMillis.",
+    "  Proven live: with the synthetic pointer dispatched to (320,211), (260,150) and (400,240),",
+    "  sw.as * 1924109177 and sw.ax * 378379891 reproduced those exact coordinates, while the shipped",
+    "  values (363237937 / -524263433) did not. The canonical setters are not even true modular",
+    "  inverses of the getters here (product != 1), so they are stale rather than merely mis-selected.",
+    "",
+    "  MouseHandler_lastPressedTimeMillis: the canonical mappings point this at sw.ap, which is the",
+    "  wrong field - sw.ap is the last mouse MOVE time. Proven by injecting input into a live client:",
+    "  after a pointer move with no click, sw.ap updated to 1.2s ago while sw.av stayed 968s stale;",
+    "  after a click, sw.av updated too. So sw.av is last-pressed and sw.ap is last-moved. The Kraken",
+    "  hooks.json (same revision - its packetWriter=dw, buffer=xm/xv, Buffer.offset multiplier",
+    "  -1278253407 all match this client exactly) independently names sw.av as the last-pressed field",
+    "  with multiplier 4865206394403847849, which decodes to a correct wall-clock timestamp here.",
+    "  Neither hook is referenced by Solace code today, so this is latent rather than active.",
+    "",
+    "  mouseLastPressedTimeMillis (client.gx) is deliberately NOT overridden. An earlier attempt used",
+    "  -996349481466239501, which is wrong: that constant is the field's own stored value, picked up",
+    "  from a constant store rather than a decode multiplier, and it does not yield a timestamp. Its",
+    "  true getter is still unknown, so the canonical value is left in place.",
+    "",
+    "  UNVERIFIED CANDIDATES - deliberately not mapped, recorded so the next pass can start here.",
+    "  Derived by cross-referencing the Storm S2 June 2024 hooks.json (revision 223, 304 named",
+    "  classes / 2147 named fields) whose obfuscated names do NOT transfer directly to 1.12.33:",
+    "    worldSelectOpen    -> probably bx.do:Z. At rev 223 this was Login.dn, and Login there also",
+    "                          held loginIndex; here loginIndex/username/password are all on bx, so",
+    "                          Login == bx. Of bx's four static booleans only bx.do has a matching",
+    "                          usage profile (9 gets/18 puts vs a scaled expectation of ~6/18; the",
+    "                          others are 13, 4 and 4 puts), and it is touched by the login handler.",
+    "    checkClick         -> one of eb.yp / eb.bw / eb.dk (Scene instance booleans; eb.zd is",
+    "                          Scene.isInstance and eb.an is written only in the constructor).",
+    "    viewportWalking    -> likewise; scaled usage favours eb.bw for checkClick and eb.dk for",
+    "                          viewportWalking, which CONTRADICTS an earlier eb.yp guess. Writing",
+    "                          each candidate false did not stop hover tracking, because the client",
+    "                          re-sets these flags every frame, so the write test was inconclusive.",
+    "    clickedWidget      -> not satisfiable as a static here. At rev 223 it was a static Widget on",
+    "                          client; in 1.12.33 the only two Llp; statics are the script active/dot",
+    "                          widgets, and the dragged widget is the instance field uw.af, reached",
+    "                          via xz.ch -> us.an. ClientImpl.setDraggedWidget needs a code change,",
+    "                          not a mapping.",
+    "    TileItem.worldViewId -> rev 223 has Scene.worldViewId and MenuAction.worldViewId but no",
+    "                          TileItem.worldViewId, so this hook postdates that mapping set.",
+    "    lastButton, loginResponse1-3, password -> absent from the Storm hooks.json entirely.",
+    "",
+    "  CAUTION: a runtime scan that used MenuEntry param0/param1 as the oracle for these two",
+    "  reported eb.cu / eb.bx across 5 consecutive samples. That was a FALSE POSITIVE - walk-here",
+    "  params are canvas pixel coords (366,173 vs decoded MouseHandler x/y 370,177), not scene",
+    "  coords, so it was matching the click position rather than the selected tile. Do not use",
+    "  MenuEntry params as a scene-coordinate oracle.",
+    "",
+    "NOTE: JX_DISPLAY_NAME and JX_CHARACTER_ID override incorrect entries in the canonical",
+    "mappings, which had them swapped onto lo.lx and bx.bk. bx.bk is in fact `username`.",
+    "",
+    "NOTE: garbage values here are the GETTER (decode) multipliers. ReflField.getValue()",
+    "multiplies by the stored value and setValue() multiplies by its modular inverse, so the",
+    "getter constant is the correct one. CanonicalMappingConverter prefers `setter`, which for",
+    "sw.as disagrees with the bytecode (canonical setter=363237937 vs actual getter=1924109177).",
+    "",
+    "  menuAction                        ek.fu, garbage -1612500198. RuneLite's own public",
+    "                                    client.menuAction(...) pushes that constant and forwards",
+    "                                    straight to ek.fu, so both the target and its junk value",
+    "                                    come from an unrenameable call site. Note the same",
+    "                                    constant already appears in the canonical mappings as the",
+    "                                    garbage for 'doAction', which looks like the same client",
+    "                                    function under a second name."
+  ],
+  "classMappings": [
+    {
+      "name": "Actor",
+      "obfName": "du",
+      "fields": [
+        {
+          "name": "pathLength",
+          "obfName": "cc",
+          "typeDesc": "I",
+          "isStatic": false
+        }
+      ],
+      "methods": []
+    },
+    {
+      "name": "TileItem",
+      "obfName": "dj",
+      "fields": [
+        {
+          "name": "worldViewId",
+          "obfName": "ot",
+          "typeDesc": "I",
+          "isStatic": false
+        }
+      ],
+      "methods": []
+    },
+    {
+      "name": "KeyHandler",
+      "obfName": "tg",
+      "fields": [
+        {
+          "name": "idleTicks",
+          "obfName": "ax",
+          "typeDesc": "I",
+          "isStatic": false
+        }
+      ],
+      "methods": []
+    },
+    {
+      "name": "Scene",
+      "obfName": "eb",
+      "fields": [
+        {
+          "name": "selectedX",
+          "obfName": "bu",
+          "typeDesc": "I",
+          "isStatic": false
+        },
+        {
+          "name": "selectedY",
+          "obfName": "bk",
+          "typeDesc": "I",
+          "isStatic": false
+        },
+        {
+          "name": "viewportWalking",
+          "obfName": "bw",
+          "typeDesc": "Z",
+          "isStatic": false
+        },
+        {
+          "name": "checkClick",
+          "obfName": "dk",
+          "typeDesc": "Z",
+          "isStatic": false
+        }
+      ],
+      "methods": []
+    },
+    {
+      "name": "Widgets",
+      "obfName": "ll",
+      "fields": [
+        {
+          "name": "Widget_interfaceComponents",
+          "obfName": "ap",
+          "typeDesc": "[[Llp;",
+          "isStatic": false
+        }
+      ],
+      "methods": []
+    }
+  ],
+  "staticFields": [
+    {
+      "name": "username",
+      "obfName": "bk",
+      "owner": "bx",
+      "typeDesc": "Ljava/lang/String;"
+    },
+    {
+      "name": "password",
+      "obfName": "bw",
+      "owner": "bx",
+      "typeDesc": "Ljava/lang/String;"
+    },
+    {
+      "name": "otp",
+      "obfName": "cf",
+      "owner": "ay",
+      "typeDesc": "Ljava/lang/String;"
+    },
+    {
+      "name": "loginIndex",
+      "obfName": "cr",
+      "owner": "bx",
+      "typeDesc": "I"
+    },
+    {
+      "name": "displayName",
+      "obfName": "cl",
+      "owner": "bx",
+      "typeDesc": "Ljava/lang/String;"
+    },
+    {
+      "name": "JX_DISPLAY_NAME",
+      "obfName": "cl",
+      "owner": "bx",
+      "typeDesc": "Ljava/lang/String;"
+    },
+    {
+      "name": "characterId",
+      "obfName": "lx",
+      "owner": "lo",
+      "typeDesc": "Ljava/lang/String;"
+    },
+    {
+      "name": "JX_CHARACTER_ID",
+      "obfName": "lx",
+      "owner": "lo",
+      "typeDesc": "Ljava/lang/String;"
+    },
+    {
+      "name": "sessionId",
+      "obfName": "ln",
+      "owner": "et",
+      "typeDesc": "Ljava/lang/String;"
+    },
+    {
+      "name": "isMenuOpen",
+      "obfName": "nu",
+      "owner": "client",
+      "typeDesc": "Z"
+    },
+    {
+      "name": "widgets",
+      "obfName": "ch",
+      "owner": "xz",
+      "typeDesc": "Lus;"
+    },
+    {
+      "name": "KeyHandler_instance",
+      "obfName": "rj",
+      "owner": "tj",
+      "typeDesc": "Ltg;"
+    },
+    {
+      "name": "loginMode",
+      "obfName": "da",
+      "owner": "client",
+      "typeDesc": "Lzd;"
+    },
+    {
+      "name": "normalLoginMode",
+      "obfName": "ag",
+      "owner": "zd",
+      "typeDesc": "Lzd;"
+    },
+    {
+      "name": "oAuthLoginMode",
+      "obfName": "af",
+      "owner": "zd",
+      "typeDesc": "Lzd;"
+    },
+    {
+      "name": "MouseHandler_lastPressedTimeMillis",
+      "obfName": "av",
+      "owner": "sw",
+      "typeDesc": "J"
+    }
+  ],
+  "staticMethods": [
+    {
+      "name": "menuAction",
+      "obfName": "fu",
+      "owner": "ek",
+      "expectedTypeDesc": "",
+      "typeDesc": "(IIIIIILjava/lang/String;Ljava/lang/String;III)V"
+    }
+  ],
+  "garbage": {
+    "loginIndex": "-505223025",
+    "KeyHandler.idleTicks": "588807121",
+    "Actor.pathLength": "1538626549",
+    "MouseHandler_x": "1924109177",
+    "MouseHandler_y": "378379891",
+    "MouseHandler_idleCycles": "1185535379",
+    "MouseHandler_lastPressedTimeMillis": "4865206394403847849",
+    "menuAction": "-1612500198"
+  },
+  "runeLiteVersion": "1.12.33",
+  "runeLiteCommit": "f53b939"
+}
