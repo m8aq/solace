@@ -2,7 +2,12 @@
  {
   "name": "mcannon",
   "id": 0,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "DWARF_CANNON_PROGRESS",
+  "content": "Dwarf Cannon",
+  "wikiPage": "RuneScape:Varplayer/0",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Dwarf Cannon. ==Values=="
  },
  {
   "name": "mcannonmulti",
@@ -27,17 +32,32 @@
  {
   "name": "grail",
   "id": 5,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "HOLY_GRAIL_PROGRESS",
+  "content": "Holy Grail",
+  "wikiPage": "RuneScape:Varplayer/5",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Holy Grail. ==Values=="
  },
  {
   "name": "cogquest",
   "id": 10,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "CLOCK_TOWER_PROGRESS",
+  "content": "Clock Tower",
+  "wikiPage": "RuneScape:Varplayer/10",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Clock Tower. ==Values=="
  },
  {
   "name": "fishingcompo",
   "id": 11,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "FISHING_CONTEST_PROGRESS",
+  "content": "Fishing Contest",
+  "wikiPage": "RuneScape:Varplayer/11",
+  "varClass": "Enum",
+  "description": "This tracks progress in Fishing Contest. ==Values== ;0 Default state. Question not started. ;1 After Vestri or Austri give the player the contest pass and tell them to go to Hemenster. Also if the player leaves the competition area after it has started, or they lose from failing to use garlic on the pipe. ;2 After paying to star the competition when Bonzo tells the player to use the southern fishing spot. They will not catch a large fish and it will be set to 1 after this. ;3 After paying to start the competition, after garlic has been added to the pipe when Bonzo tells the player to use the northern fishing spot. Sets to 1 upon leaving the fenced area. Also set to 1 if the player doesn't use red vine worms. ;4 After Bonzo declares the player the winner and gives them the trophy. ;5 Quest complete! After giving either brother the fishing trophy"
  },
  {
   "name": "garlicpipe",
@@ -47,17 +67,32 @@
  {
   "name": "arthur",
   "id": 14,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "MERLIN'S_CRYSTAL_PROGRESS",
+  "content": "Merlin's Crystal",
+  "wikiPage": "RuneScape:Varplayer/14",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Merlin's Crystal. ==Values=="
  },
  {
   "name": "arenaquest",
   "id": 17,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "FIGHT_ARENA_PROGRESS",
+  "content": "Fight Arena",
+  "wikiPage": "RuneScape:Varplayer/17",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Fight Arena. ==Values=="
  },
  {
   "name": "musicplay",
   "id": 18,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "MUSIC_PLAYER_AUTOPLAY",
+  "content": "Music Player",
+  "wikiPage": "RuneScape:Varplayer/18",
+  "varClass": "Switch",
+  "description": "Whether the Music Player should switch music tracks automatically when the player enters respective areas of music tracks. Defaults to 1 the very first time the player logs onto Tutorial Island. Controlled by the \"AUTO\" and \"MAN\" buttons in the Music Player interface. ==Values== ; 0 : Manual ; 1 : Auto (default)"
  },
  {
   "name": "musicloop",
@@ -67,22 +102,40 @@
  {
   "name": "musicmulti_1",
   "id": 20,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "MUSIC_TRACKS_UNLOCKED_1",
+  "content": "Music",
+  "wikiPage": "RuneScape:Varplayer/20",
+  "varClass": "Enum",
+  "description": "Music tracks. If one of the following tracks is unlocked, it increases the value by 2^(n-1). The value is the sum of all unlocked tracks. # Adventure # Al Kharid # Alone # Ambient Jungle # Arabian # Arabian 2 # Arabian 3 # Arabique # Army of Darkness # Arrival # Attack 1 # Attack 2 # Attack 3 # Attack 4 # Attack 5 # Attack 6 # Attention # Autumn Voyage # Background # Ballad of Enchantment # Baroque # Beyond # Big Chords # Book of Spells # Camelot # Cave Background # Cavern # Chain of Command # Crystal Cave # Crystal Sword # Dangerous # Dark"
  },
  {
   "name": "musicmulti_2",
   "id": 21,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "MUSIC_TRACKS_UNLOCKED_2",
+  "content": "Music",
+  "wikiPage": "RuneScape:Varplayer/21",
+  "varClass": "Enum",
+  "description": "Music tracks. If one of the following tracks is unlocked, it increases the value by 2^(n-1). The value is the sum of all unlocked tracks. # Deep Wildy # Desert Voyage # Doorways # Dream # Dunjun # Egypt # Emotion # Emperor # Expanse # Expecting # Expedition # Faerie # Fanfare # Fanfare 3 # Fishing # Flute salad # Forever # Gaol # Garden # Gnome King # Dwarf Theme # Gnome Village # Gnome Village 2 # Goblin Village # Gnomeball # Greatness # Harmony # High Seas # Horizon # Iban # In the Manor # Inspiration"
  },
  {
   "name": "musicmulti_3",
   "id": 22,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "MUSIC_TRACKS_UNLOCKED_3",
+  "content": "Music",
+  "wikiPage": "RuneScape:Varplayer/22",
+  "varClass": "Enum"
  },
  {
   "name": "musicmulti_4",
   "id": 23,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "MUSIC_TRACKS_UNLOCKED_4",
+  "content": "Music",
+  "wikiPage": "RuneScape:Varplayer/23",
+  "varClass": "Enum"
  },
  {
   "name": "musicmulti_5",
@@ -102,22 +155,42 @@
  {
   "name": "cookquest",
   "id": 29,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "COOK'S_ASSISTANT_PROGRESS",
+  "content": "Cook's Assistant",
+  "wikiPage": "RuneScape:Varplayer/29",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Cook's Assistant. ==Values== ; 0 : Not started ; 1 : Started: Oh thank you, thank you. I need milk, an egg and flour. I'd be very grateful if you can get them for me. ; 2 : You have completed Cook's Assistant! ==2021 Easter event== The value of this varplayer is used in the 2021 Easter event."
  },
  {
   "name": "drunkmonkquest",
   "id": 30,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "MONKS_FRIEND_PROGRESS",
+  "content": "Monk's Friend",
+  "wikiPage": "RuneScape:Varplayer/30",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Monk's Friend. ==Values== ;0 Default state, quest not started. ;10 After the player says \"Where are they?\", the quest is officially started. ;20 After Brother Omad says \"*yawn*..I'm off to bed! Farewell brave traveller!\" once the player hands over the child's blanket. ;30 After Brother Omad says \"Oh, he won't be far. Probably out in the forest.\" once the player asks where to look for Brother Cedric. ;40 After Brother Cedric says \"Oh dear, oh dear, I knew I had to do something!\" after reminding him wine is needed for the party. ;50 After giving Brother Cedric a jug of water. ;60 After the player says \"Yes, I'd be happy to!\" to Brother Cedric when asked to help repair the cart. ;70 After the player says \"Here you go!\" to Brother Cedric and hands over the logs. ;80 After the dance party is over at Brother Omad. Quest complete."
  },
  {
   "name": "doricquest",
   "id": 31,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "DORIC'S_QUEST_PROGRESS",
+  "content": "Doric's Quest",
+  "wikiPage": "RuneScape:Varplayer/31",
+  "varClass": "Enum",
+  "description": "This tracks progress in Doric's Quest. ==Values== ;0 Default state. Quest not started. ;10 Once Doric tells you which materials he requires. ;100 After handing over the materials to Doric. Quest complete."
  },
  {
   "name": "haunted",
   "id": 32,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "ERNEST_THE_CHICKEN_QUEST_STATE",
+  "content": "Ernest the Chicken",
+  "wikiPage": "RuneScape:Varplayer/32",
+  "varClass": "Enum",
+  "description": "Tracks the state of Ernest the Chicken quest. ==Values== ; 0 : Not started ; 1 : Accepted from Veronica to investigate Ernest being missing. ; 2 : At some point after Professor Oddenstein tells the player Ernest is the chicken. ; 3+ :"
  },
  {
   "name": "ernestlever",
@@ -142,7 +215,12 @@
  {
   "name": "sheepherderquest",
   "id": 60,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "SHEEP_HERDER_PROGRESS",
+  "content": "Sheep Herder",
+  "wikiPage": "RuneScape:Varplayer/60",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Sheep Herder. ==Values== ;0 Default state. Quest has not been started. ;1 Upon Councillor Halgrive giving the player Sheep feed. ;2 Upon Doctor Orbon giving the player plague jacket and plague trousers in exchange for 100 coins. ;3 This requires Runescape:Varbit/2231, Runescape:Varbit/2232, Runescape:Varbit/2233, and Runescape:Varbit/2234 to be at value 6. After Councillor Halgrive gives the player 3100 coins, after And in recognition of your service to the public health of Ardougne, please accept this further 3000 coins as a reward. Quest complete."
  },
  {
   "name": "sheepherdervar",
@@ -157,7 +235,12 @@
  {
   "name": "runemysteries",
   "id": 63,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "RUNE_MYSTERIES_PROGRESS",
+  "content": "Rune Mysteries",
+  "wikiPage": "RuneScape:Varplayer/63",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Rune Mysteries. ==Values=="
  },
  {
   "name": "wildlever",
@@ -167,22 +250,42 @@
  {
   "name": "waterfall_quest",
   "id": 65,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "WATERFALL_QUEST_PROGRESS",
+  "content": "Waterfall Quest",
+  "wikiPage": "RuneScape:Varplayer/65",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Waterfall Quest. ==Values== ;1 After the player says \"I could go and take a look for you if you like\" and before Almera responds \"Would you?...\" ;2 After the player says \"Maybe I could help\" and before Hudon says \"I'm fine alone.\" ;3 Upon opening and reading the Book on baxtorian. ;4 Immediately after entering Glarial's tomb at the bottom of the ladder. ;5 Upon first entering the waterfall dungeon which requires Glarial's amulet equipped. ;6 Upon first entering the puzzle room. ;8 Upon placing the amulet on the statue. ;10 After pouring the ashes into the chalice and remove the treasure. Quest complete."
  },
  {
   "name": "hetty",
   "id": 67,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "WITCH'S_POTION_PROGRESS",
+  "content": "Witch's Potion",
+  "wikiPage": "RuneScape:Varplayer/67",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Witch's Potion. ==Values=="
  },
  {
   "name": "biohazard",
   "id": 68,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "BIOHAZARD_PROGRESS",
+  "content": "Biohazard",
+  "wikiPage": "RuneScape:Varplayer/68",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Biohazard. ==Values=="
  },
  {
   "name": "hunt",
   "id": 71,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "PIRATE'S_TREASURE_PROGRESS",
+  "content": "Pirate's Treasure",
+  "wikiPage": "RuneScape:Varplayer/71",
+  "varClass": "Enum",
+  "description": "This tracks progress in Pirate's Treasure. ==Values== ;0 Default state, quest not started. ;1 Upon accepting the quest from Redbeard Frank. ;2 After giving Redbeard Frank the Karamjan rum and receiving the chest key. ;3 Upon reading the pirate message. ;4 Once the casket has been dug up. Quest complete!"
  },
  {
   "name": "journey_number",
@@ -192,7 +295,12 @@
  {
   "name": "scorpcatcher",
   "id": 76,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "SCORPION_CATCHER_PROGRESS",
+  "content": "Scorpion Catcher",
+  "wikiPage": "RuneScape:Varplayer/76",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Scorpion Catcher. ==Values=="
  },
  {
   "name": "barcrawl",
@@ -202,7 +310,12 @@
  {
   "name": "druidquest",
   "id": 80,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "DRUIDIC_RITUAL_PROGRESS",
+  "content": "Druidic Ritual",
+  "wikiPage": "RuneScape:Varplayer/80",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Druidic Ritual. ==Values== ;0 Default state. Quest has not been started. ;1 Upon Kaqemeex saying \"Excellent. Go to the village south of this place and speak to my fellow druid, Sanfew, who is working on the purification ritual. He knows what is required to complete it.\" ;2 After being told by Sanfew that \"Each meat has to be dipped individually into the Cauldron of Thunder for it to work correctly.\" and continuing to the select an option chatbox. ;3 After giving Sanfew enchanted bear, enchanted beef, enchanted chicken, and enchanted rat. ;4 After Kaqemeex says \"*Different potions also require different Herblore levels before you can make them.\". Quest complete."
  },
  {
   "name": "prayer0",
@@ -242,7 +355,12 @@
  {
   "name": "qp",
   "id": 101,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "QUEST_POINTS",
+  "content": "Quest points",
+  "wikiPage": "RuneScape:Varplayer/101",
+  "varClass": "Counter",
+  "description": "Counts the total number of quest points that a player has."
  },
  {
   "name": "poison",
@@ -252,7 +370,12 @@
  {
   "name": "prieststart",
   "id": 107,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "THE_RESTLESS_GHOST_PROGRESS",
+  "content": "The Restless Ghost",
+  "wikiPage": "RuneScape:Varplayer/107",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in The Restless Ghost. ==Values=="
  },
  {
   "name": "lastcastspell",
@@ -267,12 +390,22 @@
  {
   "name": "treequest",
   "id": 111,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "TREE_GNOME_VILLAGE_PROGRESS",
+  "content": "Tree Gnome Village",
+  "wikiPage": "RuneScape:Varplayer/111",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Tree Gnome Village. ==Values=="
  },
  {
   "name": "itgronigen",
   "id": 112,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "OBSERVATORY_QUEST_PROGRESS",
+  "content": "Observatory Quest",
+  "wikiPage": "RuneScape:Varplayer/112",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Observatory Quest. ==Values== ;0 Default state, quest not started. ;1 Quest started after the Observatory professor tells the player to talk to the Observatory assistant if they need some advice on collecting 3 planks. ;2 After the animation plays of the player handing over 3 planks to the professor. ;3 After the animation plays of the player handing over a bronze bar to the professor. ;4 After the animation plays of the player handing over molten glass to the professor. ;5 Upon the professor handing the molten glass back to the player. ;6 After the professor goes to the observatory dome. ;7 After receiving the professor's reward for identifying the correct constellation. Quest complete! ;8 After receiving a jug of wine from the assistant."
  },
  {
   "name": "itkeepgatelock",
@@ -287,22 +420,42 @@
  {
   "name": "zombiequeen",
   "id": 116,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "SHILO_VILLAGE_PROGRESS",
+  "content": "Shilo Village",
+  "wikiPage": "RuneScape:Varplayer/116",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Shilo Village. ==Values=="
  },
  {
   "name": "squire",
   "id": 122,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "THE_KNIGHT'S_SWORD_PROGRESS",
+  "content": "The Knight's Sword",
+  "wikiPage": "RuneScape:Varplayer/122",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in The Knight's Sword. ==Values=="
  },
  {
   "name": "spy",
   "id": 130,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "BLACK_KNIGHTS'_FORTRESS_PROGRESS",
+  "content": "Black Knights' Fortress",
+  "wikiPage": "RuneScape:Varplayer/130",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Black Knights' Fortress. ==Values=="
  },
  {
   "name": "itexamlevel",
   "id": 131,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "THE_DIG_SITE_PROGRESS",
+  "content": "The Dig Site",
+  "wikiPage": "RuneScape:Varplayer/131",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in The Dig Site. ==Values=="
  },
  {
   "name": "itdigsitemulti",
@@ -312,7 +465,12 @@
  {
   "name": "legendsquest",
   "id": 139,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "LEGENDS'_QUEST_PROGRESS",
+  "content": "Legends' Quest",
+  "wikiPage": "RuneScape:Varplayer/139",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Legends' Quest. ==Values=="
  },
  {
   "name": "score_gnomeball_game",
@@ -322,7 +480,12 @@
  {
   "name": "rjquest",
   "id": 144,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "ROMEO_&_JULIET_PROGRESS",
+  "content": "Romeo & Juliet",
+  "wikiPage": "RuneScape:Varplayer/144",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Romeo & Juliet. ==Values=="
  },
  {
   "name": "phoenixgang",
@@ -337,17 +500,32 @@
  {
   "name": "zanaris",
   "id": 147,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "LOST_CITY_PROGRESS",
+  "content": "Lost City",
+  "wikiPage": "RuneScape:Varplayer/147",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Lost City. ==Values== ;0 Default state, the quest has not been started. ;1 Upon reading the dialogue from Warrior (Lost City): Ye.. uh, no. No, not at all. And even if he did - which he doesn't - he DEFINITELY ISN'T hiding in some tree around here. Nope, definitely not. Honestly. ;2 Upon Shamus disappearing after he says: The monks are running a ship from Port Sarim to Entrana, I hear too. Now leave me alone yer elephant! ;3 Upon killing the Tree spirit (Lost City) and seeing the chatbox message: With the Tree Spirit defeated you can now chop the tree. ;4 Upon chopping the first Dramen branch from the Dramen tree. ;5 Upon crafting the first Dramen staff. ;6 Upon arriving to Zanaris through the Lumbridge Swamp shed with a Dramen staff. Quest completed."
  },
  {
   "name": "crestquest",
   "id": 148,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "FAMILY_CREST_PROGRESS",
+  "content": "Family Crest",
+  "wikiPage": "RuneScape:Varplayer/148",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Family Crest. ==Values=="
  },
  {
   "name": "grandtree",
   "id": 150,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "THE_GRAND_TREE_PROGRESS",
+  "content": "The Grand Tree",
+  "wikiPage": "RuneScape:Varplayer/150",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in The Grand Tree. ==Values=="
  },
  {
   "name": "pilot_journey",
@@ -372,17 +550,32 @@
  {
   "name": "seaslugquest",
   "id": 159,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "SEA_SLUG_PROGRESS",
+  "content": "Sea Slug",
+  "wikiPage": "RuneScape:Varplayer/159",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Sea Slug. ==Values=="
  },
  {
   "name": "imp",
   "id": 160,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "IMP_CATCHER_PROGRESS",
+  "content": "Imp Catcher",
+  "wikiPage": "RuneScape:Varplayer/160",
+  "varClass": "Enum",
+  "description": "This tracks progress in Imp Catcher. ==Values== ;0 Default state. Quest not started. ;1 Upon accepting the quest from the option select. ;2 After Mizgog puts his beads on the table, gives the amulet and the cutscene is over. Quest complete!"
  },
  {
   "name": "upass",
   "id": 161,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "UNDERGROUND_PASS_PROGRESS",
+  "content": "Underground Pass",
+  "wikiPage": "RuneScape:Varplayer/161",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Underground Pass. ==Values=="
  },
  {
   "name": "ibanmulti",
@@ -392,7 +585,12 @@
  {
   "name": "elenaquest",
   "id": 165,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "PLAGUE_CITY_PROGRESS",
+  "content": "Plague City",
+  "wikiPage": "RuneScape:Varplayer/165",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Plague City. ==Values=="
  },
  {
   "name": "option_brightness",
@@ -432,7 +630,12 @@
  {
   "name": "option_run",
   "id": 173,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "TOGGLE_RUN",
+  "content": "Energy",
+  "wikiPage": "RuneScape:Varplayer/173",
+  "varClass": "Switch",
+  "description": "Toggle run. When 0, the player is usually walking and various user interface buttons / data orbs related to running will be unlit. When 1, the player is usually running and various user interface buttons / data orbs related to running will be lit. If energy drains to 0 (or below), this value is usually set to 0 with its usual effects."
  },
  {
   "name": "marketthief",
@@ -442,12 +645,22 @@
  {
   "name": "junglepotion",
   "id": 175,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "JUNGLE_POTION_PROGRESS",
+  "content": "Jungle Potion",
+  "wikiPage": "RuneScape:Varplayer/175",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Jungle Potion. ==Values=="
  },
  {
   "name": "dragonquest",
   "id": 176,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "DRAGON_SLAYER_I_PROGRESS",
+  "content": "Dragon Slayer I",
+  "wikiPage": "RuneScape:Varplayer/176",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Dragon Slayer I. ==Values== ; 0 : Quest has not been started. ; 1 : The Guildmaster has been spoken to and Dragon Slayer I is now in progress. ; 2 : Oziach has been spoken to. ; 3 : The boat has been bought from Klarense. ; 6 : The boat has been repaired. ; 7 : Ned has been given the map and will now be on the boat. ; 8 : The player has landed on Crandor after the boat cutscene. ; 9 : Elvarg has been slain. Changes right before the animation of cutting the head off starts. ; 10 : The quest is completed by talking to Oziach."
  },
  {
   "name": "dragonquestvar",
@@ -457,22 +670,42 @@
  {
   "name": "vampire",
   "id": 178,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "VAMPYRE_SLAYER_PROGRESS",
+  "content": "Vampyre Slayer",
+  "wikiPage": "RuneScape:Varplayer/178",
+  "varClass": "Enum",
+  "description": "This tracks progress in Vampyre Slayer. ==Values== ;0 Default value. Quest has not been started. ;1 When the player says \"I'll look him up then.\" after Morgan tells the player to Tell Dr. Harlow about his old friend. ;2 After telling Dr Harlow about Morgan and he says \"Buy ush a drink anyway...\" ;3 Once Count Draynor is killed and his death animation finishes. Quest complete."
  },
  {
   "name": "sheep",
   "id": 179,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "SHEEP_SHEARER_PROGRESS",
+  "content": "Sheep Shearer",
+  "wikiPage": "RuneScape:Varplayer/179",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Sheep Shearer. ==Values=="
  },
  {
   "name": "fluffs",
   "id": 180,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "GERTRUDE'S_CAT_PROGRESS",
+  "content": "Gertrude's Cat",
+  "wikiPage": "RuneScape:Varplayer/180",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Gertrude's Cat. ==Values=="
  },
  {
   "name": "heroquest",
   "id": 188,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "HEROES'_QUEST_PROGRESS",
+  "content": "Heroes' Quest",
+  "wikiPage": "RuneScape:Varplayer/188",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Heroes' Quest. ==Values=="
  },
  {
   "name": "prayguild",
@@ -482,22 +715,42 @@
  {
   "name": "murderquest",
   "id": 192,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "MURDER_MYSTERY_PROGRESS",
+  "content": "Murder Mystery",
+  "wikiPage": "RuneScape:Varplayer/192",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Murder Mystery. ==Values== ;0 Default state, quest not started ;1 After selecting yes during the start the quest prompt. At this time, RuneScape:Varplayer/195 is set. ;2 After handing over evidence and the guard says \"Please accept this reward from the family!\", quest complete. RuneScape:Varplayer/195 is reset to 0."
  },
  {
   "name": "murdersus",
   "id": 195,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "MURDER_MYSTERY_MURDERER_ID",
+  "content": "Murder Mystery",
+  "wikiPage": "RuneScape:Varplayer/195",
+  "varClass": "Enum",
+  "description": "Set upon starting Murder Mystery, picking the murderer and evidence outcomes. Reset on quest completion. ==Values== ;0 Default state before starting Murder Mystery quest. Also set to 0 immediately on quest completion. ;3 Carol is the murderer. The thread is red ;4 David is the murderer. The thread is green. ;5 Elizabeth is the murderer. The thread is blue."
  },
  {
   "name": "desertrescue",
   "id": 197,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "THE_TOURIST_TRAP_PROGRESS",
+  "content": "The Tourist Trap",
+  "wikiPage": "RuneScape:Varplayer/197",
+  "varClass": "Enum",
+  "description": "This tracks progress in The Tourist Trap. ==Values== ;1 After accepting the quest and Irena tells the player about the footprints leading towards the desert mining camp. ;2 Once the player asks a Mercenary if they have seen a woman named Ana. ;3 After approaching the Mercenary Captain and being presenting with three dialogue options. ;4 Upon killing the Mercenary Captain and the metal key being added to the player's inventory. ;5 Upon entering the desert mining camp for the first time. ;6 After the player offers to undo the slave's chain bracelets and when the slave suspects something is desired in return. ;7 After successfully removing the slave's chain bracelets, when he offers to trade clothes. ;8 ;9 ;10 ;11 ;12 ;13 ;14 ;15 ;16 ;17 ;18 ;19 ;20 At the end of the cutscene where Ana in the barrel is delivered by the mine cart and it returns empty. ;21 ;22 ;23 ;24 ;25 ;26 ;27 ;28 After selecting the first skill to gain experience in from Irena. ;29 After selecting the second skill to gain experience in from Irena. ;30 Upon talking to Irena after selecting the second skill, quest complete!"
  },
  {
   "name": "totemquest",
   "id": 200,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "TRIBAL_TOTEM_PROGRESS",
+  "content": "Tribal Totem",
+  "wikiPage": "RuneScape:Varplayer/200",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Tribal Totem. ==Values=="
  },
  {
   "name": "flour",
@@ -517,7 +770,12 @@
  {
   "name": "itwatchtower",
   "id": 212,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "WATCHTOWER_PROGRESS",
+  "content": "Watchtower",
+  "wikiPage": "RuneScape:Varplayer/212",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Watchtower. ==Values=="
  },
  {
   "name": "demonstart",
@@ -527,12 +785,22 @@
  {
   "name": "hazeelcultquest",
   "id": 223,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "HAZEEL_CULT_PROGRESS",
+  "content": "Hazeel Cult",
+  "wikiPage": "RuneScape:Varplayer/223",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Hazeel Cult. ==Values=="
  },
  {
   "name": "ballquest",
   "id": 226,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "WITCHS_HOUSE_PROGRESS",
+  "content": "Witch's House",
+  "wikiPage": "RuneScape:Varplayer/226",
+  "varClass": "Enum",
+  "description": "This tracks progress in Witch's House. ==Values== ;0 Default state. Quest not started. ;1 After choosing to start the quest when in dialogue with the boy. Also set to 1 after Nora T Hagg teleports the player out of the garden when they are caught. ;2 After searching and finding the magnet in the cupboard behind the gate in the basement. ;3 Upon unlocking the door the garden by attaching the magnet to the mouse's harness and the mouse runs back into the hole. Can be set back to 1 if the Witch catches the player in the garden. ;5 Upon opening the the diary after unlocking the door to the garden. ;6 After defeating the Witch's experiment. ;7 After giving the boy the ball and he thanks the player. Quest complete."
  },
  {
   "name": "loc4",
@@ -547,7 +815,11 @@
  {
   "name": "if1",
   "id": 261,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "Varplayer 261",
+  "content": "Lots!",
+  "wikiPage": "RuneScape:Varplayer/261",
+  "description": "Appears to be involved in a lot of scripts so this varp's usages should be listed below. *Indicates selected skill in the genie lamp interface with values equal to that of RuneScape:Varbit/4371. *Pest Control points when the Pest Control shop (widget 243.0) is open. *Item Retrieval Service state, mapped here: https://abextm.github.io/cache2/#/viewer/enum/1753"
  },
  {
   "name": "if2",
@@ -577,7 +849,12 @@
  {
   "name": "magearena",
   "id": 267,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "THE_MAGE_ARENA_PROGRESS",
+  "content": "Mage Arena I",
+  "wikiPage": "RuneScape:Varplayer/267",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Mage Arena I. ==Values=="
  },
  {
   "name": "saramage",
@@ -602,7 +879,12 @@
  {
   "name": "princequest",
   "id": 273,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "PRINCE_ALI_RESCUE_PROGRESS",
+  "content": "Prince Ali Rescue",
+  "wikiPage": "RuneScape:Varplayer/273",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Prince Ali Rescue. ==Values=="
  },
  {
   "name": "dragonresist",
@@ -617,7 +899,12 @@
  {
   "name": "tutorial",
   "id": 281,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "TUTORIAL_ISLAND_STATE",
+  "content": "Tutorial Island",
+  "wikiPage": "RuneScape:Varplayer/281",
+  "varClass": "Enum",
+  "description": "Tracks tutorial island progression. ==Values== ; 1: Player customization (setting name and outfit) ; 2: Talk to Gielinor Guide ; 3: Open the settings menu ; 7 Talk to Gielinor Guide (after opening settings menu) ; 10: Open door to exit Gielinor Guide ; 20: Talk to Survival Expert ; 30: Open inventory ; 40 Fish at fishing spot ; 50 Open skills tab ; 60 Talk to Survival Expert (after opening skills tab) ; 70 Cut Tree ; 80 Make fire ; 90 Cook Raw Shrimp ; 120 Exit Survival Expert area ; 130 Enter door to Master Chef ; 140 Talk to Master Chef ; 150 Make dough by using water and flour ; 160 Cook Bread ; 170 Exit Master Chef's house ; 200 Enter Quest Guide's house ; 220 Talk to Quest Guide ; 230 Open Quests tab ; 240 Talk to Quest Guide (after opening Quests tab) ; 250 Take ladder to mining area ; 260 Talk to Mining Instructor ; 300 Mine tin ; 310 Mine copper ; 320 Click furnace to smelt Bronze Bar ; 330 Talk to Mining Instructor (after mining copper) ; 340 Click Anvil ; 350 Smith Bronze Dagger ; 360 Enter door to Vannaka ; 370 Talk to Vannaka ; 390 Open equipment tab ; 400 Open equipment stats ; 405 Equip Bronze dagger ; 410 Exit interface and talk to Vannaka ; 420 Equip Wooden Shield and Bronze Sword ; 430 Open combat styles tab ; 440 Enter Rat cage ; 450 Attack Rat with melee ; 460 Waiting for Rat to die ; 470 Exit Rat cage and talk to Vannaka ; 480 Equip Shortbow and Bronze Arrow and attack Rat ; 490 Waiting for Rat to die ; 500 Exit combat area ; 510 Open Bank ; 520 Close Bank and open Poll Booth ; 525 WalkIntoDoorAccountGuide ; 530 Talk to Account Guide ; 531 Open account management tab ; 532 Talk to Account Guide (after opening account management tab) ; 540 Exit Account Guide's room ; 550 Talk to Brother Brace ; 560 Open prayer tab ; 570 Talk to Brother Brace (after opening prayer tab) ; 580 Open friend's list ; 600 Talk to Brother Brace (after opening friend's list) ; 610 Exit chapel ; 620 Walk/talk to Magic Instructor ; 630 Open spell book ; 640 Talk to Magic Instructor (after opening spells) ; 650 Kill Chicken with Air Strike ; 670 : Magic Instructor is ready to teleport the player off the tutorial island. ; 1000 : The player has completed the tutorial island."
  },
  {
   "name": "duel2accept",
@@ -642,7 +929,12 @@
  {
   "name": "chompybird",
   "id": 293,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "BIG_CHOMPY_BIRD_HUNTING_PROGRESS",
+  "content": "Big Chompy Bird Hunting",
+  "wikiPage": "RuneScape:Varplayer/293",
+  "varClass": "Enum",
+  "description": "This tracks progress in Big Chompy Bird Hunting. ==Values== ;0 Default state. Quest has not been started. ;5 After the player agrees to make Rantz stabbers when Rantz tells the player sticks from achey trees and tips from wolf bones. ;10 Once the player gives Rantz 6 ogre arrows. ;15 Rantz tells the player Fycie and Bugs play by making inflated toads with the blower. ;20 Upon removing the rock from the top of the chest in Rantz' cave, \"unlocking it\". ;25 When the player tells Rantz that they have an inflated toad. ;30 After dropping the inflated toad in the chompy grounds. ;35 Shortly after the chompy consumes the inflated toad. ;40 After Rantz attempts to shoot the chompy. ;45 When Rantz hands over the ogre bow. ;50 Upon killing the chompy. ;55 When Rantz tells the player to cook the chompy on his spit roast. ;60 Upon fully cooking the Chompy ;65 After giving Rantz the cooked seasoned chompy. Quest complete!"
  },
  {
   "name": "currentsong",
@@ -662,12 +954,22 @@
  {
   "name": "elemental_workshop_bits",
   "id": 299,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "ELEMENTAL_WORKSHOP_I_VARPLAYER",
+  "content": "Elemental Workshop I",
+  "wikiPage": "RuneScape:Varplayer/299",
+  "varClass": "Bitmap",
+  "description": "Contains various varbits and other information about player progress during Elemental Workshop I. ==Bitmap== {|class=wikitable !Bit !Varbit !Notes |- |0 |None | |- |1 |2056 | |- |2 |2057 | |- |3 |2058 | |- |4 |2059 | |- |5 |2060 | |- |6 |2061 | |- |7 |2062 | |- |8 |None | |- |9 |2063 | |- |10-12 |2064 | |- |13 |2065 | |- |14 |2066 | |- |15 |None |Sets once the player passes the Odd looking wall for the first time. |- |20 |2067 | |}"
  },
  {
   "name": "sa_energy",
   "id": 300,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "SPECIAL_ATTACK_ORB",
+  "content": "Interface",
+  "wikiPage": "RuneScape:Varplayer/300",
+  "varClass": "Counter",
+  "description": "Tracks how much Special attack you currently have and is used to change the amount on your Special Attack Orb near your Minimap, if enabled in your Settings. It tracks between 0 and 1,000 with 0 being 0% of special attack, 500 being 50%, and 1,000 being 100% special attack."
  },
  {
   "name": "sa_attack",
@@ -677,7 +979,12 @@
  {
   "name": "priestperil",
   "id": 302,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "PRIEST_IN_PERIL_PROGRESS",
+  "content": "Priest in Peril",
+  "wikiPage": "RuneScape:Varplayer/302",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Priest in Peril. ==Values=="
  },
  {
   "name": "bankinsert",
@@ -687,7 +994,12 @@
  {
   "name": "druidspirit",
   "id": 307,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "NATURE_SPIRIT_PROGRESS",
+  "content": "Nature Spirit",
+  "wikiPage": "RuneScape:Varplayer/307",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Nature Spirit. ==Values=="
  },
  {
   "name": "agilityarena_varbit",
@@ -707,12 +1019,22 @@
  {
   "name": "death_equiproom",
   "id": 314,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "DEATH_PLATEAU_PROGRESS",
+  "content": "Death Plateau",
+  "wikiPage": "RuneScape:Varplayer/314",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Death Plateau. ==Values=="
  },
  {
   "name": "troll_quest",
   "id": 317,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "TROLL_STRONGHOLD_PROGRESS",
+  "content": "Troll Stronghold",
+  "wikiPage": "RuneScape:Varplayer/317",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Troll Stronghold. ==Values=="
  },
  {
   "name": "troll_varbit",
@@ -722,7 +1044,12 @@
  {
   "name": "tbwt_main",
   "id": 320,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "TAI_BWO_WANNAI_TRIO_PROGRESS",
+  "content": "Tai Bwo Wannai Trio",
+  "wikiPage": "RuneScape:Varplayer/320",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Tai Bwo Wannai Trio. ==Values=="
  },
  {
   "name": "tbwt_tiadeche",
@@ -732,7 +1059,12 @@
  {
   "name": "regicide_quest",
   "id": 328,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "REGICIDE_PROGRESS",
+  "content": "Regicide",
+  "wikiPage": "RuneScape:Varplayer/328",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Regicide. ==Values=="
  },
  {
   "name": "regicide_bits",
@@ -752,12 +1084,22 @@
  {
   "name": "eadgar_quest",
   "id": 335,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "EADGAR'S_RUSE_PROGRESS",
+  "content": "Eadgar's Ruse",
+  "wikiPage": "RuneScape:Varplayer/335",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Eadgar's Ruse. ==Values=="
  },
  {
   "name": "morttonquest",
   "id": 339,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "SHADES_OF_MORT'TON_PROGRESS",
+  "content": "Shades of Mort'ton",
+  "wikiPage": "RuneScape:Varplayer/339",
+  "varClass": "Enum",
+  "description": "This tracks progress in Shades of Mort'ton. ==Values== ;5 After clicking read on Diary (Shades of Mort'ton) and select yes to start the quest. ;10 After adding ashes to a tarromin potion (unf) to make serum 207. ;15 After Razmire tells the player to bring back five shade remains. ;20 After killing one shade. ;25 After killing the second shade. ;30 After killing the third shade. ;35 After killing the fourth shade. ;40 After killing the fifth shade. Note: It is possible that after advancing by killing shades resets Razmire's afflicted state. ;45 Once Razmire takes two shade remains from the player. ;47 Once Ulsquire takes a shade remain from the player to study. ;50 After Ulsquire explains what is required to repair the temple. ;55 Once the player starts to repair the temple. ;60 After completing the temple. ;65 After using an olive oil on the flaming fire altar to turn it into sacred oil. ;70 After using sacred oil on logs to make pyre logs. ;75 After putting logs on a funeral pyre. ;80 After lighting remains on the funeral pyre ;85 Ulsquire congratulates the player on successfully burning the remains. Quest Complete."
  },
  {
   "name": "morttonmulti",
@@ -767,17 +1109,32 @@
  {
   "name": "temple_repaired_p",
   "id": 343,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "SHADES_OF_MORTTON_REPAIR_STATE",
+  "content": "Shades of Mort'ton",
+  "wikiPage": "RuneScape:Varplayer/343",
+  "varClass": "Counter",
+  "description": "Tracks the current repair state percentage of the temple in Shades of Mort'ton up to 100."
  },
  {
   "name": "temple_resources_p",
   "id": 344,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "SHADES_OF_MORTTON_RESOURCES",
+  "content": "Shades of Mort'ton",
+  "wikiPage": "RuneScape:Varplayer/344",
+  "varClass": "Counter",
+  "description": "Tracks the current amount of resources the player has added to the temple in Shades of Mort'ton up to 100, but can be overfilled to 105."
  },
  {
   "name": "temple_sanctity_p",
   "id": 345,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "SHADES_OF_MORTTON_SANCTITY",
+  "content": "Shades of Mort'ton",
+  "wikiPage": "RuneScape:Varplayer/345",
+  "varClass": "Counter",
+  "description": "Contains the visible value of \"sanctity\" earned while repairing the temple in the Shades of Mort'ton minigame."
  },
  {
   "name": "musicmulti_9",
@@ -787,7 +1144,12 @@
  {
   "name": "viking",
   "id": 347,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "THE_FREMENNIK_TRIALS_PROGRESS",
+  "content": "The Fremennik Trials",
+  "wikiPage": "RuneScape:Varplayer/347",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in The Fremennik Trials. ==Values=="
  },
  {
   "name": "deephorror",
@@ -797,12 +1159,22 @@
  {
   "name": "boardgames_runelink_rank",
   "id": 353,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "BURTHORPE_GAMES_ROOM_RUNELINK_RANK",
+  "content": "Burthorpe Games Room",
+  "wikiPage": "RuneScape:Varplayer/353",
+  "varClass": "Counter",
+  "description": "Contains the player's Runelink rank in the Burthorpe Games Room."
  },
  {
   "name": "boardgames_draughts_rank",
   "id": 354,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "BURTHORPE_GAMES_ROOM_DRAUGHTS_RANK",
+  "content": "Burthorpe Games Room",
+  "wikiPage": "RuneScape:Varplayer/354",
+  "varClass": "Counter",
+  "description": "Contains the player's Draughts rank in the Burthorpe Games Room."
  },
  {
   "name": "boardgames_varbit",
@@ -817,7 +1189,12 @@
  {
   "name": "misc_quest",
   "id": 359,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "THRONE_OF_MISCELLANIA_PROGRESS",
+  "content": "Throne of Miscellania",
+  "wikiPage": "RuneScape:Varplayer/359",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Throne of Miscellania. ==Values=="
  },
  {
   "name": "misc_varbit_1",
@@ -837,7 +1214,12 @@
  {
   "name": "mm_main",
   "id": 365,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "MONKEY_MADNESS_I_PROGRESS",
+  "content": "Monkey Madness I",
+  "wikiPage": "RuneScape:Varplayer/365",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Monkey Madness I. ==Values=="
  },
  {
   "name": "mm_gnomes",
@@ -867,12 +1249,22 @@
  {
   "name": "castlewars_timer",
   "id": 380,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "CASTLE_WARS_COUNTDOWN",
+  "content": "Castle Wars",
+  "wikiPage": "RuneScape:Varplayer/380",
+  "varClass": "Counter",
+  "description": "When in the lobby, it counts down from 25 minutes until the next match begins. When in the minigame, it counts down from 20 until the end of the match. ==Values== ;0 Set to 0 at the end of the minigame only. This never is set to 0 waiting in lobby for a game to start. ;1&ndash;20 Set to one of these values upon joining a starting or ongoing Castle Wars match. Countdown to 0 for the end of the match. ;1&ndash;25 Set to one of these values upon joining the lobbies waiting for a game to start. Count down to 1, if the player joins the game, it will update to reflect the remaining time of the current ongoing match."
  },
  {
   "name": "hauntedmine",
   "id": 382,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "HAUNTED_MINE_PROGRESS",
+  "content": "Haunted Mine",
+  "wikiPage": "RuneScape:Varplayer/382",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Haunted Mine. ==Values=="
  },
  {
   "name": "hauntedmine_bits",
@@ -882,12 +1274,22 @@
  {
   "name": "troll_love",
   "id": 385,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "TROLL_ROMANCE_PROGRESS",
+  "content": "Troll Romance",
+  "wikiPage": "RuneScape:Varplayer/385",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Troll Romance. ==Values=="
  },
  {
   "name": "routequest",
   "id": 387,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "IN_SEARCH_OF_THE_MYREQUE_PROGRESS",
+  "content": "In Search of the Myreque",
+  "wikiPage": "RuneScape:Varplayer/387",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in In Search of the Myreque. ==Values=="
  },
  {
   "name": "routequestmulti",
@@ -907,12 +1309,22 @@
  {
   "name": "slayer_count",
   "id": 394,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "SLAYER_COUNT",
+  "content": "Slayer",
+  "wikiPage": "RuneScape:Varplayer/394",
+  "varClass": "Counter",
+  "description": "Tracks current remaining number of monsters to kill on a Slayer task. Decrements on each kill, with a chance to be by 2 with expeditious bracelet or none with a bracelet of slaughter. Defaults to 0 and when at zero there is no active Slayer task."
  },
  {
   "name": "slayer_target",
   "id": 395,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "SLAYER_TARGET",
+  "content": "Slayer",
+  "wikiPage": "RuneScape:Varplayer/395",
+  "varClass": "Enum",
+  "description": "Records an ID which can be used to look up the actively assigned Slayer task. The task IDs index rows in the Slayer task dbtable (113). A value of 98 corresponds to boss tasks, in which case RuneScape:Varbit/4723 indexes the task within the Slayer task sublist table (116). See [https://github.com/runelite/runelite/blob/master/runelite-client/src/main/java/net/runelite/client/plugins/slayer/SlayerPlugin.java Slayer plugin] for more details."
  },
  {
   "name": "fenk_quest",
@@ -927,7 +1339,12 @@
  {
   "name": "roving_elves_quest",
   "id": 402,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "ROVING_ELVES_PROGRESS",
+  "content": "Roving Elves",
+  "wikiPage": "RuneScape:Varplayer/402",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Roving Elves. ==Values=="
  },
  {
   "name": "roving_elves_bits",
@@ -957,7 +1374,12 @@
  {
   "name": "onesmallfavour",
   "id": 416,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "ONE_SMALL_FAVOUR_PROGRESS",
+  "content": "One Small Favour",
+  "wikiPage": "RuneScape:Varplayer/416",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in One Small Favour. ==Values=="
  },
  {
   "name": "onesmallfavourmulti",
@@ -1052,7 +1474,15 @@
  {
   "name": "follower_npc",
   "id": 447,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "FOLLOWER_VALUE",
+  "content": "Temple Trekking",
+  "wikiPage": "RuneScape:Varplayer/447",
+  "varClass": "Other",
+  "code": [
+   "// Temple Trekking (Burgh de Rott) followers\nprivate final int SMIDDI_MASK = 0x61A << 16;\nprivate final int ROLAYNE_MASK = 0x61B << 16;\nprivate final int JAYENE_MASK = 0x61C << 16;\nprivate final int VALANTAY_MASK = 0x61D << 16;\nprivate final int DALCIAN_MASK = 0x61E << 16;\nprivate final int FYIONA_MASK = 0x61F << 16;\n\n// Temple Trekking (Paterdomus) followers\nprivate final int FORESTER_MASK = 0x625 << 16;\nprivate final int WOMAN_AT_ARMS_MASK = 0x626 << 16;\nprivate final int APPRENTICE_MASK = 0x627 << 16;\nprivate final int RANGER_MASK = 0x628 << 16;\nprivate final int ADVENTURER_MASK = 0x629 << 16;\nprivate final int MAGE_MASK = 0x62A << 16;"
+  ],
+  "description": "Is related to the NPC currently following the player. The 16 high order bits are the NPC id of the follower. The 16 low order bits are the NPC index of the follower. The following values can be used to identify some followers:"
  },
  {
   "name": "tog_minigame",
@@ -1087,7 +1517,12 @@
  {
   "name": "musicmulti_11",
   "id": 464,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "MUSIC_TRACKS_UNLOCKED_11",
+  "content": "Music",
+  "wikiPage": "RuneScape:Varplayer/464",
+  "varClass": "Enum",
+  "description": "Music tracks. Defaults to 0. Value 0 \u2192 1 is known to unlock the Bunny's Sugar Rush music track."
  },
  {
   "name": "lost_tribe",
@@ -1147,7 +1582,12 @@
  {
   "name": "abyssal_miniquest",
   "id": 492,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "ENTER_THE_ABYSS_PROGRESS",
+  "content": "Enter the Abyss",
+  "wikiPage": "RuneScape:Varplayer/492",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Enter the Abyss. ==Values=="
  },
  {
   "name": "roguesden_puzzle",
@@ -1182,7 +1622,12 @@
  {
   "name": "mourning_quest",
   "id": 517,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "MOURNING'S_END_PART_I_PROGRESS",
+  "content": "Mourning's End Part I",
+  "wikiPage": "RuneScape:Varplayer/517",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Mourning's End Part I. ==Values=="
  },
  {
   "name": "mourning_quest_bits",
@@ -1287,7 +1732,12 @@
  {
   "name": "tzhaar_fightpit_remaining",
   "id": 560,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "FIGHT_PIT_FOES_REMAINING",
+  "content": "TzHaar Fight Pit",
+  "wikiPage": "RuneScape:Varplayer/560",
+  "varClass": "Counter",
+  "description": "Counts the number of remaining opponents in the TzHaar Fight Pit."
  },
  {
   "name": "tzhaar_temp",
@@ -1412,7 +1862,12 @@
  {
   "name": "deal_quest",
   "id": 600,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "RUM_DEAL_PROGRESS",
+  "content": "Rum Deal",
+  "wikiPage": "RuneScape:Varplayer/600",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Rum Deal. ==Values=="
  },
  {
   "name": "deal_var",
@@ -1487,7 +1942,12 @@
  {
   "name": "magictraining6",
   "id": 629,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "MAGICTRAINING6",
+  "content": "Mage Training Arena",
+  "wikiPage": "RuneScape:Varplayer/629",
+  "varClass": "Counter",
+  "description": "This variable contains numerous counters utilized in the Mage Training Arena."
  },
  {
   "name": "handsand",
@@ -1547,17 +2007,32 @@
  {
   "name": "boardgames_runesquares_rank",
   "id": 648,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "BURTHORPE_GAMES_ROOM_RUNESQUARES_RANK",
+  "content": "Burthorpe Games Room",
+  "wikiPage": "RuneScape:Varplayer/648",
+  "varClass": "Counter",
+  "description": "Contains the player's Runesquares rank in the Burthorpe Games Room."
  },
  {
   "name": "boardgames_runeversi_rank",
   "id": 649,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "BURTHORPE_GAMES_ROOM_RUNEVERSI_RANK",
+  "content": "Burthorpe Games Room",
+  "wikiPage": "RuneScape:Varplayer/649",
+  "varClass": "Counter",
+  "description": "Contains the player's Runeversi rank in the Burthorpe Games Room."
  },
  {
   "name": "fever_quest",
   "id": 655,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "CABIN_FEVER_PROGRESS",
+  "content": "Cabin Fever",
+  "wikiPage": "RuneScape:Varplayer/655",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Cabin Fever. ==Values=="
  },
  {
   "name": "fever_cannon_var",
@@ -1582,7 +2057,12 @@
  {
   "name": "musicmulti_13",
   "id": 662,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "MUSIC_TRACKS_UNLOCKED_13",
+  "content": "Music",
+  "wikiPage": "RuneScape:Varplayer/662",
+  "varClass": "Enum",
+  "description": "Music tracks. Defaults to 0. Value 0 \u2192 4194304 is known to unlock the Funny Bunnies music track."
  },
  {
   "name": "spitfire_coord",
@@ -1737,7 +2217,12 @@
  {
   "name": "rag_quest",
   "id": 714,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "RAG_AND_BONE_MAN_II_PROGRESS",
+  "content": "Rag and Bone Man II",
+  "wikiPage": "RuneScape:Varplayer/714",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in Rag and Bone Man II. ==Values=="
  },
  {
   "name": "rag_bone_2",
@@ -2102,12 +2587,28 @@
  {
   "name": "prayer20",
   "id": 864,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "MENAGERIE_PETS_1_TO_32",
+  "content": "Menagerie",
+  "wikiPage": "RuneScape:Varplayer/864",
+  "varClass": "Bitmap",
+  "code": [
+   "private final int PET_CHAOS_ELEMENTAL_MASK = 0x0;\nprivate final int PET_DAGANNOTH_SUPREME_MASK = 0x2;\nprivate final int PET_DAGANNOTH_PRIME_MASK = 0x4;\nprivate final int PET_DAGANNOTH_REX_MASK = 0x8;\nprivate final int PET_PENANCE_QUEEN_MASK = 0x10;\nprivate final int PET_KREE_ARRA_MASK = 0x20;\nprivate final int PET_GENERAL_GRAARDOR_MASK = 0x40;\nprivate final int PET_ZILYANA_MASK = 0x80;\nprivate final int PET_K_RIL_TSUTSAROTH_MASK = 0x100;\nprivate final int BABY_MOLE_MASK = 0x200;\nprivate final int PRINCE_BLACK_DRAGON_MASK = 0x400;\nprivate final int KALPHITE_PRINCESS_MASK = 0x800;\nprivate final int PET_SMOKE_DEVIL_MASK = 0x1000;\nprivate final int PET_KRAKEN_MASK = 0x2000;\nprivate final int PET_DARK_CORE_MASK = 0x4000;\nprivate final int PET_SNAKELING_MASK = 0x8000;\nprivate final int CHOMPY_CHICK_MASK = 0x10000;\nprivate final int VENENATIS_SPIDERLING_MASK = 0x20000;\nprivate final int CALLISTO_CUB_MASK = 0x40000;\nprivate final int VET_ION_JR_MASK = 0x80000;\nprivate final int SCORPIA_S_OFFSPRING_MASK = 0x100000;\nprivate final int TZREK_JAD_MASK = 0x200000;\nprivate final int HELLPUPPY_MASK = 0x400000;\nprivate final int ABYSSAL_ORPHAN_MASK = 0x800000;\nprivate final int HERON_MASK = 0x1000000;\nprivate final int ROCK_GOLEM_MASK = 0x2000000;\nprivate final int BEAVER_MASK = 0x4000000;\nprivate final int BABY_CHINCHOMPA_MASK = 0x8000000;\nprivate final int BLOODHOUND_MASK = 0x10000000;\nprivate final int GIANT_SQUIRREL_MASK = 0x20000000;\nprivate final int TANGLEROOT_MASK = 0x40000000;\nprivate final int RIFT_GUARDIAN_MASK = 0x80000000;"
+  ],
+  "description": "This varplayer (along with varplayer 1416) contains the menagerie storage status of all insurable pets for the player. Varplayer 864 contains data for the first 32 pets, while Varplayer 1416 contains data for all remaining pets 33 to up to 64. The following values can be used to identify the insurable pets stored in the menagerie:"
  },
  {
   "name": "prayer22",
   "id": 866,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "PETS_1_TO_32_INSURANCE",
+  "content": "Pet insurance",
+  "wikiPage": "RuneScape:Varplayer/866",
+  "varClass": "Bitmap",
+  "code": [
+   "private final int PET_CHAOS_ELEMENTAL_MASK = 0x0;\nprivate final int PET_DAGANNOTH_SUPREME_MASK = 0x2;\nprivate final int PET_DAGANNOTH_PRIME_MASK = 0x4;\nprivate final int PET_DAGANNOTH_REX_MASK = 0x8;\nprivate final int PET_PENANCE_QUEEN_MASK = 0x10;\nprivate final int PET_KREE_ARRA_MASK = 0x20;\nprivate final int PET_GENERAL_GRAARDOR_MASK = 0x40;\nprivate final int PET_ZILYANA_MASK = 0x80;\nprivate final int PET_K_RIL_TSUTSAROTH_MASK = 0x100;\nprivate final int BABY_MOLE_MASK = 0x200;\nprivate final int PRINCE_BLACK_DRAGON_MASK = 0x400;\nprivate final int KALPHITE_PRINCESS_MASK = 0x800;\nprivate final int PET_SMOKE_DEVIL_MASK = 0x1000;\nprivate final int PET_KRAKEN_MASK = 0x2000;\nprivate final int PET_DARK_CORE_MASK = 0x4000;\nprivate final int PET_SNAKELING_MASK = 0x8000;\nprivate final int CHOMPY_CHICK_MASK = 0x10000;\nprivate final int VENENATIS_SPIDERLING_MASK = 0x20000;\nprivate final int CALLISTO_CUB_MASK = 0x40000;\nprivate final int VET_ION_JR_MASK = 0x80000;\nprivate final int SCORPIA_S_OFFSPRING_MASK = 0x100000;\nprivate final int TZREK_JAD_MASK = 0x200000;\nprivate final int HELLPUPPY_MASK = 0x400000;\nprivate final int ABYSSAL_ORPHAN_MASK = 0x800000;\nprivate final int HERON_MASK = 0x1000000;\nprivate final int ROCK_GOLEM_MASK = 0x2000000;\nprivate final int BEAVER_MASK = 0x4000000;\nprivate final int BABY_CHINCHOMPA_MASK = 0x8000000;\nprivate final int BLOODHOUND_MASK = 0x10000000;\nprivate final int GIANT_SQUIRREL_MASK = 0x20000000;\nprivate final int TANGLEROOT_MASK = 0x40000000;\nprivate final int RIFT_GUARDIAN_MASK = 0x80000000;"
+  ],
+  "description": "This varplayer (along with Varbit 2168) contains the insurance status of all pets for the player. Varplayer 866 contains data for the first 32 pets, while Varbit 2168 contains data for all remaining pets. The following values can be used to identify the insured pets:"
  },
  {
   "name": "prayer23",
@@ -2237,7 +2738,12 @@
  {
   "name": "musicmulti_15",
   "id": 906,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "MUSIC_TRACKS_UNLOCKED_15",
+  "content": "Music",
+  "wikiPage": "RuneScape:Varplayer/906",
+  "varClass": "Enum",
+  "description": "Music tracks. Defaults to 0. Value 0 \u2192 134217728 is known to unlock the Easter Jig music track."
  },
  {
   "name": "tourtrap_qip_var",
@@ -2422,7 +2928,12 @@
  {
   "name": "brain_quest_var",
   "id": 980,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "THE_GREAT_BRAIN_ROBBERY_PROGRESS",
+  "content": "The Great Brain Robbery",
+  "wikiPage": "RuneScape:Varplayer/980",
+  "varClass": "Enum",
+  "description": "This is the main var that tracks the progress in The Great Brain Robbery. ==Values=="
  },
  {
   "name": "brain_extra_var",
@@ -2547,7 +3058,12 @@
  {
   "name": "vm_nat_his_displays",
   "id": 1014,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "NATURAL_HISTORY_PROGRESS",
+  "content": "Natural history quiz",
+  "wikiPage": "RuneScape:Varplayer/1014",
+  "varClass": "Other",
+  "description": "Contains all varbits used in the Natural history quiz. The first bit seems to be unused."
  },
  {
   "name": "grim_main",
@@ -2667,7 +3183,12 @@
  {
   "name": "nzone_rewardpoints",
   "id": 1060,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "NMZ_REWARD_POINTS",
+  "content": "Nightmare Zone",
+  "wikiPage": "RuneScape:Varplayer/1060",
+  "varClass": "Counter",
+  "description": "The number of Nightmare Zone points the player currently has."
  },
  {
   "name": "nzone_controller_uid",
@@ -2937,7 +3458,12 @@
  {
   "name": "sidestone_keybindings_1",
   "id": 1224,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "REEDEM_BOND_CONVERSION_SELECTION",
+  "content": "Interface",
+  "wikiPage": "RuneScape:Varplayer/1224",
+  "varClass": "Enum",
+  "description": "Tracks the currently selection bond conversion option in the Redeem Old School Bonds menu. ==Values== ;0 - Default Set to 0 upon opening the Redeem Old School Bonds menu. ;1 Set to 1 upon selecting conversion of 1 bond to 14 days. ;2 Set to 2 upon selecting conversion of 2 bonds to 29 days. ;3 Set to 3 upon selecting conversion of 3 bonds to 45 days. ;4 Set to 4 upon selecting conversion of 20 bonds to 12 months. (Premier Membership)"
  },
  {
   "name": "sidestone_keybindings_2",
@@ -3352,12 +3878,25 @@
  {
   "name": "menagerie_contents2",
   "id": 1416,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "MENAGERIE_PETS_33_TO_64",
+  "content": "Menagerie",
+  "wikiPage": "RuneScape:Varplayer/1416",
+  "varClass": "Bitmap",
+  "code": [
+   "private final int ROCKY_MASK = 0x0;\nprivate final int PHOENIX_MASK = 0x1;\nprivate final int OLMLET_MASK = 0x2;\nprivate final int SKOTOS_MASK = 0x4;\nprivate final int JAL_NIB_REK_MASK = 0x8;\nprivate final int HERBI_MASK = 0x10;\nprivate final int NOON_MASK = 0x20;\nprivate final int VORKI_MASK = 0x40;\nprivate final int LIL_ZIK_MASK = 0x80;\nprivate final int IKKLE_HYDRA_MASK = 0x100;\nprivate final int SRARACHA_MASK = 0x200;\nprivate final int YOUNGLLEF_MASK = 0x400;\nprivate final int SMOLCANO_MASK = 0x800;\nprivate final int LITTLE_NIGHTMARE_MASK = 0x1000;\nprivate final int LIL_CREATOR_MASK = 0x2000;\nprivate final int TINY_TEMPOR_MASK = 0x4000;\nprivate final int NEXLING_MASK = 0x8000;\nprivate final int ABYSSAL_PROTECTOR_MASK = 0x10000;"
+  ],
+  "description": "This varplayer (along with varplayer 864) contains the menagerie storage status of all insurable pets for the player. Varplayer 864 contains data for the first 32 pets, while varplayer 1416 contains data for all remaining pets 33 to up to 64. There only exist 50 insureable pets so far, meaning the leading 14 bits of this varplayer are unused for now. Varbit 2173 contains all used bits of this varplayer, but is not used by the client. Instead, the varplayer itself is used to generate the menagerie interface. The following values can be used to identify the insurable pets stored in the menagerie:"
  },
  {
   "name": "pet_insurance2",
   "id": 1417,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "PETS_33_TO_64_INSURANCE",
+  "content": "Pet insurance",
+  "wikiPage": "RuneScape:Varplayer/1417",
+  "varClass": "Bitmap",
+  "description": "This varplayer (along with varplayer 866) contains the insurance status of all pets for the player. Varplayer 866 contains data for the first 32 pets, while varplayer 1417 contains data for all remaining pets 33 to 50. Varplayer 1417 only uses the trailing 18 bits: those 18 bits also form varbit 2168. The leading 14 bits are unused and likely reserved for potential new pets."
  },
  {
   "name": "family_quest_varp",
@@ -3667,7 +4206,12 @@
  {
   "name": "total_wintertodt_kills",
   "id": 1528,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "WINTERTODT_KILL_COUNT",
+  "content": "Wintertodt",
+  "wikiPage": "RuneScape:Varplayer/1528",
+  "varClass": "Counter",
+  "description": "Counts current kill count of the player's Wintertodt kills."
  },
  {
   "name": "total_hillgiant_boss_kills",
@@ -4067,7 +4611,12 @@
  {
   "name": "musicmulti_18",
   "id": 1681,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "MUSIC_TRACKS_UNLOCKED_18",
+  "content": "Music",
+  "wikiPage": "RuneScape:Varplayer/1681",
+  "varClass": "Enum",
+  "description": "Music tracks. Defaults to 0. Value 0 \u2192 4 is known to unlock the Museum Medley music track."
  },
  {
   "name": "hpbar_hud_info",
@@ -5002,12 +5551,21 @@
  {
   "name": "league_points_currency",
   "id": 2613,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "Varplayer 2613",
+  "content": "Unknown",
+  "wikiPage": "RuneScape:Varplayer/2613",
+  "description": "This varp was previously used to track the League points in the previous League seasons, it's current usage is unknown. See RuneScape:Varplayer/2614 for Raging Echoes League"
  },
  {
   "name": "league_points_completed",
   "id": 2614,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "LEAGUE_POINTS_COUNT",
+  "content": "Leagues",
+  "wikiPage": "RuneScape:Varplayer/2614",
+  "varClass": "Counter",
+  "description": "Tracks the number of League points the player has."
  },
  {
   "name": "league_points_claimed",
@@ -5612,7 +6170,12 @@
  {
   "name": "soul_wars_zeal_tokens",
   "id": 2876,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "SOUL_WARS_ZEAL_COUNT",
+  "content": "Soul Wars",
+  "wikiPage": "RuneScape:Varplayer/2876",
+  "varClass": "Counter",
+  "description": "Current (not lifetime) Zeal Tokens count, which may be spent in Soul Wars Reward Shop. Starts at 0 and may increment at the end of a Soul Wars game if the player earns Zeal Tokens."
  },
  {
   "name": "xmas20_main",
@@ -5717,7 +6280,12 @@
  {
   "name": "sa_energy_stored",
   "id": 2926,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "INSIDE_RAID_OR_CHALLENGE",
+  "content": "Other",
+  "wikiPage": "RuneScape:Varplayer/2926",
+  "varClass": "Enum",
+  "description": "This value can be used to figure out if the player is inside a raid or supported challenge activity. ==Values== {| class=\"wikitable\" |- ! Value !! Description |- | 0 || The default value when the player is not inside any supported raids or challenges |- | 1001 || The player is inside the Chambers of Xeric raid, Theatre of Blood raid, Tombs of Amascut raid, or the TzHaar-Ket-Rak's Challenges room |}"
  },
  {
   "name": "tempoross_temp_1",
@@ -6132,7 +6700,15 @@
  {
   "name": "date_vars",
   "id": 3077,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "DATE_VARS",
+  "content": "Game tick",
+  "wikiPage": "RuneScape:Varplayer/3077",
+  "varClass": "Counter",
+  "code": [
+   "// First 10 bits\nprivate final int DATE_MILLISECONDS_PAST_MINUTE = DATE_VARS & 0x3FF;\n// Shift right 10 bits and mask the next 4 bits\nprivate final int DATE_SECONDS_PAST_MINUTE = DATE_VARS >> 10 & 0x3F;\n// Shift right 16 bits and mask the remaining 1 bit\nprivate final int BUSY = DATE_VARS >> 16 & 0x1;"
+  ],
+  "description": "This varplayer contains counters for numerous date/time tracking values, such as milliseconds elapsed in the current second, and seconds elapsed in the current minute. ==Values== One flag bit is used to show busy, 6 bits are used for seconds, and 10 bits are used for milliseconds"
  },
  {
   "name": "date_minutes",
@@ -7932,7 +8508,12 @@
  {
   "name": "latest_quest_journal",
   "id": 3679,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "QUEST_JOURNAL_OPEN_ID",
+  "content": "Quests",
+  "wikiPage": "RuneScape:Varplayer/3679",
+  "varClass": "Enum",
+  "description": "This variable is set to the unique ID of the quest that the quest journal is open on. Based on the IDs following the alphabetical order up to a certain point, it can be deduced from the release dates that the varplayer and the list was created between 16 June 2021 and 16 December 2021, after which the newly added quests and miniquests have been given arbitrary IDs. ==Values== * 0: Animal Magnetism * 1: Another Slice of H.A.M. * 3: The Ascent of Arceuus * 4: Alfred Grimhand's Barcrawl * 5: Bear Your Soul * 6: Below Ice Mountain * 7: Between a Rock... * 8: Big Chompy Bird Hunting * 9: Biohazard * 10: Black Knights' Fortress * 11: Bone Voyage * 12: Cabin Fever * 13: Client of Kourend * 14: Clock Tower * 15: Cold War * 16: Contact! * 17: Cook's Assistant * 18: The Corsair Curse * 19: Creature of Fenkenstrain * 20: Curse of the Empty Lord * 21: Daddy's Home * 22: Darkness of Hallowvale * 23: Death Plateau * 24: Death to the Dorgeshuun * 25: Demon Slayer * 26: The Depths of Despair * 27: Desert Treasure I * 28: Devious Minds * 29: The Dig Site * 30: Doric's Quest * 31: Dragon Slayer I * 32: Dragon Slayer II * 33: Dream Mentor * 34: Druidic Ritual * 35: Dwarf Cannon * 36: Eadgar's Ruse * 37: Eagles' Peak * 38: Elemental Workshop I * 39: Elemental Workshop II * 40: Enakhra's Lament * 41: The Enchanted Key * 42: Enlightened Journey * 43: Enter the Abyss * 44: Ernest the Chicken * 45: The Eyes of Glouphrie * 46: Fairytale I - Growing Pains * 47: Fairytale II - Cure a Queen * 48: Family Crest * 49: Family Pest * 50: The Feud * 51: Fight Arena * 52: Fishing Contest * 53: Forgettable Tale... * 54: The Forsaken Tower * 55: The Fremennik Exiles * 56: The Fremennik Isles * 57: The Fremennik Trials * 59: The General's Shadow * 60: Gertrude's Cat * 61: Getting Ahead * 62: Ghosts Ahoy * 63: The Giant Dwarf * 64: Goblin Diplomacy * 65: The Golem * 66: The Grand Tree * 67: The Great Brain Robbery * 68: Grim Tales * 69: The Hand in the Sand * 70: Haunted Mine * 71: Hazeel Cult * 72: Heroes' Quest * 73: Holy Grail * 74: Horror from the Deep * 75: Icthlarin's Little Helper * 76: Imp Catcher * 77: In Aid of the Myreque * 78: In Search of Knowledge * 79: In Search of the Myreque * 80: Jungle Potion * 81: A Kingdom Divided * 82: King's Ransom * 83: The Knight's Sword * 84: Lair of Tarn Razorlor * 86: Lost City * 87: The Lost Tribe * 88: Lunar Diplomacy * 89: Mage Arena I * 90: Mage Arena II * 91: Making Friends with My Arm * 92: Making History * 93: Merlin's Crystal * 94: Misthalin Mystery * 95: Monkey Madness I * 96: Monkey Madness II * 97: Monk's Friend * 98: Mountain Daughter * 99: Mourning's End Part I * 100: Mourning's End Part II * 101: Murder Mystery * 102: My Arm's Big Adventure * 103: Nature Spirit * 104: A Night at the Theatre * 105: Observatory Quest * 106: Olaf's Quest * 107: One Small Favour * 108: Pirate's Treasure * 109: Plague City * 110: A Porcine of Interest * 111: Priest in Peril * 112: Prince Ali Rescue * 113: The Queen of Thieves * 114: Rag and Bone Man I * 115: Rag and Bone Man II * 116: Ratcatchers * 117: Recipe for Disaster * 118: Recruitment Drive * 119: Regicide * 120: The Restless Ghost * 121: Romeo & Juliet * 122: Roving Elves * 123: Royal Trouble * 124: Rum Deal * 125: Rune Mysteries * 126: Scorpion Catcher * 127: Sea Slug * 128: Shades of Mort'ton * 129: Shadow of the Storm * 130: Sheep Herder * 131: Sheep Shearer * 132: Shield of Arrav * 133: Shilo Village * 134: Sins of the Father * 135: Skippy and the Mogres * 136: The Slug Menace * 137: Song of the Elves * 138: A Soul's Bane * 139: Spirits of the Elid * 140: Swan Song * 141: Tai Bwo Wannai Trio * 142: A Tail of Two Cats * 143: Tale of the Righteous * 144: A Taste of Hope * 145: Tears of Guthix * 146: Temple of Ikov * 147: Throne of Miscellania * 148: The Tourist Trap * 149: Tower of Life * 150: Tree Gnome Village * 151: Tribal Totem * 152: Troll Romance * 153: Troll Stronghold * 154: Underground Pass * 155: Vampyre Slayer * 156: Wanted! * 157: Watchtower * 158: Waterfall Quest * 159: What Lies Below * 160: Witch's House * 161: Witch's Potion * 162: X Marks the Spot * 163: Zogre Flesh Eaters * 164: The Frozen Door * 165: Land of the Goblins * 165: Legends' Quest * 166: Hopespear's Will * 167: Temple of the Eye * 168: Beneath Cursed Sands * 169: Sleeping Giants * 180: Garden of Tranquillity * 180: The Garden of Death * 2306: Into the Tombs * 2338: Secrets of the North * 2343: Desert Treasure II - The Fallen Empire * 3250: His Faithful Servants * 3425: The Path of Glouphrie * 3450: Children of the Sun * 3451: Barbarian Training * 3466: Defender of Varrock * 3467: While Guthix Sleeps * 3512: Twilight's Promise * 3513: At First Light * 3514: Perilous Moons * 3515: The Ribbiting Tale of a Lily Pad Labour Dispute * 3710: The Heart of Darkness * 3711: Death on the Isle * 3712: Meat and Greet * 3713: Ethically Acquired Antiquities * 3937: The Curse of Arrav"
  },
  {
   "name": "toa_invocations_preset_1a",
@@ -9127,7 +9708,12 @@
  {
   "name": "brew_pieces",
   "id": 4218,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "PIECES_OF_EIGHT_AMOUNT",
+  "content": "Trouble Brewing",
+  "wikiPage": "RuneScape:Varplayer/4218",
+  "varClass": "Counter",
+  "description": "Stores the amount of Pieces of eight currently in your possession."
  },
  {
   "name": "pride24",
@@ -9237,7 +9823,12 @@
  {
   "name": "slayer_count_original",
   "id": 4258,
-  "kind": "varp"
+  "kind": "varp",
+  "wikiName": "SLAYER_COUNT_ORIGINAL",
+  "content": "Slayer",
+  "wikiPage": "RuneScape:Varplayer/4258",
+  "varClass": "Counter",
+  "description": "Tracks the number of monsters originally assigned for the current Slayer task."
  },
  {
   "name": "total_araxxor_kills",

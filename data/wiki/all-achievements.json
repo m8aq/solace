@@ -1,0 +1,6462 @@
+[
+ {
+  "id": 96,
+  "name": "... 'til Dawn",
+  "page": "... 'til Dawn",
+  "monster": "Grotesque Guardians",
+  "task": "Kill the Grotesque Guardians 20 times without leaving the instance.",
+  "tier": "Master",
+  "type": "Stamina",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 101,
+  "name": "3, 2, 1 - Mage",
+  "page": "3, 2, 1 - Mage",
+  "monster": "Corrupted Hunllef",
+  "task": "Kill the Corrupted Hunllef without taking damage off prayer.",
+  "tier": "Elite",
+  "type": "Perfection",
+  "leagueRegion": "Tirannwn"
+ },
+ {
+  "id": 111,
+  "name": "3, 2, 1 - Range",
+  "page": "3, 2, 1 - Range",
+  "monster": "Crystalline Hunllef",
+  "task": "Kill the Crystalline Hunllef without taking damage off prayer.",
+  "tier": "Elite",
+  "type": "Perfection",
+  "leagueRegion": "Tirannwn"
+ },
+ {
+  "id": 122,
+  "name": "A Demon's Best Friend",
+  "page": "A Demon's Best Friend",
+  "monster": "Hellhound",
+  "task": "Kill a Hellhound.",
+  "tier": "Easy",
+  "type": "Kill Count",
+  "leagueRegion": "Asgarnia,Kandarin,Kourend,Wilderness"
+ },
+ {
+  "id": 223,
+  "name": "A Frozen Foe from the Past",
+  "page": "A Frozen Foe from the Past",
+  "monster": "Skeletal Wyvern",
+  "task": "Kill a Skeletal Wyvern",
+  "tier": "Medium",
+  "type": "Kill Count",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 204,
+  "name": "A Frozen King",
+  "page": "A Frozen King",
+  "monster": "Dagannoth Rex",
+  "task": "Kill Dagannoth Rex whilst he is immobilized.",
+  "tier": "Medium",
+  "type": "Mechanical",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 120,
+  "name": "A Greater Foe",
+  "page": "A Greater Foe",
+  "monster": "Greater Demon",
+  "task": "Kill a Greater Demon.",
+  "tier": "Easy",
+  "type": "Kill Count",
+  "leagueRegion": "Asgarnia,Kandarin,Karamja,Kourend,Misthalin,Morytania,Wilderness"
+ },
+ {
+  "id": 190,
+  "name": "A Long Trip",
+  "page": "A Long Trip",
+  "monster": "The Nightmare",
+  "task": "Kill the Nightmare without any player losing any prayer points.",
+  "tier": "Grandmaster",
+  "type": "Restriction",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 149,
+  "name": "A Near Miss!",
+  "page": "A Near Miss!",
+  "monster": "TzTok-Jad",
+  "task": "Complete the Fight Caves after surviving a hit from TzTok-Jad without praying.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Karamja"
+ },
+ {
+  "id": 306,
+  "name": "A Not So Special Lizard",
+  "page": "A Not So Special Lizard",
+  "monster": "Chambers of Xeric",
+  "task": "Kill the Great Olm in a solo raid without letting him use any of the following special attacks in his second to last phase: Crystal Burst, Lightning Walls, Teleportation Portals or left-hand autohealing.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 174,
+  "name": "A Scaley Encounter",
+  "page": "A Scaley Encounter",
+  "monster": "Lizardman Shaman",
+  "task": "Kill a Lizardman Shaman.",
+  "tier": "Easy",
+  "type": "Kill Count",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 287,
+  "name": "A Slithery Encounter",
+  "page": "A Slithery Encounter",
+  "monster": "Wyrm",
+  "task": "Kill a Wyrm.",
+  "tier": "Easy",
+  "type": "Kill Count",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 40,
+  "name": "A Slow Death",
+  "page": "A Slow Death",
+  "monster": "Bryophyta",
+  "task": "Kill Bryophyta with either poison or venom being the final source of damage.",
+  "tier": "Easy",
+  "type": "Restriction",
+  "leagueRegion": "Misthalin"
+ },
+ {
+  "id": 97,
+  "name": "A Smashing Time",
+  "page": "A Smashing Time",
+  "monster": "Gargoyle",
+  "task": "Kill a Gargoyle.",
+  "tier": "Medium",
+  "type": "Kill Count",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 242,
+  "name": "A Timely Snack",
+  "page": "A Timely Snack",
+  "monster": "Theatre of Blood",
+  "task": "Kill Sotetseg after surviving at least 3 ball attacks without sharing the damage and without anyone dying throughout the fight.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 413,
+  "name": "A siphon will solve this",
+  "page": "A siphon will solve this",
+  "monster": "Nex",
+  "task": "Kill Nex without letting her heal from her Blood Siphon special attack.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 1,
+  "name": "Abyssal Adept",
+  "page": "Abyssal Adept",
+  "monster": "Abyssal Sire",
+  "task": "Kill the Abyssal Sire 20 times.",
+  "tier": "Hard",
+  "type": "Kill Count",
+  "leagueRegion": "General"
+ },
+ {
+  "id": 2,
+  "name": "Abyssal Veteran",
+  "page": "Abyssal Veteran",
+  "monster": "Abyssal Sire",
+  "task": "Kill the Abyssal Sire 50 times.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "General"
+ },
+ {
+  "id": 12,
+  "name": "Airborne Showdown",
+  "page": "Airborne Showdown",
+  "monster": "Kree'arra",
+  "task": "Finish off Kree'arra whilst all of his bodyguards are dead.",
+  "tier": "Hard",
+  "type": "Mechanical",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 450,
+  "name": "Akkhan't Do it",
+  "page": "Akkhan't Do it",
+  "monster": "Tombs of Amascut: Expert Mode",
+  "task": "Defeat Akkha with all Akkha invocations activated and the path levelled up to at least four, without dying yourself.",
+  "tier": "Grandmaster",
+  "type": "Mechanical",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 136,
+  "name": "Alchemical Master",
+  "page": "Alchemical Master",
+  "monster": "Alchemical Hydra",
+  "task": "Kill the Alchemical Hydra 150 times.",
+  "tier": "Master",
+  "type": "Kill Count",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 144,
+  "name": "Alchemical Speed-Chaser",
+  "page": "Alchemical Speed-Chaser",
+  "monster": "Alchemical Hydra",
+  "task": "Kill the Alchemical Hydra in less than 1 minute 45 seconds.",
+  "tier": "Master",
+  "type": "Speed",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 145,
+  "name": "Alchemical Speed-Runner",
+  "page": "Alchemical Speed-Runner",
+  "monster": "Alchemical Hydra",
+  "task": "Kill the Alchemical Hydra in less than 1 minute 20 seconds.",
+  "tier": "Grandmaster",
+  "type": "Speed",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 135,
+  "name": "Alchemical Veteran",
+  "page": "Alchemical Veteran",
+  "monster": "Alchemical Hydra",
+  "task": "Kill the Alchemical Hydra 75 times.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 142,
+  "name": "Alcleanical Hydra",
+  "page": "Alcleanical Hydra",
+  "monster": "Alchemical Hydra",
+  "task": "Kill the Alchemical Hydra without taking any damage.",
+  "tier": "Master",
+  "type": "Perfection",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 454,
+  "name": "All Praise Zebak",
+  "page": "All Praise Zebak",
+  "monster": "Tombs of Amascut: Expert Mode",
+  "task": "Defeat Zebak without losing a single prayer point. You must also meet the conditions of the 'Rockin' Around The Croc' achievement.",
+  "tier": "Grandmaster",
+  "type": "Mechanical",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 457,
+  "name": "All out of medics",
+  "page": "All out of medics",
+  "monster": "Tombs of Amascut: Expert Mode",
+  "task": "Defeat Kephri without letting her heal above 25% after the first down. The 'Medic' invocation must be activated. You must do this without dying yourself.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 446,
+  "name": "Amascut's Remnant",
+  "page": "Amascut's Remnant",
+  "monster": "Tombs of Amascut: Expert Mode",
+  "task": "Complete the Tombs of Amascut at raid level 500 or above without anyone dying.",
+  "tier": "Grandmaster",
+  "type": "Mechanical",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 580,
+  "name": "Amoxliatl Adept",
+  "page": "Amoxliatl Adept",
+  "monster": "Amoxliatl",
+  "task": "Kill Amoxliatl 20 times.",
+  "tier": "Hard",
+  "type": "Kill Count",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 579,
+  "name": "Amoxliatl Champion",
+  "page": "Amoxliatl Champion",
+  "monster": "Amoxliatl",
+  "task": "Kill Amoxliatl once.",
+  "tier": "Medium",
+  "type": "Kill Count",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 582,
+  "name": "Amoxliatl Speed-Chaser",
+  "page": "Amoxliatl Speed-Chaser",
+  "monster": "Amoxliatl",
+  "task": "Kill Amoxliatl in less than 30 seconds.",
+  "tier": "Elite",
+  "type": "Speed",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 581,
+  "name": "Amoxliatl Speed-Trialist",
+  "page": "Amoxliatl Speed-Trialist",
+  "monster": "Amoxliatl",
+  "task": "Kill Amoxliatl in less than 1 minute.",
+  "tier": "Hard",
+  "type": "Speed",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 214,
+  "name": "Animal Whisperer",
+  "page": "Animal Whisperer",
+  "monster": "Commander Zilyana",
+  "task": "Kill Commander Zilyana in a private instance without taking any damage from the boss or bodyguards.",
+  "tier": "Grandmaster",
+  "type": "Perfection",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 56,
+  "name": "Anti-Bite Mechanics",
+  "page": "Anti-Bite Mechanics",
+  "monster": "Cerberus",
+  "task": "Kill Cerberus without taking any melee damage.",
+  "tier": "Elite",
+  "type": "Perfection",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 386,
+  "name": "Anticoagulants",
+  "page": "Anticoagulants",
+  "monster": "Theatre of Blood: Entry Mode",
+  "task": "Defeat the Maiden of Sugadinti in the Theatre of Blood: Entry Mode without letting any bloodspawn live for longer than 10 seconds.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 166,
+  "name": "Antifire Protection",
+  "page": "Antifire Protection",
+  "monster": "King Black Dragon",
+  "task": "Kill the King Black Dragon with an antifire potion active and an antidragon shield equipped.",
+  "tier": "Medium",
+  "type": "Restriction",
+  "leagueRegion": "Wilderness"
+ },
+ {
+  "id": 310,
+  "name": "Anvil No More",
+  "page": "Anvil No More",
+  "monster": "Chambers of Xeric",
+  "task": "Kill Tekton before he returns to his anvil for a second time after the fight begins.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 387,
+  "name": "Appropriate Tools",
+  "page": "Appropriate Tools",
+  "monster": "Theatre of Blood: Entry Mode",
+  "task": "Defeat the Pestilent Bloat in the Theatre of Blood: Entry Mode with everyone having a salve amulet equipped.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 567,
+  "name": "Arachnid Lover",
+  "page": "Arachnid Lover",
+  "monster": "Araxxor",
+  "task": "Kill Araxxor 10 times without leaving.",
+  "tier": "Master",
+  "type": "Stamina",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 557,
+  "name": "Araxxor Master",
+  "page": "Araxxor Master",
+  "monster": "Araxxor",
+  "task": "Kill Araxxor 75 times.",
+  "tier": "Master",
+  "type": "Kill Count",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 559,
+  "name": "Araxxor Speed-Chaser",
+  "page": "Araxxor Speed-Chaser",
+  "monster": "Araxxor",
+  "task": "Kill Araxxor 5 times in 10:00.",
+  "tier": "Master",
+  "type": "Speed",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 560,
+  "name": "Araxxor Speed-Runner",
+  "page": "Araxxor Speed-Runner",
+  "monster": "Araxxor",
+  "task": "Kill Araxxor 6 times in 10:00.",
+  "tier": "Grandmaster",
+  "type": "Speed",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 558,
+  "name": "Araxxor Speed-Trialist",
+  "page": "Araxxor Speed-Trialist",
+  "monster": "Araxxor",
+  "task": "Kill Araxxor 4 times in 10:00.",
+  "tier": "Elite",
+  "type": "Speed",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 556,
+  "name": "Araxxor Veteran",
+  "page": "Araxxor Veteran",
+  "monster": "Araxxor",
+  "task": "Kill Araxxor 25 times.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 566,
+  "name": "Araxyte Betrayal",
+  "page": "Araxyte Betrayal",
+  "monster": "Araxxor",
+  "task": "Have an Araxyte kill three other Araxytes.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 53,
+  "name": "Arooo No More",
+  "page": "Arooo No More",
+  "monster": "Cerberus",
+  "task": "Kill Cerberus without any of the Summoned Souls being spawned.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 340,
+  "name": "Ash Collector",
+  "page": "Ash Collector",
+  "monster": "K'ril Tsutsaroth",
+  "task": "Kill K'ril Tsutsaroth 20 times in a private instance without leaving the room.",
+  "tier": "Grandmaster",
+  "type": "Stamina",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 394,
+  "name": "Attack, Step, Wait",
+  "page": "Attack, Step, Wait",
+  "monster": "Theatre of Blood: Entry Mode",
+  "task": "Survive Verzik Vitur's second phase in the Theatre of Blood: Entry Mode without anyone getting bounced by Verzik.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 182,
+  "name": "Avoiding Those Little Arms",
+  "page": "Avoiding Those Little Arms",
+  "monster": "Giant Mole",
+  "task": "Kill the Giant Mole without her damaging anyone.",
+  "tier": "Medium",
+  "type": "Perfection",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 492,
+  "name": "Axe Enthusiast",
+  "page": "Axe Enthusiast",
+  "monster": "Vardorvis",
+  "task": "Kill Vardorvis after surviving for 3 minutes of Vardorvis' max speed, and never leaving the centre 25 tiles.",
+  "tier": "Grandmaster",
+  "type": "Mechanical",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 453,
+  "name": "Ba-Bananza",
+  "page": "Ba-Bananza",
+  "monster": "Tombs of Amascut: Expert Mode",
+  "task": "Defeat Ba-Ba with all Ba-Ba invocations activated and the path levelled up to at least four, without dying yourself.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 253,
+  "name": "Back in My Day...",
+  "page": "Back in My Day...",
+  "monster": "Theatre of Blood",
+  "task": "Complete the Theatre of Blood without any member of the team equipping a Scythe of Vitur.",
+  "tier": "Master",
+  "type": "Restriction",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 607,
+  "name": "Back so soon?",
+  "page": "Back so soon?",
+  "monster": "Yama",
+  "task": "Defeat Yama without the judge being attacked with the wrong style and without taking more than one instance of damage each time you are exiled from the arena.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 534,
+  "name": "Back to Our Roots",
+  "page": "Back to Our Roots",
+  "monster": "Moons of Peril",
+  "task": "Defeat all three Moons in one run by only attacking with a Dragon Scimitar.",
+  "tier": "Medium",
+  "type": "Restriction",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 132,
+  "name": "Back to the Wall",
+  "page": "Back to the Wall",
+  "monster": "Obor",
+  "task": "Kill Obor without being pushed back more than one square by his knockback attack.",
+  "tier": "Medium",
+  "type": "Mechanical",
+  "leagueRegion": "Misthalin"
+ },
+ {
+  "id": 25,
+  "name": "Barrows Champion",
+  "page": "Barrows Champion",
+  "monster": "Barrows",
+  "task": "Open the Barrows chest 25 times.",
+  "tier": "Medium",
+  "type": "Kill Count",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 24,
+  "name": "Barrows Novice",
+  "page": "Barrows Novice",
+  "monster": "Barrows",
+  "task": "Open the Barrows chest 10 times.",
+  "tier": "Easy",
+  "type": "Kill Count",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 635,
+  "name": "Beef vs Beef",
+  "page": "Beef vs Beef",
+  "monster": "Brutus",
+  "task": "Kill Brutus whilst neither equipping nor consuming anything.",
+  "tier": "Medium",
+  "type": "Perfection",
+  "leagueRegion": "Misthalin"
+ },
+ {
+  "id": 533,
+  "name": "Betrayal",
+  "page": "Betrayal",
+  "monster": "Moons of Peril",
+  "task": "Defeat a Moon using its associated weapon drop.",
+  "tier": "Hard",
+  "type": "Restriction",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 459,
+  "name": "Better get movin'",
+  "page": "Better get movin'",
+  "monster": "Tombs of Amascut",
+  "task": "Defeat Elidinis' Warden in phase three of the Wardens fight with 'Aerial Assault', 'Stay vigilant' and 'Insanity' invocations activated and without dying yourself.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 32,
+  "name": "Big, Black and Fiery",
+  "page": "Big, Black and Fiery",
+  "monster": "Black Dragon",
+  "task": "Kill a Black Dragon.",
+  "tier": "Easy",
+  "type": "Kill Count",
+  "leagueRegion": "Asgarnia,Fremennik&Kandarin,Misthalin&Fremennik,Wilderness,Kourend,Tirannwn"
+ },
+ {
+  "id": 319,
+  "name": "Blind Spot",
+  "page": "Blind Spot",
+  "monster": "Chambers of Xeric",
+  "task": "Kill Tekton without taking any damage.",
+  "tier": "Master",
+  "type": "Perfection",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 320,
+  "name": "Blizzard Dodger",
+  "page": "Blizzard Dodger",
+  "monster": "Chambers of Xeric",
+  "task": "Receive kill-credit for the Ice Demon without activating the Protect from Range prayer.",
+  "tier": "Elite",
+  "type": "Restriction",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 34,
+  "name": "Brutal, Big, Black and Firey",
+  "page": "Brutal, Big, Black and Firey",
+  "monster": "Brutal Black Dragon",
+  "task": "Kill a Brutal Black Dragon.",
+  "tier": "Medium",
+  "type": "Kill Count",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 633,
+  "name": "Brutus Champion",
+  "page": "Brutus Champion",
+  "monster": "Brutus",
+  "task": "Kill Brutus 10 times.",
+  "tier": "Medium",
+  "type": "Kill Count",
+  "leagueRegion": "Misthalin"
+ },
+ {
+  "id": 632,
+  "name": "Brutus Novice",
+  "page": "Brutus Novice",
+  "monster": "Brutus",
+  "task": "Kill Brutus.",
+  "tier": "Easy",
+  "type": "Kill Count",
+  "leagueRegion": "Misthalin"
+ },
+ {
+  "id": 634,
+  "name": "Brutus Speed-Trialist",
+  "page": "Brutus Speed-Trialist",
+  "monster": "Brutus",
+  "task": "Kill Brutus in less than 2 seconds.",
+  "tier": "Elite",
+  "type": "Speed",
+  "leagueRegion": "Misthalin"
+ },
+ {
+  "id": 36,
+  "name": "Bryophyta Champion",
+  "page": "Bryophyta Champion",
+  "monster": "Bryophyta",
+  "task": "Open Bryophyta's chest 5 times.",
+  "tier": "Medium",
+  "type": "Kill Count",
+  "leagueRegion": "Misthalin"
+ },
+ {
+  "id": 35,
+  "name": "Bryophyta Novice",
+  "page": "Bryophyta Novice",
+  "monster": "Bryophyta",
+  "task": "Open Bryophyta's chest once.",
+  "tier": "Easy",
+  "type": "Kill Count",
+  "leagueRegion": "Misthalin"
+ },
+ {
+  "id": 493,
+  "name": "Budget Cutter",
+  "page": "Budget Cutter",
+  "monster": "Vardorvis",
+  "task": "Kill Vardorvis with gear worth 2m or less in total.",
+  "tier": "Master",
+  "type": "Restriction",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 348,
+  "name": "Budget Setup",
+  "page": "Budget Setup",
+  "monster": "TzKal-Zuk",
+  "task": "Kill Tzkal-Zuk without equipping a Twisted Bow within the Inferno.",
+  "tier": "Grandmaster",
+  "type": "Restriction",
+  "leagueRegion": "Karamja"
+ },
+ {
+  "id": 427,
+  "name": "But... Damage",
+  "page": "But... Damage",
+  "monster": "Tombs of Amascut: Expert Mode",
+  "task": "Complete the Tombs of Amascut without anyone in your party wearing or holding any equipment at tier 75 or above.",
+  "tier": "Master",
+  "type": "Restriction",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 42,
+  "name": "Callisto Adept",
+  "page": "Callisto Adept",
+  "monster": "Callisto",
+  "task": "Kill Callisto 10 times.",
+  "tier": "Hard",
+  "type": "Kill Count",
+  "leagueRegion": "Wilderness"
+ },
+ {
+  "id": 43,
+  "name": "Callisto Veteran",
+  "page": "Callisto Veteran",
+  "monster": "Callisto",
+  "task": "Kill Callisto 20 times.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Wilderness"
+ },
+ {
+  "id": 357,
+  "name": "Calm Before the Storm",
+  "page": "Calm Before the Storm",
+  "monster": "Tempoross",
+  "task": "Repair either a mast or a totem pole.",
+  "tier": "Easy",
+  "type": "Mechanical",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 639,
+  "name": "Camping the King",
+  "page": "Camping the King",
+  "monster": "Maggot King",
+  "task": "Kill the Maggot King 12 times without leaving the arena.",
+  "tier": "Master",
+  "type": "Stamina",
+  "leagueRegion": null
+ },
+ {
+  "id": 283,
+  "name": "Can We Fix It?",
+  "page": "Can We Fix It?",
+  "monster": "Wintertodt",
+  "task": "Subdue the Wintertodt without allowing all 4 braziers to be broken at the same time.",
+  "tier": "Medium",
+  "type": "Perfection",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 251,
+  "name": "Can You Dance?",
+  "page": "Can You Dance?",
+  "monster": "Theatre of Blood",
+  "task": "Kill Xarpus without anyone in the team using a ranged or magic weapon.",
+  "tier": "Master",
+  "type": "Restriction",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 250,
+  "name": "Can't Drain This",
+  "page": "Can't Drain This",
+  "monster": "Theatre of Blood",
+  "task": "Kill The Maiden of Sugadinti without anyone in the team losing any prayer points.",
+  "tier": "Master",
+  "type": "Restriction",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 473,
+  "name": "Can't Escape",
+  "page": "Can't Escape",
+  "monster": "Phantom Muspah",
+  "task": "Kill the Phantom Muspah without running.",
+  "tier": "Elite",
+  "type": "Restriction",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 26,
+  "name": "Can't Touch Me",
+  "page": "Can't Touch Me",
+  "monster": "Barrows",
+  "task": "Kill Dharok, Verac, Torag and Guthan without letting them attack you with melee.",
+  "tier": "Medium",
+  "type": "Mechanical",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 409,
+  "name": "Can't Wake Up",
+  "page": "Can't Wake Up",
+  "monster": "Phosani's Nightmare",
+  "task": "Kill Phosani's Nightmare 5 times in a row without leaving Phosani's Dream.",
+  "tier": "Grandmaster",
+  "type": "Stamina",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 52,
+  "name": "Cerberus Master",
+  "page": "Cerberus Master",
+  "monster": "Cerberus",
+  "task": "Kill Cerberus 150 times.",
+  "tier": "Master",
+  "type": "Kill Count",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 51,
+  "name": "Cerberus Veteran",
+  "page": "Cerberus Veteran",
+  "monster": "Cerberus",
+  "task": "Kill Cerberus 75 times.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 389,
+  "name": "Chally Time",
+  "page": "Chally Time",
+  "monster": "Theatre of Blood: Entry Mode",
+  "task": "Defeat the Pestilent Bloat in the Theatre of Blood: Entry Mode by using a halberd special attack as your final attack.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 324,
+  "name": "Chambers of Xeric (5-Scale) Speed-Chaser",
+  "page": "Chambers of Xeric (5-Scale) Speed-Chaser",
+  "monster": "Chambers of Xeric",
+  "task": "Complete a Chambers of Xeric (5-scale) in less than 15 minutes.",
+  "tier": "Master",
+  "type": "Speed",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 325,
+  "name": "Chambers of Xeric (5-Scale) Speed-Runner",
+  "page": "Chambers of Xeric (5-Scale) Speed-Runner",
+  "monster": "Chambers of Xeric",
+  "task": "Complete a Chambers of Xeric (5-scale) in less than 12 minutes and 30 seconds.",
+  "tier": "Grandmaster",
+  "type": "Speed",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 322,
+  "name": "Chambers of Xeric (Solo) Speed-Chaser",
+  "page": "Chambers of Xeric (Solo) Speed-Chaser",
+  "monster": "Chambers of Xeric",
+  "task": "Complete a Chambers of Xeric (Solo) in less than 21 minutes.",
+  "tier": "Master",
+  "type": "Speed",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 323,
+  "name": "Chambers of Xeric (Solo) Speed-Runner",
+  "page": "Chambers of Xeric (Solo) Speed-Runner",
+  "monster": "Chambers of Xeric",
+  "task": "Complete a Chambers of Xeric (Solo) in less than 17 minutes.",
+  "tier": "Grandmaster",
+  "type": "Speed",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 326,
+  "name": "Chambers of Xeric (Trio) Speed-Chaser",
+  "page": "Chambers of Xeric (Trio) Speed-Chaser",
+  "monster": "Chambers of Xeric",
+  "task": "Complete a Chambers of Xeric (Trio) in less than 16 minutes and 30 seconds.",
+  "tier": "Master",
+  "type": "Speed",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 327,
+  "name": "Chambers of Xeric (Trio) Speed-Runner",
+  "page": "Chambers of Xeric (Trio) Speed-Runner",
+  "monster": "Chambers of Xeric",
+  "task": "Complete a Chambers of Xeric (Trio) in less than 14 minutes and 30 seconds.",
+  "tier": "Grandmaster",
+  "type": "Speed",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 301,
+  "name": "Chambers of Xeric Grandmaster",
+  "page": "Chambers of Xeric Grandmaster",
+  "monster": "Chambers of Xeric",
+  "task": "Complete the Chambers of Xeric 150 times.",
+  "tier": "Grandmaster",
+  "type": "Kill Count",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 300,
+  "name": "Chambers of Xeric Master",
+  "page": "Chambers of Xeric Master",
+  "monster": "Chambers of Xeric",
+  "task": "Complete the Chambers of Xeric 75 times.",
+  "tier": "Master",
+  "type": "Kill Count",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 299,
+  "name": "Chambers of Xeric Veteran",
+  "page": "Chambers of Xeric Veteran",
+  "monster": "Chambers of Xeric",
+  "task": "Complete the Chambers of Xeric 25 times.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 295,
+  "name": "Chambers of Xeric: CM (5-Scale) Speed-Chaser",
+  "page": "Chambers of Xeric: CM (5-Scale) Speed-Chaser",
+  "monster": "Chambers of Xeric: Challenge Mode",
+  "task": "Complete a Chambers of Xeric: Challenge Mode (5-scale) in less than 30 minutes.",
+  "tier": "Master",
+  "type": "Speed",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 296,
+  "name": "Chambers of Xeric: CM (5-Scale) Speed-Runner",
+  "page": "Chambers of Xeric: CM (5-Scale) Speed-Runner",
+  "monster": "Chambers of Xeric: Challenge Mode",
+  "task": "Complete a Chambers of Xeric: Challenge Mode (5-scale) in less than 25 minutes.",
+  "tier": "Grandmaster",
+  "type": "Speed",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 293,
+  "name": "Chambers of Xeric: CM (Solo) Speed-Chaser",
+  "page": "Chambers of Xeric: CM (Solo) Speed-Chaser",
+  "monster": "Chambers of Xeric: Challenge Mode",
+  "task": "Complete a Chambers of Xeric: Challenge Mode (Solo) in less than 45 minutes.",
+  "tier": "Master",
+  "type": "Speed",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 294,
+  "name": "Chambers of Xeric: CM (Solo) Speed-Runner",
+  "page": "Chambers of Xeric: CM (Solo) Speed-Runner",
+  "monster": "Chambers of Xeric: Challenge Mode",
+  "task": "Complete a Chambers of Xeric: Challenge Mode (Solo) in less than 38 minutes and 30 seconds.",
+  "tier": "Grandmaster",
+  "type": "Speed",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 297,
+  "name": "Chambers of Xeric: CM (Trio) Speed-Chaser",
+  "page": "Chambers of Xeric: CM (Trio) Speed-Chaser",
+  "monster": "Chambers of Xeric: Challenge Mode",
+  "task": "Complete a Chambers of Xeric: Challenge Mode (Trio) in less than 35 minutes.",
+  "tier": "Master",
+  "type": "Speed",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 298,
+  "name": "Chambers of Xeric: CM (Trio) Speed-Runner",
+  "page": "Chambers of Xeric: CM (Trio) Speed-Runner",
+  "monster": "Chambers of Xeric: Challenge Mode",
+  "task": "Complete a Chambers of Xeric: Challenge Mode (Trio) in less than 27 minutes.",
+  "tier": "Grandmaster",
+  "type": "Speed",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 289,
+  "name": "Chambers of Xeric: CM Grandmaster",
+  "page": "Chambers of Xeric: CM Grandmaster",
+  "monster": "Chambers of Xeric: Challenge Mode",
+  "task": "Complete the Chambers of Xeric: Challenge Mode 25 times.",
+  "tier": "Grandmaster",
+  "type": "Kill Count",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 288,
+  "name": "Chambers of Xeric: CM Master",
+  "page": "Chambers of Xeric: CM Master",
+  "monster": "Chambers of Xeric: Challenge Mode",
+  "task": "Complete the Chambers of Xeric: Challenge Mode 10 times.",
+  "tier": "Master",
+  "type": "Kill Count",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 57,
+  "name": "Chaos Elemental Adept",
+  "page": "Chaos Elemental Adept",
+  "monster": "Chaos Elemental",
+  "task": "Kill the Chaos Elemental 10 times.",
+  "tier": "Hard",
+  "type": "Kill Count",
+  "leagueRegion": "Wilderness"
+ },
+ {
+  "id": 58,
+  "name": "Chaos Elemental Veteran",
+  "page": "Chaos Elemental Veteran",
+  "monster": "Chaos Elemental",
+  "task": "Kill the Chaos Elemental 25 times.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Wilderness"
+ },
+ {
+  "id": 62,
+  "name": "Chaos Fanatic Adept",
+  "page": "Chaos Fanatic Adept",
+  "monster": "Chaos Fanatic",
+  "task": "Kill the Chaos Fanatic 25 times.",
+  "tier": "Hard",
+  "type": "Kill Count",
+  "leagueRegion": "Wilderness"
+ },
+ {
+  "id": 61,
+  "name": "Chaos Fanatic Champion",
+  "page": "Chaos Fanatic Champion",
+  "monster": "Chaos Fanatic",
+  "task": "Kill the Chaos Fanatic 10 times.",
+  "tier": "Medium",
+  "type": "Kill Count",
+  "leagueRegion": "Wilderness"
+ },
+ {
+  "id": 69,
+  "name": "Chicken Killer",
+  "page": "Chicken Killer",
+  "monster": "Corporeal Beast",
+  "task": "Kill the Corporeal Beast solo.",
+  "tier": "Elite",
+  "type": "Restriction",
+  "leagueRegion": "Wilderness"
+ },
+ {
+  "id": 159,
+  "name": "Chitin Penetrator",
+  "page": "Chitin Penetrator",
+  "monster": "Kalphite Queen",
+  "task": "Kill the Kalphite Queen while her defence was last lowered by you.",
+  "tier": "Hard",
+  "type": "Mechanical",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 428,
+  "name": "Chompington",
+  "page": "Chompington",
+  "monster": "Tombs of Amascut",
+  "task": "Defeat Zebak using only melee attacks and without dying yourself.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 164,
+  "name": "Claw Clipper",
+  "page": "Claw Clipper",
+  "monster": "King Black Dragon",
+  "task": "Kill the King Black Dragon with the Protect from Melee prayer activated.",
+  "tier": "Medium",
+  "type": "Mechanical",
+  "leagueRegion": "Wilderness"
+ },
+ {
+  "id": 519,
+  "name": "Cold Feet",
+  "page": "Cold Feet",
+  "monster": "Duke Sucellus",
+  "task": "Kill Duke Sucellus without taking any avoidable damage, whilst also never running.",
+  "tier": "Master",
+  "type": "Restriction",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 11,
+  "name": "Collateral Damage",
+  "page": "Collateral Damage",
+  "monster": "Kree'arra",
+  "task": "Kill Kree'arra in a private instance without ever attacking him directly.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 539,
+  "name": "Colosseum Grand Champion",
+  "page": "Colosseum Grand Champion",
+  "monster": "Fortis Colosseum",
+  "task": "Defeat Sol Heredit 10 times.",
+  "tier": "Grandmaster",
+  "type": "Kill Count",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 549,
+  "name": "Colosseum Speed-Chaser",
+  "page": "Colosseum Speed-Chaser",
+  "monster": "Fortis Colosseum",
+  "task": "Complete the Colosseum with a total time of 28:00 or less.",
+  "tier": "Master",
+  "type": "Speed",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 550,
+  "name": "Colosseum Speed-Runner",
+  "page": "Colosseum Speed-Runner",
+  "monster": "Fortis Colosseum",
+  "task": "Complete the Colosseum with a total time of 24:00 or less.",
+  "tier": "Grandmaster",
+  "type": "Speed",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 213,
+  "name": "Commander Showdown",
+  "page": "Commander Showdown",
+  "monster": "Commander Zilyana",
+  "task": "Finish off Commander Zilyana while all of her bodyguards are dead.",
+  "tier": "Hard",
+  "type": "Mechanical",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 211,
+  "name": "Commander Zilyana Adept",
+  "page": "Commander Zilyana Adept",
+  "monster": "Commander Zilyana",
+  "task": "Kill Commander Zilyana 50 times.",
+  "tier": "Hard",
+  "type": "Kill Count",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 212,
+  "name": "Commander Zilyana Veteran",
+  "page": "Commander Zilyana Veteran",
+  "monster": "Commander Zilyana",
+  "task": "Kill Commander Zilyana 100 times.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 465,
+  "name": "Confident Raider",
+  "page": "Confident Raider",
+  "monster": "Tombs of Amascut: Entry Mode",
+  "task": "Complete a Tombs of Amascut raid at level 100 or above.",
+  "tier": "Hard",
+  "type": "Restriction",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 414,
+  "name": "Contain this!",
+  "page": "Contain this!",
+  "monster": "Nex",
+  "task": "Kill Nex without anyone taking damage from any Ice special attack.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 608,
+  "name": "Contract Choreographer",
+  "page": "Contract Choreographer",
+  "monster": "Yama",
+  "task": "Defeat Yama whilst completing 'Shadow Dancer', 'Fire Fighter', 'Back so soon?' and without taking any other avoidable damage.",
+  "tier": "Grandmaster",
+  "type": "Perfection",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 609,
+  "name": "Contractually Unbound",
+  "page": "Contractually Unbound",
+  "monster": "Yama",
+  "task": "Defeat Yama under the elevated conditions of one of his non-standard contracts.",
+  "tier": "Grandmaster",
+  "type": "Kill Count",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 644,
+  "name": "Cordoned Off",
+  "page": "Cordoned Off",
+  "monster": "Maggot King",
+  "task": "Kill the Maggot King without moving beyond the back row of tiles.",
+  "tier": "Master",
+  "type": "Restriction",
+  "leagueRegion": null
+ },
+ {
+  "id": 66,
+  "name": "Corporeal Beast Master",
+  "page": "Corporeal Beast Master",
+  "monster": "Corporeal Beast",
+  "task": "Kill the Corporeal Beast 50 times.",
+  "tier": "Master",
+  "type": "Kill Count",
+  "leagueRegion": "Wilderness"
+ },
+ {
+  "id": 65,
+  "name": "Corporeal Beast Veteran",
+  "page": "Corporeal Beast Veteran",
+  "monster": "Corporeal Beast",
+  "task": "Kill the Corporeal Beast 25 times.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Wilderness"
+ },
+ {
+  "id": 100,
+  "name": "Corrupted Gauntlet Grandmaster",
+  "page": "Corrupted Gauntlet Grandmaster",
+  "monster": "Corrupted Hunllef",
+  "task": "Complete the Corrupted Gauntlet 50 times.",
+  "tier": "Grandmaster",
+  "type": "Kill Count",
+  "leagueRegion": "Tirannwn"
+ },
+ {
+  "id": 99,
+  "name": "Corrupted Gauntlet Master",
+  "page": "Corrupted Gauntlet Master",
+  "monster": "Corrupted Hunllef",
+  "task": "Complete the Corrupted Gauntlet 10 times.",
+  "tier": "Master",
+  "type": "Kill Count",
+  "leagueRegion": "Tirannwn"
+ },
+ {
+  "id": 107,
+  "name": "Corrupted Gauntlet Speed-Chaser",
+  "page": "Corrupted Gauntlet Speed-Chaser",
+  "monster": "Corrupted Hunllef",
+  "task": "Complete a Corrupted Gauntlet in less than 7 minutes and 5 seconds.",
+  "tier": "Master",
+  "type": "Speed",
+  "leagueRegion": "Tirannwn"
+ },
+ {
+  "id": 108,
+  "name": "Corrupted Gauntlet Speed-Runner",
+  "page": "Corrupted Gauntlet Speed-Runner",
+  "monster": "Corrupted Hunllef",
+  "task": "Complete a Corrupted Gauntlet in less than 6 minutes and 5 seconds.",
+  "tier": "Grandmaster",
+  "type": "Speed",
+  "leagueRegion": "Tirannwn"
+ },
+ {
+  "id": 98,
+  "name": "Corrupted Gauntlet Veteran",
+  "page": "Corrupted Gauntlet Veteran",
+  "monster": "Corrupted Hunllef",
+  "task": "Complete the Corrupted Gauntlet 5 times.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Tirannwn"
+ },
+ {
+  "id": 105,
+  "name": "Corrupted Warrior",
+  "page": "Corrupted Warrior",
+  "monster": "Corrupted Hunllef",
+  "task": "Kill the Corrupted Hunllef with a full set of perfected corrupted armour equipped.",
+  "tier": "Master",
+  "type": "Restriction",
+  "leagueRegion": "Tirannwn"
+ },
+ {
+  "id": 285,
+  "name": "Cosy",
+  "page": "Cosy",
+  "monster": "Wintertodt",
+  "task": "Subdue the Wintertodt with four pieces of warm equipment equipped.",
+  "tier": "Easy",
+  "type": "Restriction",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 71,
+  "name": "Crazy Archaeologist Adept",
+  "page": "Crazy Archaeologist Adept",
+  "monster": "Crazy Archaeologist",
+  "task": "Kill the Crazy Archaeologist 25 times.",
+  "tier": "Hard",
+  "type": "Kill Count",
+  "leagueRegion": "Wilderness"
+ },
+ {
+  "id": 70,
+  "name": "Crazy Archaeologist Champion",
+  "page": "Crazy Archaeologist Champion",
+  "monster": "Crazy Archaeologist",
+  "task": "Kill the Crazy Archaeologist 10 times.",
+  "tier": "Medium",
+  "type": "Kill Count",
+  "leagueRegion": "Wilderness"
+ },
+ {
+  "id": 406,
+  "name": "Crush Hour",
+  "page": "Crush Hour",
+  "monster": "Phosani's Nightmare",
+  "task": "Kill Phosani's Nightmare while killing every parasite and husk in one hit.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 316,
+  "name": "Cryo No More",
+  "page": "Cryo No More",
+  "monster": "Chambers of Xeric",
+  "task": "Receive kill-credit for the Ice Demon without taking any damage.",
+  "tier": "Elite",
+  "type": "Perfection",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 115,
+  "name": "Crystalline Warrior",
+  "page": "Crystalline Warrior",
+  "monster": "Crystalline Hunllef",
+  "task": "Kill the Crystalline Hunllef with a full set of perfected armour equipped.",
+  "tier": "Elite",
+  "type": "Restriction",
+  "leagueRegion": "Tirannwn"
+ },
+ {
+  "id": 198,
+  "name": "Dagannoth Prime Adept",
+  "page": "Dagannoth Prime Adept",
+  "monster": "Dagannoth Prime",
+  "task": "Kill Dagannoth Prime 25 times.",
+  "tier": "Hard",
+  "type": "Kill Count",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 197,
+  "name": "Dagannoth Prime Champion",
+  "page": "Dagannoth Prime Champion",
+  "monster": "Dagannoth Prime",
+  "task": "Kill Dagannoth Prime 10 times.",
+  "tier": "Medium",
+  "type": "Kill Count",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 202,
+  "name": "Dagannoth Rex Adept",
+  "page": "Dagannoth Rex Adept",
+  "monster": "Dagannoth Rex",
+  "task": "Kill Dagannoth Rex 25 times.",
+  "tier": "Hard",
+  "type": "Kill Count",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 201,
+  "name": "Dagannoth Rex Champion",
+  "page": "Dagannoth Rex Champion",
+  "monster": "Dagannoth Rex",
+  "task": "Kill Dagannoth Rex 10 times.",
+  "tier": "Medium",
+  "type": "Kill Count",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 234,
+  "name": "Dagannoth Supreme Adept",
+  "page": "Dagannoth Supreme Adept",
+  "monster": "Dagannoth Supreme",
+  "task": "Kill Dagannoth Supreme 25 times.",
+  "tier": "Hard",
+  "type": "Kill Count",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 233,
+  "name": "Dagannoth Supreme Champion",
+  "page": "Dagannoth Supreme Champion",
+  "monster": "Dagannoth Supreme",
+  "task": "Kill Dagannoth Supreme 10 times.",
+  "tier": "Medium",
+  "type": "Kill Count",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 311,
+  "name": "Dancing with Statues",
+  "page": "Dancing with Statues",
+  "monster": "Chambers of Xeric",
+  "task": "Receive kill-credit for a Stone Guardian without taking damage from falling rocks.",
+  "tier": "Elite",
+  "type": "Perfection",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 502,
+  "name": "Dark Memories",
+  "page": "Dark Memories",
+  "monster": "Whisperer",
+  "task": "Kill the Whisperer whilst spending less than 6 seconds in the pre-enrage shadow realm.",
+  "tier": "Grandmaster",
+  "type": "Restriction",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 619,
+  "name": "Darkness Is Your Ally?",
+  "page": "Darkness Is Your Ally?",
+  "monster": "Doom of Mokhaiotl",
+  "task": "Defeat the Doom of Mokhaiotl levels 1-8 without equipping a demonbane weapon.",
+  "tier": "Grandmaster",
+  "type": "Restriction",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 235,
+  "name": "Death to the Archer King",
+  "page": "Death to the Archer King",
+  "monster": "Dagannoth Supreme",
+  "task": "Kill Dagannoth Supreme whilst under attack by Dagannoth Prime and Dagannoth Rex.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 199,
+  "name": "Death to the Seer King",
+  "page": "Death to the Seer King",
+  "monster": "Dagannoth Prime",
+  "task": "Kill Dagannoth Prime whilst under attack by Dagannoth Supreme and Dagannoth Rex.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 203,
+  "name": "Death to the Warrior King",
+  "page": "Death to the Warrior King",
+  "monster": "Dagannoth Rex",
+  "task": "Kill Dagannoth Rex whilst under attack by Dagannoth Supreme and Dagannoth Prime.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 113,
+  "name": "Defence Doesn't Matter",
+  "page": "Defence Doesn't Matter",
+  "monster": "Crystalline Hunllef",
+  "task": "Kill the Crystalline Hunllef without making any armour within the Gauntlet.",
+  "tier": "Master",
+  "type": "Restriction",
+  "leagueRegion": "Tirannwn"
+ },
+ {
+  "id": 103,
+  "name": "Defence Doesn't Matter II",
+  "page": "Defence Doesn't Matter II",
+  "monster": "Corrupted Hunllef",
+  "task": "Kill the Corrupted Hunllef without making any armour within the Corrupted Gauntlet.",
+  "tier": "Master",
+  "type": "Restriction",
+  "leagueRegion": "Tirannwn"
+ },
+ {
+  "id": 21,
+  "name": "Defence Matters",
+  "page": "Defence Matters",
+  "monster": "General Graardor",
+  "task": "Kill General Graardor 2 times consecutively in a private instance without taking any damage from his bodyguards.",
+  "tier": "Grandmaster",
+  "type": "Perfection",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 28,
+  "name": "Defence? What Defence?",
+  "page": "Defence? What Defence?",
+  "monster": "Barrows",
+  "task": "Kill any Barrows Brother using only magical damage.",
+  "tier": "Easy",
+  "type": "Restriction",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 47,
+  "name": "Demon Evasion",
+  "page": "Demon Evasion",
+  "monster": "Skotizo",
+  "task": "Kill Skotizo without taking any damage.",
+  "tier": "Elite",
+  "type": "Perfection",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 338,
+  "name": "Demon Whisperer",
+  "page": "Demon Whisperer",
+  "monster": "K'ril Tsutsaroth",
+  "task": "Kill K'ril Tsutsaroth in a private instance without ever being hit by his bodyguards.",
+  "tier": "Grandmaster",
+  "type": "Perfection",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 48,
+  "name": "Demonbane Weaponry",
+  "page": "Demonbane Weaponry",
+  "monster": "Skotizo",
+  "task": "Kill Skotizo with a demonbane weapon equipped.",
+  "tier": "Medium",
+  "type": "Restriction",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 339,
+  "name": "Demonbane Weaponry II",
+  "page": "Demonbane Weaponry II",
+  "monster": "K'ril Tsutsaroth",
+  "task": "Finish off K'ril Tsutsaroth with a demonbane weapon.",
+  "tier": "Hard",
+  "type": "Restriction",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 337,
+  "name": "Demonic Defence",
+  "page": "Demonic Defence",
+  "monster": "K'ril Tsutsaroth",
+  "task": "Kill K'ril Tsutsaroth in a private instance without taking any of his melee hits.",
+  "tier": "Elite",
+  "type": "Perfection",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 6,
+  "name": "Demonic Rebound",
+  "page": "Demonic Rebound",
+  "monster": "Abyssal Sire",
+  "task": "Use the Vengeance spell to reflect the damage from the Abyssal Sire's explosion back to him.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "General"
+ },
+ {
+  "id": 335,
+  "name": "Demonic Showdown",
+  "page": "Demonic Showdown",
+  "monster": "K'ril Tsutsaroth",
+  "task": "Finish off K'ril Tsutsaroth whilst all of his bodyguards are dead.",
+  "tier": "Hard",
+  "type": "Mechanical",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 46,
+  "name": "Demonic Weakening",
+  "page": "Demonic Weakening",
+  "monster": "Skotizo",
+  "task": "Kill Skotizo with no altars active.",
+  "tier": "Medium",
+  "type": "Mechanical",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 545,
+  "name": "Denied",
+  "page": "Denied",
+  "monster": "Fortis Colosseum",
+  "task": "Complete Wave 7 without the Minotaur ever healing other enemies.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 150,
+  "name": "Denying the Healers",
+  "page": "Denying the Healers",
+  "monster": "TzTok-Jad",
+  "task": "Complete the Fight caves without letting any of the Yt-MejKot heal.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Karamja"
+ },
+ {
+  "id": 151,
+  "name": "Denying the Healers II",
+  "page": "Denying the Healers II",
+  "monster": "TzTok-Jad",
+  "task": "Complete the Fight Caves without TzTok-Jad being healed by a Yt-HurKot.",
+  "tier": "Grandmaster",
+  "type": "Mechanical",
+  "leagueRegion": "Karamja"
+ },
+ {
+  "id": 77,
+  "name": "Deranged Archaeologist Champion",
+  "page": "Deranged Archaeologist Champion",
+  "monster": "Deranged Archaeologist",
+  "task": "Kill the Deranged Archaeologist 25 times.",
+  "tier": "Medium",
+  "type": "Kill Count",
+  "leagueRegion": "Misthalin"
+ },
+ {
+  "id": 76,
+  "name": "Deranged Archaeologist Novice",
+  "page": "Deranged Archaeologist Novice",
+  "monster": "Deranged Archaeologist",
+  "task": "Kill the Deranged Archaeologist 10 times.",
+  "tier": "Easy",
+  "type": "Kill Count",
+  "leagueRegion": "Misthalin"
+ },
+ {
+  "id": 643,
+  "name": "Digging in",
+  "page": "Digging in",
+  "monster": "Maggot King",
+  "task": "Kill the Maggot King without moving more than 40 tiles.",
+  "tier": "Master",
+  "type": "Restriction",
+  "leagueRegion": null
+ },
+ {
+  "id": 272,
+  "name": "Dodging the Dragon",
+  "page": "Dodging the Dragon",
+  "monster": "Vorkath",
+  "task": "Kill Vorkath 5 times without taking any damage from his special attacks and without leaving his area.",
+  "tier": "Master",
+  "type": "Perfection",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 456,
+  "name": "Doesn't bug me",
+  "page": "Doesn't bug me",
+  "monster": "Tombs of Amascut: Expert Mode",
+  "task": "Defeat Kephri with all Kephri invocations activated and the path levelled up to at least four, without dying yourself.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 139,
+  "name": "Don't Flame Me",
+  "page": "Don't Flame Me",
+  "monster": "Alchemical Hydra",
+  "task": "Kill the Alchemical Hydra without being hit by the flame wall attack.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 392,
+  "name": "Don't Look at Me!",
+  "page": "Don't Look at Me!",
+  "monster": "Theatre of Blood: Entry Mode",
+  "task": "Kill Xarpus in the Theatre of Blood: Entry Mode without him reflecting any damage to anyone.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 84,
+  "name": "Don't Look at the Eclipse",
+  "page": "Don't Look at the Eclipse",
+  "monster": "Grotesque Guardians",
+  "task": "Kill the Grotesque Guardians without taking damage from Dusk's blinding attack.",
+  "tier": "Hard",
+  "type": "Mechanical",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 7,
+  "name": "Don't Stop Moving",
+  "page": "Don't Stop Moving",
+  "monster": "Abyssal Sire",
+  "task": "Kill the Abyssal Sire without taking damage from any miasma pools.",
+  "tier": "Hard",
+  "type": "Perfection",
+  "leagueRegion": "General"
+ },
+ {
+  "id": 5,
+  "name": "Don't Whip Me",
+  "page": "Don't Whip Me",
+  "monster": "Abyssal Sire",
+  "task": "Kill the Abyssal Sire without being hit by any external tentacles.",
+  "tier": "Hard",
+  "type": "Mechanical",
+  "leagueRegion": "General"
+ },
+ {
+  "id": 89,
+  "name": "Done before Dusk",
+  "page": "Done before Dusk",
+  "monster": "Grotesque Guardians",
+  "task": "Kill the Grotesque Guardians before Dusk uses his prison attack for a second time.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 610,
+  "name": "Doom Adept",
+  "page": "Doom Adept",
+  "monster": "Doom of Mokhaiotl",
+  "task": "Defeat the Doom of Mokhaiotl at delve level 3.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 622,
+  "name": "Doom Chaser",
+  "page": "Doom Chaser",
+  "monster": "Doom of Mokhaiotl",
+  "task": "Defeat the Doom of Mokhaiotl levels 1-8 in less than 10:00.",
+  "tier": "Master",
+  "type": "Speed",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 621,
+  "name": "Doom Crawler",
+  "page": "Doom Crawler",
+  "monster": "Doom of Mokhaiotl",
+  "task": "Defeat the Doom of Mokhaiotl level 1 in less than 30 seconds.",
+  "tier": "Elite",
+  "type": "Speed",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 623,
+  "name": "Doom Racer",
+  "page": "Doom Racer",
+  "monster": "Doom of Mokhaiotl",
+  "task": "Defeat the Doom of Mokhaiotl levels 1-8 in less than 7:15.",
+  "tier": "Grandmaster",
+  "type": "Speed",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 611,
+  "name": "Doom Veteran",
+  "page": "Doom Veteran",
+  "monster": "Doom of Mokhaiotl",
+  "task": "Defeat the Doom of Mokhaiotl at delve level 8.",
+  "tier": "Master",
+  "type": "Kill Count",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 458,
+  "name": "Down Do Specs",
+  "page": "Down Do Specs",
+  "monster": "Tombs of Amascut",
+  "task": "Defeat the Wardens after staggering the boss a maximum of twice during phase two, without dying yourself.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 408,
+  "name": "Dreamland Express",
+  "page": "Dreamland Express",
+  "monster": "Phosani's Nightmare",
+  "task": "Kill Phosani's Nightmare without a sleepwalker reaching her during her desperation phase.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 355,
+  "name": "Dress Like You Mean It",
+  "page": "Dress Like You Mean It",
+  "monster": "Tempoross",
+  "task": "Subdue Tempoross while wearing any variation of the angler outfit.",
+  "tier": "Hard",
+  "type": "Restriction",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 449,
+  "name": "Dropped the ball",
+  "page": "Dropped the ball",
+  "monster": "Tombs of Amascut",
+  "task": "Defeat Akkha without dropping any materialising orbs and without dying yourself.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 630,
+  "name": "Dry Cleaning",
+  "page": "Dry Cleaning",
+  "monster": "Shellbane gryphon",
+  "task": "Kill the Shellbane Gryphon after clearing its corrosive spit from your armour.",
+  "tier": "Easy",
+  "type": "Mechanical",
+  "leagueRegion": "No"
+ },
+ {
+  "id": 618,
+  "name": "Duel of Mokhaiotl",
+  "page": "Duel of Mokhaiotl",
+  "monster": "Doom of Mokhaiotl",
+  "task": "Defeat the Doom of Mokhaiotl levels 1-8 whilst only damaging the boss with one-handed melee attacks.",
+  "tier": "Grandmaster",
+  "type": "Restriction",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 515,
+  "name": "Duke Sucellus Adept",
+  "page": "Duke Sucellus Adept",
+  "monster": "Duke Sucellus",
+  "task": "Kill Duke Sucellus once.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 516,
+  "name": "Duke Sucellus Master",
+  "page": "Duke Sucellus Master",
+  "monster": "Duke Sucellus",
+  "task": "Kill Duke Sucellus 50 times.",
+  "tier": "Master",
+  "type": "Kill Count",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 517,
+  "name": "Duke Sucellus Sleeper",
+  "page": "Duke Sucellus Sleeper",
+  "monster": "Duke Sucellus",
+  "task": "Kill Awakened Duke Sucellus.",
+  "tier": "Grandmaster",
+  "type": "Kill Count",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 513,
+  "name": "Duke Sucellus Speed-Chaser",
+  "page": "Duke Sucellus Speed-Chaser",
+  "monster": "Duke Sucellus",
+  "task": "Kill Duke Sucellus in less than 50 seconds without a slayer task.",
+  "tier": "Master",
+  "type": "Speed",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 514,
+  "name": "Duke Sucellus Speed-Runner",
+  "page": "Duke Sucellus Speed-Runner",
+  "monster": "Duke Sucellus",
+  "task": "Kill Duke Sucellus in less than 40 seconds without a slayer task.",
+  "tier": "Grandmaster",
+  "type": "Speed",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 512,
+  "name": "Duke Sucellus Speed-Trialist",
+  "page": "Duke Sucellus Speed-Trialist",
+  "monster": "Duke Sucellus",
+  "task": "Kill Duke Sucellus in less than 1:00 minutes without a slayer task.",
+  "tier": "Elite",
+  "type": "Speed",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 292,
+  "name": "Dust Seeker",
+  "page": "Dust Seeker",
+  "monster": "Chambers of Xeric: Challenge Mode",
+  "task": "Complete a Chambers of Xeric Challenge mode raid in the target time.",
+  "tier": "Elite",
+  "type": "Speed",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 525,
+  "name": "Efficient Pest Control",
+  "page": "Efficient Pest Control",
+  "monster": "Scurrius",
+  "task": "Kill 6 Giant Rats within Scurrius' lair in 3 seconds.",
+  "tier": "Medium",
+  "type": "Mechanical",
+  "leagueRegion": "Misthalin"
+ },
+ {
+  "id": 114,
+  "name": "Egniol Diet",
+  "page": "Egniol Diet",
+  "monster": "Crystalline Hunllef",
+  "task": "Kill the Crystalline Hunllef without making an egniol potion within the Gauntlet.",
+  "tier": "Elite",
+  "type": "Restriction",
+  "leagueRegion": "Tirannwn"
+ },
+ {
+  "id": 104,
+  "name": "Egniol Diet II",
+  "page": "Egniol Diet II",
+  "monster": "Corrupted Hunllef",
+  "task": "Kill the Corrupted Hunllef without making an egniol potion within the Corrupted Gauntlet.",
+  "tier": "Grandmaster",
+  "type": "Restriction",
+  "leagueRegion": "Tirannwn"
+ },
+ {
+  "id": 594,
+  "name": "Elemental Company",
+  "page": "Elemental Company",
+  "monster": "Royal Titans",
+  "task": "Kill the Royal Titans without attacking any elementals.",
+  "tier": "Easy",
+  "type": "Restriction",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 474,
+  "name": "Essence Farmer",
+  "page": "Essence Farmer",
+  "monster": "Phantom Muspah",
+  "task": "Kill the Phantom Muspah 10 times in one trip.",
+  "tier": "Master",
+  "type": "Stamina",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 469,
+  "name": "Expert Tomb Explorer",
+  "page": "Expert Tomb Explorer",
+  "monster": "Tombs of Amascut: Expert Mode",
+  "task": "Complete the Tombs of Amascut (Expert mode) once.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 470,
+  "name": "Expert Tomb Looter",
+  "page": "Expert Tomb Looter",
+  "monster": "Tombs of Amascut: Expert Mode",
+  "task": "Complete the Tombs of Amascut (Expert mode) 25 times.",
+  "tier": "Master",
+  "type": "Kill Count",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 471,
+  "name": "Expert Tomb Raider",
+  "page": "Expert Tomb Raider",
+  "monster": "Tombs of Amascut: Expert Mode",
+  "task": "Complete the Tombs of Amascut (Expert mode) 50 times.",
+  "tier": "Grandmaster",
+  "type": "Kill Count",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 187,
+  "name": "Explosion!",
+  "page": "Explosion!",
+  "monster": "The Nightmare",
+  "task": "Kill two Husks at the same time.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 613,
+  "name": "Exposed Doom",
+  "page": "Exposed Doom",
+  "monster": "Doom of Mokhaiotl",
+  "task": "Defeat the Doom of Mokhaiotl during its Melee charge phase.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 278,
+  "name": "Extended Encounter",
+  "page": "Extended Encounter",
+  "monster": "Vorkath",
+  "task": "Kill Vorkath 10 times without leaving his area.",
+  "tier": "Master",
+  "type": "Stamina",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 153,
+  "name": "Facing Jad Head-on",
+  "page": "Facing Jad Head-on",
+  "monster": "TzTok-Jad",
+  "task": "Complete the Fight Caves with only melee.",
+  "tier": "Elite",
+  "type": "Restriction",
+  "leagueRegion": "Karamja"
+ },
+ {
+  "id": 350,
+  "name": "Facing Jad Head-on II",
+  "page": "Facing Jad Head-on II",
+  "monster": "TzKal-Zuk",
+  "task": "Kill Tzkal-Zuk without equipping any range or mage weapons before wave 69.",
+  "tier": "Grandmaster",
+  "type": "Restriction",
+  "leagueRegion": "Karamja"
+ },
+ {
+  "id": 367,
+  "name": "Facing Jad Head-on III",
+  "page": "Facing Jad Head-on III",
+  "monster": "TzHaar-Ket-Rak's Challenges",
+  "task": "Complete TzHaar-Ket-Rak's second challenge with only melee.",
+  "tier": "Elite",
+  "type": "Restriction",
+  "leagueRegion": "Karamja"
+ },
+ {
+  "id": 368,
+  "name": "Facing Jad Head-on IV",
+  "page": "Facing Jad Head-on IV",
+  "monster": "TzHaar-Ket-Rak's Challenges",
+  "task": "Complete TzHaar-Ket-Rak's fourth challenge with only melee.",
+  "tier": "Master",
+  "type": "Restriction",
+  "leagueRegion": "Karamja"
+ },
+ {
+  "id": 30,
+  "name": "Faithless Crypt Run",
+  "page": "Faithless Crypt Run",
+  "monster": "Barrows",
+  "task": "Kill all six Barrows Brothers and loot the Barrows chest without ever having more than 0 prayer points.",
+  "tier": "Hard",
+  "type": "Restriction",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 274,
+  "name": "Faithless Encounter",
+  "page": "Faithless Encounter",
+  "monster": "Vorkath",
+  "task": "Kill Vorkath without losing any prayer points.",
+  "tier": "Grandmaster",
+  "type": "Restriction",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 429,
+  "name": "Fancy feet",
+  "page": "Fancy feet",
+  "monster": "Tombs of Amascut: Expert Mode",
+  "task": "Complete phase three of The Wardens in a group of two or more, using only melee attacks and without dying yourself. The 'Insanity' invocation must be activated.",
+  "tier": "Master",
+  "type": "Restriction",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 537,
+  "name": "Fat of the Land",
+  "page": "Fat of the Land",
+  "monster": "Moons of Peril",
+  "task": "Defeat 30 Moons of Peril bosses without leaving the dungeon.",
+  "tier": "Hard",
+  "type": "Stamina",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 15,
+  "name": "Feather Hunter",
+  "page": "Feather Hunter",
+  "monster": "Kree'arra",
+  "task": "Kill Kree'arra 30 times in a private instance without leaving the room.",
+  "tier": "Grandmaster",
+  "type": "Stamina",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 631,
+  "name": "Featherweight Fighter",
+  "page": "Featherweight Fighter",
+  "monster": "Shellbane gryphon",
+  "task": "Kill the Shellbane Gryphon 5 times without leaving the cave, while wearing gear weighing less than 40kg.",
+  "tier": "Hard",
+  "type": "Restriction",
+  "leagueRegion": "No"
+ },
+ {
+  "id": 148,
+  "name": "Fight Caves Master",
+  "page": "Fight Caves Master",
+  "monster": "TzTok-Jad",
+  "task": "Complete the Fight Caves 5 times.",
+  "tier": "Master",
+  "type": "Kill Count",
+  "leagueRegion": "Karamja"
+ },
+ {
+  "id": 155,
+  "name": "Fight Caves Speed-Chaser",
+  "page": "Fight Caves Speed-Chaser",
+  "monster": "TzTok-Jad",
+  "task": "Complete the Fight Caves in less than 30 minutes.",
+  "tier": "Master",
+  "type": "Speed",
+  "leagueRegion": "Karamja"
+ },
+ {
+  "id": 156,
+  "name": "Fight Caves Speed-Runner",
+  "page": "Fight Caves Speed-Runner",
+  "monster": "TzTok-Jad",
+  "task": "Complete the Fight Caves in less than 26 minutes and 30 seconds.",
+  "tier": "Grandmaster",
+  "type": "Speed",
+  "leagueRegion": "Karamja"
+ },
+ {
+  "id": 147,
+  "name": "Fight Caves Veteran",
+  "page": "Fight Caves Veteran",
+  "monster": "TzTok-Jad",
+  "task": "Complete the Fight Caves once.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Karamja"
+ },
+ {
+  "id": 134,
+  "name": "Fighting as Intended",
+  "page": "Fighting as Intended",
+  "monster": "Obor",
+  "task": "Kill Obor on a free to play world.",
+  "tier": "Easy",
+  "type": "Restriction",
+  "leagueRegion": "Misthalin"
+ },
+ {
+  "id": 41,
+  "name": "Fighting as Intended II",
+  "page": "Fighting as Intended II",
+  "monster": "Bryophyta",
+  "task": "Kill Bryophyta on a free to play world.",
+  "tier": "Easy",
+  "type": "Restriction",
+  "leagueRegion": "Misthalin"
+ },
+ {
+  "id": 68,
+  "name": "Finding the Weak Spot",
+  "page": "Finding the Weak Spot",
+  "monster": "Corporeal Beast",
+  "task": "Finish off the Corporeal Beast with a Halberd special attack.",
+  "tier": "Elite",
+  "type": "Restriction",
+  "leagueRegion": "Wilderness"
+ },
+ {
+  "id": 606,
+  "name": "Fire fighter",
+  "page": "Fire fighter",
+  "monster": "Yama",
+  "task": "Defeat Yama without getting hit by fire and having only killed void flares with special attacks.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 360,
+  "name": "Fire in the Hole!",
+  "page": "Fire in the Hole!",
+  "monster": "Tempoross",
+  "task": "Attack Tempoross from both sides by loading both cannons on both ships.",
+  "tier": "Easy",
+  "type": "Mechanical",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 532,
+  "name": "Fortified",
+  "page": "Fortified",
+  "monster": "Moons of Peril",
+  "task": "Defeat a Moon without consuming any supplies.",
+  "tier": "Hard",
+  "type": "Restriction",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 222,
+  "name": "Fragment of Seren Speed-Trialist",
+  "page": "Fragment of Seren Speed-Trialist",
+  "monster": "Fragment of Seren",
+  "task": "Kill The Fragment of Seren in less than 4 minutes.",
+  "tier": "Elite",
+  "type": "Speed",
+  "leagueRegion": "Tirannwn"
+ },
+ {
+  "id": 95,
+  "name": "From Dusk...",
+  "page": "From Dusk...",
+  "monster": "Grotesque Guardians",
+  "task": "Kill the Grotesque Guardians 10 times without leaving the instance.",
+  "tier": "Elite",
+  "type": "Stamina",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 200,
+  "name": "From One King to Another",
+  "page": "From One King to Another",
+  "monster": "Dagannoth Prime",
+  "task": "Kill Prime using a Rune Thrownaxe special attack, bounced off Dagannoth Rex.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 542,
+  "name": "Furball",
+  "page": "Furball",
+  "monster": "Fortis Colosseum",
+  "task": "Complete Wave 4 without taking avoidable damage from a Manticore.",
+  "tier": "Elite",
+  "type": "Perfection",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 81,
+  "name": "Galvek Speed-Trialist",
+  "page": "Galvek Speed-Trialist",
+  "monster": "Galvek",
+  "task": "Kill Galvek in less than 3 minutes.",
+  "tier": "Elite",
+  "type": "Speed",
+  "leagueRegion": "Kandarin"
+ },
+ {
+  "id": 110,
+  "name": "Gauntlet Master",
+  "page": "Gauntlet Master",
+  "monster": "Crystalline Hunllef",
+  "task": "Complete the Gauntlet 20 times.",
+  "tier": "Master",
+  "type": "Kill Count",
+  "leagueRegion": "Tirannwn"
+ },
+ {
+  "id": 117,
+  "name": "Gauntlet Speed-Chaser",
+  "page": "Gauntlet Speed-Chaser",
+  "monster": "Crystalline Hunllef",
+  "task": "Complete the Gauntlet in less than 4 minutes and 45 seconds.",
+  "tier": "Master",
+  "type": "Speed",
+  "leagueRegion": "Tirannwn"
+ },
+ {
+  "id": 118,
+  "name": "Gauntlet Speed-Runner",
+  "page": "Gauntlet Speed-Runner",
+  "monster": "Crystalline Hunllef",
+  "task": "Complete the Gauntlet in less than 3 minutes and 45 seconds.",
+  "tier": "Grandmaster",
+  "type": "Speed",
+  "leagueRegion": "Tirannwn"
+ },
+ {
+  "id": 109,
+  "name": "Gauntlet Veteran",
+  "page": "Gauntlet Veteran",
+  "monster": "Crystalline Hunllef",
+  "task": "Complete the Gauntlet 5 times.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Tirannwn"
+ },
+ {
+  "id": 16,
+  "name": "General Graardor Adept",
+  "page": "General Graardor Adept",
+  "monster": "General Graardor",
+  "task": "Kill General Graardor 50 times.",
+  "tier": "Hard",
+  "type": "Kill Count",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 17,
+  "name": "General Graardor Veteran",
+  "page": "General Graardor Veteran",
+  "monster": "General Graardor",
+  "task": "Kill General Graardor 100 times.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 20,
+  "name": "General Showdown",
+  "page": "General Showdown",
+  "monster": "General Graardor",
+  "task": "Finish off General Graardor whilst all of his bodyguards are dead.",
+  "tier": "Hard",
+  "type": "Mechanical",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 54,
+  "name": "Ghost Buster",
+  "page": "Ghost Buster",
+  "monster": "Cerberus",
+  "task": "Kill Cerberus after successfully negating 6 or more attacks from Summoned Souls.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 178,
+  "name": "Giant Mole Champion",
+  "page": "Giant Mole Champion",
+  "monster": "Giant Mole",
+  "task": "Kill the Giant mole 25 times.",
+  "tier": "Medium",
+  "type": "Kill Count",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 177,
+  "name": "Giant Mole Novice",
+  "page": "Giant Mole Novice",
+  "monster": "Giant Mole",
+  "task": "Kill the Giant Mole 10 times.",
+  "tier": "Easy",
+  "type": "Kill Count",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 119,
+  "name": "Glough Speed-Trialist",
+  "page": "Glough Speed-Trialist",
+  "monster": "Glough",
+  "task": "Kill Glough in less than 2 minutes and 30 seconds.",
+  "tier": "Elite",
+  "type": "Speed",
+  "leagueRegion": "Kandarin"
+ },
+ {
+  "id": 86,
+  "name": "Granite Footwork",
+  "page": "Granite Footwork",
+  "monster": "Grotesque Guardians",
+  "task": "Kill the Grotesque Guardians without taking damage from Dawn's rockfall attack.",
+  "tier": "Hard",
+  "type": "Mechanical",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 82,
+  "name": "Grotesque Guardians Adept",
+  "page": "Grotesque Guardians Adept",
+  "monster": "Grotesque Guardians",
+  "task": "Kill the Grotesque Guardians 25 times.",
+  "tier": "Hard",
+  "type": "Kill Count",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 93,
+  "name": "Grotesque Guardians Speed-Chaser",
+  "page": "Grotesque Guardians Speed-Chaser",
+  "monster": "Grotesque Guardians",
+  "task": "Kill the Grotesque Guardians in less than 1:40 minutes.",
+  "tier": "Master",
+  "type": "Speed",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 94,
+  "name": "Grotesque Guardians Speed-Runner",
+  "page": "Grotesque Guardians Speed-Runner",
+  "monster": "Grotesque Guardians",
+  "task": "Kill the Grotesque Guardians in less than 1:20 minutes.",
+  "tier": "Grandmaster",
+  "type": "Speed",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 92,
+  "name": "Grotesque Guardians Speed-Trialist",
+  "page": "Grotesque Guardians Speed-Trialist",
+  "monster": "Grotesque Guardians",
+  "task": "Kill the Grotesque Guardians in less than 2 minutes.",
+  "tier": "Elite",
+  "type": "Speed",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 83,
+  "name": "Grotesque Guardians Veteran",
+  "page": "Grotesque Guardians Veteran",
+  "monster": "Grotesque Guardians",
+  "task": "Kill the Grotesque Guardians 50 times.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 615,
+  "name": "Grub Patrol",
+  "page": "Grub Patrol",
+  "monster": "Doom of Mokhaiotl",
+  "task": "Defeat the Doom of Mokhaiotl levels 1-8 without ever letting a grub be absorbed.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 221,
+  "name": "Guardians No More",
+  "page": "Guardians No More",
+  "monster": "Scorpia",
+  "task": "Kill Scorpia without killing her guardians.",
+  "tier": "Hard",
+  "type": "Restriction",
+  "leagueRegion": "Wilderness"
+ },
+ {
+  "id": 341,
+  "name": "Half-Way There",
+  "page": "Half-Way There",
+  "monster": "TzKal-Zuk",
+  "task": "Kill a Jal-Zek within the Inferno.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Karamja"
+ },
+ {
+  "id": 282,
+  "name": "Handyman",
+  "page": "Handyman",
+  "monster": "Wintertodt",
+  "task": "Repair a brazier which has been destroyed by the Wintertodt.",
+  "tier": "Easy",
+  "type": "Mechanical",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 180,
+  "name": "Hard Hitter",
+  "page": "Hard Hitter",
+  "monster": "Giant Mole",
+  "task": "Kill the Giant Mole with 4 or fewer instances of damage.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 381,
+  "name": "Hard Mode? Completed It",
+  "page": "Hard Mode? Completed It",
+  "monster": "Theatre of Blood: Hard Mode",
+  "task": "Complete the Theatre of Blood: Hard Mode within the challenge time.",
+  "tier": "Master",
+  "type": "Speed",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 430,
+  "name": "Hardcore Raiders",
+  "page": "Hardcore Raiders",
+  "monster": "Tombs of Amascut",
+  "task": "Complete the Tombs of Amascut in a group of two or more without anyone dying.",
+  "tier": "Elite",
+  "type": "Perfection",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 431,
+  "name": "Hardcore Tombs",
+  "page": "Hardcore Tombs",
+  "monster": "Tombs of Amascut",
+  "task": "Complete the Tombs of Amascut solo without dying.",
+  "tier": "Elite",
+  "type": "Perfection",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 375,
+  "name": "Harder Mode I",
+  "page": "Harder Mode I",
+  "monster": "Theatre of Blood: Hard Mode",
+  "task": "Defeat Sotetseg in the Theatre of Blood: Hard Mode without anyone sharing the ball with anyone, without anyone dying, and without anyone taking damage from any of its other attacks or stepping on the wrong tile in the maze.",
+  "tier": "Grandmaster",
+  "type": "Perfection",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 376,
+  "name": "Harder Mode II",
+  "page": "Harder Mode II",
+  "monster": "Theatre of Blood: Hard Mode",
+  "task": "Defeat Xarpus in the Theatre of Blood: Hard Mode after letting the exhumeds heal him to full health and without anyone in the team taking any damage.",
+  "tier": "Grandmaster",
+  "type": "Perfection",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 379,
+  "name": "Harder Mode III",
+  "page": "Harder Mode III",
+  "monster": "Theatre of Blood: Hard Mode",
+  "task": "Defeat Verzik Vitur in the Theatre of Blood: Hard Mode without anyone attacking her with a melee weapon during her third phase.",
+  "tier": "Grandmaster",
+  "type": "Restriction",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 262,
+  "name": "Hazard Prevention",
+  "page": "Hazard Prevention",
+  "monster": "Thermonuclear Smoke Devil",
+  "task": "Kill the Thermonuclear Smoke Devil without it hitting anyone.",
+  "tier": "Elite",
+  "type": "Perfection",
+  "leagueRegion": "Kandarin"
+ },
+ {
+  "id": 87,
+  "name": "Heal No More",
+  "page": "Heal No More",
+  "monster": "Grotesque Guardians",
+  "task": "Kill the Grotesque Guardians without letting Dawn receive any healing from her orbs.",
+  "tier": "Hard",
+  "type": "Mechanical",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 425,
+  "name": "Helpful spirit who?",
+  "page": "Helpful spirit who?",
+  "monster": "Tombs of Amascut",
+  "task": "Complete the Tombs of Amascut without using any supplies from the Helpful Spirit and without anyone dying. Honey locusts are included in this restriction.",
+  "tier": "Elite",
+  "type": "Restriction",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 123,
+  "name": "Hespori Adept",
+  "page": "Hespori Adept",
+  "monster": "Hespori",
+  "task": "Kill Hespori 5 times.",
+  "tier": "Hard",
+  "type": "Kill Count",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 128,
+  "name": "Hespori Speed-Chaser",
+  "page": "Hespori Speed-Chaser",
+  "monster": "Hespori",
+  "task": "Kill the Hespori in less than 36 seconds.",
+  "tier": "Master",
+  "type": "Speed",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 127,
+  "name": "Hespori Speed-Trialist",
+  "page": "Hespori Speed-Trialist",
+  "monster": "Hespori",
+  "task": "Kill the Hespori in less than 48 seconds.",
+  "tier": "Elite",
+  "type": "Speed",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 124,
+  "name": "Hesporisn't",
+  "page": "Hesporisn't",
+  "monster": "Hespori",
+  "task": "Finish off Hespori with a special attack.",
+  "tier": "Hard",
+  "type": "Mechanical",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 165,
+  "name": "Hide Penetration",
+  "page": "Hide Penetration",
+  "monster": "King Black Dragon",
+  "task": "Kill the King Black Dragon with a stab weapon.",
+  "tier": "Medium",
+  "type": "Restriction",
+  "leagueRegion": "Wilderness"
+ },
+ {
+  "id": 527,
+  "name": "High Hitter",
+  "page": "High Hitter",
+  "monster": "Moons of Peril",
+  "task": "Defeat a Moon before they start their second special attack.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 75,
+  "name": "Hitting Them Where It Hurts",
+  "page": "Hitting Them Where It Hurts",
+  "monster": "Demonic Gorilla",
+  "task": "Finish off a Demonic Gorilla with a demonbane weapon.",
+  "tier": "Elite",
+  "type": "Restriction",
+  "leagueRegion": "Kandarin"
+ },
+ {
+  "id": 59,
+  "name": "Hoarder",
+  "page": "Hoarder",
+  "monster": "Chaos Elemental",
+  "task": "Kill the Chaos Elemental without it unequipping any of your items.",
+  "tier": "Hard",
+  "type": "Mechanical",
+  "leagueRegion": "Wilderness"
+ },
+ {
+  "id": 67,
+  "name": "Hot on Your Feet",
+  "page": "Hot on Your Feet",
+  "monster": "Corporeal Beast",
+  "task": "Kill the Corporeal Beast without anyone killing the dark core or taking damage from the dark core.",
+  "tier": "Elite",
+  "type": "Perfection",
+  "leagueRegion": "Wilderness"
+ },
+ {
+  "id": 569,
+  "name": "Hueycoatl Adept",
+  "page": "Hueycoatl Adept",
+  "monster": "The Hueycoatl",
+  "task": "Kill the Hueycoatl 10 times.",
+  "tier": "Hard",
+  "type": "Kill Count",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 568,
+  "name": "Hueycoatl Champion",
+  "page": "Hueycoatl Champion",
+  "monster": "The Hueycoatl",
+  "task": "Kill the Hueycoatl once.",
+  "tier": "Medium",
+  "type": "Kill Count",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 577,
+  "name": "Hueycoatl Speed-Chaser",
+  "page": "Hueycoatl Speed-Chaser",
+  "monster": "The Hueycoatl",
+  "task": "Kill the Hueycoatl in 2:30 with five or fewer players.",
+  "tier": "Master",
+  "type": "Speed",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 578,
+  "name": "Hueycoatl Speed-Runner",
+  "page": "Hueycoatl Speed-Runner",
+  "monster": "The Hueycoatl",
+  "task": "Kill the Hueycoatl in 2:30 with three or fewer players.",
+  "tier": "Grandmaster",
+  "type": "Speed",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 576,
+  "name": "Hueycoatl Speed-Trialist",
+  "page": "Hueycoatl Speed-Trialist",
+  "monster": "The Hueycoatl",
+  "task": "Kill the Hueycoatl in 2:30",
+  "tier": "Elite",
+  "type": "Speed",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 570,
+  "name": "Hueycoatl Veteran",
+  "page": "Hueycoatl Veteran",
+  "monster": "The Hueycoatl",
+  "task": "Kill the Hueycoatl 25 times.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 540,
+  "name": "I Brought Mine Too",
+  "page": "I Brought Mine Too",
+  "monster": "Fortis Colosseum",
+  "task": "Defeat Sol Heredit using only a Spear, Hasta or Halberd.",
+  "tier": "Master",
+  "type": "Restriction",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 220,
+  "name": "I Can't Reach That",
+  "page": "I Can't Reach That",
+  "monster": "Scorpia",
+  "task": "Kill Scorpia without taking any damage from her.",
+  "tier": "Hard",
+  "type": "Perfection",
+  "leagueRegion": "Wilderness"
+ },
+ {
+  "id": 407,
+  "name": "I Would Simply React",
+  "page": "I Would Simply React",
+  "monster": "Phosani's Nightmare",
+  "task": "Kill Phosani's Nightmare without allowing your prayer to be disabled.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 595,
+  "name": "I need room",
+  "page": "I need room",
+  "monster": "Royal Titans",
+  "task": "Kill the Royal Titans while extinguishing all fires and melting all icicles before they dissipate naturally.",
+  "tier": "Hard",
+  "type": "Restriction",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 418,
+  "name": "I should see a doctor",
+  "page": "I should see a doctor",
+  "monster": "Nex",
+  "task": "Kill Nex whilst a player is coughing.",
+  "tier": "Grandmaster",
+  "type": "Restriction",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 548,
+  "name": "I was here first!",
+  "page": "I was here first!",
+  "monster": "Fortis Colosseum",
+  "task": "Kill a Jaguar Warrior using a Claw-type weapon special attack.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 79,
+  "name": "I'd Rather Be Illiterate",
+  "page": "I'd Rather Be Illiterate",
+  "monster": "Deranged Archaeologist",
+  "task": "Kill the Deranged Archaeologist without anyone being hit by his \"Learn to Read\" attack.",
+  "tier": "Medium",
+  "type": "Perfection",
+  "leagueRegion": "Misthalin"
+ },
+ {
+  "id": 73,
+  "name": "I'd Rather Not Learn",
+  "page": "I'd Rather Not Learn",
+  "monster": "Crazy Archaeologist",
+  "task": "Kill the Crazy Archaeologist without anyone being hit by his \"Rain of Knowledge\" attack.",
+  "tier": "Medium",
+  "type": "Perfection",
+  "leagueRegion": "Wilderness"
+ },
+ {
+  "id": 452,
+  "name": "I'm in a rush",
+  "page": "I'm in a rush",
+  "monster": "Tombs of Amascut",
+  "task": "Defeat Ba-Ba after destroying four or fewer rolling boulders in total without dying yourself.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 575,
+  "name": "I'm your son",
+  "page": "I'm your son",
+  "monster": "The Hueycoatl",
+  "task": "Kill the Hueycoatl whilst wearing two pieces of Hueycoatl armour.",
+  "tier": "Hard",
+  "type": "Restriction",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 74,
+  "name": "If Gorillas Could Fly",
+  "page": "If Gorillas Could Fly",
+  "monster": "Demonic Gorilla",
+  "task": "Kill a Demonic Gorilla.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Kandarin"
+ },
+ {
+  "id": 290,
+  "name": "Immortal Raid Team",
+  "page": "Immortal Raid Team",
+  "monster": "Chambers of Xeric: Challenge Mode",
+  "task": "Complete a Chambers of Xeric: Challenge mode raid without anyone dying.",
+  "tier": "Master",
+  "type": "Perfection",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 291,
+  "name": "Immortal Raider",
+  "page": "Immortal Raider",
+  "monster": "Chambers of Xeric: Challenge Mode",
+  "task": "Complete a Chambers of Xeric Challenge mode (Solo) raid without dying.",
+  "tier": "Master",
+  "type": "Perfection",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 342,
+  "name": "Inferno Grandmaster",
+  "page": "Inferno Grandmaster",
+  "monster": "TzKal-Zuk",
+  "task": "Complete the Inferno 5 times.",
+  "tier": "Grandmaster",
+  "type": "Kill Count",
+  "leagueRegion": "Karamja"
+ },
+ {
+  "id": 352,
+  "name": "Inferno Speed-Runner",
+  "page": "Inferno Speed-Runner",
+  "monster": "TzKal-Zuk",
+  "task": "Complete the Inferno in less than 65 minutes.",
+  "tier": "Grandmaster",
+  "type": "Speed",
+  "leagueRegion": "Karamja"
+ },
+ {
+  "id": 445,
+  "name": "Insanity",
+  "page": "Insanity",
+  "monster": "Tombs of Amascut: Expert Mode",
+  "task": "Complete 'Perfect Wardens' at expert or above.",
+  "tier": "Grandmaster",
+  "type": "Perfection",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 160,
+  "name": "Insect Deflection",
+  "page": "Insect Deflection",
+  "monster": "Kalphite Queen",
+  "task": "Kill the Kalphite Queen by using the Vengeance spell as the finishing blow.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 209,
+  "name": "Inspect Repellent",
+  "page": "Inspect Repellent",
+  "monster": "Sarachnis",
+  "task": "Kill Sarachnis without her dealing damage to anyone.",
+  "tier": "Hard",
+  "type": "Perfection",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 398,
+  "name": "Into the Den of Giants",
+  "page": "Into the Den of Giants",
+  "monster": "Giants",
+  "task": "Kill a Hill Giant, Moss Giant and Fire Giant in the Giant Cave within the Shayzien region.",
+  "tier": "Easy",
+  "type": "Kill Count",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 573,
+  "name": "Is it a bird?",
+  "page": "Is it a bird?",
+  "monster": "The Hueycoatl",
+  "task": "Kill the Hueycoatl using only dragonbane weaponry.",
+  "tier": "Master",
+  "type": "Restriction",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 370,
+  "name": "It Wasn't a Fluke",
+  "page": "It Wasn't a Fluke",
+  "monster": "TzHaar-Ket-Rak's Challenges",
+  "task": "Complete TzHaar-Ket-Rak's fifth and sixth challenges back to back without failing.",
+  "tier": "Grandmaster",
+  "type": "Perfection",
+  "leagueRegion": "Karamja"
+ },
+ {
+  "id": 598,
+  "name": "It takes too long",
+  "page": "It takes too long",
+  "monster": "Royal Titans",
+  "task": "Kill both Royal Titans while they are charging up their area attack. Both titans must die during the same charging phase.",
+  "tier": "Medium",
+  "type": "Mechanical",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 612,
+  "name": "It's Dark Down Here",
+  "page": "It's Dark Down Here",
+  "monster": "Doom of Mokhaiotl",
+  "task": "Defeat the Doom of Mokhaiotl at delve level 16.",
+  "tier": "Grandmaster",
+  "type": "Stamina",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 351,
+  "name": "Jad? What Are You Doing Here?",
+  "page": "Jad? What Are You Doing Here?",
+  "monster": "TzKal-Zuk",
+  "task": "Kill Tzkal-Zuk without killing the JalTok-Jad which spawns during wave 69.",
+  "tier": "Grandmaster",
+  "type": "Restriction",
+  "leagueRegion": "Karamja"
+ },
+ {
+  "id": 29,
+  "name": "Just Like That",
+  "page": "Just Like That",
+  "monster": "Barrows",
+  "task": "Kill Karil using only damage dealt by special attacks.",
+  "tier": "Hard",
+  "type": "Restriction",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 391,
+  "name": "Just To Be Safe",
+  "page": "Just To Be Safe",
+  "monster": "Theatre of Blood: Entry Mode",
+  "task": "Defeat Sotetseg in the Theatre of Blood: Entry Mode after having split the big ball with your entire team. This must be done with a group size of at least 2.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 332,
+  "name": "K'ril Tsutsaroth Adept",
+  "page": "K'ril Tsutsaroth Adept",
+  "monster": "K'ril Tsutsaroth",
+  "task": "Kill K'ril Tsutsaroth 50 times.",
+  "tier": "Hard",
+  "type": "Kill Count",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 333,
+  "name": "K'ril Tsutsaroth Veteran",
+  "page": "K'ril Tsutsaroth Veteran",
+  "monster": "K'ril Tsutsaroth",
+  "task": "Kill K'ril Tsutsaroth 100 times.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 157,
+  "name": "Kalphite Queen Adept",
+  "page": "Kalphite Queen Adept",
+  "monster": "Kalphite Queen",
+  "task": "Kill the Kalphite Queen 25 times.",
+  "tier": "Hard",
+  "type": "Kill Count",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 158,
+  "name": "Kalphite Queen Veteran",
+  "page": "Kalphite Queen Veteran",
+  "monster": "Kalphite Queen",
+  "task": "Kill the Kalphite Queen 50 times.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 22,
+  "name": "Keep Away",
+  "page": "Keep Away",
+  "monster": "General Graardor",
+  "task": "Kill General Graardor in a private instance without taking any damage from the boss or bodyguards.",
+  "tier": "Grandmaster",
+  "type": "Perfection",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 586,
+  "name": "Kemo Makti",
+  "page": "Kemo Makti",
+  "monster": "Amoxliatl",
+  "task": "Kill Amoxliatl 10 times without leaving her chamber.",
+  "tier": "Hard",
+  "type": "Stamina",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 321,
+  "name": "Kill It with Fire",
+  "page": "Kill It with Fire",
+  "monster": "Chambers of Xeric",
+  "task": "Finish off the Ice Demon with a fire spell.",
+  "tier": "Elite",
+  "type": "Restriction",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 163,
+  "name": "King Black Dragon Champion",
+  "page": "King Black Dragon Champion",
+  "monster": "King Black Dragon",
+  "task": "Kill the King Black Dragon 25 times.",
+  "tier": "Medium",
+  "type": "Kill Count",
+  "leagueRegion": "Wilderness"
+ },
+ {
+  "id": 162,
+  "name": "King Black Dragon Novice",
+  "page": "King Black Dragon Novice",
+  "monster": "King Black Dragon",
+  "task": "Kill the King Black Dragon 10 times.",
+  "tier": "Easy",
+  "type": "Kill Count",
+  "leagueRegion": "Wilderness"
+ },
+ {
+  "id": 642,
+  "name": "King-sized clobbering",
+  "page": "King-sized clobbering",
+  "monster": "Maggot King",
+  "task": "Kill the Maggot King without missing a single melee punish.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": null
+ },
+ {
+  "id": 170,
+  "name": "Krakan't Hurt Me",
+  "page": "Krakan't Hurt Me",
+  "monster": "Kraken",
+  "task": "Kill the Kraken 25 times in a private instance without leaving the room.",
+  "tier": "Hard",
+  "type": "Stamina",
+  "leagueRegion": "Kandarin"
+ },
+ {
+  "id": 168,
+  "name": "Kraken Adept",
+  "page": "Kraken Adept",
+  "monster": "Kraken",
+  "task": "Kill the Kraken 20 times.",
+  "tier": "Hard",
+  "type": "Kill Count",
+  "leagueRegion": "Kandarin"
+ },
+ {
+  "id": 9,
+  "name": "Kree'arra Adept",
+  "page": "Kree'arra Adept",
+  "monster": "Kree'arra",
+  "task": "Kill Kree'arra 50 times.",
+  "tier": "Hard",
+  "type": "Kill Count",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 10,
+  "name": "Kree'arra Veteran",
+  "page": "Kree'arra Veteran",
+  "monster": "Kree'arra",
+  "task": "Kill Kree'arra 100 times.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 284,
+  "name": "Leaving No One Behind",
+  "page": "Leaving No One Behind",
+  "monster": "Wintertodt",
+  "task": "Subdue the Wintertodt without any of the Pyromancers falling.",
+  "tier": "Medium",
+  "type": "Restriction",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 563,
+  "name": "Let it seep in",
+  "page": "Let it seep in",
+  "monster": "Araxxor",
+  "task": "Kill Araxxor without ever having venom or poison immunity.",
+  "tier": "Master",
+  "type": "Restriction",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 597,
+  "name": "Let them fight",
+  "page": "Let them fight",
+  "monster": "Royal Titans",
+  "task": "Kill the Royal Titans while having the Royal Titans kill a total of 10 elementals.",
+  "tier": "Easy",
+  "type": "Restriction",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 506,
+  "name": "Leviathan Adept",
+  "page": "Leviathan Adept",
+  "monster": "Leviathan",
+  "task": "Kill the Leviathan once.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 507,
+  "name": "Leviathan Master",
+  "page": "Leviathan Master",
+  "monster": "Leviathan",
+  "task": "Kill the Leviathan 50 times.",
+  "tier": "Master",
+  "type": "Kill Count",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 508,
+  "name": "Leviathan Sleeper",
+  "page": "Leviathan Sleeper",
+  "monster": "Leviathan",
+  "task": "Kill the Awakened Leviathan.",
+  "tier": "Grandmaster",
+  "type": "Kill Count",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 504,
+  "name": "Leviathan Speed-Chaser",
+  "page": "Leviathan Speed-Chaser",
+  "monster": "Leviathan",
+  "task": "Kill the Leviathan in less than 1:25 without a slayer task.",
+  "tier": "Master",
+  "type": "Speed",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 505,
+  "name": "Leviathan Speed-Runner",
+  "page": "Leviathan Speed-Runner",
+  "monster": "Leviathan",
+  "task": "Kill the Leviathan in less than 1:10 without a slayer task.",
+  "tier": "Grandmaster",
+  "type": "Speed",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 503,
+  "name": "Leviathan Speed-Trialist",
+  "page": "Leviathan Speed-Trialist",
+  "monster": "Leviathan",
+  "task": "Kill the Leviathan in less than 1:50 without a slayer task.",
+  "tier": "Elite",
+  "type": "Speed",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 138,
+  "name": "Lightning Lure",
+  "page": "Lightning Lure",
+  "monster": "Alchemical Hydra",
+  "task": "Kill the Alchemical Hydra without being hit by the lightning attack.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 528,
+  "name": "Lunar Triplet",
+  "page": "Lunar Triplet",
+  "monster": "Moons of Peril",
+  "task": "Open the Reward Chest after defeating all three Moons.",
+  "tier": "Medium",
+  "type": "Kill Count",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 72,
+  "name": "Mage of the Ruins",
+  "page": "Mage of the Ruins",
+  "monster": "Crazy Archaeologist",
+  "task": "Kill the Crazy Archaeologist with only magical attacks.",
+  "tier": "Medium",
+  "type": "Mechanical",
+  "leagueRegion": "Wilderness"
+ },
+ {
+  "id": 78,
+  "name": "Mage of the Swamp",
+  "page": "Mage of the Swamp",
+  "monster": "Deranged Archaeologist",
+  "task": "Kill the Deranged Archaeologist with only magical attacks.",
+  "tier": "Medium",
+  "type": "Mechanical",
+  "leagueRegion": "Misthalin"
+ },
+ {
+  "id": 638,
+  "name": "Maggot Exterminator",
+  "page": "Maggot Exterminator",
+  "monster": "Maggot King",
+  "task": "Kill the Maggot King 25 times.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": null
+ },
+ {
+  "id": 640,
+  "name": "Maggot King Speed Chaser",
+  "page": "Maggot King Speed Chaser",
+  "monster": "Maggot King",
+  "task": "Kill the Maggot King 5 times in 9 minutes.",
+  "tier": "Master",
+  "type": "Speed",
+  "leagueRegion": null
+ },
+ {
+  "id": 637,
+  "name": "Maggot Squasher",
+  "page": "Maggot Squasher",
+  "monster": "Maggot King",
+  "task": "Kill the Maggot King.",
+  "tier": "Hard",
+  "type": "Kill Count",
+  "leagueRegion": null
+ },
+ {
+  "id": 173,
+  "name": "Master of Broad Weaponry",
+  "page": "Master of Broad Weaponry",
+  "monster": "Kurask",
+  "task": "Kill a Kurask.",
+  "tier": "Medium",
+  "type": "Kill Count",
+  "leagueRegion": "Fremennik,Tirannwn"
+ },
+ {
+  "id": 356,
+  "name": "Master of Buckets",
+  "page": "Master of Buckets",
+  "monster": "Tempoross",
+  "task": "Extinguish at least 5 fires during a single Tempoross fight.",
+  "tier": "Easy",
+  "type": "Mechanical",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 448,
+  "name": "Maybe I'm the boss.",
+  "page": "Maybe I'm the boss.",
+  "monster": "Tombs of Amascut: Expert Mode",
+  "task": "Complete a Tombs of Amascut raid with every single boss invocation activated and without anyone dying.",
+  "tier": "Grandmaster",
+  "type": "Mechanical",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 176,
+  "name": "Mimic Veteran",
+  "page": "Mimic Veteran",
+  "monster": "The Mimic",
+  "task": "Kill the Mimic once.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 620,
+  "name": "Mine's Better",
+  "page": "Mine's Better",
+  "monster": "Doom of Mokhaiotl",
+  "task": "Defeat the Doom of Mokhaiotl levels 1-8 whilst always wearing a shield.",
+  "tier": "Master",
+  "type": "Restriction",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 520,
+  "name": "Mirror Image",
+  "page": "Mirror Image",
+  "monster": "Duke Sucellus",
+  "task": "Kill Duke Sucellus whilst only attacking the boss on the same tick Duke attacks you.",
+  "tier": "Grandmaster",
+  "type": "Restriction",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 140,
+  "name": "Mixing Correctly",
+  "page": "Mixing Correctly",
+  "monster": "Alchemical Hydra",
+  "task": "Kill the Alchemical Hydra without empowering it.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 614,
+  "name": "Mokhaiotl Drift",
+  "page": "Mokhaiotl Drift",
+  "monster": "Doom of Mokhaiotl",
+  "task": "Defeat the Doom of Mokhaiotl at level 8 or above before he finishes the first burrow phase.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 536,
+  "name": "Moons of Peril Speed-Chaser",
+  "page": "Moons of Peril Speed-Chaser",
+  "monster": "Moons of Peril",
+  "task": "Defeat all three Moons in one run in under 6 minutes.",
+  "tier": "Hard",
+  "type": "Speed",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 535,
+  "name": "Moons of Peril Speed-Trialist",
+  "page": "Moons of Peril Speed-Trialist",
+  "monster": "Moons of Peril",
+  "task": "Defeat all three Moons in one run in under 8 minutes.",
+  "tier": "Medium",
+  "type": "Speed",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 624,
+  "name": "Mopping up",
+  "page": "Mopping up",
+  "monster": "Doom of Mokhaiotl",
+  "task": "Clear at least 8 acid splats in a single Volatile Earth special attack.",
+  "tier": "Grandmaster",
+  "type": "Mechanical",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 472,
+  "name": "More than just a ranged weapon",
+  "page": "More than just a ranged weapon",
+  "monster": "Phantom Muspah",
+  "task": "Kill the Phantom Muspah by only dealing damage to it with a salamander.",
+  "tier": "Master",
+  "type": "Restriction",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 252,
+  "name": "Morytania Only",
+  "page": "Morytania Only",
+  "monster": "Theatre of Blood",
+  "task": "Complete the Theatre of Blood without any member of the team equipping a non-barrows weapon (except Dawnbringer).",
+  "tier": "Grandmaster",
+  "type": "Restriction",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 464,
+  "name": "Movin' on up",
+  "page": "Movin' on up",
+  "monster": "Tombs of Amascut: Entry Mode",
+  "task": "Complete a Tombs of Amascut raid at level 50 or above.",
+  "tier": "Hard",
+  "type": "Restriction",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 215,
+  "name": "Moving Collateral",
+  "page": "Moving Collateral",
+  "monster": "Commander Zilyana",
+  "task": "Kill Commander Zilyana in a private instance without attacking her directly.",
+  "tier": "Master",
+  "type": "Restriction",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 371,
+  "name": "Multi-Style Specialist",
+  "page": "Multi-Style Specialist",
+  "monster": "TzHaar-Ket-Rak's Challenges",
+  "task": "Complete TzHaar-Ket-Rak's third challenge while using a different attack style for each JalTok-Jad.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Karamja"
+ },
+ {
+  "id": 281,
+  "name": "Mummy!",
+  "page": "Mummy!",
+  "monster": "Wintertodt",
+  "task": "Heal a pyromancer after they have fallen.",
+  "tier": "Easy",
+  "type": "Mechanical",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 307,
+  "name": "Mutta-diet",
+  "page": "Mutta-diet",
+  "monster": "Chambers of Xeric",
+  "task": "Kill the Muttadile without letting her or her baby recover hitpoints from the meat tree.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 583,
+  "name": "Nagua Negation",
+  "page": "Nagua Negation",
+  "monster": "Amoxliatl",
+  "task": "Kill Amoxliatl without taking any damage.",
+  "tier": "Hard",
+  "type": "Perfection",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 210,
+  "name": "Newspaper Enthusiast",
+  "page": "Newspaper Enthusiast",
+  "monster": "Sarachnis",
+  "task": "Kill Sarachnis with a crush weapon.",
+  "tier": "Medium",
+  "type": "Restriction",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 417,
+  "name": "Nex Duo",
+  "page": "Nex Duo",
+  "monster": "Nex",
+  "task": "Kill Nex with two or less players at the start of the fight.",
+  "tier": "Grandmaster",
+  "type": "Restriction",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 411,
+  "name": "Nex Master",
+  "page": "Nex Master",
+  "monster": "Nex",
+  "task": "Kill Nex 25 times.",
+  "tier": "Master",
+  "type": "Kill Count",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 412,
+  "name": "Nex Survivors",
+  "page": "Nex Survivors",
+  "monster": "Nex",
+  "task": "Kill Nex without anyone dying.",
+  "tier": "Elite",
+  "type": "Restriction",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 416,
+  "name": "Nex Trio",
+  "page": "Nex Trio",
+  "monster": "Nex",
+  "task": "Kill Nex with three or less players at the start of the fight.",
+  "tier": "Master",
+  "type": "Restriction",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 410,
+  "name": "Nex Veteran",
+  "page": "Nex Veteran",
+  "monster": "Nex",
+  "task": "Kill Nex once.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 349,
+  "name": "Nibbler Chaser",
+  "page": "Nibbler Chaser",
+  "monster": "TzKal-Zuk",
+  "task": "Kill Tzkal-Zuk without using any magic spells during any wave in the Inferno.",
+  "tier": "Grandmaster",
+  "type": "Restriction",
+  "leagueRegion": "Karamja"
+ },
+ {
+  "id": 346,
+  "name": "Nibblers, Begone!",
+  "page": "Nibblers, Begone!",
+  "monster": "TzKal-Zuk",
+  "task": "Kill Tzkal-Zuk without letting a pillar fall before wave 67.",
+  "tier": "Master",
+  "type": "Perfection",
+  "leagueRegion": "Karamja"
+ },
+ {
+  "id": 195,
+  "name": "Nightmare (5-Scale) Speed-Chaser",
+  "page": "Nightmare (5-Scale) Speed-Chaser",
+  "monster": "The Nightmare",
+  "task": "Defeat the Nightmare (5-scale) in less than 4 minutes.",
+  "tier": "Master",
+  "type": "Speed",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 196,
+  "name": "Nightmare (5-Scale) Speed-Runner",
+  "page": "Nightmare (5-Scale) Speed-Runner",
+  "monster": "The Nightmare",
+  "task": "Defeat the Nightmare (5-scale) in less than 3:30 minutes.",
+  "tier": "Grandmaster",
+  "type": "Speed",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 194,
+  "name": "Nightmare (5-Scale) Speed-Trialist",
+  "page": "Nightmare (5-Scale) Speed-Trialist",
+  "monster": "The Nightmare",
+  "task": "Defeat the Nightmare (5-scale) in less than 5 minutes.",
+  "tier": "Elite",
+  "type": "Speed",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 192,
+  "name": "Nightmare (Solo) Speed-Chaser",
+  "page": "Nightmare (Solo) Speed-Chaser",
+  "monster": "The Nightmare",
+  "task": "Defeat the Nightmare (Solo) in less than 19 minutes.",
+  "tier": "Master",
+  "type": "Speed",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 193,
+  "name": "Nightmare (Solo) Speed-Runner",
+  "page": "Nightmare (Solo) Speed-Runner",
+  "monster": "The Nightmare",
+  "task": "Defeat the Nightmare (Solo) in less than 16 minutes.",
+  "tier": "Grandmaster",
+  "type": "Speed",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 191,
+  "name": "Nightmare (Solo) Speed-Trialist",
+  "page": "Nightmare (Solo) Speed-Trialist",
+  "monster": "The Nightmare",
+  "task": "Defeat the Nightmare (Solo) in less than 23 minutes.",
+  "tier": "Elite",
+  "type": "Speed",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 183,
+  "name": "Nightmare Adept",
+  "page": "Nightmare Adept",
+  "monster": "The Nightmare",
+  "task": "Kill The Nightmare once.",
+  "tier": "Hard",
+  "type": "Kill Count",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 185,
+  "name": "Nightmare Master",
+  "page": "Nightmare Master",
+  "monster": "The Nightmare",
+  "task": "Kill The Nightmare 50 times.",
+  "tier": "Master",
+  "type": "Kill Count",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 184,
+  "name": "Nightmare Veteran",
+  "page": "Nightmare Veteran",
+  "monster": "The Nightmare",
+  "task": "Kill The Nightmare 25 times.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 345,
+  "name": "No Luck Required",
+  "page": "No Luck Required",
+  "monster": "TzKal-Zuk",
+  "task": "Kill Tzkal-Zuk without being attacked by TzKal-Zuk and without taking damage from a JalTok-Jad.",
+  "tier": "Grandmaster",
+  "type": "Perfection",
+  "leagueRegion": "Karamja"
+ },
+ {
+  "id": 143,
+  "name": "No Pressure",
+  "page": "No Pressure",
+  "monster": "Alchemical Hydra",
+  "task": "Kill the Alchemical Hydra using only Dharok's Greataxe as a weapon whilst having no more than 10 Hitpoints throughout the entire fight.",
+  "tier": "Grandmaster",
+  "type": "Restriction",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 304,
+  "name": "No Time for Death",
+  "page": "No Time for Death",
+  "monster": "Chambers of Xeric",
+  "task": "Clear the Tightrope room without Killing any Deathly Mages or Deathly Rangers.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 154,
+  "name": "No Time for a Drink",
+  "page": "No Time for a Drink",
+  "monster": "TzTok-Jad",
+  "task": "Complete the Fight Caves without losing any prayer points.",
+  "tier": "Grandmaster",
+  "type": "Restriction",
+  "leagueRegion": "Karamja"
+ },
+ {
+  "id": 451,
+  "name": "No skipping allowed",
+  "page": "No skipping allowed",
+  "monster": "Tombs of Amascut",
+  "task": "Defeat Ba-Ba after only attacking the non-weakened boulders in the rolling boulder phase, without dying yourself. The Boulderdash invocation must be activated.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 596,
+  "name": "No time to pray",
+  "page": "No time to pray",
+  "monster": "Royal Titans",
+  "task": "Kill the Royal Titans without losing any prayer points.",
+  "tier": "Elite",
+  "type": "Restriction",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 604,
+  "name": "No toppings, no drinks, thanks",
+  "page": "No toppings, no drinks, thanks",
+  "monster": "Yama",
+  "task": "Defeat Yama without anybody healing using anything other than plain pizza and without anybody drinking any potions.",
+  "tier": "Master",
+  "type": "Restriction",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 393,
+  "name": "No-Pillar",
+  "page": "No-Pillar",
+  "monster": "Theatre of Blood: Entry Mode",
+  "task": "Survive Verzik Vitur's pillar phase in the Theatre of Blood: Entry Mode without losing a single pillar.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 121,
+  "name": "Not So Great After All",
+  "page": "Not So Great After All",
+  "monster": "Greater Demon",
+  "task": "Finish off a Greater Demon with a demonbane weapon.",
+  "tier": "Easy",
+  "type": "Restriction",
+  "leagueRegion": "Asgarnia,Kandarin,Karamja,Kourend,Misthalin,Morytania,Wilderness"
+ },
+ {
+  "id": 461,
+  "name": "Novice Tomb Explorer",
+  "page": "Novice Tomb Explorer",
+  "monster": "Tombs of Amascut: Entry Mode",
+  "task": "Complete the Tombs of Amascut in Entry mode (or above) once.",
+  "tier": "Hard",
+  "type": "Kill Count",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 462,
+  "name": "Novice Tomb Looter",
+  "page": "Novice Tomb Looter",
+  "monster": "Tombs of Amascut: Entry Mode",
+  "task": "Complete the Tombs of Amascut in Entry mode (or above) 25 times.",
+  "tier": "Hard",
+  "type": "Kill Count",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 463,
+  "name": "Novice Tomb Raider",
+  "page": "Novice Tomb Raider",
+  "monster": "Tombs of Amascut: Entry Mode",
+  "task": "Complete the Tombs of Amascut in Entry mode (or above) 50 times.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 0,
+  "name": "Noxious Foe",
+  "page": "Noxious Foe",
+  "monster": "Aberrant Spectre",
+  "task": "Kill an Aberrant Spectre.",
+  "tier": "Easy",
+  "type": "Kill Count",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 377,
+  "name": "Nylo Sniper",
+  "page": "Nylo Sniper",
+  "monster": "Theatre of Blood: Hard Mode",
+  "task": "Defeat Verzik Vitur's in the Theatre of Blood: Hard Mode without anyone in your team causing a Nylocas to explode by getting too close.",
+  "tier": "Grandmaster",
+  "type": "Mechanical",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 390,
+  "name": "Nylocas, On the Rocks",
+  "page": "Nylocas, On the Rocks",
+  "monster": "Theatre of Blood: Entry Mode",
+  "task": "In the Theatre of Blood: Entry Mode, freeze any 4 Nylocas with a single Ice Barrage spell.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 130,
+  "name": "Obor Champion",
+  "page": "Obor Champion",
+  "monster": "Obor",
+  "task": "Open Obor's chest 5 times.",
+  "tier": "Medium",
+  "type": "Kill Count",
+  "leagueRegion": "Misthalin"
+ },
+ {
+  "id": 129,
+  "name": "Obor Novice",
+  "page": "Obor Novice",
+  "monster": "Obor",
+  "task": "Open Obor's chest once.",
+  "tier": "Easy",
+  "type": "Kill Count",
+  "leagueRegion": "Misthalin"
+ },
+ {
+  "id": 172,
+  "name": "One Hundred Tentacles",
+  "page": "One Hundred Tentacles",
+  "monster": "Kraken",
+  "task": "Kill the Kraken 100 times in a private instance without leaving the room.",
+  "tier": "Master",
+  "type": "Stamina",
+  "leagueRegion": "Kandarin"
+ },
+ {
+  "id": 591,
+  "name": "One by one",
+  "page": "One by one",
+  "monster": "Royal Titans",
+  "task": "Kill one Titan at a time, without attacking the other.",
+  "tier": "Easy",
+  "type": "Restriction",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 546,
+  "name": "One-off",
+  "page": "One-off",
+  "monster": "Fortis Colosseum",
+  "task": "Complete Wave 11 with either 'Red Flag', 'Dynamic Duo', or 'Doom II' active.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 18,
+  "name": "Ourg Freezer",
+  "page": "Ourg Freezer",
+  "monster": "General Graardor",
+  "task": "Kill General Graardor whilst he is immobilized<sup class=\"noprint\">&#91;<span class=\"fact-text\" title=\"&quot;Immobilized&quot; is American English, whereas British English would use &quot;immobilised&quot;.\">sic</span>&#93;</sup>.",
+  "tier": "Hard",
+  "type": "Mechanical",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 19,
+  "name": "Ourg Freezer II",
+  "page": "Ourg Freezer II",
+  "monster": "General Graardor",
+  "task": "Kill General Graardor without him attacking any players.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 23,
+  "name": "Ourg Killer",
+  "page": "Ourg Killer",
+  "monster": "General Graardor",
+  "task": "Kill General Graardor 15 times in a private instance without leaving the room.",
+  "tier": "Grandmaster",
+  "type": "Stamina",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 380,
+  "name": "Pack Like a Yak",
+  "page": "Pack Like a Yak",
+  "monster": "Theatre of Blood: Hard Mode",
+  "task": "Complete the Theatre of Blood: Hard Mode within the challenge time, with no deaths and without anyone buying anything from a supply chest.",
+  "tier": "Grandmaster",
+  "type": "Restriction",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 395,
+  "name": "Pass It On",
+  "page": "Pass It On",
+  "monster": "Theatre of Blood: Entry Mode",
+  "task": "In the Theatre of Blood: Entry Mode, successfully pass on the green ball to a team mate.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 217,
+  "name": "Peach Conjurer",
+  "page": "Peach Conjurer",
+  "monster": "Commander Zilyana",
+  "task": "Kill Commander Zilyana 50 times in a privately rented instance without leaving the room.",
+  "tier": "Grandmaster",
+  "type": "Stamina",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 433,
+  "name": "Perfect Akkha",
+  "page": "Perfect Akkha",
+  "monster": "Tombs of Amascut",
+  "task": "Complete Akkha in a group of two or more, without anyone taking any damage from the following: Akkha's attacks off-prayer, Akkha's special attacks (orbs, memory, detonate), exploding shadow timers, orbs in the enrage phase or attacking Akkha with the wrong style. You must have all Akkha invocations activated.",
+  "tier": "Master",
+  "type": "Perfection",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 435,
+  "name": "Perfect Apmeken",
+  "page": "Perfect Apmeken",
+  "monster": "Tombs of Amascut",
+  "task": "Complete the Apmeken room in a group of two or more, without anyone allowing any dangers to trigger, standing in venom or being hit by a volatile baboon. You must complete this room in less than three minutes.",
+  "tier": "Elite",
+  "type": "Perfection",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 561,
+  "name": "Perfect Araxxor",
+  "page": "Perfect Araxxor",
+  "monster": "Araxxor",
+  "task": "Kill Araxxor perfectly, without taking damage from Araxxor's Mage & Range attacks, melee attack off prayer, araxyte minions damage, or damage from acid pools.",
+  "tier": "Master",
+  "type": "Perfection",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 562,
+  "name": "Perfect Araxxor 2",
+  "page": "Perfect Araxxor 2",
+  "monster": "Araxxor",
+  "task": "Kill Araxxor perfectly, without hitting it during the enrage phase.",
+  "tier": "Grandmaster",
+  "type": "Perfection",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 436,
+  "name": "Perfect Ba-Ba",
+  "page": "Perfect Ba-Ba",
+  "monster": "Tombs of Amascut",
+  "task": "Defeat Ba-Ba in a group of two or more, without anyone taking any damage from the following: Ba-Ba's Attacks off-prayer, Ba-Ba's slam, rolling boulders, rubble attack or falling rocks. No sarcophagi may be opened. You must have all Ba-Ba invocations activated.",
+  "tier": "Master",
+  "type": "Perfection",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 245,
+  "name": "Perfect Bloat",
+  "page": "Perfect Bloat",
+  "monster": "Theatre of Blood",
+  "task": "Kill the Pestilent Bloat without anyone in the team taking damage from the following sources: Pestilent flies, Falling body parts or The Pestilent Bloats stomp attack.",
+  "tier": "Master",
+  "type": "Perfection",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 102,
+  "name": "Perfect Corrupted Hunllef",
+  "page": "Perfect Corrupted Hunllef",
+  "monster": "Corrupted Hunllef",
+  "task": "Kill the Corrupted Hunllef without taking damage from: Tornadoes, Damaging Floor or Stomp Attacks. Also, do not take damage off prayer and do not attack the Corrupted Hunllef with the wrong weapon.",
+  "tier": "Master",
+  "type": "Perfection",
+  "leagueRegion": "Tirannwn"
+ },
+ {
+  "id": 438,
+  "name": "Perfect Crondis",
+  "page": "Perfect Crondis",
+  "monster": "Tombs of Amascut",
+  "task": "Complete the Crondis room without letting a crocodile get to the tree, without anyone losing water from their container and in under one minute.",
+  "tier": "Elite",
+  "type": "Perfection",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 112,
+  "name": "Perfect Crystalline Hunllef",
+  "page": "Perfect Crystalline Hunllef",
+  "monster": "Crystalline Hunllef",
+  "task": "Kill the Crystalline Hunllef without taking damage from: Tornadoes, Damaging Floor or Stomp Attacks. Also, do not take damage off prayer and do not attack the Crystalline Hunllef with the wrong weapon.",
+  "tier": "Master",
+  "type": "Perfection",
+  "leagueRegion": "Tirannwn"
+ },
+ {
+  "id": 616,
+  "name": "Perfect Doom",
+  "page": "Perfect Doom",
+  "monster": "Doom of Mokhaiotl",
+  "task": "Defeat the Doom of Mokhaiotl levels 1-8 without taking any damage from the boss, letting any grubs be absorbed, or stepping in acid blood.",
+  "tier": "Grandmaster",
+  "type": "Perfection",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 518,
+  "name": "Perfect Duke Sucellus",
+  "page": "Perfect Duke Sucellus",
+  "monster": "Duke Sucellus",
+  "task": "Kill Duke Sucellus without taking any avoidable damage 5 times without leaving.",
+  "tier": "Master",
+  "type": "Perfection",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 543,
+  "name": "Perfect Footwork",
+  "page": "Perfect Footwork",
+  "monster": "Fortis Colosseum",
+  "task": "Defeat Sol Heredit without taking any damage from his Spear, Shield, Grapple or Triple Attack.",
+  "tier": "Grandmaster",
+  "type": "Perfection",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 90,
+  "name": "Perfect Grotesque Guardians",
+  "page": "Perfect Grotesque Guardians",
+  "monster": "Grotesque Guardians",
+  "task": "Kill the Grotesque Guardians whilst completing the \"Don't look at the eclipse\", \"Prison Break\", \"Granite Footwork\", \"Heal no more\", \"Static Awareness\" and \"Done before dusk\" tasks.",
+  "tier": "Elite",
+  "type": "Perfection",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 91,
+  "name": "Perfect Grotesque Guardians II",
+  "page": "Perfect Grotesque Guardians II",
+  "monster": "Grotesque Guardians",
+  "task": "Kill the Grotesque Guardians 5 times in a row without leaving the instance, whilst completing the Perfect Grotesque Guardians task every time.",
+  "tier": "Master",
+  "type": "Perfection",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 432,
+  "name": "Perfect Het",
+  "page": "Perfect Het",
+  "monster": "Tombs of Amascut",
+  "task": "Complete the Het room without taking any damage from the light beam and orbs. You must destroy the core after one exposure.",
+  "tier": "Elite",
+  "type": "Perfection",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 571,
+  "name": "Perfect Hueycoatl",
+  "page": "Perfect Hueycoatl",
+  "monster": "The Hueycoatl",
+  "task": "Kill the Hueycoatl perfectly 5 times without leaving. To get a perfect kill, you must not take any avoidable damage from the Hueycoatl's lightning attack, tail slam attack or off-prayer projectile attacks.",
+  "tier": "Elite",
+  "type": "Perfection",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 442,
+  "name": "Perfect Kephri",
+  "page": "Perfect Kephri",
+  "monster": "Tombs of Amascut",
+  "task": "Defeat Kephri in a group of two or more, without anyone taking any damage from the following: egg explosions, Kephri's attacks, Exploding Scarabs, Bodyguards, dung attacks. No eggs may hatch throughout the fight.",
+  "tier": "Master",
+  "type": "Perfection",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 509,
+  "name": "Perfect Leviathan",
+  "page": "Perfect Leviathan",
+  "monster": "Leviathan",
+  "task": "Kill the Leviathan perfectly 5 times without leaving.",
+  "tier": "Master",
+  "type": "Perfection",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 645,
+  "name": "Perfect Maggot King",
+  "page": "Perfect Maggot King",
+  "monster": "Maggot King",
+  "task": "Kill the Maggot King without taking any avoidable damage or him ever being healed.",
+  "tier": "Master",
+  "type": "Perfection",
+  "leagueRegion": null
+ },
+ {
+  "id": 244,
+  "name": "Perfect Maiden",
+  "page": "Perfect Maiden",
+  "monster": "Theatre of Blood",
+  "task": "Kill The Maiden of Sugadinti without anyone in the team taking damage from the following sources: Blood Spawn projectiles and Blood Spawn trails. Also, without taking damage off prayer and without letting any of the Nylocas Matomenos heal The Maiden.",
+  "tier": "Master",
+  "type": "Perfection",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 419,
+  "name": "Perfect Nex",
+  "page": "Perfect Nex",
+  "monster": "Nex",
+  "task": "Kill Nex whilst completing the requirements for \"There is no escape\", \"Shadows move\", \"A siphon will solve this\", and \"Contain this!\"",
+  "tier": "Grandmaster",
+  "type": "Perfection",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 188,
+  "name": "Perfect Nightmare",
+  "page": "Perfect Nightmare",
+  "monster": "The Nightmare",
+  "task": "Kill the Nightmare without any player taking damage from the following attacks: Nightmare rifts, an un-cured parasite explosion, Corpse flowers or the Nightmare's Surge. Also, no player can take damage off prayer or have their attacks slowed by the Nightmare spores.",
+  "tier": "Master",
+  "type": "Perfection",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 246,
+  "name": "Perfect Nylocas",
+  "page": "Perfect Nylocas",
+  "monster": "Theatre of Blood",
+  "task": "Kill the Nylocas Vasilias without anyone in the team attacking any Nylocas with the wrong attack style, without letting a pillar collapse and without getting hit by any of the Nylocas Vasilias attacks whilst off prayer.",
+  "tier": "Master",
+  "type": "Perfection",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 317,
+  "name": "Perfect Olm (Solo)",
+  "page": "Perfect Olm (Solo)",
+  "monster": "Chambers of Xeric",
+  "task": "Kill the Great Olm in a solo raid without taking damage from any of the following: Teleport portals, Fire Walls, Healing pools, Crystal Bombs, Crystal Burst or Prayer Orbs. You also cannot let his claws regenerate or take damage from the same acid pool back to back.",
+  "tier": "Master",
+  "type": "Perfection",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 318,
+  "name": "Perfect Olm (Trio)",
+  "page": "Perfect Olm (Trio)",
+  "monster": "Chambers of Xeric",
+  "task": "Kill the Great Olm in a trio raid without any team member taking damage from any of the following: Teleport portals, Fire Walls, Healing pools, Crystal Bombs, Crystal Burst or Prayer Orbs. You also cannot let his claws regenerate or take damage from the same acid pool back to back.",
+  "tier": "Master",
+  "type": "Perfection",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 403,
+  "name": "Perfect Phosani's Nightmare",
+  "page": "Perfect Phosani's Nightmare",
+  "monster": "Phosani's Nightmare",
+  "task": "Kill Phosani's Nightmare while only taking damage from husks, power blasts and weakened Parasites. Also, without having your attacks slowed by the Nightmare Spores or letting a Sleepwalker reach Phosani's Nightmare.",
+  "tier": "Grandmaster",
+  "type": "Perfection",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 588,
+  "name": "Perfect Royal Titans",
+  "page": "Perfect Royal Titans",
+  "monster": "Royal Titans",
+  "task": "Kill the Royal Titans without getting hit by any avoidable damage. This includes: Melee attacks, Explosions from the ice or fire elemental, Icicle or fire spawn damage, and Ice or fire pulse attacks.",
+  "tier": "Hard",
+  "type": "Perfection",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 441,
+  "name": "Perfect Scabaras",
+  "page": "Perfect Scabaras",
+  "monster": "Tombs of Amascut",
+  "task": "Complete the Scabaras room in less than a minute without anyone taking any damage from puzzles.",
+  "tier": "Master",
+  "type": "Perfection",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 524,
+  "name": "Perfect Scurrius",
+  "page": "Perfect Scurrius",
+  "monster": "Scurrius",
+  "task": "Kill Scurrius in a private instance without taking damage from the following attacks: Tail Swipe and Falling Bricks. Pray correctly against the following attacks: Flying Fur and Bolts of Electricity.",
+  "tier": "Medium",
+  "type": "Perfection",
+  "leagueRegion": "Misthalin"
+ },
+ {
+  "id": 627,
+  "name": "Perfect Shellbane",
+  "page": "Perfect Shellbane",
+  "monster": "Shellbane gryphon",
+  "task": "Kill the Shellbane Gryphon without taking damage.",
+  "tier": "Medium",
+  "type": "Perfection",
+  "leagueRegion": "No"
+ },
+ {
+  "id": 8,
+  "name": "Perfect Sire",
+  "page": "Perfect Sire",
+  "monster": "Abyssal Sire",
+  "task": "Kill the Abyssal Sire without taking damage from the external tentacles, miasma pools, explosion or damage from the Abyssal Sire without praying the appropriate protection prayer.",
+  "tier": "Elite",
+  "type": "Perfection",
+  "leagueRegion": "General"
+ },
+ {
+  "id": 247,
+  "name": "Perfect Sotetseg",
+  "page": "Perfect Sotetseg",
+  "monster": "Theatre of Blood",
+  "task": "Kill Sotetseg without anyone in the team stepping on the wrong tile in the maze, without getting hit by the tornado and without taking any damage from Sotetseg's attacks whilst off prayer.",
+  "tier": "Master",
+  "type": "Perfection",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 243,
+  "name": "Perfect Theatre",
+  "page": "Perfect Theatre",
+  "monster": "Theatre of Blood",
+  "task": "Complete the Theatre of Blood without anyone dying through any means and whilst everyone in the team completes the following Combat Achievement tasks in a single run: \"Perfect Maiden\", \"Perfect Bloat\", \"Perfect Nylocas\", \"Perfect Sotetseg\", \"Perfect Xarpus\" and \"Perfect Verzik\".",
+  "tier": "Grandmaster",
+  "type": "Perfection",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 491,
+  "name": "Perfect Vardorvis",
+  "page": "Perfect Vardorvis",
+  "monster": "Vardorvis",
+  "task": "Kill Vardorvis perfectly 5 times without leaving.",
+  "tier": "Master",
+  "type": "Perfection",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 249,
+  "name": "Perfect Verzik",
+  "page": "Perfect Verzik",
+  "monster": "Theatre of Blood",
+  "task": "Defeat Verzik Vitur without anyone in the team taking damage from Verzik Vitur's attacks other than her spider form's correctly prayed against regular magical and ranged attacks.",
+  "tier": "Master",
+  "type": "Perfection",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 444,
+  "name": "Perfect Wardens",
+  "page": "Perfect Wardens",
+  "monster": "Tombs of Amascut",
+  "task": "Defeat The Wardens in a group of two or more, without anyone taking avoidable damage from the following: Warden attacks, obelisk attacks, lightning attacks in phase three, skull attack in phase three, Demi god attacks in phase three. You must have all Wardens invocations activated.",
+  "tier": "Master",
+  "type": "Perfection",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 500,
+  "name": "Perfect Whisperer",
+  "page": "Perfect Whisperer",
+  "monster": "Whisperer",
+  "task": "Kill the Whisperer without taking avoidable damage 5 times without leaving.",
+  "tier": "Master",
+  "type": "Perfection",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 248,
+  "name": "Perfect Xarpus",
+  "page": "Perfect Xarpus",
+  "monster": "Theatre of Blood",
+  "task": "Kill Xarpus without anyone in the team taking any damage from Xarpus' attacks and without letting an exhumed heal Xarpus more than twice.",
+  "tier": "Master",
+  "type": "Perfection",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 329,
+  "name": "Perfect Zalcano",
+  "page": "Perfect Zalcano",
+  "monster": "Zalcano",
+  "task": "Kill Zalcano 5 times in a row without leaving or getting hit by the following: Falling rocks, rock explosions, Zalcano powering up, or standing in a red symbol.",
+  "tier": "Elite",
+  "type": "Perfection",
+  "leagueRegion": "Tirannwn"
+ },
+ {
+  "id": 439,
+  "name": "Perfect Zebak",
+  "page": "Perfect Zebak",
+  "monster": "Tombs of Amascut",
+  "task": "Defeat Zebak without anyone taking any damage from: poison, Zebak's basic attacks off-prayer, blood spawns and waves. You also must not push more than two jugs on the roar attack during the fight (you may destroy stationary ones). You must have all Zebak invocations activated.",
+  "tier": "Master",
+  "type": "Perfection",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 229,
+  "name": "Perfect Zulrah",
+  "page": "Perfect Zulrah",
+  "monster": "Zulrah",
+  "task": "Kill Zulrah whilst taking no damage from the following: Snakelings, Venom Clouds, Zulrah's Green or Crimson phase.",
+  "tier": "Master",
+  "type": "Perfection",
+  "leagueRegion": "Tirannwn"
+ },
+ {
+  "id": 437,
+  "name": "Perfection of Apmeken",
+  "page": "Perfection of Apmeken",
+  "monster": "Tombs of Amascut: Expert Mode",
+  "task": "Complete 'Perfect Apmeken' and 'Perfect Ba-Ba' in a single run of the Tombs of Amascut.",
+  "tier": "Grandmaster",
+  "type": "Perfection",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 440,
+  "name": "Perfection of Crondis",
+  "page": "Perfection of Crondis",
+  "monster": "Tombs of Amascut: Expert Mode",
+  "task": "Complete 'Perfect Crondis' and 'Perfect Zebak' in a single run of the Tombs of Amascut.",
+  "tier": "Grandmaster",
+  "type": "Perfection",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 434,
+  "name": "Perfection of Het",
+  "page": "Perfection of Het",
+  "monster": "Tombs of Amascut: Expert Mode",
+  "task": "Complete 'Perfect Het' and 'Perfect Akkha' in a single run of the Tombs of Amascut.",
+  "tier": "Grandmaster",
+  "type": "Perfection",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 443,
+  "name": "Perfection of Scabaras",
+  "page": "Perfection of Scabaras",
+  "monster": "Tombs of Amascut: Expert Mode",
+  "task": "Complete 'Perfect Scabaras' and 'Perfect Kephri' in a single run of Tombs of Amascut.",
+  "tier": "Grandmaster",
+  "type": "Perfection",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 302,
+  "name": "Perfectly Balanced",
+  "page": "Perfectly Balanced",
+  "monster": "Chambers of Xeric",
+  "task": "Kill the Vanguards without them resetting their health.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 530,
+  "name": "Perilous Champion",
+  "page": "Perilous Champion",
+  "monster": "Moons of Peril",
+  "task": "Open the Reward Chest 25 times.",
+  "tier": "Hard",
+  "type": "Kill Count",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 531,
+  "name": "Perilous Dancer",
+  "page": "Perilous Dancer",
+  "monster": "Moons of Peril",
+  "task": "Defeat all the Moons in one run while only taking damage from regular attacks.",
+  "tier": "Hard",
+  "type": "Perfection",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 529,
+  "name": "Perilous Novice",
+  "page": "Perilous Novice",
+  "monster": "Moons of Peril",
+  "task": "Open the Reward Chest 5 times.",
+  "tier": "Medium",
+  "type": "Kill Count",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 373,
+  "name": "Personal Space",
+  "page": "Personal Space",
+  "monster": "Theatre of Blood: Hard Mode",
+  "task": "Defeat the Pestilent Bloat in the Theatre of Blood: Hard Mode with at least 3 people in the room, without anyone in your team standing on top of each other.",
+  "tier": "Grandmaster",
+  "type": "Mechanical",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 478,
+  "name": "Phantom Muspah Adept",
+  "page": "Phantom Muspah Adept",
+  "monster": "Phantom Muspah",
+  "task": "Kill the Phantom Muspah.",
+  "tier": "Hard",
+  "type": "Kill Count",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 484,
+  "name": "Phantom Muspah Manipulator",
+  "page": "Phantom Muspah Manipulator",
+  "monster": "Phantom Muspah",
+  "task": "Kill the Phantom Muspah whilst completing Walk Straight Pray True, Space is Tight & Can't Escape.",
+  "tier": "Grandmaster",
+  "type": "Perfection",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 480,
+  "name": "Phantom Muspah Master",
+  "page": "Phantom Muspah Master",
+  "monster": "Phantom Muspah",
+  "task": "Kill the Phantom Muspah 50 times.",
+  "tier": "Master",
+  "type": "Kill Count",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 476,
+  "name": "Phantom Muspah Speed-Chaser",
+  "page": "Phantom Muspah Speed-Chaser",
+  "monster": "Phantom Muspah",
+  "task": "Kill the Phantom Muspah in less than 2 minutes without a slayer task.",
+  "tier": "Master",
+  "type": "Speed",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 477,
+  "name": "Phantom Muspah Speed-Runner",
+  "page": "Phantom Muspah Speed-Runner",
+  "monster": "Phantom Muspah",
+  "task": "Kill the Phantom Muspah in less than 1 minute and 30 seconds without a slayer task.",
+  "tier": "Grandmaster",
+  "type": "Speed",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 475,
+  "name": "Phantom Muspah Speed-Trialist",
+  "page": "Phantom Muspah Speed-Trialist",
+  "monster": "Phantom Muspah",
+  "task": "Kill the Phantom Muspah in less than 3 minutes without a slayer task.",
+  "tier": "Elite",
+  "type": "Speed",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 479,
+  "name": "Phantom Muspah Veteran",
+  "page": "Phantom Muspah Veteran",
+  "monster": "Phantom Muspah",
+  "task": "Kill the Phantom Muspah 25 times.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 402,
+  "name": "Phosani's Grandmaster",
+  "page": "Phosani's Grandmaster",
+  "monster": "Phosani's Nightmare",
+  "task": "Kill Phosani's Nightmare 25 times.",
+  "tier": "Grandmaster",
+  "type": "Kill Count",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 401,
+  "name": "Phosani's Master",
+  "page": "Phosani's Master",
+  "monster": "Phosani's Nightmare",
+  "task": "Kill Phosani's Nightmare 5 times.",
+  "tier": "Master",
+  "type": "Kill Count",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 404,
+  "name": "Phosani's Speedchaser",
+  "page": "Phosani's Speedchaser",
+  "monster": "Phosani's Nightmare",
+  "task": "Kill Phosani's Nightmare within 7 minutes and 30 seconds.",
+  "tier": "Master",
+  "type": "Speed",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 405,
+  "name": "Phosani's Speedrunner",
+  "page": "Phosani's Speedrunner",
+  "monster": "Phosani's Nightmare",
+  "task": "Kill Phosani's Nightmare within 6 minutes.",
+  "tier": "Grandmaster",
+  "type": "Speed",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 400,
+  "name": "Phosani's Veteran",
+  "page": "Phosani's Veteran",
+  "monster": "Phosani's Nightmare",
+  "task": "Kill Phosani's Nightmare once.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 572,
+  "name": "Pillar Lover",
+  "page": "Pillar Lover",
+  "monster": "The Hueycoatl",
+  "task": "Kill the Hueycoatl whilst it is vulnerable.",
+  "tier": "Hard",
+  "type": "Mechanical",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 126,
+  "name": "Plant-Based Diet",
+  "page": "Plant-Based Diet",
+  "monster": "Hespori",
+  "task": "Kill Hespori without losing any prayer points.",
+  "tier": "Elite",
+  "type": "Restriction",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 344,
+  "name": "Playing with Jads",
+  "page": "Playing with Jads",
+  "monster": "TzKal-Zuk",
+  "task": "Complete wave 68 of the Inferno within 30 seconds of the first JalTok-Jad dying.",
+  "tier": "Grandmaster",
+  "type": "Mechanical",
+  "leagueRegion": "Karamja"
+ },
+ {
+  "id": 315,
+  "name": "Playing with Lasers",
+  "page": "Playing with Lasers",
+  "monster": "Chambers of Xeric",
+  "task": "Clear the [[Jewelled_Crab|Crystal Crabs]] room without wasting an orb after the first crystal has been activated.",
+  "tier": "Master",
+  "type": "Perfection",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 241,
+  "name": "Pop It",
+  "page": "Pop It",
+  "monster": "Theatre of Blood",
+  "task": "Kill Verzik without any Nylocas being frozen and without anyone taking damage from the Nylocas.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 27,
+  "name": "Pray for Success",
+  "page": "Pray for Success",
+  "monster": "Barrows",
+  "task": "Kill all six Barrows Brothers and loot the Barrows chest without taking any damage from any of the brothers.",
+  "tier": "Medium",
+  "type": "Perfection",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 161,
+  "name": "Prayer Smasher",
+  "page": "Prayer Smasher",
+  "monster": "Kalphite Queen",
+  "task": "Kill the Kalphite Queen using only the Verac's Flail as a weapon.",
+  "tier": "Elite",
+  "type": "Restriction",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 64,
+  "name": "Praying to the Gods",
+  "page": "Praying to the Gods",
+  "monster": "Chaos Fanatic",
+  "task": "Kill the Chaos Fanatic 10 times without drinking any potion which restores prayer or leaving the Wilderness.",
+  "tier": "Hard",
+  "type": "Restriction",
+  "leagueRegion": "Wilderness"
+ },
+ {
+  "id": 50,
+  "name": "Precise Positioning",
+  "page": "Precise Positioning",
+  "monster": "Skotizo",
+  "task": "Kill Skotizo with the final source of damage being a Chinchompa explosion.",
+  "tier": "Master",
+  "type": "Restriction",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 39,
+  "name": "Preparation Is Key",
+  "page": "Preparation Is Key",
+  "monster": "Bryophyta",
+  "task": "Kill Bryophyta without suffering any poison damage.",
+  "tier": "Easy",
+  "type": "Perfection",
+  "leagueRegion": "Misthalin"
+ },
+ {
+  "id": 85,
+  "name": "Prison Break",
+  "page": "Prison Break",
+  "monster": "Grotesque Guardians",
+  "task": "Kill the Grotesque Guardians without taking damage from Dusk's prison attack.",
+  "tier": "Hard",
+  "type": "Mechanical",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 37,
+  "name": "Protection from Moss",
+  "page": "Protection from Moss",
+  "monster": "Bryophyta",
+  "task": "Kill Bryophyta with the Protect from Magic prayer active.",
+  "tier": "Easy",
+  "type": "Mechanical",
+  "leagueRegion": "Misthalin"
+ },
+ {
+  "id": 305,
+  "name": "Putting It Olm on the Line",
+  "page": "Putting It Olm on the Line",
+  "monster": "Chambers of Xeric",
+  "task": "Complete a Chambers of Xeric solo raid with more than 40,000 points.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 38,
+  "name": "Quick Cutter",
+  "page": "Quick Cutter",
+  "monster": "Bryophyta",
+  "task": "Kill all 3 of Bryophyta's growthlings within 3 seconds of the first one dying.",
+  "tier": "Medium",
+  "type": "Mechanical",
+  "leagueRegion": "Misthalin"
+ },
+ {
+  "id": 555,
+  "name": "Rapid Reload",
+  "page": "Rapid Reload",
+  "monster": "Tormented Demon",
+  "task": "Hit three Tormented Demons within 3 seconds using a ballista or a crossbow.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Misthalin"
+ },
+ {
+  "id": 236,
+  "name": "Rapid Succession",
+  "page": "Rapid Succession",
+  "monster": "Dagannoth Supreme",
+  "task": "Kill all three Dagannoth Kings within 9 seconds of the first one.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 208,
+  "name": "Ready to Pounce",
+  "page": "Ready to Pounce",
+  "monster": "Sarachnis",
+  "task": "Kill Sarachnis without her using her range attack twice in a row.",
+  "tier": "Hard",
+  "type": "Mechanical",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 308,
+  "name": "Redemption Enthusiast",
+  "page": "Redemption Enthusiast",
+  "monster": "Chambers of Xeric",
+  "task": "Kill the Abyssal Portal without forcing Vespula to land.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 31,
+  "name": "Reflecting on This Encounter",
+  "page": "Reflecting on This Encounter",
+  "monster": "Basilisk Knight",
+  "task": "Kill a Basilisk Knight.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 547,
+  "name": "Reinforcements",
+  "page": "Reinforcements",
+  "monster": "Fortis Colosseum",
+  "task": "Defeat Sol Heredit with \"Bees II\", \"Quartet\" and \"Solarflare II\" modifiers active.",
+  "tier": "Grandmaster",
+  "type": "Mechanical",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 564,
+  "name": "Relaxxor",
+  "page": "Relaxxor",
+  "monster": "Araxxor",
+  "task": "Kill Araxxor after destroying six eggs.",
+  "tier": "Elite",
+  "type": "Restriction",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 216,
+  "name": "Reminisce",
+  "page": "Reminisce",
+  "monster": "Commander Zilyana",
+  "task": "Kill Commander Zilyana in a private instance with melee only.",
+  "tier": "Elite",
+  "type": "Restriction",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 426,
+  "name": "Resourceful Raider",
+  "page": "Resourceful Raider",
+  "monster": "Tombs of Amascut: Expert Mode",
+  "task": "Complete the Tombs of Amascut with the \"On a diet\" and \"Dehydration\" invocations activated and without anyone dying.",
+  "tier": "Master",
+  "type": "Restriction",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 4,
+  "name": "Respiratory Runner",
+  "page": "Respiratory Runner",
+  "monster": "Abyssal Sire",
+  "task": "Kill the Abyssal Sire after only stunning him once.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "General"
+ },
+ {
+  "id": 455,
+  "name": "Rockin' around the croc",
+  "page": "Rockin' around the croc",
+  "monster": "Tombs of Amascut: Expert Mode",
+  "task": "Defeat Zebak with all Zebak invocations activated and the path levelled up to at least four, without dying yourself.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 374,
+  "name": "Royal Affairs",
+  "page": "Royal Affairs",
+  "monster": "Theatre of Blood: Hard Mode",
+  "task": "In the Theatre of Blood: Hard Mode, complete the Nylocas room without ever letting the Nylocas Prinkipas change styles.",
+  "tier": "Grandmaster",
+  "type": "Mechanical",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 590,
+  "name": "Royal Titan Adept",
+  "page": "Royal Titan Adept",
+  "monster": "Royal Titans",
+  "task": "Kill the Royal Titans 25 times.",
+  "tier": "Medium",
+  "type": "Kill Count",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 589,
+  "name": "Royal Titan Champion",
+  "page": "Royal Titan Champion",
+  "monster": "Royal Titans",
+  "task": "Kill the Royal Titans 10 times.",
+  "tier": "Medium",
+  "type": "Kill Count",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 592,
+  "name": "Royal Titan Speed-Runner",
+  "page": "Royal Titan Speed-Runner",
+  "monster": "Royal Titans",
+  "task": "Kill the Royal Titans in less than 1:30 minutes.",
+  "tier": "Hard",
+  "type": "Speed",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 207,
+  "name": "Sarachnis Champion",
+  "page": "Sarachnis Champion",
+  "monster": "Sarachnis",
+  "task": "Kill Sarachnis 25 times.",
+  "tier": "Medium",
+  "type": "Kill Count",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 206,
+  "name": "Sarachnis Novice",
+  "page": "Sarachnis Novice",
+  "monster": "Sarachnis",
+  "task": "Kill Sarachnis 10 times.",
+  "tier": "Easy",
+  "type": "Kill Count",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 218,
+  "name": "Scorpia Adept",
+  "page": "Scorpia Adept",
+  "monster": "Scorpia",
+  "task": "Kill Scorpia 10 times.",
+  "tier": "Hard",
+  "type": "Kill Count",
+  "leagueRegion": "Wilderness"
+ },
+ {
+  "id": 219,
+  "name": "Scorpia Veteran",
+  "page": "Scorpia Veteran",
+  "monster": "Scorpia",
+  "task": "Kill Scorpia 25 times.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Wilderness"
+ },
+ {
+  "id": 522,
+  "name": "Scurrius Champion",
+  "page": "Scurrius Champion",
+  "monster": "Scurrius",
+  "task": "Kill Scurrius 10 times.",
+  "tier": "Medium",
+  "type": "Kill Count",
+  "leagueRegion": "Misthalin"
+ },
+ {
+  "id": 521,
+  "name": "Scurrius Novice",
+  "page": "Scurrius Novice",
+  "monster": "Scurrius",
+  "task": "Kill Scurrius once.",
+  "tier": "Easy",
+  "type": "Kill Count",
+  "leagueRegion": "Misthalin"
+ },
+ {
+  "id": 510,
+  "name": "Serpentine Solo",
+  "page": "Serpentine Solo",
+  "monster": "Leviathan",
+  "task": "Kill the Leviathan without stunning the boss more than once.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 605,
+  "name": "Shadow dancer",
+  "page": "Shadow dancer",
+  "monster": "Yama",
+  "task": "Defeat Yama without getting hit by shadows and without being more than one tile away from the center of his shadow crash attack.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 420,
+  "name": "Shadows Move...",
+  "page": "Shadows Move...",
+  "monster": "Nex",
+  "task": "Kill Nex without anyone being hit by the Shadow Smash attack.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 175,
+  "name": "Shayzien Protector",
+  "page": "Shayzien Protector",
+  "monster": "Lizardman Shaman",
+  "task": "Kill a Lizardman Shaman in Molch which has not dealt damage to anyone (excluding its Spawns).",
+  "tier": "Easy",
+  "type": "Perfection",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 314,
+  "name": "Shayzien Specialist",
+  "page": "Shayzien Specialist",
+  "monster": "Chambers of Xeric",
+  "task": "Receive kill-credit for a Lizardman Shaman without taking damage from any shamans in the room.",
+  "tier": "Elite",
+  "type": "Perfection",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 625,
+  "name": "Shellbane Adept",
+  "page": "Shellbane Adept",
+  "monster": "Shellbane gryphon",
+  "task": "Kill the Shellbane Gryphon 25 times.",
+  "tier": "Easy",
+  "type": "Kill Count",
+  "leagueRegion": "No"
+ },
+ {
+  "id": 628,
+  "name": "Shellbane Speedrunner",
+  "page": "Shellbane Speedrunner",
+  "monster": "Shellbane gryphon",
+  "task": "Kill the Shellbane Gryphon 10 times within 12:30 minutes of entering the cave.",
+  "tier": "Medium",
+  "type": "Speed",
+  "leagueRegion": "No"
+ },
+ {
+  "id": 629,
+  "name": "Shellbane Survivor",
+  "page": "Shellbane Survivor",
+  "monster": "Shellbane gryphon",
+  "task": "Kill the Shellbane Gryphon 25 times without leaving the cave.",
+  "tier": "Hard",
+  "type": "Stamina",
+  "leagueRegion": "No"
+ },
+ {
+  "id": 626,
+  "name": "Shellbane Veteran",
+  "page": "Shellbane Veteran",
+  "monster": "Shellbane gryphon",
+  "task": "Kill the Shellbane Gryphon 50 times.",
+  "tier": "Medium",
+  "type": "Kill Count",
+  "leagueRegion": "No"
+ },
+ {
+  "id": 544,
+  "name": "Showboating",
+  "page": "Showboating",
+  "monster": "Fortis Colosseum",
+  "task": "Defeat Sol Heredit after using [[Fortis Salute]] to the north, east, south and west of the arena while he is below 10% hitpoints.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 399,
+  "name": "Sit Back and Relax",
+  "page": "Sit Back and Relax",
+  "monster": "None",
+  "task": "Deal 100 damage to creatures using undead thralls.",
+  "tier": "Medium",
+  "type": "Mechanical",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 523,
+  "name": "Sit Rat",
+  "page": "Sit Rat",
+  "monster": "Scurrius",
+  "task": "Finish off Scurrius with a ratbane weapon in a private instance.",
+  "tier": "Easy",
+  "type": "Restriction",
+  "leagueRegion": "Misthalin"
+ },
+ {
+  "id": 45,
+  "name": "Skotizo Adept",
+  "page": "Skotizo Adept",
+  "monster": "Skotizo",
+  "task": "Kill Skotizo 5 times.",
+  "tier": "Hard",
+  "type": "Kill Count",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 44,
+  "name": "Skotizo Champion",
+  "page": "Skotizo Champion",
+  "monster": "Skotizo",
+  "task": "Kill Skotizo once.",
+  "tier": "Medium",
+  "type": "Kill Count",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 189,
+  "name": "Sleep Tight",
+  "page": "Sleep Tight",
+  "monster": "The Nightmare",
+  "task": "Kill the Nightmare solo.",
+  "tier": "Elite",
+  "type": "Restriction",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 131,
+  "name": "Sleeping Giant",
+  "page": "Sleeping Giant",
+  "monster": "Obor",
+  "task": "Kill Obor whilst he is immobilized.",
+  "tier": "Easy",
+  "type": "Mechanical",
+  "leagueRegion": "Misthalin"
+ },
+ {
+  "id": 541,
+  "name": "Slow Dancing in the Sand",
+  "page": "Slow Dancing in the Sand",
+  "monster": "Fortis Colosseum",
+  "task": "Defeat Sol Heredit without running during the fight with him.",
+  "tier": "Grandmaster",
+  "type": "Restriction",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 636,
+  "name": "Smarter than a Cow",
+  "page": "Smarter than a Cow",
+  "monster": "Brutus",
+  "task": "Kill Brutus without being attacked.",
+  "tier": "Hard",
+  "type": "Mechanical",
+  "leagueRegion": "Misthalin"
+ },
+ {
+  "id": 227,
+  "name": "Snake Rebound",
+  "page": "Snake Rebound",
+  "monster": "Zulrah",
+  "task": "Kill Zulrah by using the Vengeance spell as the finishing blow.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Tirannwn"
+ },
+ {
+  "id": 228,
+  "name": "Snake. Snake!? Snaaaaaake!",
+  "page": "Snake. Snake!? Snaaaaaake!",
+  "monster": "Zulrah",
+  "task": "Kill 3 Snakelings simultaneously.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Tirannwn"
+ },
+ {
+  "id": 447,
+  "name": "Something of an expert myself",
+  "page": "Something of an expert myself",
+  "monster": "Tombs of Amascut: Expert Mode",
+  "task": "Complete the Tombs of Amascut raid at level 350 or above without anyone dying.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 63,
+  "name": "Sorry, What Was That?",
+  "page": "Sorry, What Was That?",
+  "monster": "Chaos Fanatic",
+  "task": "Kill the Chaos Fanatic without anyone being hit by his explosion attack.",
+  "tier": "Medium",
+  "type": "Perfection",
+  "leagueRegion": "Wilderness"
+ },
+ {
+  "id": 481,
+  "name": "Space is Tight",
+  "page": "Space is Tight",
+  "monster": "Phantom Muspah",
+  "task": "Kill the Phantom Muspah whilst it is surrounded by spikes.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 263,
+  "name": "Spec'd Out",
+  "page": "Spec'd Out",
+  "monster": "Thermonuclear Smoke Devil",
+  "task": "Kill the Thermonuclear Smoke Devil using only special attacks.",
+  "tier": "Elite",
+  "type": "Restriction",
+  "leagueRegion": "Kandarin"
+ },
+ {
+  "id": 538,
+  "name": "Sportsmanship",
+  "page": "Sportsmanship",
+  "monster": "Fortis Colosseum",
+  "task": "Defeat Sol Heredit once.",
+  "tier": "Master",
+  "type": "Kill Count",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 133,
+  "name": "Squashing the Giant",
+  "page": "Squashing the Giant",
+  "monster": "Obor",
+  "task": "Kill Obor without taking any damage off prayer.",
+  "tier": "Medium",
+  "type": "Perfection",
+  "leagueRegion": "Misthalin"
+ },
+ {
+  "id": 88,
+  "name": "Static Awareness",
+  "page": "Static Awareness",
+  "monster": "Grotesque Guardians",
+  "task": "Kill the Grotesque Guardians without being hit by any lightning attacks.",
+  "tier": "Hard",
+  "type": "Mechanical",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 273,
+  "name": "Stick 'em With the Pointy End",
+  "page": "Stick 'em With the Pointy End",
+  "monster": "Vorkath",
+  "task": "Kill Vorkath using melee weapons only.",
+  "tier": "Elite",
+  "type": "Restriction",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 309,
+  "name": "Stop Drop and Roll",
+  "page": "Stop Drop and Roll",
+  "monster": "Chambers of Xeric",
+  "task": "Kill Vasa Nistirio before he performs his teleport attack for the second time.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 372,
+  "name": "Stop Right There!",
+  "page": "Stop Right There!",
+  "monster": "Theatre of Blood: Hard Mode",
+  "task": "Defeat the Maiden of Sugadinti in the Theatre of Blood: Hard Mode without letting blood spawns create more than 15 blood trails.",
+  "tier": "Grandmaster",
+  "type": "Mechanical",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 369,
+  "name": "Supplies? Who Needs 'em?",
+  "page": "Supplies? Who Needs 'em?",
+  "monster": "TzHaar-Ket-Rak's Challenges",
+  "task": "Complete TzHaar-Ket-Rak's third challenge without having anything in your inventory.",
+  "tier": "Master",
+  "type": "Perfection",
+  "leagueRegion": "Karamja"
+ },
+ {
+  "id": 565,
+  "name": "Swimming in Venom",
+  "page": "Swimming in Venom",
+  "monster": "Araxxor",
+  "task": "Kill Araxxor without the boss ever moving.",
+  "tier": "Grandmaster",
+  "type": "Restriction",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 13,
+  "name": "Swoop No More",
+  "page": "Swoop No More",
+  "monster": "Kree'arra",
+  "task": "Kill Kree'arra in a private instance without taking any melee damage from the boss or his bodyguards.",
+  "tier": "Master",
+  "type": "Perfection",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 330,
+  "name": "Team Player",
+  "page": "Team Player",
+  "monster": "Zalcano",
+  "task": "Receive imbued tephra from a golem.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Tirannwn"
+ },
+ {
+  "id": 378,
+  "name": "Team Work Makes the Dream Work",
+  "page": "Team Work Makes the Dream Work",
+  "monster": "Theatre of Blood: Hard Mode",
+  "task": "When Verzik Vitur in the Theatre of Blood: Hard Mode uses her yellow power blast attack while the tornadoes are active, have everyone get through the attack without taking damage. This cannot be completed with one player alive",
+  "tier": "Grandmaster",
+  "type": "Mechanical",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 584,
+  "name": "Temotli Triumph",
+  "page": "Temotli Triumph",
+  "monster": "Amoxliatl",
+  "task": "Kill Amoxliatl using only glacial temotli as a weapon.",
+  "tier": "Medium",
+  "type": "Restriction",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 354,
+  "name": "Tempoross Champion",
+  "page": "Tempoross Champion",
+  "monster": "Tempoross",
+  "task": "Subdue Tempoross 10 times.",
+  "tier": "Medium",
+  "type": "Kill Count",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 353,
+  "name": "Tempoross Novice",
+  "page": "Tempoross Novice",
+  "monster": "Tempoross",
+  "task": "Subdue Tempoross 5 times.",
+  "tier": "Easy",
+  "type": "Kill Count",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 171,
+  "name": "Ten-tacles",
+  "page": "Ten-tacles",
+  "monster": "Kraken",
+  "task": "Kill the Kraken 50 times in a private instance without leaving the room.",
+  "tier": "Elite",
+  "type": "Stamina",
+  "leagueRegion": "Kandarin"
+ },
+ {
+  "id": 501,
+  "name": "Tentacular",
+  "page": "Tentacular",
+  "monster": "Whisperer",
+  "task": "Kill the Whisperer whilst only being on the Arceuus spellbook.",
+  "tier": "Elite",
+  "type": "Restriction",
+  "leagueRegion": "Asgarnia&Kourend,Asgarnia,(with [[Grimoire]] Relic)"
+ },
+ {
+  "id": 186,
+  "name": "Terrible Parent",
+  "page": "Terrible Parent",
+  "monster": "The Nightmare",
+  "task": "Kill the Nightmare solo without the Parasites healing the boss for more than 100 health.",
+  "tier": "Grandmaster",
+  "type": "Mechanical",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 336,
+  "name": "The Bane of Demons",
+  "page": "The Bane of Demons",
+  "monster": "K'ril Tsutsaroth",
+  "task": "Defeat K'ril Tsutsaroth in a private instance using only demonbane spells.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 526,
+  "name": "The Clone Zone",
+  "page": "The Clone Zone",
+  "monster": "Moons of Peril",
+  "task": "Defeat the Eclipse moon by only attacking its clones.",
+  "tier": "Hard",
+  "type": "Mechanical",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 33,
+  "name": "The Demonic Punching Bag",
+  "page": "The Demonic Punching Bag",
+  "monster": "Bloodveld",
+  "task": "Kill a Bloodveld.",
+  "tier": "Easy",
+  "type": "Kill Count",
+  "leagueRegion": "Asgarnia,Morytania,Kourend,Tirannwn,Wilderness"
+ },
+ {
+  "id": 141,
+  "name": "The Flame Skipper",
+  "page": "The Flame Skipper",
+  "monster": "Alchemical Hydra",
+  "task": "Kill the Alchemical Hydra without letting it spawn a flame wall attack.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 60,
+  "name": "The Flincher",
+  "page": "The Flincher",
+  "monster": "Chaos Elemental",
+  "task": "Kill the Chaos Elemental without taking any damage from its attacks.",
+  "tier": "Hard",
+  "type": "Perfection",
+  "leagueRegion": "Wilderness"
+ },
+ {
+  "id": 343,
+  "name": "The Floor Is Lava",
+  "page": "The Floor Is Lava",
+  "monster": "TzKal-Zuk",
+  "task": "Kill Tzkal-Zuk without letting Jal-ImKot dig during any wave in the Inferno.",
+  "tier": "Grandmaster",
+  "type": "Mechanical",
+  "leagueRegion": "Karamja"
+ },
+ {
+  "id": 275,
+  "name": "The Fremennik Way",
+  "page": "The Fremennik Way",
+  "monster": "Vorkath",
+  "task": "Kill Vorkath with only your fists.",
+  "tier": "Grandmaster",
+  "type": "Restriction",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 361,
+  "name": "The II Jad Challenge",
+  "page": "The II Jad Challenge",
+  "monster": "TzHaar-Ket-Rak's Challenges",
+  "task": "Complete TzHaar-Ket-Rak's second challenge.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Karamja"
+ },
+ {
+  "id": 362,
+  "name": "The IV Jad Challenge",
+  "page": "The IV Jad Challenge",
+  "monster": "TzHaar-Ket-Rak's Challenges",
+  "task": "Complete TzHaar-Ket-Rak's fourth challenge.",
+  "tier": "Master",
+  "type": "Kill Count",
+  "leagueRegion": "Karamja"
+ },
+ {
+  "id": 359,
+  "name": "The Lone Angler",
+  "page": "The Lone Angler",
+  "monster": "Tempoross",
+  "task": "Subdue Tempoross alone without getting hit by any fires, torrents or waves.",
+  "tier": "Medium",
+  "type": "Perfection",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 617,
+  "name": "The Praying Mantis",
+  "page": "The Praying Mantis",
+  "monster": "Doom of Mokhaiotl",
+  "task": "Defeat the Doom of Mokhaiotl levels 1-8 without restoring your prayer points through any method.",
+  "tier": "Grandmaster",
+  "type": "Restriction",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 331,
+  "name": "The Spurned Hero",
+  "page": "The Spurned Hero",
+  "monster": "Zalcano",
+  "task": "Kill Zalcano as the player who has dealt the most damage to her.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Tirannwn"
+ },
+ {
+  "id": 363,
+  "name": "The VI Jad Challenge",
+  "page": "The VI Jad Challenge",
+  "monster": "TzHaar-Ket-Rak's Challenges",
+  "task": "Complete TzHaar-Ket-Rak's sixth challenge.",
+  "tier": "Grandmaster",
+  "type": "Kill Count",
+  "leagueRegion": "Karamja"
+ },
+ {
+  "id": 270,
+  "name": "The Walk",
+  "page": "The Walk",
+  "monster": "Vorkath",
+  "task": "Hit Vorkath 12 times during the acid special without getting hit by his rapid fire or the acid pools.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 80,
+  "name": "The Walking Volcano",
+  "page": "The Walking Volcano",
+  "monster": "Fire Giant",
+  "task": "Kill a Fire Giant.",
+  "tier": "Easy",
+  "type": "Kill Count",
+  "leagueRegion": "Desert,Kandarin,Karamja,Kourend,Misthalin,Wilderness"
+ },
+ {
+  "id": 14,
+  "name": "The Worst Ranged Weapon",
+  "page": "The Worst Ranged Weapon",
+  "monster": "Kree'arra",
+  "task": "Kill Kree'arra by only dealing damage to him with a salamander.",
+  "tier": "Grandmaster",
+  "type": "Restriction",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 257,
+  "name": "Theatre (4-Scale) Speed-Chaser",
+  "page": "Theatre (4-Scale) Speed-Chaser",
+  "monster": "Theatre of Blood",
+  "task": "Complete the Theatre of Blood (4-scale) in less than 17 minutes.",
+  "tier": "Master",
+  "type": "Speed",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 258,
+  "name": "Theatre (4-Scale) Speed-Runner",
+  "page": "Theatre (4-Scale) Speed-Runner",
+  "monster": "Theatre of Blood",
+  "task": "Complete the Theatre of Blood (4-scale) in less than 15 minutes.",
+  "tier": "Grandmaster",
+  "type": "Speed",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 259,
+  "name": "Theatre (5-Scale) Speed-Chaser",
+  "page": "Theatre (5-Scale) Speed-Chaser",
+  "monster": "Theatre of Blood",
+  "task": "Complete the Theatre of Blood (5-scale) in less than 16 minutes.",
+  "tier": "Master",
+  "type": "Speed",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 260,
+  "name": "Theatre (5-Scale) Speed-Runner",
+  "page": "Theatre (5-Scale) Speed-Runner",
+  "monster": "Theatre of Blood",
+  "task": "Complete the Theatre of Blood (5-scale) in less than 14 minutes and 15 seconds.",
+  "tier": "Grandmaster",
+  "type": "Speed",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 254,
+  "name": "Theatre (Duo) Speed-Runner",
+  "page": "Theatre (Duo) Speed-Runner",
+  "monster": "Theatre of Blood",
+  "task": "Complete the Theatre of Blood (Duo) in less than 26 minutes.",
+  "tier": "Grandmaster",
+  "type": "Speed",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 255,
+  "name": "Theatre (Trio) Speed-Chaser",
+  "page": "Theatre (Trio) Speed-Chaser",
+  "monster": "Theatre of Blood",
+  "task": "Complete the Theatre of Blood (Trio) in less than 20 minutes.",
+  "tier": "Master",
+  "type": "Speed",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 256,
+  "name": "Theatre (Trio) Speed-Runner",
+  "page": "Theatre (Trio) Speed-Runner",
+  "monster": "Theatre of Blood",
+  "task": "Complete the Theatre of Blood (Trio) in less than 17 minutes and 30 seconds.",
+  "tier": "Grandmaster",
+  "type": "Speed",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 239,
+  "name": "Theatre of Blood Grandmaster",
+  "page": "Theatre of Blood Grandmaster",
+  "monster": "Theatre of Blood",
+  "task": "Complete the Theatre of Blood 150 times.",
+  "tier": "Grandmaster",
+  "type": "Kill Count",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 238,
+  "name": "Theatre of Blood Master",
+  "page": "Theatre of Blood Master",
+  "monster": "Theatre of Blood",
+  "task": "Complete the Theatre of Blood 75 times.",
+  "tier": "Master",
+  "type": "Kill Count",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 237,
+  "name": "Theatre of Blood Veteran",
+  "page": "Theatre of Blood Veteran",
+  "monster": "Theatre of Blood",
+  "task": "Complete the Theatre of Blood 25 times.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 385,
+  "name": "Theatre of Blood: HM Grandmaster",
+  "page": "Theatre of Blood: HM Grandmaster",
+  "monster": "Theatre of Blood: Hard Mode",
+  "task": "Complete the Theatre of Blood: Hard Mode 50 times.",
+  "tier": "Grandmaster",
+  "type": "Kill Count",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 397,
+  "name": "Theatre of Blood: SM Adept",
+  "page": "Theatre of Blood: SM Adept",
+  "monster": "Theatre of Blood: Entry Mode",
+  "task": "Complete the Theatre of Blood: Entry Mode 1 time.",
+  "tier": "Hard",
+  "type": "Kill Count",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 396,
+  "name": "Theatre of Blood: SM Speed-Chaser",
+  "page": "Theatre of Blood: SM Speed-Chaser",
+  "monster": "Theatre of Blood: Entry Mode",
+  "task": "Complete the Theatre of Blood: Entry Mode in less than 17 minutes.",
+  "tier": "Master",
+  "type": "Speed",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 383,
+  "name": "Theatre: HM (4-Scale) Speed-Runner",
+  "page": "Theatre: HM (4-Scale) Speed-Runner",
+  "monster": "Theatre of Blood: Hard Mode",
+  "task": "Complete the Theatre of Blood: Hard Mode (4-scale) with an overall time of less than 21 minutes.",
+  "tier": "Grandmaster",
+  "type": "Speed",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 384,
+  "name": "Theatre: HM (5-Scale) Speed-Runner",
+  "page": "Theatre: HM (5-Scale) Speed-Runner",
+  "monster": "Theatre of Blood: Hard Mode",
+  "task": "Complete the Theatre of Blood: Hard Mode (5-scale) with an overall time of less than 19 minutes.",
+  "tier": "Grandmaster",
+  "type": "Speed",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 382,
+  "name": "Theatre: HM (Trio) Speed-Runner",
+  "page": "Theatre: HM (Trio) Speed-Runner",
+  "monster": "Theatre of Blood: Hard Mode",
+  "task": "Complete the Theatre of Blood: Hard Mode (Trio) with an overall time of less than 23 minutes.",
+  "tier": "Grandmaster",
+  "type": "Speed",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 415,
+  "name": "There is no escape!",
+  "page": "There is no escape!",
+  "monster": "Nex",
+  "task": "Kill Nex without anyone being hit by the Smoke Dash special attack.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 261,
+  "name": "Thermonuclear Veteran",
+  "page": "Thermonuclear Veteran",
+  "monster": "Thermonuclear Smoke Devil",
+  "task": "Kill the Thermonuclear Smoke Devil 20 times.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Kandarin"
+ },
+ {
+  "id": 3,
+  "name": "They Grow Up Too Fast",
+  "page": "They Grow Up Too Fast",
+  "monster": "Abyssal Sire",
+  "task": "Kill the Abyssal Sire without letting any Scion mature.",
+  "tier": "Hard",
+  "type": "Mechanical",
+  "leagueRegion": "General"
+ },
+ {
+  "id": 388,
+  "name": "They Won't Expect This",
+  "page": "They Won't Expect This",
+  "monster": "Theatre of Blood: Entry Mode",
+  "task": "In the Theatre of Blood: Entry Mode, enter the Pestilent Bloat room from the opposite side.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 554,
+  "name": "Three Times the Thrashing",
+  "page": "Three Times the Thrashing",
+  "monster": "Tormented Demon",
+  "task": "Kill three Tormented Demons within 3 seconds.",
+  "tier": "Master",
+  "type": "Restriction",
+  "leagueRegion": "Misthalin"
+ },
+ {
+  "id": 552,
+  "name": "Through Fire and Flames",
+  "page": "Through Fire and Flames",
+  "monster": "Tormented Demon",
+  "task": "Kill a Tormented Demon whilst their shield is inactive.",
+  "tier": "Elite",
+  "type": "Restriction",
+  "leagueRegion": "Misthalin"
+ },
+ {
+  "id": 593,
+  "name": "Titan Killer",
+  "page": "Titan Killer",
+  "monster": "Royal Titans",
+  "task": "Kill the Royal Titans 15 times without anyone leaving the instance. If a player joins the fight, the current streak will be reset to 0. If a player leaves the fight, the task will be failed and a new instance will need to be created.",
+  "tier": "Hard",
+  "type": "Stamina",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 303,
+  "name": "Together We'll Fall",
+  "page": "Together We'll Fall",
+  "monster": "Chambers of Xeric",
+  "task": "Kill the Vanguards within 10 seconds of the first one dying.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 468,
+  "name": "Tomb Explorer",
+  "page": "Tomb Explorer",
+  "monster": "Tombs of Amascut",
+  "task": "Complete the Tombs of Amascut once.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 466,
+  "name": "Tomb Looter",
+  "page": "Tomb Looter",
+  "monster": "Tombs of Amascut",
+  "task": "Complete the Tombs of Amascut 25 times.",
+  "tier": "Master",
+  "type": "Kill Count",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 467,
+  "name": "Tomb Raider",
+  "page": "Tomb Raider",
+  "monster": "Tombs of Amascut",
+  "task": "Complete the Tombs of Amascut 50 times.",
+  "tier": "Master",
+  "type": "Kill Count",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 421,
+  "name": "Tombs Speed Runner",
+  "page": "Tombs Speed Runner",
+  "monster": "Tombs of Amascut",
+  "task": "Complete the Tombs of Amascut (normal) within 18 mins at any group size.",
+  "tier": "Master",
+  "type": "Speed",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 422,
+  "name": "Tombs Speed Runner II",
+  "page": "Tombs Speed Runner II",
+  "monster": "Tombs of Amascut: Expert Mode",
+  "task": "Complete the Tombs of Amascut (expert) within 20 mins at any group size.",
+  "tier": "Grandmaster",
+  "type": "Speed",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 423,
+  "name": "Tombs Speed Runner III",
+  "page": "Tombs Speed Runner III",
+  "monster": "Tombs of Amascut: Expert Mode",
+  "task": "Complete the Tombs of Amascut (expert) within 18 mins in a group of 8.",
+  "tier": "Grandmaster",
+  "type": "Speed",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 205,
+  "name": "Toppling the Diarchy",
+  "page": "Toppling the Diarchy",
+  "monster": "Dagannoth Rex",
+  "task": "Kill Dagannoth Rex and one other Dagannoth king at the exact same time.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 587,
+  "name": "Totally Shattered",
+  "page": "Totally Shattered",
+  "monster": "Amoxliatl",
+  "task": "Kill Amoxliatl without any of her unstable ice shattering.",
+  "tier": "Hard",
+  "type": "Mechanical",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 641,
+  "name": "Trying to fit in",
+  "page": "Trying to fit in",
+  "monster": "Maggot King",
+  "task": "Kill the Maggot King using only weapons that can be found in Vampyrium.",
+  "tier": "Elite",
+  "type": "Restriction",
+  "leagueRegion": null
+ },
+ {
+  "id": 553,
+  "name": "Two Times the Torment",
+  "page": "Two Times the Torment",
+  "monster": "Tormented Demon",
+  "task": "Kill two Tormented Demons within 2 seconds.",
+  "tier": "Elite",
+  "type": "Restriction",
+  "leagueRegion": "Misthalin"
+ },
+ {
+  "id": 240,
+  "name": "Two-Down",
+  "page": "Two-Down",
+  "monster": "Theatre of Blood",
+  "task": "Kill the Pestilent Bloat before he shuts down for the third time.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Morytania"
+ },
+ {
+  "id": 365,
+  "name": "TzHaar-Ket-Rak's Speed-Chaser",
+  "page": "TzHaar-Ket-Rak's Speed-Chaser",
+  "monster": "TzHaar-Ket-Rak's Challenges",
+  "task": "Complete TzHaar-Ket-Rak's third challenge in less than 3 minutes.",
+  "tier": "Master",
+  "type": "Speed",
+  "leagueRegion": "Karamja"
+ },
+ {
+  "id": 366,
+  "name": "TzHaar-Ket-Rak's Speed-Runner",
+  "page": "TzHaar-Ket-Rak's Speed-Runner",
+  "monster": "TzHaar-Ket-Rak's Challenges",
+  "task": "Complete TzHaar-Ket-Rak's fifth challenge in less than 5 minutes.",
+  "tier": "Grandmaster",
+  "type": "Speed",
+  "leagueRegion": "Karamja"
+ },
+ {
+  "id": 364,
+  "name": "TzHaar-Ket-Rak's Speed-Trialist",
+  "page": "TzHaar-Ket-Rak's Speed-Trialist",
+  "monster": "TzHaar-Ket-Rak's Challenges",
+  "task": "Complete TzHaar-Ket-Rak's first challenge in less than 45 seconds.",
+  "tier": "Elite",
+  "type": "Speed",
+  "leagueRegion": "Karamja"
+ },
+ {
+  "id": 511,
+  "name": "Unconventional",
+  "page": "Unconventional",
+  "monster": "Leviathan",
+  "task": "Kill the Leviathan using only Mithril ammunition whilst having no more than 25 Hitpoints throughout the entire fight.",
+  "tier": "Grandmaster",
+  "type": "Restriction",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 312,
+  "name": "Undying Raid Team",
+  "page": "Undying Raid Team",
+  "monster": "Chambers of Xeric",
+  "task": "Complete a Chambers of Xeric raid without anyone dying.",
+  "tier": "Elite",
+  "type": "Perfection",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 313,
+  "name": "Undying Raider",
+  "page": "Undying Raider",
+  "monster": "Chambers of Xeric",
+  "task": "Complete a Chambers of Xeric solo raid without dying.",
+  "tier": "Master",
+  "type": "Perfection",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 551,
+  "name": "Unending Torment",
+  "page": "Unending Torment",
+  "monster": "Tormented Demon",
+  "task": "Kill a Tormented Demon.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Misthalin"
+ },
+ {
+  "id": 169,
+  "name": "Unnecessary Optimisation",
+  "page": "Unnecessary Optimisation",
+  "monster": "Kraken",
+  "task": "Kill the Kraken after killing all four tentacles.",
+  "tier": "Hard",
+  "type": "Mechanical",
+  "leagueRegion": "Kandarin"
+ },
+ {
+  "id": 55,
+  "name": "Unrequired Antifire",
+  "page": "Unrequired Antifire",
+  "monster": "Cerberus",
+  "task": "Kill Cerberus without taking damage from any lava pools.",
+  "tier": "Elite",
+  "type": "Perfection",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 137,
+  "name": "Unrequired Antipoisons",
+  "page": "Unrequired Antipoisons",
+  "monster": "Alchemical Hydra",
+  "task": "Kill the Alchemical Hydra without being hit by the acid pool attack.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 49,
+  "name": "Up for the Challenge",
+  "page": "Up for the Challenge",
+  "monster": "Skotizo",
+  "task": "Kill Skotizo without equipping a demonbane weapon.",
+  "tier": "Elite",
+  "type": "Restriction",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 488,
+  "name": "Vardorvis Adept",
+  "page": "Vardorvis Adept",
+  "monster": "Vardorvis",
+  "task": "Kill Vardorvis once.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 489,
+  "name": "Vardorvis Master",
+  "page": "Vardorvis Master",
+  "monster": "Vardorvis",
+  "task": "Kill Vardorvis 50 times.",
+  "tier": "Master",
+  "type": "Kill Count",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 490,
+  "name": "Vardorvis Sleeper",
+  "page": "Vardorvis Sleeper",
+  "monster": "Vardorvis",
+  "task": "Kill Awakened Vardorvis.",
+  "tier": "Grandmaster",
+  "type": "Kill Count",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 486,
+  "name": "Vardorvis Speed-Chaser",
+  "page": "Vardorvis Speed-Chaser",
+  "monster": "Vardorvis",
+  "task": "Kill Vardorvis in less than 1:05 without a slayer task.",
+  "tier": "Master",
+  "type": "Speed",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 487,
+  "name": "Vardorvis Speed-Runner",
+  "page": "Vardorvis Speed-Runner",
+  "monster": "Vardorvis",
+  "task": "Kill Vardorvis in less than 0:55 without a slayer task.",
+  "tier": "Grandmaster",
+  "type": "Speed",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 485,
+  "name": "Vardorvis Speed-Trialist",
+  "page": "Vardorvis Speed-Trialist",
+  "monster": "Vardorvis",
+  "task": "Kill Vardorvis in less than 1:15 minutes without a slayer task.",
+  "tier": "Elite",
+  "type": "Speed",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 264,
+  "name": "Venenatis Adept",
+  "page": "Venenatis Adept",
+  "monster": "Venenatis",
+  "task": "Kill Venenatis 10 times.",
+  "tier": "Hard",
+  "type": "Kill Count",
+  "leagueRegion": "Wilderness"
+ },
+ {
+  "id": 265,
+  "name": "Venenatis Veteran",
+  "page": "Venenatis Veteran",
+  "monster": "Venenatis",
+  "task": "Kill Venenatis 20 times.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Wilderness"
+ },
+ {
+  "id": 482,
+  "name": "Versatile Drainer",
+  "page": "Versatile Drainer",
+  "monster": "Phantom Muspah",
+  "task": "Drain the Phantom Muspah's Prayer with three different sources in one kill.",
+  "tier": "Elite",
+  "type": "Mechanical",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 267,
+  "name": "Vet'eran",
+  "page": "Vet'eran",
+  "monster": "Vet'ion",
+  "task": "Kill Vet'ion 20 times.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Wilderness"
+ },
+ {
+  "id": 266,
+  "name": "Vet'ion Adept",
+  "page": "Vet'ion Adept",
+  "monster": "Vet'ion",
+  "task": "Kill Vet'ion 10 times.",
+  "tier": "Hard",
+  "type": "Kill Count",
+  "leagueRegion": "Wilderness"
+ },
+ {
+  "id": 269,
+  "name": "Vorkath Master",
+  "page": "Vorkath Master",
+  "monster": "Vorkath",
+  "task": "Kill Vorkath 100 times.",
+  "tier": "Master",
+  "type": "Kill Count",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 276,
+  "name": "Vorkath Speed-Chaser",
+  "page": "Vorkath Speed-Chaser",
+  "monster": "Vorkath",
+  "task": "Kill Vorkath in less than 1 minute and 15 seconds.",
+  "tier": "Master",
+  "type": "Speed",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 277,
+  "name": "Vorkath Speed-Runner",
+  "page": "Vorkath Speed-Runner",
+  "monster": "Vorkath",
+  "task": "Kill Vorkath in less than 54 seconds.",
+  "tier": "Grandmaster",
+  "type": "Speed",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 268,
+  "name": "Vorkath Veteran",
+  "page": "Vorkath Veteran",
+  "monster": "Vorkath",
+  "task": "Kill Vorkath 50 times.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 483,
+  "name": "Walk Straight Pray True",
+  "page": "Walk Straight Pray True",
+  "monster": "Phantom Muspah",
+  "task": "Kill the Phantom Muspah without taking any avoidable damage.",
+  "tier": "Master",
+  "type": "Perfection",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 460,
+  "name": "Warden't you believe it",
+  "page": "Warden't you believe it",
+  "monster": "Tombs of Amascut: Expert Mode",
+  "task": "Defeat the Wardens with all Wardens invocations activated, at expert level and without dying yourself.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 347,
+  "name": "Wasn't Even Close",
+  "page": "Wasn't Even Close",
+  "monster": "TzKal-Zuk",
+  "task": "Kill Tzkal-Zuk without letting your hitpoints fall below 50 during any wave in the Inferno.",
+  "tier": "Grandmaster",
+  "type": "Restriction",
+  "leagueRegion": "Karamja"
+ },
+ {
+  "id": 125,
+  "name": "Weed Whacker",
+  "page": "Weed Whacker",
+  "monster": "Hespori",
+  "task": "Kill all of Hesporis flowers within 5 seconds.",
+  "tier": "Hard",
+  "type": "Mechanical",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 181,
+  "name": "Whack-a-Mole",
+  "page": "Whack-a-Mole",
+  "monster": "Giant Mole",
+  "task": "Kill the Giant Mole within 10 seconds of her resurfacing.",
+  "tier": "Hard",
+  "type": "Mechanical",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 499,
+  "name": "Whispered",
+  "page": "Whispered",
+  "monster": "Whisperer",
+  "task": "Kill the Awakened Whisperer.",
+  "tier": "Grandmaster",
+  "type": "Kill Count",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 497,
+  "name": "Whisperer Adept",
+  "page": "Whisperer Adept",
+  "monster": "Whisperer",
+  "task": "Kill the Whisperer once.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 498,
+  "name": "Whisperer Master",
+  "page": "Whisperer Master",
+  "monster": "Whisperer",
+  "task": "Kill the Whisperer 50 times.",
+  "tier": "Master",
+  "type": "Kill Count",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 495,
+  "name": "Whisperer Speed-Chaser",
+  "page": "Whisperer Speed-Chaser",
+  "monster": "Whisperer",
+  "task": "Kill the Whisperer in less than 2:25 without a slayer task.",
+  "tier": "Master",
+  "type": "Speed",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 496,
+  "name": "Whisperer Speed-Runner",
+  "page": "Whisperer Speed-Runner",
+  "monster": "Whisperer",
+  "task": "Kill the Whisperer in less than 2:05 without a slayer task.",
+  "tier": "Grandmaster",
+  "type": "Speed",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 494,
+  "name": "Whisperer Speed-Trialist",
+  "page": "Whisperer Speed-Trialist",
+  "monster": "Whisperer",
+  "task": "Kill the Whisperer in less than 3:00 without a slayer task.",
+  "tier": "Elite",
+  "type": "Speed",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 167,
+  "name": "Who Is the King Now?",
+  "page": "Who Is the King Now?",
+  "monster": "King Black Dragon",
+  "task": "Kill The King Black Dragon 10 times in a private instance without leaving the instance.",
+  "tier": "Hard",
+  "type": "Stamina",
+  "leagueRegion": "Wilderness"
+ },
+ {
+  "id": 179,
+  "name": "Why Are You Running?",
+  "page": "Why Are You Running?",
+  "monster": "Giant Mole",
+  "task": "Kill the Giant Mole without her burrowing more than 2 times.",
+  "tier": "Hard",
+  "type": "Mechanical",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 358,
+  "name": "Why Cook?",
+  "page": "Why Cook?",
+  "monster": "Tempoross",
+  "task": "Subdue Tempoross, getting rewarded with 10 reward permits from a single Tempoross fight.",
+  "tier": "Hard",
+  "type": "Mechanical",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 286,
+  "name": "Why Fletch?",
+  "page": "Why Fletch?",
+  "monster": "Wintertodt",
+  "task": "Subdue the Wintertodt after earning 3000 or more points.",
+  "tier": "Hard",
+  "type": "Stamina",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 280,
+  "name": "Wintertodt Champion",
+  "page": "Wintertodt Champion",
+  "monster": "Wintertodt",
+  "task": "Subdue the Wintertodt 10 times.",
+  "tier": "Medium",
+  "type": "Kill Count",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 279,
+  "name": "Wintertodt Novice",
+  "page": "Wintertodt Novice",
+  "monster": "Wintertodt",
+  "task": "Subdue the Wintertodt 5 times.",
+  "tier": "Easy",
+  "type": "Kill Count",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 585,
+  "name": "Without Ralos' Light",
+  "page": "Without Ralos' Light",
+  "monster": "Amoxliatl",
+  "task": "Kill Amoxliatl without losing any prayer points.",
+  "tier": "Elite",
+  "type": "Restriction",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 116,
+  "name": "Wolf Puncher",
+  "page": "Wolf Puncher",
+  "monster": "Crystalline Hunllef",
+  "task": "Kill the Crystalline Hunllef without making more than one attuned weapon.",
+  "tier": "Elite",
+  "type": "Restriction",
+  "leagueRegion": "Tirannwn"
+ },
+ {
+  "id": 106,
+  "name": "Wolf Puncher II",
+  "page": "Wolf Puncher II",
+  "monster": "Corrupted Hunllef",
+  "task": "Kill the Corrupted Hunllef without making more than one attuned weapon.",
+  "tier": "Grandmaster",
+  "type": "Restriction",
+  "leagueRegion": "Tirannwn"
+ },
+ {
+  "id": 146,
+  "name": "Working Overtime",
+  "page": "Working Overtime",
+  "monster": "Alchemical Hydra",
+  "task": "Kill the Alchemical Hydra 15 times without leaving the room.",
+  "tier": "Master",
+  "type": "Stamina",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 599,
+  "name": "Yama Adept",
+  "page": "Yama Adept",
+  "monster": "Yama",
+  "task": "Defeat Yama once.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 602,
+  "name": "Yama Speed-Chaser",
+  "page": "Yama Speed-Chaser",
+  "monster": "Yama",
+  "task": "Defeat Yama in an average time of under 3:00 over your last four kills.",
+  "tier": "Master",
+  "type": "Speed",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 603,
+  "name": "Yama Speed-Runner",
+  "page": "Yama Speed-Runner",
+  "monster": "Yama",
+  "task": "Defeat Yama in an average time of under 2:34 over your last four kills.",
+  "tier": "Grandmaster",
+  "type": "Speed",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 601,
+  "name": "Yama Speed-Trialist",
+  "page": "Yama Speed-Trialist",
+  "monster": "Yama",
+  "task": "Defeat Yama in an average time of under 3:38 over your last four kills.",
+  "tier": "Elite",
+  "type": "Speed",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 600,
+  "name": "Yama Veteran",
+  "page": "Yama Veteran",
+  "monster": "Yama",
+  "task": "Defeat Yama 50 times.",
+  "tier": "Master",
+  "type": "Kill Count",
+  "leagueRegion": "Kourend"
+ },
+ {
+  "id": 334,
+  "name": "Yarr No More",
+  "page": "Yarr No More",
+  "monster": "K'ril Tsutsaroth",
+  "task": "Receive kill-credit for K'ril Tsutsaroth without him using his special attack.",
+  "tier": "Hard",
+  "type": "Mechanical",
+  "leagueRegion": "Asgarnia"
+ },
+ {
+  "id": 152,
+  "name": "You Didn't Say Anything About a Bat",
+  "page": "You Didn't Say Anything About a Bat",
+  "monster": "TzTok-Jad",
+  "task": "Complete the Fight Caves without being attacked by a Tz-Kih.",
+  "tier": "Master",
+  "type": "Mechanical",
+  "leagueRegion": "Karamja"
+ },
+ {
+  "id": 424,
+  "name": "You are not prepared",
+  "page": "You are not prepared",
+  "monster": "Tombs of Amascut",
+  "task": "Complete a full Tombs of Amascut raid only using supplies given inside the tomb and without anyone dying.",
+  "tier": "Master",
+  "type": "Restriction",
+  "leagueRegion": "Desert"
+ },
+ {
+  "id": 574,
+  "name": "You're a wizard",
+  "page": "You're a wizard",
+  "monster": "The Hueycoatl",
+  "task": "Kill the Hueycoatl using only earth spells.",
+  "tier": "Medium",
+  "type": "Restriction",
+  "leagueRegion": "Varlamore"
+ },
+ {
+  "id": 328,
+  "name": "Zalcano Veteran",
+  "page": "Zalcano Veteran",
+  "monster": "Zalcano",
+  "task": "Kill Zalcano 25 times.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Tirannwn"
+ },
+ {
+  "id": 271,
+  "name": "Zombie Destroyer",
+  "page": "Zombie Destroyer",
+  "monster": "Vorkath",
+  "task": "Kill Vorkath's zombified spawn without using crumble undead.",
+  "tier": "Elite",
+  "type": "Restriction",
+  "leagueRegion": "Fremennik"
+ },
+ {
+  "id": 224,
+  "name": "Zulrah Adept",
+  "page": "Zulrah Adept",
+  "monster": "Zulrah",
+  "task": "Kill Zulrah 25 times.",
+  "tier": "Hard",
+  "type": "Kill Count",
+  "leagueRegion": "Tirannwn"
+ },
+ {
+  "id": 226,
+  "name": "Zulrah Master",
+  "page": "Zulrah Master",
+  "monster": "Zulrah",
+  "task": "Kill Zulrah 150 times.",
+  "tier": "Master",
+  "type": "Kill Count",
+  "leagueRegion": "Tirannwn"
+ },
+ {
+  "id": 231,
+  "name": "Zulrah Speed-Chaser",
+  "page": "Zulrah Speed-Chaser",
+  "monster": "Zulrah",
+  "task": "Kill Zulrah in less than 1 minute, without a slayer task.",
+  "tier": "Master",
+  "type": "Speed",
+  "leagueRegion": "Tirannwn"
+ },
+ {
+  "id": 232,
+  "name": "Zulrah Speed-Runner",
+  "page": "Zulrah Speed-Runner",
+  "monster": "Zulrah",
+  "task": "Kill Zulrah in less than 54 seconds, without a slayer task.",
+  "tier": "Grandmaster",
+  "type": "Speed",
+  "leagueRegion": "Tirannwn"
+ },
+ {
+  "id": 230,
+  "name": "Zulrah Speed-Trialist",
+  "page": "Zulrah Speed-Trialist",
+  "monster": "Zulrah",
+  "task": "Kill Zulrah in less than 1 minute 20 seconds, without a slayer task.",
+  "tier": "Elite",
+  "type": "Speed",
+  "leagueRegion": "Tirannwn"
+ },
+ {
+  "id": 225,
+  "name": "Zulrah Veteran",
+  "page": "Zulrah Veteran",
+  "monster": "Zulrah",
+  "task": "Kill Zulrah 75 times.",
+  "tier": "Elite",
+  "type": "Kill Count",
+  "leagueRegion": "Tirannwn"
+ }
+]

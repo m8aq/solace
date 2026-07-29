@@ -195,6 +195,12 @@ def item_lookup(items):
     """name -> id resolver, tolerant of the wiki's loose naming in recipes."""
     by_name = {}
     for it in items:
+        # a record can have no name at all: infobox_item has rows for pages
+        # like RuneScape:Templates, which carry an id of nothing and a name to
+        # match. The wikitext builder never produced those, so this only
+        # surfaced once a dataset built from Bucket was fed back in.
+        if not it.get("name") or it.get("id") is None:
+            continue
         by_name.setdefault(it["name"].lower(), it["id"])
         by_name.setdefault(it["page"].lower(), it["id"])
     by_name.update(CANONICAL_IDS)

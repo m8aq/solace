@@ -1,8 +1,8 @@
 {
  "built": {
-  "built": "2026-07-29T03:32:01Z",
-  "articles": 41113,
-  "edits": 2587526
+  "built": "2026-07-29T13:54:00Z",
+  "articles": 41155,
+  "edits": 2588537
  },
  "endpoints": {
   "search": "https://oldschool.runescape.wiki/api.php?action=query&list=search&srsearch={query}&srlimit={limit}&format=json&formatversion=2",
@@ -80,8 +80,8 @@
   "Content released in 2006",
   "NPC dialogue",
   "Var",
-  "Free-to-play items",
   "Items that cannot be alchemised",
+  "Free-to-play items",
   "Content released in 2005",
   "Updates by date",
   "Content released in 2025",
@@ -106,7 +106,7 @@
  "categories": [
   {
    "name": "Pages with maps",
-   "pages": 13890,
+   "pages": 13895,
    "subcats": [
     "Music composed by Adam Bond",
     "Music composed by Ashleigh Bridges",
@@ -122,7 +122,7 @@
   },
   {
    "name": "Items",
-   "pages": 12390,
+   "pages": 12412,
    "subcats": [
     "Amulets",
     "Axes",
@@ -231,7 +231,7 @@
   },
   {
    "name": "Members' items",
-   "pages": 9583,
+   "pages": 9606,
    "subcats": [],
    "parents": [
     "Items",
@@ -242,7 +242,7 @@
   },
   {
    "name": "Untradeable items",
-   "pages": 7826,
+   "pages": 7843,
    "subcats": [],
    "parents": [
     "Items"
@@ -252,7 +252,7 @@
   },
   {
    "name": "Pages with resolved feedback",
-   "pages": 5911,
+   "pages": 5915,
    "subcats": [],
    "parents": [
     "Maintenance categories"
@@ -262,7 +262,7 @@
   },
   {
    "name": "Scenery",
-   "pages": 5867,
+   "pages": 5868,
    "subcats": [
     "Cryptic scenery",
     "Free-to-play scenery",
@@ -280,7 +280,7 @@
   },
   {
    "name": "Pages that contain switch infobox data",
-   "pages": 5680,
+   "pages": 5685,
    "subcats": [],
    "parents": [
     "Hidden categories",
@@ -291,7 +291,7 @@
   },
   {
    "name": "Members' scenery",
-   "pages": 4865,
+   "pages": 4866,
    "subcats": [],
    "parents": [
     "Members",
@@ -326,7 +326,7 @@
   },
   {
    "name": "Tradeable items",
-   "pages": 4697,
+   "pages": 4704,
    "subcats": [
     "Grand Exchange items",
     "Non-GE items"
@@ -351,7 +351,7 @@
   },
   {
    "name": "Non-player characters",
-   "pages": 4460,
+   "pages": 4473,
    "subcats": [
     "Anagram NPCs",
     "Bankers",
@@ -394,7 +394,7 @@
   },
   {
    "name": "Equipable items",
-   "pages": 4187,
+   "pages": 4192,
    "subcats": [],
    "parents": [
     "Items"
@@ -404,7 +404,7 @@
   },
   {
    "name": "Grand Exchange items",
-   "pages": 3988,
+   "pages": 3995,
    "subcats": [],
    "parents": [
     "Grand Exchange",
@@ -416,7 +416,7 @@
   },
   {
    "name": "Noteable items",
-   "pages": 3900,
+   "pages": 3906,
    "subcats": [],
    "parents": [
     "Items"
@@ -426,7 +426,7 @@
   },
   {
    "name": "Interactive scenery",
-   "pages": 3691,
+   "pages": 3692,
    "subcats": [
     "Bank",
     "Rocks",
@@ -440,7 +440,7 @@
   },
   {
    "name": "Members' NPCs",
-   "pages": 3545,
+   "pages": 3558,
    "subcats": [],
    "parents": [
     "Members",
@@ -451,7 +451,7 @@
   },
   {
    "name": "Items appearing in drop table",
-   "pages": 3511,
+   "pages": 3514,
    "subcats": [
     "Items dropped by monster"
    ],
@@ -495,21 +495,21 @@
    "changelog": false
   },
   {
-   "name": "Free-to-play items",
-   "pages": 2810,
+   "name": "Items that cannot be alchemised",
+   "pages": 2820,
    "subcats": [],
    "parents": [
-    "Free-to-play",
     "Items"
    ],
    "maintenance": false,
    "changelog": false
   },
   {
-   "name": "Items that cannot be alchemised",
-   "pages": 2808,
+   "name": "Free-to-play items",
+   "pages": 2811,
    "subcats": [],
    "parents": [
+    "Free-to-play",
     "Items"
    ],
    "maintenance": false,
@@ -527,7 +527,7 @@
   },
   {
    "name": "Pages with unresolved feedback",
-   "pages": 2659,
+   "pages": 2664,
    "subcats": [],
    "parents": [
     "Maintenance categories"
@@ -537,7 +537,7 @@
   },
   {
    "name": "Updates by date",
-   "pages": 2613,
+   "pages": 2614,
    "subcats": [],
    "parents": [
     "Hidden categories",
@@ -558,7 +558,7 @@
   },
   {
    "name": "Pages using DynamicPageList4",
-   "pages": 2487,
+   "pages": 2490,
    "subcats": [],
    "parents": [
     "DPL tracking categories",
@@ -569,7 +569,7 @@
   },
   {
    "name": "Pages using DynamicPageList4 parser function",
-   "pages": 2341,
+   "pages": 2344,
    "subcats": [],
    "parents": [
     "DPL tracking categories",
@@ -580,7 +580,7 @@
   },
   {
    "name": "Quest items",
-   "pages": 2044,
+   "pages": 2046,
    "subcats": [
     "Unpolished bones"
    ],
@@ -613,7 +613,7 @@
   },
   {
    "name": "Old School RuneScape updates",
-   "pages": 1928,
+   "pages": 1929,
    "subcats": [],
    "parents": [
     "Game info"
@@ -623,7 +623,7 @@
   },
   {
    "name": "Items dropped by monster",
-   "pages": 1826,
+   "pages": 1828,
    "subcats": [],
    "parents": [
     "Items",
@@ -634,7 +634,7 @@
   },
   {
    "name": "Disambiguation",
-   "pages": 1725,
+   "pages": 1726,
    "subcats": [],
    "parents": [
     "Maintenance categories"
@@ -644,7 +644,7 @@
   },
   {
    "name": "Collection log items",
-   "pages": 1670,
+   "pages": 1671,
    "subcats": [],
    "parents": [
     "Items"
@@ -664,7 +664,7 @@
   },
   {
    "name": "Monsters",
-   "pages": 1626,
+   "pages": 1627,
    "subcats": [
     "Allotment seed drop table monsters",
     "Bestiary",
@@ -739,7 +739,7 @@
   },
   {
    "name": "Recipes that require a tool",
-   "pages": 1565,
+   "pages": 1566,
    "subcats": [],
    "parents": [
     "Items"
@@ -771,7 +771,7 @@
   },
   {
    "name": "Members' monsters",
-   "pages": 1500,
+   "pages": 1501,
    "subcats": [],
    "parents": [
     "Members",
@@ -803,7 +803,7 @@
   },
   {
    "name": "Construction",
-   "pages": 1348,
+   "pages": 1350,
    "subcats": [
     "Bagged items",
     "Construction boosting items",
@@ -822,7 +822,7 @@
   },
   {
    "name": "Music",
-   "pages": 1277,
+   "pages": 1278,
    "subcats": [
     "100bpm music",
     "Audio files",
@@ -869,7 +869,7 @@
   },
   {
    "name": "Needs key",
-   "pages": 1208,
+   "pages": 1209,
    "subcats": [],
    "parents": [
     "Hidden categories",
@@ -880,7 +880,7 @@
   },
   {
    "name": "Locations",
-   "pages": 1172,
+   "pages": 1175,
    "subcats": [
     "Anthropogenic locations",
     "Free-to-play locations",
@@ -945,7 +945,7 @@
   },
   {
    "name": "Game updates",
-   "pages": 1037,
+   "pages": 1038,
    "subcats": [],
    "parents": [
     "Updates"
@@ -987,7 +987,7 @@
   },
   {
    "name": "Navbox templates",
-   "pages": 1010,
+   "pages": 1011,
    "subcats": [
     "Distractions and Diversions navboxes",
     "Event navboxes",
@@ -1038,7 +1038,7 @@
   },
   {
    "name": "Members' locations",
-   "pages": 966,
+   "pages": 969,
    "subcats": [],
    "parents": [
     "Locations",
@@ -1049,7 +1049,7 @@
   },
   {
    "name": "Stackable items",
-   "pages": 957,
+   "pages": 958,
    "subcats": [],
    "parents": [
     "Items"
@@ -1059,7 +1059,7 @@
   },
   {
    "name": "Members' music",
-   "pages": 930,
+   "pages": 931,
    "subcats": [],
    "parents": [
     "Members",
@@ -1091,7 +1091,7 @@
   },
   {
    "name": "Music tracks",
-   "pages": 892,
+   "pages": 893,
    "subcats": [
     "Missing track location",
     "Music track files",
@@ -1118,7 +1118,7 @@
   },
   {
    "name": "Needs release date",
-   "pages": 859,
+   "pages": 857,
    "subcats": [],
    "parents": [
     "Hidden categories",
@@ -1161,7 +1161,7 @@
   },
   {
    "name": "Needs time signature",
-   "pages": 787,
+   "pages": 788,
    "subcats": [],
    "parents": [
     "Hidden categories",
@@ -1223,6 +1223,16 @@
    "changelog": false
   },
   {
+   "name": "Content released in 2026",
+   "pages": 733,
+   "subcats": [],
+   "parents": [
+    "Content by release date"
+   ],
+   "maintenance": false,
+   "changelog": false
+  },
+  {
    "name": "Treasure Trails rewards",
    "pages": 714,
    "subcats": [
@@ -1237,16 +1247,6 @@
    "parents": [
     "Items",
     "Treasure Trails"
-   ],
-   "maintenance": false,
-   "changelog": false
-  },
-  {
-   "name": "Content released in 2026",
-   "pages": 690,
-   "subcats": [],
-   "parents": [
-    "Content by release date"
    ],
    "maintenance": false,
    "changelog": false
@@ -1398,18 +1398,8 @@
    "changelog": false
   },
   {
-   "name": "Content released in 2003",
-   "pages": 660,
-   "subcats": [],
-   "parents": [
-    "Content by release date"
-   ],
-   "maintenance": false,
-   "changelog": false
-  },
-  {
    "name": "Pages with drop log-supported drop tables",
-   "pages": 660,
+   "pages": 661,
    "subcats": [],
    "parents": [
     "Hidden categories",
@@ -1417,6 +1407,16 @@
     "Monsters"
    ],
    "maintenance": true,
+   "changelog": false
+  },
+  {
+   "name": "Content released in 2003",
+   "pages": 660,
+   "subcats": [],
+   "parents": [
+    "Content by release date"
+   ],
+   "maintenance": false,
    "changelog": false
   },
   {
@@ -1504,6 +1504,16 @@
    "changelog": false
   },
   {
+   "name": "Unbankable items",
+   "pages": 601,
+   "subcats": [],
+   "parents": [
+    "Items"
+   ],
+   "maintenance": false,
+   "changelog": false
+  },
+  {
    "name": "Interface items",
    "pages": 600,
    "subcats": [
@@ -1517,7 +1527,7 @@
   },
   {
    "name": "Merchants",
-   "pages": 593,
+   "pages": 594,
    "subcats": [],
    "parents": [
     "Non-player characters",
@@ -1527,18 +1537,8 @@
    "changelog": false
   },
   {
-   "name": "Unbankable items",
-   "pages": 590,
-   "subcats": [],
-   "parents": [
-    "Items"
-   ],
-   "maintenance": false,
-   "changelog": false
-  },
-  {
    "name": "Needs examine added",
-   "pages": 574,
+   "pages": 579,
    "subcats": [],
    "parents": [
     "Hidden categories",
@@ -1618,21 +1618,10 @@
   },
   {
    "name": "Monsters that drop clues",
-   "pages": 527,
+   "pages": 528,
    "subcats": [],
    "parents": [
     "Monsters"
-   ],
-   "maintenance": false,
-   "changelog": false
-  },
-  {
-   "name": "Worthwhile money making guides",
-   "pages": 523,
-   "subcats": [],
-   "parents": [
-    "Hidden categories",
-    "Money making guides"
    ],
    "maintenance": false,
    "changelog": false
@@ -1650,8 +1639,19 @@
    "changelog": false
   },
   {
+   "name": "Worthwhile money making guides",
+   "pages": 520,
+   "subcats": [],
+   "parents": [
+    "Hidden categories",
+    "Money making guides"
+   ],
+   "maintenance": false,
+   "changelog": false
+  },
+  {
    "name": "Monsters immune to venom",
-   "pages": 514,
+   "pages": 515,
    "subcats": [],
    "parents": [
     "Monsters"
@@ -1661,7 +1661,7 @@
   },
   {
    "name": "Body slot items",
-   "pages": 511,
+   "pages": 512,
    "subcats": [],
    "parents": [
     "Equipment Slots",
@@ -1672,7 +1672,7 @@
   },
   {
    "name": "Shops",
-   "pages": 503,
+   "pages": 504,
    "subcats": [
     "Free-to-play shops",
     "General stores",
@@ -1689,7 +1689,7 @@
   },
   {
    "name": "Legs slot items",
-   "pages": 493,
+   "pages": 495,
    "subcats": [],
    "parents": [
     "Equipment Slots"
@@ -1710,7 +1710,7 @@
   },
   {
    "name": "Monsters immune to poison",
-   "pages": 467,
+   "pages": 468,
    "subcats": [],
    "parents": [
     "Monsters"
@@ -1789,7 +1789,7 @@
   },
   {
    "name": "Two-handed slot items",
-   "pages": 434,
+   "pages": 435,
    "subcats": [],
    "parents": [
     "Equipment Slots",
@@ -1800,7 +1800,7 @@
   },
   {
    "name": "Exchange items missing limit",
-   "pages": 433,
+   "pages": 432,
    "subcats": [],
    "parents": [
     "Grand Exchange",
@@ -1914,7 +1914,7 @@
   },
   {
    "name": "Members' shops",
-   "pages": 384,
+   "pages": 385,
    "subcats": [],
    "parents": [
     "Members",
@@ -2127,7 +2127,7 @@
   },
   {
    "name": "Pages with a checklist",
-   "pages": 291,
+   "pages": 292,
    "subcats": [],
    "parents": [
     "Hidden categories",
@@ -2167,6 +2167,17 @@
     "Skills"
    ],
    "maintenance": false,
+   "changelog": false
+  },
+  {
+   "name": "Pages with broken file links",
+   "pages": 280,
+   "subcats": [],
+   "parents": [
+    "Hidden categories",
+    "Maintenance categories"
+   ],
+   "maintenance": true,
    "changelog": false
   },
   {
@@ -2225,7 +2236,7 @@
   },
   {
    "name": "Old School-exclusive music",
-   "pages": 272,
+   "pages": 273,
    "subcats": [],
    "parents": [
     "Music tracks"
@@ -2263,6 +2274,17 @@
     "Quest related entities"
    ],
    "maintenance": false,
+   "changelog": false
+  },
+  {
+   "name": "Needs map",
+   "pages": 266,
+   "subcats": [],
+   "parents": [
+    "Hidden categories",
+    "Maintenance categories"
+   ],
+   "maintenance": true,
    "changelog": false
   },
   {
@@ -2360,17 +2382,6 @@
    "changelog": false
   },
   {
-   "name": "Needs map",
-   "pages": 248,
-   "subcats": [],
-   "parents": [
-    "Hidden categories",
-    "Maintenance categories"
-   ],
-   "maintenance": true,
-   "changelog": false
-  },
-  {
    "name": "Temporary skill boost",
    "pages": 239,
    "subcats": [
@@ -2428,7 +2439,7 @@
   },
   {
    "name": "Keys",
-   "pages": 231,
+   "pages": 232,
    "subcats": [],
    "parents": [
     "Items"
@@ -2479,7 +2490,7 @@
   },
   {
    "name": "Pages with RSHiScores errors",
-   "pages": 228,
+   "pages": 227,
    "subcats": [],
    "parents": [
     "Hidden categories",
@@ -2489,22 +2500,8 @@
    "changelog": false
   },
   {
-   "name": "Random events",
-   "pages": 224,
-   "subcats": [
-    "Random event images",
-    "Random event rewards",
-    "Sandwich lady"
-   ],
-   "parents": [
-    "Content"
-   ],
-   "maintenance": false,
-   "changelog": false
-  },
-  {
    "name": "Quests",
-   "pages": 223,
+   "pages": 225,
    "subcats": [
     "Free-to-play quests",
     "Members' quests",
@@ -2521,6 +2518,20 @@
     "Quest transcript",
     "Quests by Jagex difficulty",
     "Quick guides"
+   ],
+   "parents": [
+    "Content"
+   ],
+   "maintenance": false,
+   "changelog": false
+  },
+  {
+   "name": "Random events",
+   "pages": 224,
+   "subcats": [
+    "Random event images",
+    "Random event rewards",
+    "Sandwich lady"
    ],
    "parents": [
     "Content"
@@ -2558,7 +2569,7 @@
   },
   {
    "name": "Feet slot items",
-   "pages": 215,
+   "pages": 216,
    "subcats": [],
    "parents": [
     "Equipment Slots"
@@ -2599,17 +2610,6 @@
    "changelog": false
   },
   {
-   "name": "Pages with broken file links",
-   "pages": 210,
-   "subcats": [],
-   "parents": [
-    "Hidden categories",
-    "Maintenance categories"
-   ],
-   "maintenance": true,
-   "changelog": false
-  },
-  {
    "name": "Potions",
    "pages": 210,
    "subcats": [
@@ -2618,6 +2618,17 @@
    ],
    "parents": [
     "Herblore"
+   ],
+   "maintenance": false,
+   "changelog": false
+  },
+  {
+   "name": "Quest navboxes",
+   "pages": 209,
+   "subcats": [],
+   "parents": [
+    "Navbox templates",
+    "Quests"
    ],
    "maintenance": false,
    "changelog": false
@@ -2650,17 +2661,6 @@
     "Archives",
     "Hidden categories",
     "Redwood Grove"
-   ],
-   "maintenance": false,
-   "changelog": false
-  },
-  {
-   "name": "Quest navboxes",
-   "pages": 208,
-   "subcats": [],
-   "parents": [
-    "Navbox templates",
-    "Quests"
    ],
    "maintenance": false,
    "changelog": false
@@ -2707,21 +2707,21 @@
    "changelog": false
   },
   {
-   "name": "Non-interactive characters",
-   "pages": 205,
+   "name": "Quick guides",
+   "pages": 206,
    "subcats": [],
    "parents": [
-    "Non-player characters"
+    "Quests"
    ],
    "maintenance": false,
    "changelog": false
   },
   {
-   "name": "Quick guides",
+   "name": "Non-interactive characters",
    "pages": 205,
    "subcats": [],
    "parents": [
-    "Quests"
+    "Non-player characters"
    ],
    "maintenance": false,
    "changelog": false
@@ -3016,18 +3016,8 @@
    "changelog": false
   },
   {
-   "name": "100bpm music",
-   "pages": 185,
-   "subcats": [],
-   "parents": [
-    "Music"
-   ],
-   "maintenance": false,
-   "changelog": false
-  },
-  {
    "name": "Needs exact weight",
-   "pages": 185,
+   "pages": 186,
    "subcats": [],
    "parents": [
     "Hidden categories",
@@ -3035,6 +3025,16 @@
     "Needs information"
    ],
    "maintenance": true,
+   "changelog": false
+  },
+  {
+   "name": "100bpm music",
+   "pages": 185,
+   "subcats": [],
+   "parents": [
+    "Music"
+   ],
+   "maintenance": false,
    "changelog": false
   },
   {
@@ -3063,16 +3063,6 @@
    "subcats": [],
    "parents": [
     "Treasure Trails rewards"
-   ],
-   "maintenance": false,
-   "changelog": false
-  },
-  {
-   "name": "Incomplete articles",
-   "pages": 178,
-   "subcats": [],
-   "parents": [
-    "Maintenance categories"
    ],
    "maintenance": false,
    "changelog": false
@@ -3112,7 +3102,7 @@
   },
   {
    "name": "Dungeons",
-   "pages": 176,
+   "pages": 177,
    "subcats": [
     "Ancient Cavern",
     "Asgarnian Ice Dungeon",
@@ -3150,6 +3140,16 @@
    ],
    "parents": [
     "Anthropogenic locations"
+   ],
+   "maintenance": false,
+   "changelog": false
+  },
+  {
+   "name": "Incomplete articles",
+   "pages": 175,
+   "subcats": [],
+   "parents": [
+    "Maintenance categories"
    ],
    "maintenance": false,
    "changelog": false
@@ -3259,6 +3259,17 @@
    "changelog": false
   },
   {
+   "name": "Members' quests",
+   "pages": 171,
+   "subcats": [],
+   "parents": [
+    "Members",
+    "Quests"
+   ],
+   "maintenance": false,
+   "changelog": false
+  },
+  {
    "name": "Incomplete references",
    "pages": 170,
    "subcats": [],
@@ -3266,17 +3277,6 @@
     "Hidden categories",
     "Maintenance categories",
     "Needs information"
-   ],
-   "maintenance": false,
-   "changelog": false
-  },
-  {
-   "name": "Members' quests",
-   "pages": 170,
-   "subcats": [],
-   "parents": [
-    "Members",
-    "Quests"
    ],
    "maintenance": false,
    "changelog": false
@@ -4059,6 +4059,17 @@
    "changelog": false
   },
   {
+   "name": "Needs League region",
+   "pages": 127,
+   "subcats": [],
+   "parents": [
+    "Hidden categories",
+    "Maintenance categories"
+   ],
+   "maintenance": true,
+   "changelog": false
+  },
+  {
    "name": "Weapons with Special attacks",
    "pages": 126,
    "subcats": [],
@@ -4216,6 +4227,16 @@
    "changelog": false
   },
   {
+   "name": "Obsolete money making guides",
+   "pages": 115,
+   "subcats": [],
+   "parents": [
+    "Money making guides"
+   ],
+   "maintenance": true,
+   "changelog": false
+  },
+  {
    "name": "Guardians of the Rift",
    "pages": 113,
    "subcats": [],
@@ -4248,16 +4269,6 @@
     "Geographical features"
    ],
    "maintenance": false,
-   "changelog": false
-  },
-  {
-   "name": "Obsolete money making guides",
-   "pages": 112,
-   "subcats": [],
-   "parents": [
-    "Money making guides"
-   ],
-   "maintenance": true,
    "changelog": false
   },
   {
@@ -4408,19 +4419,8 @@
    "changelog": false
   },
   {
-   "name": "Needs League region",
-   "pages": 107,
-   "subcats": [],
-   "parents": [
-    "Hidden categories",
-    "Maintenance categories"
-   ],
-   "maintenance": true,
-   "changelog": false
-  },
-  {
    "name": "Needs ID",
-   "pages": 106,
+   "pages": 107,
    "subcats": [],
    "parents": [
     "Hidden categories",
@@ -4688,21 +4688,8 @@
    "changelog": false
   },
   {
-   "name": "Bones",
-   "pages": 96,
-   "subcats": [
-    "Blessed bones",
-    "Unpolished bones"
-   ],
-   "parents": [
-    "Remains"
-   ],
-   "maintenance": false,
-   "changelog": false
-  },
-  {
    "name": "2026 updates",
-   "pages": 95,
+   "pages": 96,
    "subcats": [],
    "parents": [
     "Updates by year"
@@ -4712,10 +4699,23 @@
   },
   {
    "name": "Activities",
-   "pages": 95,
+   "pages": 96,
    "subcats": [],
    "parents": [
     "Content"
+   ],
+   "maintenance": false,
+   "changelog": false
+  },
+  {
+   "name": "Bones",
+   "pages": 96,
+   "subcats": [
+    "Blessed bones",
+    "Unpolished bones"
+   ],
+   "parents": [
+    "Remains"
    ],
    "maintenance": false,
    "changelog": false
@@ -4824,6 +4824,16 @@
    "changelog": false
   },
   {
+   "name": "Slayer task",
+   "pages": 91,
+   "subcats": [],
+   "parents": [
+    "Slayer"
+   ],
+   "maintenance": false,
+   "changelog": false
+  },
+  {
    "name": "Dragons",
    "pages": 90,
    "subcats": [],
@@ -4844,64 +4854,8 @@
    "changelog": false
   },
   {
-   "name": "Skill Hall",
-   "pages": 90,
-   "subcats": [],
-   "parents": [
-    "Player-owned house"
-   ],
-   "maintenance": false,
-   "changelog": false
-  },
-  {
-   "name": "Slayer task",
-   "pages": 90,
-   "subcats": [],
-   "parents": [
-    "Slayer"
-   ],
-   "maintenance": false,
-   "changelog": false
-  },
-  {
-   "name": "2007 updates",
-   "pages": 89,
-   "subcats": [],
-   "parents": [
-    "Updates by year"
-   ],
-   "maintenance": false,
-   "changelog": true
-  },
-  {
-   "name": "Bolts",
-   "pages": 89,
-   "subcats": [
-    "Bolt tips",
-    "Unfinished bolts"
-   ],
-   "parents": [
-    "Ammunition"
-   ],
-   "maintenance": false,
-   "changelog": false
-  },
-  {
-   "name": "Darkmeyer",
-   "pages": 89,
-   "subcats": [
-    "Hallowed Sepulchre"
-   ],
-   "parents": [
-    "Morytania",
-    "Settlements"
-   ],
-   "maintenance": false,
-   "changelog": false
-  },
-  {
    "name": "Settlements",
-   "pages": 89,
+   "pages": 90,
    "subcats": [
     "Al Kharid",
     "Arceuus",
@@ -4977,6 +4931,52 @@
    ],
    "parents": [
     "Anthropogenic locations"
+   ],
+   "maintenance": false,
+   "changelog": false
+  },
+  {
+   "name": "Skill Hall",
+   "pages": 90,
+   "subcats": [],
+   "parents": [
+    "Player-owned house"
+   ],
+   "maintenance": false,
+   "changelog": false
+  },
+  {
+   "name": "2007 updates",
+   "pages": 89,
+   "subcats": [],
+   "parents": [
+    "Updates by year"
+   ],
+   "maintenance": false,
+   "changelog": true
+  },
+  {
+   "name": "Bolts",
+   "pages": 89,
+   "subcats": [
+    "Bolt tips",
+    "Unfinished bolts"
+   ],
+   "parents": [
+    "Ammunition"
+   ],
+   "maintenance": false,
+   "changelog": false
+  },
+  {
+   "name": "Darkmeyer",
+   "pages": 89,
+   "subcats": [
+    "Hallowed Sepulchre"
+   ],
+   "parents": [
+    "Morytania",
+    "Settlements"
    ],
    "maintenance": false,
    "changelog": false
@@ -5105,6 +5105,18 @@
    "changelog": false
   },
   {
+   "name": "Exchange items with no price",
+   "pages": 85,
+   "subcats": [],
+   "parents": [
+    "Grand Exchange",
+    "Hidden categories",
+    "Maintenance categories"
+   ],
+   "maintenance": false,
+   "changelog": false
+  },
+  {
    "name": "Hosidius",
    "pages": 84,
    "subcats": [
@@ -5180,18 +5192,6 @@
    "parents": [
     "Events",
     "Navbox templates"
-   ],
-   "maintenance": false,
-   "changelog": false
-  },
-  {
-   "name": "Exchange items with no price",
-   "pages": 83,
-   "subcats": [],
-   "parents": [
-    "Grand Exchange",
-    "Hidden categories",
-    "Maintenance categories"
    ],
    "maintenance": false,
    "changelog": false
@@ -5439,6 +5439,27 @@
    "changelog": false
   },
   {
+   "name": "Pet dialogue",
+   "pages": 77,
+   "subcats": [],
+   "parents": [
+    "Pets",
+    "Transcripts"
+   ],
+   "maintenance": false,
+   "changelog": false
+  },
+  {
+   "name": "Rare drop table monsters",
+   "pages": 77,
+   "subcats": [],
+   "parents": [
+    "Monsters"
+   ],
+   "maintenance": false,
+   "changelog": false
+  },
+  {
    "name": "Amulets",
    "pages": 76,
    "subcats": [],
@@ -5504,17 +5525,6 @@
    "changelog": false
   },
   {
-   "name": "Pet dialogue",
-   "pages": 76,
-   "subcats": [],
-   "parents": [
-    "Pets",
-    "Transcripts"
-   ],
-   "maintenance": false,
-   "changelog": false
-  },
-  {
    "name": "Polygon maps",
    "pages": 76,
    "subcats": [],
@@ -5530,16 +5540,6 @@
    "subcats": [],
    "parents": [
     "Farming"
-   ],
-   "maintenance": false,
-   "changelog": false
-  },
-  {
-   "name": "Rare drop table monsters",
-   "pages": 76,
-   "subcats": [],
-   "parents": [
-    "Monsters"
    ],
    "maintenance": false,
    "changelog": false
@@ -5595,6 +5595,16 @@
     "Items"
    ],
    "maintenance": false,
+   "changelog": false
+  },
+  {
+   "name": "Articles under construction",
+   "pages": 73,
+   "subcats": [],
+   "parents": [
+    "Maintenance categories"
+   ],
+   "maintenance": true,
    "changelog": false
   },
   {
@@ -5671,6 +5681,27 @@
    "changelog": false
   },
   {
+   "name": "Locations with requirements",
+   "pages": 72,
+   "subcats": [],
+   "parents": [
+    "Locations"
+   ],
+   "maintenance": false,
+   "changelog": false
+  },
+  {
+   "name": "Needs composer added",
+   "pages": 72,
+   "subcats": [],
+   "parents": [
+    "Hidden categories",
+    "Maintenance categories"
+   ],
+   "maintenance": true,
+   "changelog": false
+  },
+  {
    "name": "Trolls",
    "pages": 72,
    "subcats": [],
@@ -5689,27 +5720,6 @@
     "Transcripts"
    ],
    "maintenance": false,
-   "changelog": false
-  },
-  {
-   "name": "Locations with requirements",
-   "pages": 71,
-   "subcats": [],
-   "parents": [
-    "Locations"
-   ],
-   "maintenance": false,
-   "changelog": false
-  },
-  {
-   "name": "Needs composer added",
-   "pages": 71,
-   "subcats": [],
-   "parents": [
-    "Hidden categories",
-    "Maintenance categories"
-   ],
-   "maintenance": true,
    "changelog": false
   },
   {
@@ -6143,16 +6153,6 @@
    "changelog": false
   },
   {
-   "name": "Future content",
-   "pages": 65,
-   "subcats": [],
-   "parents": [
-    "Content"
-   ],
-   "maintenance": false,
-   "changelog": false
-  },
-  {
    "name": "Port Piscarilius",
    "pages": 65,
    "subcats": [
@@ -6172,6 +6172,27 @@
    "parents": [
     "Drinks",
     "Sea charting"
+   ],
+   "maintenance": false,
+   "changelog": false
+  },
+  {
+   "name": "Unknown start requirement status",
+   "pages": 65,
+   "subcats": [],
+   "parents": [
+    "Hidden categories",
+    "Maintenance categories"
+   ],
+   "maintenance": false,
+   "changelog": false
+  },
+  {
+   "name": "General stores",
+   "pages": 64,
+   "subcats": [],
+   "parents": [
+    "Shops"
    ],
    "maintenance": false,
    "changelog": false
@@ -6217,16 +6238,6 @@
    "changelog": false
   },
   {
-   "name": "General stores",
-   "pages": 63,
-   "subcats": [],
-   "parents": [
-    "Shops"
-   ],
-   "maintenance": false,
-   "changelog": false
-  },
-  {
    "name": "Iron",
    "pages": 63,
    "subcats": [],
@@ -6264,17 +6275,6 @@
    "subcats": [],
    "parents": [
     "Quest related entities"
-   ],
-   "maintenance": false,
-   "changelog": false
-  },
-  {
-   "name": "Unknown start requirement status",
-   "pages": 63,
-   "subcats": [],
-   "parents": [
-    "Hidden categories",
-    "Maintenance categories"
    ],
    "maintenance": false,
    "changelog": false
@@ -6345,17 +6345,6 @@
     "Music"
    ],
    "maintenance": false,
-   "changelog": false
-  },
-  {
-   "name": "Needs members status",
-   "pages": 62,
-   "subcats": [],
-   "parents": [
-    "Hidden categories",
-    "Needs information"
-   ],
-   "maintenance": true,
    "changelog": false
   },
   {
@@ -6469,6 +6458,17 @@
    "changelog": false
   },
   {
+   "name": "Needs members status",
+   "pages": 60,
+   "subcats": [],
+   "parents": [
+    "Hidden categories",
+    "Needs information"
+   ],
+   "maintenance": true,
+   "changelog": false
+  },
+  {
    "name": "Regicide",
    "pages": 60,
    "subcats": [],
@@ -6522,6 +6522,16 @@
    "changelog": false
   },
   {
+   "name": "Future content",
+   "pages": 59,
+   "subcats": [],
+   "parents": [
+    "Content"
+   ],
+   "maintenance": false,
+   "changelog": false
+  },
+  {
    "name": "Hunter creatures",
    "pages": 59,
    "subcats": [],
@@ -6530,17 +6540,6 @@
     "Non-player characters"
    ],
    "maintenance": false,
-   "changelog": false
-  },
-  {
-   "name": "Needs weight added",
-   "pages": 59,
-   "subcats": [],
-   "parents": [
-    "Hidden categories",
-    "Needs information"
-   ],
-   "maintenance": true,
    "changelog": false
   },
   {
@@ -6775,6 +6774,17 @@
     "Jagex staff"
    ],
    "maintenance": false,
+   "changelog": false
+  },
+  {
+   "name": "Needs weight added",
+   "pages": 57,
+   "subcats": [],
+   "parents": [
+    "Hidden categories",
+    "Needs information"
+   ],
+   "maintenance": true,
    "changelog": false
   },
   {
@@ -7107,50 +7117,8 @@
    "changelog": false
   },
   {
-   "name": "The Final Dawn",
-   "pages": 53,
-   "subcats": [],
-   "parents": [
-    "Quest related entities"
-   ],
-   "maintenance": false,
-   "changelog": false
-  },
-  {
-   "name": "Axes",
-   "pages": 52,
-   "subcats": [],
-   "parents": [
-    "Items"
-   ],
-   "maintenance": false,
-   "changelog": false
-  },
-  {
-   "name": "Custodians",
-   "pages": 52,
-   "subcats": [],
-   "parents": [
-    "Users"
-   ],
-   "maintenance": false,
-   "changelog": false
-  },
-  {
-   "name": "Formal Garden",
-   "pages": 52,
-   "subcats": [
-    "Bagged items"
-   ],
-   "parents": [
-    "Player-owned house"
-   ],
-   "maintenance": false,
-   "changelog": false
-  },
-  {
    "name": "Minigames",
-   "pages": 52,
+   "pages": 53,
    "subcats": [
     "Barbarian Assault",
     "Blast Furnace",
@@ -7203,6 +7171,48 @@
    ],
    "parents": [
     "Content"
+   ],
+   "maintenance": false,
+   "changelog": false
+  },
+  {
+   "name": "The Final Dawn",
+   "pages": 53,
+   "subcats": [],
+   "parents": [
+    "Quest related entities"
+   ],
+   "maintenance": false,
+   "changelog": false
+  },
+  {
+   "name": "Axes",
+   "pages": 52,
+   "subcats": [],
+   "parents": [
+    "Items"
+   ],
+   "maintenance": false,
+   "changelog": false
+  },
+  {
+   "name": "Custodians",
+   "pages": 52,
+   "subcats": [],
+   "parents": [
+    "Users"
+   ],
+   "maintenance": false,
+   "changelog": false
+  },
+  {
+   "name": "Formal Garden",
+   "pages": 52,
+   "subcats": [
+    "Bagged items"
+   ],
+   "parents": [
+    "Player-owned house"
    ],
    "maintenance": false,
    "changelog": false
@@ -8691,6 +8701,17 @@
    "changelog": false
   },
   {
+   "name": "Needs restock time",
+   "pages": 39,
+   "subcats": [],
+   "parents": [
+    "Hidden categories",
+    "Maintenance categories"
+   ],
+   "maintenance": true,
+   "changelog": false
+  },
+  {
    "name": "Not used in any recommended equipment",
    "pages": 39,
    "subcats": [],
@@ -9001,17 +9022,6 @@
     "Guilds"
    ],
    "maintenance": false,
-   "changelog": false
-  },
-  {
-   "name": "Needs restock time",
-   "pages": 37,
-   "subcats": [],
-   "parents": [
-    "Hidden categories",
-    "Maintenance categories"
-   ],
-   "maintenance": true,
    "changelog": false
   },
   {
@@ -9556,16 +9566,6 @@
    "changelog": false
   },
   {
-   "name": "Articles under construction",
-   "pages": 33,
-   "subcats": [],
-   "parents": [
-    "Maintenance categories"
-   ],
-   "maintenance": true,
-   "changelog": false
-  },
-  {
    "name": "Bestiary",
    "pages": 33,
    "subcats": [],
@@ -9635,17 +9635,6 @@
    "parents": [
     "Minigames",
     "Port Khazard"
-   ],
-   "maintenance": false,
-   "changelog": false
-  },
-  {
-   "name": "Items missing value",
-   "pages": 33,
-   "subcats": [],
-   "parents": [
-    "Hidden categories",
-    "Maintenance categories"
    ],
    "maintenance": false,
    "changelog": false
@@ -10003,6 +9992,17 @@
    "subcats": [],
    "parents": [
     "Forum archives"
+   ],
+   "maintenance": false,
+   "changelog": false
+  },
+  {
+   "name": "Items missing value",
+   "pages": 31,
+   "subcats": [],
+   "parents": [
+    "Hidden categories",
+    "Maintenance categories"
    ],
    "maintenance": false,
    "changelog": false
@@ -11398,17 +11398,6 @@
    "changelog": false
   },
   {
-   "name": "Needs update added",
-   "pages": 25,
-   "subcats": [],
-   "parents": [
-    "Hidden categories",
-    "Needs information"
-   ],
-   "maintenance": true,
-   "changelog": false
-  },
-  {
    "name": "Postbag from the Hedge updates",
    "pages": 25,
    "subcats": [],
@@ -11665,6 +11654,17 @@
    "subcats": [],
    "parents": [
     "Maintenance categories"
+   ],
+   "maintenance": true,
+   "changelog": false
+  },
+  {
+   "name": "Needs update added",
+   "pages": 24,
+   "subcats": [],
+   "parents": [
+    "Hidden categories",
+    "Needs information"
    ],
    "maintenance": true,
    "changelog": false
@@ -12683,6 +12683,17 @@
    "changelog": false
   },
   {
+   "name": "Needs head developer added",
+   "pages": 20,
+   "subcats": [],
+   "parents": [
+    "Hidden categories",
+    "Maintenance categories"
+   ],
+   "maintenance": true,
+   "changelog": false
+  },
+  {
    "name": "Pyramids",
    "pages": 20,
    "subcats": [],
@@ -12871,17 +12882,6 @@
     "Smithing"
    ],
    "maintenance": false,
-   "changelog": false
-  },
-  {
-   "name": "Needs head developer added",
-   "pages": 19,
-   "subcats": [],
-   "parents": [
-    "Hidden categories",
-    "Maintenance categories"
-   ],
-   "maintenance": true,
    "changelog": false
   },
   {
@@ -13789,6 +13789,17 @@
    "changelog": false
   },
   {
+   "name": "Jars",
+   "pages": 16,
+   "subcats": [],
+   "parents": [
+    "Achievement Gallery",
+    "Player-owned house"
+   ],
+   "maintenance": false,
+   "changelog": false
+  },
+  {
    "name": "Lovakengj Minecart Network",
    "pages": 16,
    "subcats": [],
@@ -14137,17 +14148,6 @@
    "changelog": false
   },
   {
-   "name": "Jars",
-   "pages": 15,
-   "subcats": [],
-   "parents": [
-    "Achievement Gallery",
-    "Player-owned house"
-   ],
-   "maintenance": false,
-   "changelog": false
-  },
-  {
    "name": "Lumbridge Swamp Caves",
    "pages": 15,
    "subcats": [],
@@ -14207,6 +14207,17 @@
     "Organisations"
    ],
    "maintenance": false,
+   "changelog": false
+  },
+  {
+   "name": "Pages with script errors",
+   "pages": 15,
+   "subcats": [],
+   "parents": [
+    "Hidden categories",
+    "Maintenance categories"
+   ],
+   "maintenance": true,
    "changelog": false
   },
   {
@@ -14623,6 +14634,17 @@
     "Mining"
    ],
    "maintenance": false,
+   "changelog": false
+  },
+  {
+   "name": "Missing dialogue",
+   "pages": 14,
+   "subcats": [],
+   "parents": [
+    "Maintenance categories",
+    "Transcripts"
+   ],
+   "maintenance": true,
    "changelog": false
   },
   {
@@ -16094,6 +16116,16 @@
    "changelog": false
   },
   {
+   "name": "Fallen From Grace",
+   "pages": 11,
+   "subcats": [],
+   "parents": [
+    "Quest related entities"
+   ],
+   "maintenance": false,
+   "changelog": false
+  },
+  {
    "name": "Fremennik Slayer Dungeon",
    "pages": 11,
    "subcats": [],
@@ -16956,17 +16988,6 @@
     "Kandarin"
    ],
    "maintenance": false,
-   "changelog": false
-  },
-  {
-   "name": "Pages with script errors",
-   "pages": 10,
-   "subcats": [],
-   "parents": [
-    "Hidden categories",
-    "Maintenance categories"
-   ],
-   "maintenance": true,
    "changelog": false
   },
   {
@@ -17979,6 +18000,17 @@
    "parents": [
     "Settlements",
     "Tirannwn"
+   ],
+   "maintenance": false,
+   "changelog": false
+  },
+  {
+   "name": "Unknown boost status",
+   "pages": 9,
+   "subcats": [],
+   "parents": [
+    "Hidden categories",
+    "Maintenance categories"
    ],
    "maintenance": false,
    "changelog": false
@@ -19089,6 +19121,17 @@
    "changelog": false
   },
   {
+   "name": "Money making guides with a failed GE lookup",
+   "pages": 8,
+   "subcats": [],
+   "parents": [
+    "Hidden categories",
+    "Maintenance categories"
+   ],
+   "maintenance": false,
+   "changelog": false
+  },
+  {
    "name": "Monk's Friend",
    "pages": 8,
    "subcats": [],
@@ -19975,17 +20018,6 @@
    "changelog": false
   },
   {
-   "name": "Money making guides with a failed GE lookup",
-   "pages": 7,
-   "subcats": [],
-   "parents": [
-    "Hidden categories",
-    "Maintenance categories"
-   ],
-   "maintenance": false,
-   "changelog": false
-  },
-  {
    "name": "Music composed by Iain Hetherington",
    "pages": 7,
    "subcats": [],
@@ -20152,17 +20184,6 @@
    "parents": [
     "Farming",
     "Items"
-   ],
-   "maintenance": false,
-   "changelog": false
-  },
-  {
-   "name": "Unknown boost status",
-   "pages": 7,
-   "subcats": [],
-   "parents": [
-    "Hidden categories",
-    "Maintenance categories"
    ],
    "maintenance": false,
    "changelog": false
@@ -20498,6 +20519,17 @@
    "subcats": [],
    "parents": [
     "October updates",
+    "Updates by day"
+   ],
+   "maintenance": false,
+   "changelog": true
+  },
+  {
+   "name": "29 July updates",
+   "pages": 6,
+   "subcats": [],
+   "parents": [
+    "July updates",
     "Updates by day"
    ],
    "maintenance": false,
@@ -21041,6 +21073,14 @@
    "changelog": false
   },
   {
+   "name": "Wyrmscraig",
+   "pages": 6,
+   "subcats": [],
+   "parents": [],
+   "maintenance": false,
+   "changelog": false
+  },
+  {
    "name": "12 November updates",
    "pages": 5,
    "subcats": [],
@@ -21253,17 +21293,6 @@
    "subcats": [],
    "parents": [
     "September updates",
-    "Updates by day"
-   ],
-   "maintenance": false,
-   "changelog": true
-  },
-  {
-   "name": "29 July updates",
-   "pages": 5,
-   "subcats": [],
-   "parents": [
-    "July updates",
     "Updates by day"
    ],
    "maintenance": false,
@@ -21612,6 +21641,18 @@
     "Songs by composer"
    ],
    "maintenance": false,
+   "changelog": false
+  },
+  {
+   "name": "Needs equipment image",
+   "pages": 5,
+   "subcats": [],
+   "parents": [
+    "Hidden categories",
+    "Maintenance categories",
+    "Needs image"
+   ],
+   "maintenance": true,
    "changelog": false
   },
   {
@@ -22093,17 +22134,6 @@
    "changelog": false
   },
   {
-   "name": "Missing dialogue",
-   "pages": 4,
-   "subcats": [],
-   "parents": [
-    "Maintenance categories",
-    "Transcripts"
-   ],
-   "maintenance": true,
-   "changelog": false
-  },
-  {
    "name": "Music composed by Gene Rozenberg",
    "pages": 4,
    "subcats": [],
@@ -22526,14 +22556,6 @@
    "changelog": false
   },
   {
-   "name": "Wyrmscraig",
-   "pages": 3,
-   "subcats": [],
-   "parents": [],
-   "maintenance": false,
-   "changelog": false
-  },
-  {
    "name": "Your Feedback updates",
    "pages": 3,
    "subcats": [],
@@ -22708,16 +22730,6 @@
    "subcats": [],
    "parents": [
     "Combat Achievements"
-   ],
-   "maintenance": false,
-   "changelog": false
-  },
-  {
-   "name": "Items missing quest",
-   "pages": 2,
-   "subcats": [],
-   "parents": [
-    "Maintenance categories"
    ],
    "maintenance": false,
    "changelog": false
@@ -23237,16 +23249,6 @@
    "changelog": false
   },
   {
-   "name": "Infotable Bonuses with multi-variant items",
-   "pages": 1,
-   "subcats": [],
-   "parents": [
-    "Maintenance categories"
-   ],
-   "maintenance": false,
-   "changelog": false
-  },
-  {
    "name": "Interface images",
    "pages": 1,
    "subcats": [
@@ -23281,6 +23283,16 @@
     "Templates"
    ],
    "maintenance": true,
+   "changelog": false
+  },
+  {
+   "name": "Items missing quest",
+   "pages": 1,
+   "subcats": [],
+   "parents": [
+    "Maintenance categories"
+   ],
+   "maintenance": false,
    "changelog": false
   },
   {
@@ -23319,6 +23331,17 @@
     "Maps"
    ],
    "maintenance": false,
+   "changelog": false
+  },
+  {
+   "name": "Missing track location",
+   "pages": 1,
+   "subcats": [],
+   "parents": [
+    "Music tracks",
+    "Needs information"
+   ],
+   "maintenance": true,
    "changelog": false
   },
   {
@@ -25095,6 +25118,16 @@
    "changelog": false
   },
   {
+   "name": "Infotable Bonuses with multi-variant items",
+   "pages": 0,
+   "subcats": [],
+   "parents": [
+    "Maintenance categories"
+   ],
+   "maintenance": false,
+   "changelog": false
+  },
+  {
    "name": "Inhabitants",
    "pages": 0,
    "subcats": [
@@ -26161,17 +26194,6 @@
    "changelog": false
   },
   {
-   "name": "Missing track location",
-   "pages": 0,
-   "subcats": [],
-   "parents": [
-    "Music tracks",
-    "Needs information"
-   ],
-   "maintenance": true,
-   "changelog": false
-  },
-  {
    "name": "Missing track number",
    "pages": 0,
    "subcats": [],
@@ -26366,18 +26388,6 @@
    "subcats": [],
    "parents": [
     "Maintenance categories"
-   ],
-   "maintenance": true,
-   "changelog": false
-  },
-  {
-   "name": "Needs equipment image",
-   "pages": 0,
-   "subcats": [],
-   "parents": [
-    "Hidden categories",
-    "Maintenance categories",
-    "Needs image"
    ],
    "maintenance": true,
    "changelog": false
@@ -27142,6 +27152,7 @@
     "Ethically Acquired Antiquities",
     "Fairytale I - Growing Pains",
     "Fairytale II - Cure a Queen",
+    "Fallen From Grace",
     "Family Crest",
     "Fight Arena",
     "Fishing Contest",

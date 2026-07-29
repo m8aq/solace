@@ -812,7 +812,9 @@
   "hasPollBooth": false,
   "removal": null,
   "leagueRegion": "Misthalin",
-  "aka": [],
+  "aka": [
+   "Safekeep"
+  ],
   "image": "Ancient Guthixian Temple.png",
   "spawns": [
    {
@@ -2007,6 +2009,29 @@
   "neighbours": null
  },
  {
+  "name": "Ardeaglais",
+  "page": "Ardeaglais",
+  "isMembers": true,
+  "type": null,
+  "location": null,
+  "teleport": null,
+  "music": null,
+  "race": null,
+  "floors": null,
+  "requirement": null,
+  "wildernessLevels": null,
+  "capital": null,
+  "bankTellers": null,
+  "hasDepositBox": false,
+  "hasPollBooth": false,
+  "removal": null,
+  "leagueRegion": null,
+  "aka": [],
+  "image": "Ardeaglais.png",
+  "spawns": [],
+  "neighbours": null
+ },
+ {
   "name": "Ardent Ocean",
   "page": "Ardent Ocean",
   "isMembers": true,
@@ -3098,6 +3123,29 @@
     "mtype": "rectangle"
    }
   ],
+  "neighbours": null
+ },
+ {
+  "name": "Auchrie",
+  "page": "Auchrie",
+  "isMembers": true,
+  "type": "Settlement",
+  "location": "Wyrmscraig",
+  "teleport": null,
+  "music": null,
+  "race": null,
+  "floors": null,
+  "requirement": null,
+  "wildernessLevels": null,
+  "capital": null,
+  "bankTellers": null,
+  "hasDepositBox": false,
+  "hasPollBooth": false,
+  "removal": null,
+  "leagueRegion": null,
+  "aka": [],
+  "image": "Auchrie.png",
+  "spawns": [],
   "neighbours": null
  },
  {
@@ -39543,6 +39591,29 @@
    "east": "Last Light",
    "west": "Rainbow's End"
   }
+ },
+ {
+  "name": "Wyrmscraig Cavern",
+  "page": "Wyrmscraig Cavern",
+  "isMembers": true,
+  "type": "Dungeon",
+  "location": "Wyrmscraig",
+  "teleport": null,
+  "music": "Lurking Threats",
+  "race": null,
+  "floors": null,
+  "requirement": "Fallen From Grace",
+  "wildernessLevels": null,
+  "capital": null,
+  "bankTellers": null,
+  "hasDepositBox": false,
+  "hasPollBooth": false,
+  "removal": null,
+  "leagueRegion": "No",
+  "aka": [],
+  "image": "Wyrmscraig Cavern.png",
+  "spawns": [],
+  "neighbours": null
  },
  {
   "name": "Wyvern Cave",

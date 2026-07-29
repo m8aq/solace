@@ -3709,8 +3709,8 @@
   "release": "15 May 2007"
  },
  {
-  "name": "NPC Contact",
-  "page": "NPC Contact",
+  "name": "Astral Contact",
+  "page": "Astral Contact",
   "isMembers": true,
   "level": 67,
   "spellbook": "Lunar",
@@ -3743,7 +3743,7 @@
     "id": 556
    }
   ],
-  "image": "NPC Contact.png",
+  "image": "Astral Contact.png",
   "release": "24 July 2006"
  },
  {
@@ -6822,7 +6822,7 @@
    {
     "rune": "Orb",
     "quantity": 1,
-    "id": 6821
+    "id": 6902
    }
   ],
   "image": "Charge Water Orb.png",
@@ -7078,7 +7078,7 @@
    {
     "rune": "Orb",
     "quantity": 1,
-    "id": 6821
+    "id": 6902
    }
   ],
   "image": "Charge Earth Orb.png",
@@ -7296,7 +7296,7 @@
    {
     "rune": "Orb",
     "quantity": 1,
-    "id": 6821
+    "id": 6902
    }
   ],
   "image": "Charge Fire Orb.png",
@@ -7415,7 +7415,7 @@
    {
     "rune": "Orb",
     "quantity": 1,
-    "id": 6821
+    "id": 6902
    }
   ],
   "image": "Charge Air Orb.png",

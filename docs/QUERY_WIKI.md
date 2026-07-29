@@ -272,8 +272,16 @@ bucket("dropsline")
 
 Through `action=bucket&query=...`. `.join()`, `.where()`, `.orderBy()`,
 `.offset()` and `.limit()` all work; there is no `groupBy` or `count`, so
-aggregation stays client-side. `tools/build_osrs_bucket.py` builds every
-dataset this way in about nine seconds.
+aggregation stays client-side. `tools/build_osrs_bucket.py` builds thirteen
+datasets this way in about twenty seconds.
+
+Tables worth knowing beyond the infoboxes: `dropsline` and `drop_table_sources`
+(what drops what, and the shared tables), `storeline` (shop stock and prices),
+`locline` and `map` (coordinates, the same points in two shapes),
+`infobox_bonuses` (equipment slot, attack speed and range), `varbit` (the
+wiki's varbit and varp documentation), `collection_log_source` (drop rates),
+`combat_achievement`, `money_making_guide`, and `item_id`/`npc_id`/`object_id`
+(page-to-id mappings, an independent check on the infobox ids).
 
 Bucket holds fields, not prose. `quest.description` is a blurb and
 `transcript` lists only which npcs appear — the dialogue itself is page text,
@@ -294,38 +302,27 @@ which is what everything above is for.
 
 ## When not to use this at all
 
-`data/wiki/all-*.json` holds joined and derived data — 16,251 items, 4,117
-monsters, 22,296 scenery, 5,619 recipes, with drops keyed by item id, spawns
-carrying coordinates, and scenery matched against the game cache.
+`data/wiki/` holds 27 datasets built from the wiki's structured store and the
+game cache — around 190,000 records. Rebuild the lot with
+`python3 tools/refresh.py`; the schema of every one is in
+[KEYS.md](KEYS.md).
 
-Use it for anything **reverse or aggregated**, which the wiki genuinely cannot
+Use them for anything **reverse or aggregated**, which a page query cannot
 answer:
 
-- *What drops Dragon bones?* — 36 monsters, 5 ms locally. Live, this means
-  fetching and parsing all 4,117 monster pages, because there is no index from
-  an item back to its droppers.
-- *Which shops sell X? What can I make from Y? How does an ironman get Z?*
+- *What drops Dragon bones?* — the wiki has no index from an item back to its
+  droppers, so live that means reading every monster page. `all-monsters.json`
+  answers it in milliseconds, and `all-collection-log.json` carries the rates.
+- *Which shops sell X? What can I make from Y? Which monsters roll the herb
+  table? What are this weapon's bonuses and attack speed?*
 
-The wiki runs neither Cargo nor Semantic MediaWiki, so there is no structured
-query endpoint. Forward questions — *what are this monster's stats* — the wiki
-answers well. Inverted ones only the local datasets answer.
+And for everything the cache knows that has no wiki page at all — varbits,
+varps, animations, interface components, sprites, sounds. That is the one
+source no query here can reach.
 
-It is a snapshot, so check anything time-sensitive against the live wiki.
+Two caveats. The datasets are a snapshot, so check anything time-sensitive
+against the live wiki. And `all-collection-log.json` is transcribed from four
+user sandbox pages (`User:Crocs/Collection log source/1-4`) rather than
+mainspace — one editor maintains it, which is worth knowing before trusting a
+rate.
 
-Join the datasets with `osrs_wiki.join_by_id`, which drops ids whose two sides
-disagree rather than picking one:
-
-```python
-from osrs_wiki import load_dataset, join_by_id
-joined, dropped = join_by_id(load_dataset("data/wiki/all-monsters.json"),
-                             load_dataset("data/wiki/all-npcs.json"))
-```
-
-Six ids disagree today. Id 108 is `whitewolf` in the game cache, so the
-monster page is right and an npc page claimed it wrongly; 5643–5646 are the
-Temple Trekking swamp creature, documented as one npc page and several monster
-pages for its parts. Either way the id names two things, and a plain dict join
-answers with whichever was indexed last.
-
-Worth knowing that the two datasets share only 8 ids out of 4,117 monsters and
-8,628 npcs — they are near-disjoint, so this join is narrow by nature.

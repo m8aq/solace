@@ -12519,7 +12519,7 @@
    "Bronze med helm",
    "Iron chainbody",
    "Sapphire lantern",
-   "Runes to cast the NPC Contact spell four times (8 air runes, 4 astral rune, 4 cosmic rune)",
+   "Runes to cast the Astral Contact spell four times (8 air runes, 4 astral rune, 4 cosmic rune)",
    "Runes for any charge orb spell (30 runes of a chosen element and 3 cosmic runes)",
    "Equipment for two different combat styles",
    "Runes for the following spells: multiple casts of all four elemental spells, Snare/Entangle, Weaken/Enfeeble, Telekinetic Grab, and Low/High Level Alchemy; (Air, Water, Earth, Fire, Body/Soul, Nature, Law, and the highest of Mind/Chaos/Death/Blood/Wrath that you can use to cast all four elemental spells)",
@@ -13659,8 +13659,8 @@
   "series": null,
   "difficulty": "Experienced",
   "length": "Short",
-  "questPoints": null,
-  "start": null,
+  "questPoints": 2,
+  "start": "Wyrmscraig",
   "startCoords": null,
   "description": null,
   "ironmanNote": null,
@@ -13686,10 +13686,93 @@
    "Completion of the following quests:",
    "Pandemonium"
   ],
-  "itemsRequired": [],
+  "itemsRequired": [
+   "A raft or skiff",
+   "A pickaxe (obtainable during the quest)",
+   "Chisel (obtainable during the quest)",
+   "Hammer (obtainable during the quest)"
+  ],
+  "itemsRecommended": [
+   "A saw, 32 mithril nails, 8 mahogany planks and 2 lead bars (obtainable during quest with 25 mining) for building the bank after quest."
+  ],
+  "enemiesToDefeat": [
+   "3 mountain trolls (level 69)",
+   "Mad Angel (level 270)"
+  ],
+  "experienceRewards": [
+   {
+    "skill": "Crafting",
+    "experience": 10000
+   },
+   {
+    "skill": "Sailing",
+    "experience": 12500
+   },
+   {
+    "skill": "Mining",
+    "experience": 5000
+   },
+   {
+    "skill": "Runecraft",
+    "experience": 5000
+   }
+  ],
+  "rewardsText": [
+   "experience",
+   "experience",
+   "experience",
+   "experience",
+   "Access to New Slayer Master Mortimer (partial completion - gained access to its caverns)",
+   "Access to The Mad Angel, a repeatable boss",
+   "Access to Golem crafting",
+   "Ability to teleport to Wyrmscraig with the necklace of passage"
+  ],
+  "release": "29 July 2026"
+ },
+ {
+  "name": "Fallen From Grace",
+  "page": "Fallen From Grace/Quick guide",
+  "number": 181,
+  "isMembers": true,
+  "series": null,
+  "difficulty": "Experienced",
+  "length": "Short",
+  "questPoints": 2,
+  "start": "Wyrmscraig",
+  "startCoords": null,
+  "description": null,
+  "ironmanNote": null,
+  "skillRequirements": [
+   {
+    "skill": "Sailing",
+    "level": 62
+   },
+   {
+    "skill": "Crafting",
+    "level": 60
+   },
+   {
+    "skill": "Runecraft",
+    "level": 47
+   },
+   {
+    "skill": "Mining",
+    "level": 53
+   }
+  ],
+  "requirementsText": [
+   "Completion of the following quests:",
+   "Pandemonium"
+  ],
+  "itemsRequired": [
+   "A raft or skiff",
+   "Pickaxe (Bronze pickaxe available from tent during quest.)",
+   "Chisel (Available from tent during quest.)"
+  ],
   "itemsRecommended": [],
   "enemiesToDefeat": [
-   "The Mad Angel (level unknown)"
+   "3 Level 69 Mountain trolls",
+   "The Mad Angel (level 270)"
   ],
   "experienceRewards": [
    {

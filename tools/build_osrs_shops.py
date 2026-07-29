@@ -161,6 +161,11 @@ def npc_index(npcs):
     """Lookups from NPC name and page title to the full records behind them."""
     by_name, by_page = {}, {}
     for n in npcs:
+        # infobox_npc has rows for pages that are not npcs and carry no name;
+        # the wikitext builder never emitted those, so this only appeared once
+        # a Bucket-built all-npcs.json was fed back in
+        if not n.get("name"):
+            continue
         by_name.setdefault(n["name"].lower(), []).append(n)
         by_page.setdefault(n["page"].lower(), []).append(n)
     return by_name, by_page
